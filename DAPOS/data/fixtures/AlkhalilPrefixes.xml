@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="1" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled"></field>
+        <field type="CharField" name="voweled"></field>
+        <field type="TextField" name="description">لا سابقة</field>
+        <field type="CharField" name="type">C1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="2" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">و</field>
+        <field type="CharField" name="voweled">وَ</field>
+        <field type="TextField" name="description">حرف العطف</field>
+        <field type="CharField" name="type">C1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="3" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ف</field>
+        <field type="CharField" name="voweled">فَ</field>
+        <field type="TextField" name="description">حرف العطف أو الاستئناف</field>
+        <field type="CharField" name="type">C1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="4" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أ</field>
+        <field type="CharField" name="voweled">أَ</field>
+        <field type="TextField" name="description">همزة الاستفهام</field>
+        <field type="CharField" name="type">C2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="5" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أو</field>
+        <field type="CharField" name="voweled">أَوَ</field>
+        <field type="TextField" name="description">همزة الاستفهام</field>
+        <field type="CharField" name="type">C2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="6" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أف</field>
+        <field type="CharField" name="voweled">أَفَ</field>
+        <field type="TextField" name="description">همزة الاستفهام</field>
+        <field type="CharField" name="type">C2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="7" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ل</field>
+        <field type="CharField" name="voweled">لَ</field>
+        <field type="TextField" name="description">حرف الابتداء</field>
+        <field type="CharField" name="type">C3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="8" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ول</field>
+        <field type="CharField" name="voweled">وَلَ</field>
+        <field type="TextField" name="description">حرف العطف + حرف الابتداء</field>
+        <field type="CharField" name="type">C3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="9" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فل</field>
+        <field type="CharField" name="voweled">فَلَ</field>
+        <field type="TextField" name="description">حرف العطف + حرف الابتداء</field>
+        <field type="CharField" name="type">C3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="10" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ال</field>
+        <field type="CharField" name="voweled">ال</field>
+        <field type="TextField" name="description">التعريف</field>
+        <field type="CharField" name="type">N1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="11" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">وال</field>
+        <field type="CharField" name="voweled">وَال</field>
+        <field type="TextField" name="description">حرف العطف + ال التعريف</field>
+        <field type="CharField" name="type">N1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="12" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فال</field>
+        <field type="CharField" name="voweled">فَال</field>
+        <field type="TextField" name="description">حرف العطف + ال التعريف</field>
+        <field type="CharField" name="type">N1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="13" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أال</field>
+        <field type="CharField" name="voweled">أَال</field>
+        <field type="TextField" name="description">همزة الاستفهام + ال التعريف</field>
+        <field type="CharField" name="type">N2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="14" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أوال</field>
+        <field type="CharField" name="voweled">أَوَال</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف العطف + ال التعريف</field>
+        <field type="CharField" name="type">N2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="15" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أفال</field>
+        <field type="CharField" name="voweled">أَفَال</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف العطف + ال التعريف</field>
+        <field type="CharField" name="type">N2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="16" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">لل</field>
+        <field type="CharField" name="voweled">لَل</field>
+        <field type="TextField" name="description">لام التوكيد + ال التعريف</field>
+        <field type="CharField" name="type">N3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="17" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ولل</field>
+        <field type="CharField" name="voweled">وَلَل</field>
+        <field type="TextField" name="description">حرف العطف + لام التوكيد + ال التعريف</field>
+        <field type="CharField" name="type">N3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="18" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فلل</field>
+        <field type="CharField" name="voweled">فَلَل</field>
+        <field type="TextField" name="description">حرف العطف + لام التوكيد + ال التعريف</field>
+        <field type="CharField" name="type">N3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="19" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ب</field>
+        <field type="CharField" name="voweled">بِ</field>
+        <field type="TextField" name="description">حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="20" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">وب</field>
+        <field type="CharField" name="voweled">وَبِ</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="21" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فب</field>
+        <field type="CharField" name="voweled">فَبِ</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="22" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أب</field>
+        <field type="CharField" name="voweled">أَبِ</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="23" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">لب</field>
+        <field type="CharField" name="voweled">لَبِ</field>
+        <field type="TextField" name="description">لام التوكيد + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="24" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ل</field>
+        <field type="CharField" name="voweled">لِ</field>
+        <field type="TextField" name="description">حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="25" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ول</field>
+        <field type="CharField" name="voweled">وَلِ</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="26" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فل</field>
+        <field type="CharField" name="voweled">فَلِ</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="27" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أل</field>
+        <field type="CharField" name="voweled">أَلِ</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="28" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ك</field>
+        <field type="CharField" name="voweled">كَ</field>
+        <field type="TextField" name="description">حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="29" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">وك</field>
+        <field type="CharField" name="voweled">وَكَ</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="30" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فك</field>
+        <field type="CharField" name="voweled">فَكَ</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="31" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أك</field>
+        <field type="CharField" name="voweled">أَكَ</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="32" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">لك</field>
+        <field type="CharField" name="voweled">لَكَ</field>
+        <field type="TextField" name="description">لام التوكيد + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="33" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">و</field>
+        <field type="CharField" name="voweled">وَ</field>
+        <field type="TextField" name="description">حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="34" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فو</field>
+        <field type="CharField" name="voweled">فَوَ</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر</field>
+        <field type="CharField" name="type">N4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="35" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">بال</field>
+        <field type="CharField" name="voweled">بِال</field>
+        <field type="TextField" name="description">حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="36" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">وبال</field>
+        <field type="CharField" name="voweled">وَبِال</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="37" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فبال</field>
+        <field type="CharField" name="voweled">فَبِال</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="38" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أبال</field>
+        <field type="CharField" name="voweled">أَبِال</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="39" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">لبال</field>
+        <field type="CharField" name="voweled">لَبِال</field>
+        <field type="TextField" name="description">لام التوكيد + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="40" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أوبال</field>
+        <field type="CharField" name="voweled">أَوَبِال</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف العطف + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="41" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أفبال</field>
+        <field type="CharField" name="voweled">أَفَبِال</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف العطف + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="42" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">لل</field>
+        <field type="CharField" name="voweled">لِل</field>
+        <field type="TextField" name="description">حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="43" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ولل</field>
+        <field type="CharField" name="voweled">ولِل</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="44" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فلل</field>
+        <field type="CharField" name="voweled">فَلِل</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="45" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أولل</field>
+        <field type="CharField" name="voweled">أَولِل</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف العطف + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="46" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أفلل</field>
+        <field type="CharField" name="voweled">أَفَلِل</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف العطف + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="47" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">كال</field>
+        <field type="CharField" name="voweled">كَال</field>
+        <field type="TextField" name="description">حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="48" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">وكال</field>
+        <field type="CharField" name="voweled">وَكَال</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="49" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فكال</field>
+        <field type="CharField" name="voweled">فَكَال</field>
+        <field type="TextField" name="description">حرف العطف + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="50" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أكال</field>
+        <field type="CharField" name="voweled">أَكَال</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="51" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">لكال</field>
+        <field type="CharField" name="voweled">لَكَال</field>
+        <field type="TextField" name="description">لام التوكيد + حرف الجر + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="52" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أوكال</field>
+        <field type="CharField" name="voweled">أَوَكَال</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف العطف + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="53" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أفكال</field>
+        <field type="CharField" name="voweled">أَفَكَال</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف العطف + ال التعريف</field>
+        <field type="CharField" name="type">N5</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="54" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">س</field>
+        <field type="CharField" name="voweled">سَ</field>
+        <field type="TextField" name="description">سين المستقبل القريب</field>
+        <field type="CharField" name="type">V1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="55" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">وس</field>
+        <field type="CharField" name="voweled">وَسَ</field>
+        <field type="TextField" name="description">حرف العطف + سين المستقبل القريب</field>
+        <field type="CharField" name="type">V1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="56" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فس</field>
+        <field type="CharField" name="voweled">فَسَ</field>
+        <field type="TextField" name="description">حرف العطف + سين المستقبل القريب</field>
+        <field type="CharField" name="type">V1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="57" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أس</field>
+        <field type="CharField" name="voweled">أَسَ</field>
+        <field type="TextField" name="description">همزة الاستفهام + سين المستقبل القريب</field>
+        <field type="CharField" name="type">V1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="58" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أوس</field>
+        <field type="CharField" name="voweled">أَوَسَ</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف العطف + سين المستقبل القريب</field>
+        <field type="CharField" name="type">V1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="59" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">أفس</field>
+        <field type="CharField" name="voweled">أَفَسَ</field>
+        <field type="TextField" name="description">همزة الاستفهام + حرف العطف + سين المستقبل القريب</field>
+        <field type="CharField" name="type">V1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="60" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ل</field>
+        <field type="CharField" name="voweled">لِ</field>
+        <field type="TextField" name="description">حرف النصب</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="61" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ول</field>
+        <field type="CharField" name="voweled">وَلِ</field>
+        <field type="TextField" name="description">حرف العطف + حرف النصب</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="62" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فل</field>
+        <field type="CharField" name="voweled">فَلِ</field>
+        <field type="TextField" name="description">حرف العطف + حرف النصب</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="63" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ل</field>
+        <field type="CharField" name="voweled">لِ</field>
+        <field type="TextField" name="description">لام الأمر</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="64" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">ول</field>
+        <field type="CharField" name="voweled">وَلْ</field>
+        <field type="TextField" name="description">حرف العطف + لام الأمر</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="65" model="data.alkhalilprefix">
+        <field type="CharField" name="unvoweled">فل</field>
+        <field type="CharField" name="voweled">فَلْ</field>
+        <field type="TextField" name="description">حرف العطف + لام الأمر</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+
+</django-objects>

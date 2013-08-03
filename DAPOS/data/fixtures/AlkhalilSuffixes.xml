@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="1" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled"></field>
+        <field type="CharField" name="voweled"></field>
+        <field type="TextField" name="description">لا لاحقة</field>
+        <field type="CharField" name="type">C2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="2" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ك</field>
+        <field type="CharField" name="voweled">كَ</field>
+        <field type="TextField" name="description">ضمير المخاطب</field>
+        <field type="CharField" name="type">C2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="3" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ك</field>
+        <field type="CharField" name="voweled">كِ</field>
+        <field type="TextField" name="description">ضمير المخاطب</field>
+        <field type="CharField" name="type">C2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="4" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كما</field>
+        <field type="CharField" name="voweled">كُمَا</field>
+        <field type="TextField" name="description">ضمير المخاطبين</field>
+        <field type="CharField" name="type">C2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="5" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كم</field>
+        <field type="CharField" name="voweled">كُمْ</field>
+        <field type="TextField" name="description">ضمير المخاطبين</field>
+        <field type="CharField" name="type">C2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="6" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كن</field>
+        <field type="CharField" name="voweled">كُنَّ</field>
+        <field type="TextField" name="description">ضمير المخاطبات</field>
+        <field type="CharField" name="type">C2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="7" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ه</field>
+        <field type="CharField" name="voweled">ه</field>
+        <field type="TextField" name="description">ضمير الغائب</field>
+        <field type="CharField" name="type">C3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="8" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ها</field>
+        <field type="CharField" name="voweled">هَا</field>
+        <field type="TextField" name="description">ضمير الغائبة</field>
+        <field type="CharField" name="type">C3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="9" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">هما</field>
+        <field type="CharField" name="voweled">همَا</field>
+        <field type="TextField" name="description">ضمير الغائبين</field>
+        <field type="CharField" name="type">C3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="10" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">هم</field>
+        <field type="CharField" name="voweled">همْ</field>
+        <field type="TextField" name="description">ضمير الغائبين</field>
+        <field type="CharField" name="type">C3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="11" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">هن</field>
+        <field type="CharField" name="voweled">هنَّ</field>
+        <field type="TextField" name="description">ضمير الغائبات</field>
+        <field type="CharField" name="type">C3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="12" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ني</field>
+        <field type="CharField" name="voweled">نِي</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم</field>
+        <field type="CharField" name="type">V1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="13" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">نيه</field>
+        <field type="CharField" name="voweled">نِيهِ</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم+ضمير الغائب</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="14" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">نيها</field>
+        <field type="CharField" name="voweled">نِيهَا</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم+ضمير الغائبة</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="15" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">نيهما</field>
+        <field type="CharField" name="voweled">نِيهِمَا</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم+ضمير الغائبين</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="16" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">نيهم</field>
+        <field type="CharField" name="voweled">نِيهِمْ</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم+ضمير الغائبين</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="17" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">نيهن</field>
+        <field type="CharField" name="voweled">نِيهِنَّ</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم+ضمير الغائبات</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="18" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">نا</field>
+        <field type="CharField" name="voweled">نَا</field>
+        <field type="TextField" name="description">ضمير المتكلمين</field>
+        <field type="CharField" name="type">C3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="19" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ناه</field>
+        <field type="CharField" name="voweled">نَاهُ</field>
+        <field type="TextField" name="description">ضمير المتكلمين+ضمير الغائب</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="20" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ناها</field>
+        <field type="CharField" name="voweled">نَاهَا</field>
+        <field type="TextField" name="description">ضمير المتكلمين+ضمير الغائبة</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="21" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ناهما</field>
+        <field type="CharField" name="voweled">نَاهُمَا</field>
+        <field type="TextField" name="description">ضمير المتكلمين+ضمير الغائبين</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="22" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ناهم</field>
+        <field type="CharField" name="voweled">نَاهُمْ</field>
+        <field type="TextField" name="description">ضمير المتكلمين+ضمير الغائبين</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="23" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ناهن</field>
+        <field type="CharField" name="voweled">نَاهُنَّ</field>
+        <field type="TextField" name="description">ضمير المتكلمين+ضمير الغائبات</field>
+        <field type="CharField" name="type">V2</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="24" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كه</field>
+        <field type="CharField" name="voweled">كَهُ</field>
+        <field type="TextField" name="description">ضمير المخاطب+ضمير الغائب</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="25" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كها</field>
+        <field type="CharField" name="voweled">كَهَا</field>
+        <field type="TextField" name="description">ضمير المخاطب+ضمير الغائبة</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="26" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كهما</field>
+        <field type="CharField" name="voweled">كَهُمَا</field>
+        <field type="TextField" name="description">ضمير المخاطب+ضمير الغائبين</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="27" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كهم</field>
+        <field type="CharField" name="voweled">كَهُمْ</field>
+        <field type="TextField" name="description">ضمير المخاطب+ضمير الغائبين</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="28" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كهن</field>
+        <field type="CharField" name="voweled">كَهُنَّ</field>
+        <field type="TextField" name="description">ضمير المخاطب+ضمير الغائبات</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="29" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كه</field>
+        <field type="CharField" name="voweled">كِهُ</field>
+        <field type="TextField" name="description">ضمير المخاطبة+ضمير الغائب</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="30" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كها</field>
+        <field type="CharField" name="voweled">كِهَا</field>
+        <field type="TextField" name="description">ضمير المخاطبة+ضمير الغائبة</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="31" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كهما</field>
+        <field type="CharField" name="voweled">كِهُمَا</field>
+        <field type="TextField" name="description">ضمير المخاطبة+ضمير الغائبين</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="32" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كهم</field>
+        <field type="CharField" name="voweled">كِهُمْ</field>
+        <field type="TextField" name="description">ضمير المخاطبة+ضمير الغائبين</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="33" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كهن</field>
+        <field type="CharField" name="voweled">كِهُنَّ</field>
+        <field type="TextField" name="description">ضمير المخاطبة+ضمير الغائبات</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="34" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كماه</field>
+        <field type="CharField" name="voweled">كُمَاهُ</field>
+        <field type="TextField" name="description">ضمير المخاطبين+ضمير الغائب</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="35" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كماها</field>
+        <field type="CharField" name="voweled">كُمَاهَا</field>
+        <field type="TextField" name="description">ضمير المخاطبين+ضمير الغائبة</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="36" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كماهما</field>
+        <field type="CharField" name="voweled">كُمَاهُمَا</field>
+        <field type="TextField" name="description">ضمير المخاطبين+ضمير الغائبين</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="37" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كماهم</field>
+        <field type="CharField" name="voweled">كُمَاهُمْ</field>
+        <field type="TextField" name="description">ضمير المخاطبين+ضمير الغائبين</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="38" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كماهن</field>
+        <field type="CharField" name="voweled">كُمَاهُنَّ</field>
+        <field type="TextField" name="description">ضمير المخاطبين+ضمير الغائبات</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="39" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كموه</field>
+        <field type="CharField" name="voweled">كُمُوهُ</field>
+        <field type="TextField" name="description">ضمير المخاطبين+ضمير الغائب</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="40" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كموها</field>
+        <field type="CharField" name="voweled">كُمُوهَا</field>
+        <field type="TextField" name="description">ضمير المخاطبين+ضمير الغائبة</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="41" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كموهما</field>
+        <field type="CharField" name="voweled">كُمُوهُمَا</field>
+        <field type="TextField" name="description">ضمير المخاطبين+ضمير الغائبين</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="42" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كموهم</field>
+        <field type="CharField" name="voweled">كُمُوهُمْ</field>
+        <field type="TextField" name="description">ضمير المخاطبين+ضمير الغائبين</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="43" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كموهن</field>
+        <field type="CharField" name="voweled">كُمُوهُنَّ</field>
+        <field type="TextField" name="description">ضمير المخاطبين+ضمير الغائبات</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="44" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كنه</field>
+        <field type="CharField" name="voweled">كُنَّهُ</field>
+        <field type="TextField" name="description">ضمير المخاطبات+ضمير الغائب</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="45" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كنها</field>
+        <field type="CharField" name="voweled">كُنَّهَا</field>
+        <field type="TextField" name="description">ضمير المخاطبات+ضمير الغائبة</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="46" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كنهما</field>
+        <field type="CharField" name="voweled">كُنَّهُمَا</field>
+        <field type="TextField" name="description">ضمير المخاطبات+ضمير الغائبين</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="47" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كنهم</field>
+        <field type="CharField" name="voweled">كُنَّهُمْ</field>
+        <field type="TextField" name="description">ضمير المخاطبات+ضمير الغائبين</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="48" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">كنهن</field>
+        <field type="CharField" name="voweled">كُنَّهُنَّ</field>
+        <field type="TextField" name="description">ضمير المخاطبات+ضمير الغائبات</field>
+        <field type="CharField" name="type">V3</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="49" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وني</field>
+        <field type="CharField" name="voweled">ونِي</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="50" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ونيه</field>
+        <field type="CharField" name="voweled">ونِيهِ</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم+ضمير الغائب</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="51" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ونيها</field>
+        <field type="CharField" name="voweled">ونِيهَا</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم+ضمير الغائبة</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="52" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ونيهما</field>
+        <field type="CharField" name="voweled">ونِيهِمَا</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم+ضمير الغائبين</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="53" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ونيهم</field>
+        <field type="CharField" name="voweled">ونِيهِمْ</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم+ضمير الغائبين</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="54" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ونيهن</field>
+        <field type="CharField" name="voweled">ونِيهِنَّ</field>
+        <field type="TextField" name="description">نون الوقاية+ياء المتكلم+ضمير الغائبات</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="55" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ونا</field>
+        <field type="CharField" name="voweled">ونَا</field>
+        <field type="TextField" name="description">ضمير المتكلمين</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="56" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وناه</field>
+        <field type="CharField" name="voweled">ونَاهُ</field>
+        <field type="TextField" name="description">ضمير المتكلمين+ضمير الغائب</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="57" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وناها</field>
+        <field type="CharField" name="voweled">ونَاهَا</field>
+        <field type="TextField" name="description">ضمير المتكلمين+ضمير الغائبة</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="58" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وناهما</field>
+        <field type="CharField" name="voweled">ونَاهُمَا</field>
+        <field type="TextField" name="description">ضمير المتكلمين+ضمير الغائبين</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="59" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وناهم</field>
+        <field type="CharField" name="voweled">ونَاهُمْ</field>
+        <field type="TextField" name="description">ضمير المتكلمين+ضمير الغائبين</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="60" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وناهن</field>
+        <field type="CharField" name="voweled">ونَاهُنَّ</field>
+        <field type="TextField" name="description">ضمير المتكلمين+ضمير الغائبات</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="61" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وه</field>
+        <field type="CharField" name="voweled">وهُ</field>
+        <field type="TextField" name="description">ضمير الغائب</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="62" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وها</field>
+        <field type="CharField" name="voweled">وهَا</field>
+        <field type="TextField" name="description">ضمير الغائبة</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="63" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وهما</field>
+        <field type="CharField" name="voweled">وهُمَا</field>
+        <field type="TextField" name="description">ضمير الغائبين</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="64" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وهم</field>
+        <field type="CharField" name="voweled">وهُمْ</field>
+        <field type="TextField" name="description">ضمير الغائبين</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="65" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">وهن</field>
+        <field type="CharField" name="voweled">وهُنَّ</field>
+        <field type="TextField" name="description">ضمير الغائبات</field>
+        <field type="CharField" name="type">V4</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+    <object pk="66" model="data.alkhalilsuffix">
+        <field type="CharField" name="unvoweled">ي</field>
+        <field type="CharField" name="voweled">ي</field>
+        <field type="TextField" name="description">ضمير المتكلم</field>
+        <field type="CharField" name="type">N1</field>
+        <field type="TextField" name="pattern"></field>
+    </object>
+
+</django-objects>

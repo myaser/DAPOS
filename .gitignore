@@ -42,3 +42,6 @@ nosetests.xml
 # eclipse
 .project
 .pydevproject
+
+#sqlite3
+*.db
