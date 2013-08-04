@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="130699" model="data.tweets">
+        <field type="CharField" name="user_id">ghadasha</field>
+        <field type="CharField" name="username">Ghada Shahbender</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">“@mohamed_wasfy: @NoorNoor1 @ONtveg من غير يسري فودة و ريم ماجد اون تيفي زي الفراعين” صحيح للأسف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ghadasha/status/358349534948110336</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@NoorNoor1&quot;, &quot;@ONtveg&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130700" model="data.tweets">
+        <field type="CharField" name="user_id">nazlyhussein</field>
+        <field type="CharField" name="username">نازلي حسين</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">اشخري يا ثورة!!!! “@NoorNoor1: فيلم تسجيلي عن عمر سليمان على الفضائية المصرية!؟!” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nazlyhussein/status/358330841102954496</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130701" model="data.tweets">
+        <field type="CharField" name="user_id">ghadasha</field>
+        <field type="CharField" name="username">Ghada Shahbender</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@osamaebada @mohamed_wasfy @NoorNoor1 @ONtveg ليليان رائعة فعلا .. سقطت سهوا و اعتذر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ghadasha/status/358351597048307712</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@osamaebada&quot;, &quot;@mohamed_wasfy&quot;, &quot;@NoorNoor1&quot;, &quot;@ONtveg&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130702" model="data.tweets">
+        <field type="CharField" name="user_id">noornoor1</field>
+        <field type="CharField" name="username">Noor نور</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">أغنية تعبر عن شعور ناس كتير: Radiohead - How to disappear completely |   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/noornoor1/status/358393508199014402</field>
+        <field type="DateField" name="posting_date">2013-07-20</field>
+        <field type="IntegerField" name="retweets">2321</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/sdhwo51xZC&quot;]</field>
+    </object>
+
+    <object pk="130703" model="data.tweets">
+        <field type="CharField" name="user_id">masryaaaa</field>
+        <field type="CharField" name="username">Eman Bisheer</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ولا انا “@NoorNoor1: مـش لاعب :)” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/masryaaaa/status/358354786690662401</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130704" model="data.tweets">
+        <field type="CharField" name="user_id">sarahngb</field>
+        <field type="CharField" name="username">Sarahngb</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@SalmaNegm12 @nazlyhussein @NoorNoor1  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarahngb/status/358335452798914560</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@SalmaNegm12&quot;, &quot;@nazlyhussein&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/SF4YuExNxl&quot;]</field>
+    </object>
+
+    <object pk="130705" model="data.tweets">
+        <field type="CharField" name="user_id">gagarine_</field>
+        <field type="CharField" name="username">yassin</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MhmD_3Li @nazlyhussein @NoorNoor1  رجال المخابرات  ( حربى . عام ) بيصيتوا لبعض .. بكرا نلاقى وسام بأسمه أو ميدان . أنا بقول ننزل بمسلسل عنه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/gagarine_/status/358340896497999872</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MhmD_3Li&quot;, &quot;@nazlyhussein&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130706" model="data.tweets">
+        <field type="CharField" name="user_id">sarahngb</field>
+        <field type="CharField" name="username">Sarahngb</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@SalmaNegm12 @nazlyhussein @NoorNoor1  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarahngb/status/358335545170079745</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">48</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@SalmaNegm12&quot;, &quot;@nazlyhussein&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/uaTuW0thHX&quot;]</field>
+    </object>
+
+    <object pk="130707" model="data.tweets">
+        <field type="CharField" name="user_id">sarahngb</field>
+        <field type="CharField" name="username">Sarahngb</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@SalmaNegm12 @nazlyhussein @NoorNoor1  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarahngb/status/358335423338131456</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">36</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@SalmaNegm12&quot;, &quot;@nazlyhussein&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/iHSVXSVEZq&quot;]</field>
+    </object>
+
+    <object pk="130708" model="data.tweets">
+        <field type="CharField" name="user_id">noornoor1</field>
+        <field type="CharField" name="username">Noor نور</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@MosheraAhmed @h_elmahdawy  هافكرك يا مشيرة إنك شاركتي في نشر الرابط ده عن تاريخ عمر سليمان. ده كان ٢٧ فبراير ٢٠١٢:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/noornoor1/status/358343267093458944</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">1918</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MosheraAhmed&quot;, &quot;@h_elmahdawy&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/kt38lnLnTZ&quot;]</field>
+    </object>
+
+    <object pk="130709" model="data.tweets">
+        <field type="CharField" name="user_id">ahmedmagdy470</field>
+        <field type="CharField" name="username">Ahmed Magdy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nazlyhussein @NoorNoor1  مش فاهم ماله عمر سليمان . كان رجل مخابرات قوي و كان شايل من علينا القرف اللي احنا فيه . </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmedmagdy470/status/358333410520993794</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nazlyhussein&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130710" model="data.tweets">
+        <field type="CharField" name="user_id">noornoor1</field>
+        <field type="CharField" name="username">Noor نور</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">مـش لاعب :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/noornoor1/status/358352213988474884</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130711" model="data.tweets">
+        <field type="CharField" name="user_id">h_elmahdawy</field>
+        <field type="CharField" name="username">Hadeer Elmahdawy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MosheraAhmed @NoorNoor1 عمر سليمان من ابطال مصر؟؟؟؟!!! مالك يا مشيرة؟! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/h_elmahdawy/status/358334316029288448</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MosheraAhmed&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130712" model="data.tweets">
+        <field type="CharField" name="user_id">salmanegm12</field>
+        <field type="CharField" name="username">سلمى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nazlyhussein @Sarahngb @NoorNoor1 يلعن ابو اللى رابكم ..صحيح هو مين هايلمكم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/salmanegm12/status/358333124620451842</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nazlyhussein&quot;, &quot;@Sarahngb&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130713" model="data.tweets">
+        <field type="CharField" name="user_id">salmanegm12</field>
+        <field type="CharField" name="username">سلمى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nazlyhussein @Sarahngb @NoorNoor1 وانتو ياشوية عيال بتتكلمو عنهم وبتتصححولهم كانكم ملايكة من السما مابتغلطوش </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/salmanegm12/status/358332794889453568</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nazlyhussein&quot;, &quot;@Sarahngb&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130714" model="data.tweets">
+        <field type="CharField" name="user_id">salmanegm12</field>
+        <field type="CharField" name="username">سلمى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nazlyhussein @Sarahngb @NoorNoor1 انتو بتتكلمو عن  ناس لها تاريخ طويل  من النضال والحروب .زغلطو اه بس ماينفعش ننسى انجازتهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/salmanegm12/status/358332640392253442</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nazlyhussein&quot;, &quot;@Sarahngb&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130715" model="data.tweets">
+        <field type="CharField" name="user_id">amanielnadi1</field>
+        <field type="CharField" name="username">amani</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nazlyhussein @NoorNoor1 اتفوا عليكم ده انتو اوسخ من الاخوان ربنا يخلاصنا منكم انتو كمانالمصيبة انكم فاكرين نفسكم نضاف وانتو زبالة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amanielnadi1/status/358332781228601346</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nazlyhussein&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130716" model="data.tweets">
+        <field type="CharField" name="user_id">salmanegm12</field>
+        <field type="CharField" name="username">سلمى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nazlyhussein @Sarahngb @NoorNoor1 ولا شهرتكم ومشاركتكم فى ثورة شعب كامل مش ثورتكم لوحكم تخليكو تشتمو فى الناس براحتكم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/salmanegm12/status/358333000448098304</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nazlyhussein&quot;, &quot;@Sarahngb&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130717" model="data.tweets">
+        <field type="CharField" name="user_id">salmanegm12</field>
+        <field type="CharField" name="username">سلمى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nazlyhussein @NoorNoor1 انتى قليلة الادب والفاظك زبالة .وبعدين انتى عايزة تمحى تاريخ الراجل لمجر انك شايفاه فلول.هو فعلا فلول وضد الثورة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/salmanegm12/status/358331540616392705</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nazlyhussein&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130718" model="data.tweets">
+        <field type="CharField" name="user_id">salmanegm12</field>
+        <field type="CharField" name="username">سلمى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nazlyhussein @NoorNoor1 وقولى فيه كل اللى انتى عايزاه انما بروح امك غادة ماتنسيش تاريخه اللى انتى عايزة تمحيه لمجرد انك كارهاه ولا متدايقة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/salmanegm12/status/358331857231810560</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nazlyhussein&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130719" model="data.tweets">
+        <field type="CharField" name="user_id">salmanegm12</field>
+        <field type="CharField" name="username">سلمى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@HaleemElsharani @nazlyhussein @NoorNoor1 كسمكم كلكم ياشوية معرصين يااطهار ياللى مابتغلطوش  والنقاء بيخر منكم عشان بس شاركتو فى ثورة شعب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/salmanegm12/status/358332398783569920</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@HaleemElsharani&quot;, &quot;@nazlyhussein&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130720" model="data.tweets">
+        <field type="CharField" name="user_id">noornoor1</field>
+        <field type="CharField" name="username">Noor نور</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">تعليقاً على التغريدة السابقة: عرضوا فيديو كليب صعب قوي لفناني مصر، والكليب فعلا مش قيمة أون تي في. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/noornoor1/status/358348687199567872</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130721" model="data.tweets">
+        <field type="CharField" name="user_id">nadyahassan</field>
+        <field type="CharField" name="username">Nadia</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@hananzaz @NoorNoor1 @ONtveg تغطيتهم لمظاهرات الاخوان مش كويسة .. مفيش تغطيه اصلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nadyahassan/status/358356014048882688</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@hananzaz&quot;, &quot;@NoorNoor1&quot;, &quot;@ONtveg&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130722" model="data.tweets">
+        <field type="CharField" name="user_id">sarahngb</field>
+        <field type="CharField" name="username">Sarahngb</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@SalmaNegm12 @nazlyhussein @NoorNoor1  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarahngb/status/358335402664407041</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">1669</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@SalmaNegm12&quot;, &quot;@nazlyhussein&quot;, &quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/UTbw6xKEtw&quot;]</field>
+    </object>
+
+    <object pk="130723" model="data.tweets">
+        <field type="CharField" name="user_id">bilaldiab</field>
+        <field type="CharField" name="username">«( السلام مشوارى )»</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@NoorNoor1 @MosheraAhmed @h_elmahdawy لا ابرئ عمر سليمان فى تفاوضه مع الإخوان إخماداً للثورة ولكن ذلك لا يحول كونه قيمة وطنية نادرة التكرار </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bilaldiab/status/358341150345662464</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@NoorNoor1&quot;, &quot;@MosheraAhmed&quot;, &quot;@h_elmahdawy&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130724" model="data.tweets">
+        <field type="CharField" name="user_id">noornoor1</field>
+        <field type="CharField" name="username">Noor نور</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">What is @ONtveg doing? I am so, so disappointed beyond belief. الله يرحم أون تي في. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/noornoor1/status/358345780211363841</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">21</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ONtveg&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130725" model="data.tweets">
+        <field type="CharField" name="user_id">fouda_</field>
+        <field type="CharField" name="username">Fouda</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@NadyaHassan @NoorNoor1 @ONtveg في التحرير ما بيتضربوش وعدتهم بتتاخد يا نادية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fouda_/status/358357792211476480</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@NadyaHassan&quot;, &quot;@NoorNoor1&quot;, &quot;@ONtveg&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130726" model="data.tweets">
+        <field type="CharField" name="user_id">fouda_</field>
+        <field type="CharField" name="username">Fouda</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@NadyaHassan @NoorNoor1 @ONtveg محدش عارف أصلا يغطي مظاهرات الإخوان؛ أديكي شفتي منة وشهاب واللي حصلهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fouda_/status/358355743151357952</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@NadyaHassan&quot;, &quot;@NoorNoor1&quot;, &quot;@ONtveg&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130727" model="data.tweets">
+        <field type="CharField" name="user_id">mosheraahmed</field>
+        <field type="CharField" name="username">ثورة مش مناورة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@NoorNoor1  عمر سليمان من ابطال مصر آن الاوان نعترف بالحقائق الى انكرناها على الراحل. كل كلامه كان صح عن سرقة الثوره من الشباب والعناصر الاج </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mosheraahmed/status/358333649944461313</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@NoorNoor1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="130728" model="data.tweets">
+        <field type="CharField" name="user_id">cleo_egy</field>
+        <field type="CharField" name="username">ليدي داليا</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هههههههه مفجر ثورة#30_يونيو  “@NoorNoor1: فيلم تسجيلي عن عمر سليمان على الفضائية المصرية!؟!” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cleo_egy/status/358330412927430657</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+</django-objects>

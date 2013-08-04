@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="243207" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@midoo0  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/323760697274163200</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">4532</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@midoo0&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243208" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Parallel Universes: Many Worlds:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/326797948233080833</field>
+        <field type="DateField" name="posting_date">2013-04-23</field>
+        <field type="IntegerField" name="retweets">683</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/i9ITzhQrgc&quot;]</field>
+    </object>
+
+    <object pk="243209" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Why Are Revolutionary Scientists Young?:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/326795212129173504</field>
+        <field type="DateField" name="posting_date">2013-04-23</field>
+        <field type="IntegerField" name="retweets">111</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/XLYFJBNJZ5&quot;]</field>
+    </object>
+
+    <object pk="243210" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">The True Science of Parallel Universes:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/323951884140429312</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">3001</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/l6QKTHvxIk&quot;]</field>
+    </object>
+
+    <object pk="243211" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">What is the Uncertainty Principle?:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/324542688512864256</field>
+        <field type="DateField" name="posting_date">2013-04-17</field>
+        <field type="IntegerField" name="retweets">196</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/uEgBC2SASr&quot;]</field>
+    </object>
+
+    <object pk="243212" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Frans de Waal: Moral behavior in animals:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/326787401949270018</field>
+        <field type="DateField" name="posting_date">2013-04-23</field>
+        <field type="IntegerField" name="retweets">875</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/iwYlZmbMWa&quot;]</field>
+    </object>
+
+    <object pk="243213" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Chimpanzee Memory Test:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/326789201217593344</field>
+        <field type="DateField" name="posting_date">2013-04-23</field>
+        <field type="IntegerField" name="retweets">614</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243214" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Electrons - Sixty Symbols:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/324552212531539968</field>
+        <field type="DateField" name="posting_date">2013-04-17</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243215" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Vectors - Sixty Symbols:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/324549098676031488</field>
+        <field type="DateField" name="posting_date">2013-04-17</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243216" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Heisenberg&#39;s Uncertainty Principle Explained:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/324542538621014017</field>
+        <field type="DateField" name="posting_date">2013-04-17</field>
+        <field type="IntegerField" name="retweets">358</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/VOMFN4YPzn&quot;]</field>
+    </object>
+
+    <object pk="243217" model="data.tweets">
+        <field type="CharField" name="user_id">gr33ndata</field>
+        <field type="CharField" name="username">Tarek Amr</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Facebook and twitter frontend developers. Y u make my life harder and make selecting and copy/pasting a real pain in the arse!? </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/gr33ndata/status/326830732133662720</field>
+        <field type="DateField" name="posting_date">2013-04-23</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243218" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Memoriad Anzan - All in the Brain:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/326781125164937218</field>
+        <field type="DateField" name="posting_date">2013-04-23</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/VQPcPvguie&quot;]</field>
+    </object>
+
+    <object pk="243219" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Planck&#39;s Constant - Sixty Symbols:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/324543444393553921</field>
+        <field type="DateField" name="posting_date">2013-04-17</field>
+        <field type="IntegerField" name="retweets">31</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/F1rekgIWPD&quot;]</field>
+    </object>
+
+    <object pk="243220" model="data.tweets">
+        <field type="CharField" name="user_id">halahhelmy</field>
+        <field type="CharField" name="username">Hala Helmy</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Never say goodbye when u still want 2 try, Never give up when u can still take it, Never say u don&#39;t love them when u cant let go #SafeHaven </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/halahhelmy/status/324285733361840129</field>
+        <field type="DateField" name="posting_date">2013-04-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#SafeHaven&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243221" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ههههههههههه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/324147410593001472</field>
+        <field type="DateField" name="posting_date">2013-04-16</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243222" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">‘عمرو دياب وغلاوتك’  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/326810433073848320</field>
+        <field type="DateField" name="posting_date">2013-04-23</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243223" model="data.tweets">
+        <field type="CharField" name="user_id">alaa</field>
+        <field type="CharField" name="username">Alaa Abd El Fattah</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">♻ @waelabdelfattah: من يتصورون ان ايام مبارك احلي يستحقون المرسي فعلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alaa/status/324290541544169473</field>
+        <field type="DateField" name="posting_date">2013-04-16</field>
+        <field type="IntegerField" name="retweets">36</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@waelabdelfattah&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243224" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">5 of 5 stars to Sophie&#39;s World by Jostein Gaarder  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/331574721827205120</field>
+        <field type="DateField" name="posting_date">2013-05-06</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/L2AyRR4KvW&quot;]</field>
+    </object>
+
+    <object pk="243225" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">مين اللى سرق فرحتنا #اليأس_خيانة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/323811265162129408</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u064a\u0623\u0633_\u062e\u064a\u0627\u0646\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/bIqF6fJdVH&quot;]</field>
+    </object>
+
+    <object pk="243226" model="data.tweets">
+        <field type="CharField" name="user_id">gr33ndata</field>
+        <field type="CharField" name="username">Tarek Amr</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#اليأس_خيابة؟ وخبط الراس في الحيطة مش خيانة؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/gr33ndata/status/323811365754109953</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u064a\u0623\u0633_\u062e\u064a\u0627\u0628\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243227" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">صدمة ضابط أمن الدولة قاتل السيد بلال بعد الحكم عليه 15 سنة:  :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/324141579243778048</field>
+        <field type="DateField" name="posting_date">2013-04-16</field>
+        <field type="IntegerField" name="retweets">290</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/ZHlRXmMyRB&quot;]</field>
+    </object>
+
+    <object pk="243228" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@midoo0  المقال الأصلى اهو </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/323762375243218945</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">97</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@midoo0&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243229" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">New fossils from Koobi Fora in northern Kenya confirm taxonomic diversity in early Homo  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/323757151057223680</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">26</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/frmE0CAdkU&quot;]</field>
+    </object>
+
+    <object pk="243230" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">:D RT @RimounAdel: The first #Emotion in history #CNSoMe #SocialMedia  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/323759563138531328</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;#Emotion&quot;, &quot;#CNSoMe&quot;, &quot;#SocialMedia&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@RimounAdel&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/W2X7fxwFRr&quot;]</field>
+    </object>
+
+    <object pk="243231" model="data.tweets">
+        <field type="CharField" name="user_id">ramy1313</field>
+        <field type="CharField" name="username">Rami Alaa Eldin</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text"> تانى تانى أنا مش عارف أطلعها من دماغى أصلا يعنى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramy1313/status/323767019105316866</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243232" model="data.tweets">
+        <field type="CharField" name="user_id">usamashazly</field>
+        <field type="CharField" name="username">Usama Al Shazly</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">في شيء اسمه تامر عبدالمنعم الناس بتعمله ريتويت، ياجماعة أرجوكم مش ناقصة عاهات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/usamashazly/status/323770719009914880</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243233" model="data.tweets">
+        <field type="CharField" name="user_id">micaazz</field>
+        <field type="CharField" name="username">Mica ميكا</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">جهزوا نفسكوا لمليونية من اليتامي بتوعه الجمعة الجاية بارجع يا ريس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/micaazz/status/323770902238072832</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243234" model="data.tweets">
+        <field type="CharField" name="user_id">mahienour</field>
+        <field type="CharField" name="username">Mahienour El-Massry</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">منهم لله الاخوان اللي خلوا الفلول يتجرأوا علينا و يقتكروا نفسهم ثوار و اننا بنحارب لنفس الهدف.. اه و الله .. نشوف فيكم انتم الاتنين يوم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mahienour/status/324324574416228354</field>
+        <field type="DateField" name="posting_date">2013-04-16</field>
+        <field type="IntegerField" name="retweets">39</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243235" model="data.tweets">
+        <field type="CharField" name="user_id">ahmadfahmy</field>
+        <field type="CharField" name="username">Maverick</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">طول ما الدستور يعنى برادعى ومصر القوية يعنى فتوح وتيار شعبى يعنى حمدين ومصر يعنى مبارك اومرسى , طول ماهو مطلوب زعيم يبقى فشلنا ومعملناش ثورة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmadfahmy/status/323760714097508352</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="243236" model="data.tweets">
+        <field type="CharField" name="user_id">sarahegazi</field>
+        <field type="CharField" name="username">سارّة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لو يأسة في حياتي أنا فمش يأسة في الثورة و لا في نصرها سيبوا ولاد الكلب يفرحوا شوية بكرة الثورة تشيل ما تخلى والله العظيم بس أنتوا صدقوا #مصر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarahegazi/status/323818548780756992</field>
+        <field type="DateField" name="posting_date">2013-04-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0635\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+</django-objects>

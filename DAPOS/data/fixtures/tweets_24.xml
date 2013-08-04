@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="153173" model="data.tweets">
+        <field type="CharField" name="user_id">agent_ny17</field>
+        <field type="CharField" name="username">بالعلم تتقدم الاممُ</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Elshaheeed: CBC تنقل أحداث الإتحادية بطائرة  @AlyaaGad  can you share this please :-) ؟! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/agent_ny17/status/352012763113066496</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@AlyaaGad&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/OfVLepfDED\u201d&quot;]</field>
+    </object>
+
+    <object pk="153174" model="data.tweets">
+        <field type="CharField" name="user_id">3am_mina</field>
+        <field type="CharField" name="username">مينا نفس حروف أمين</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">. @Elshaheeed لو مش ناوين تتكلموا تاني انا ممكن اشتري الاكونت بالفلورز الي فية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/3am_mina/status/355761021119504385</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153175" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">تصريح جديد من المتحدث العسكري للقوات المسلحة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351797175790997504</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/gcPAU0M9BY&quot;]</field>
+    </object>
+
+    <object pk="153176" model="data.tweets">
+        <field type="CharField" name="user_id">mmme78780610</field>
+        <field type="CharField" name="username">Ⓜⓞⓗⓐⓜⓔⓓ</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">‏مرتضى منصور على الحياة : لو أى حد قذر زى أسماء محفوظ أو إسراء عبد الفتاح أو وائل غنيم دخل الميدان هنديه بالجزمة @Elshaheeed enjooooy </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mmme78780610/status/351380704661225472</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153177" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">I posted a new photo to Facebook  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351393473594793985</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Ff8cVHLhhb&quot;]</field>
+    </object>
+
+    <object pk="153178" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صور #الشهداء في أولى المسيرات المتوجة إلى #الاتحادية ظهرا اليوم.  تصوير Hasan Amin, photographer from Egypt  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351453992267694081</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0634\u0647\u062f\u0627\u0621&quot;, &quot;#\u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/iQpySVbhHf&quot;]</field>
+    </object>
+
+    <object pk="153179" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#الاتحادية الآن  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351430118108954626</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153180" model="data.tweets">
+        <field type="CharField" name="user_id">sarah_mostafa_s</field>
+        <field type="CharField" name="username">Sarah Mostafa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ياه! ياه يا عبد الصمد وده كان بياخد فلوس ع ايه!“@Elshaheeed: استقالة محمد كامل عمرو وزير الخارجية من منصبه” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarah_mostafa_s/status/351876495133786112</field>
+        <field type="DateField" name="posting_date">2013-07-05</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153181" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#المنصورة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351410562766348288</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153182" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ادعموا الصفحة دي واشتركوا فيها وساهموا معاهم لمنع كل حالات التحرش من الشارع المصري:   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352076516710023169</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">194</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/cquqKeV3zG&quot;, &quot;http://t.co/Ax5qC7MxhK&quot;]</field>
+    </object>
+
+    <object pk="153183" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#المنصورة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351410562766348288</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153184" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ادعموا الصفحة دي واشتركوا فيها وساهموا معاهم لمنع كل حالات التحرش من الشارع المصري:   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352076516710023169</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">194</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/cquqKeV3zG&quot;, &quot;http://t.co/Ax5qC7MxhK&quot;]</field>
+    </object>
+
+    <object pk="153185" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">التحرير الآن بانتظار بيان القوات المسلحة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352466212405514240</field>
+        <field type="DateField" name="posting_date">2013-07-03</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/3IIiXjjlS0&quot;]</field>
+    </object>
+
+    <object pk="153186" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">رويترز نقلا عن مصادر أمنية: القبض على 15 فردا من حراس خيرت الشاطر  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351745267189551104</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">35</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/1cnAcjI6sv&quot;]</field>
+    </object>
+
+    <object pk="153187" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#الإسكندرية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351441861333880833</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">12</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153188" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">رئاسة الجمهورية تنتقد بيان القيادة العامة للقوات المسلحة:  &amp;quot;ويلزم التنويه أن البيان الصادر عن القيادة العامة.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351847682538606594</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153189" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">التحرير والإتحادية في القاهرة، الإسكندرية، المحلّة، دمياط، الشرقيّة.  مصر، 30 يونيو، 2013 Egypt, June 30,.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351786170545483777</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153190" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الصورة من ميدان التحرير قبل ساعتين، الصورة لبي بي سي #مصر #30_يونيو #مرسي #Egypt  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351372563479412737</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0635\u0631&quot;, &quot;#30_\u064a\u0648\u0646\u064a\u0648&quot;, &quot;#\u0645\u0631\u0633\u064a&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/KYFBUpLntB&quot;]</field>
+    </object>
+
+    <object pk="153191" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الصورة من مسيرة جامع الفتح، عندما وصلت المسيرة عند مقر حزب الحريّة والعدالة الحاكم، ناس من المسيرة عملت كردون.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351460972118020096</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153192" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عام من #الفشل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351415253462024193</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0641\u0634\u0644&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153193" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#المحلة منذ قليل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351382211515265024</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u062d\u0644\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153194" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الصفحة الرسمية لجماعة #الإخوان تتجاهل نشر أخبار عن الملايين التي نزلت الشارع اليوم مطالبة برحيل #الرئيس  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351535714833403908</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">12</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0625\u062e\u0648\u0627\u0646&quot;, &quot;#\u0627\u0644\u0631\u0626\u064a\u0633&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/5kzsGZZ032&quot;]</field>
+    </object>
+
+    <object pk="153195" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#الإعلام_الهادف وخبر من الجريدة الرسمية للحزب الحاكم  المصدر:   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351363120540827649</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0625\u0639\u0644\u0627\u0645_\u0627\u0644\u0647\u0627\u062f\u0641&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/4BK4F0sdo6&quot;, &quot;http://t.co/2rxcZC5Ubx&quot;]</field>
+    </object>
+
+    <object pk="153196" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#حزب_الكنبة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351378521047838720</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062d\u0632\u0628_\u0627\u0644\u0643\u0646\u0628\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153197" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">المتحدث الرسمي للقوات المسلحة:  تعقد القيادة العامة للقوات المسلحة حالياً لقاءات مع عدد من الرموز الدينية.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352429295697797123</field>
+        <field type="DateField" name="posting_date">2013-07-02</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153198" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الرئيس يرفض الاستقالة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352171007785705473</field>
+        <field type="DateField" name="posting_date">2013-07-02</field>
+        <field type="IntegerField" name="retweets">21</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153199" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الـ 5 .. 6 .. 7 .. 3 .. 4 .. في #التحرير اليوم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351468438411161600</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">21</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u062a\u062d\u0631\u064a\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153200" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الرئيس محمد مرسي يؤكد تمسكه بالشرعية الدستورية ويرفض أي محاولة للخروج عليها ويدعو القوات المسلحة سحب إنذارها ويرفض.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352168132879716352</field>
+        <field type="DateField" name="posting_date">2013-07-02</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153201" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">استقالة محمد كامل عمرو وزير الخارجية من منصبه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351876129319170049</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153202" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بيان من القوات المسلحة  - تمر مصرنا الغالية بمرحلة دقيقة من تاريخها المعاصر تسعى فيها إلى غد مشرق تتحقق فيه أمال.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352910542169583616</field>
+        <field type="DateField" name="posting_date">2013-07-04</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153203" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بسم الله الرحمن الرحيم شعب مصر العظيم 1 - إن القوات المسلحة لم يكن فى مقدورها أن تصم آذانها أو تغض بصرها عن حركة.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352514851974823936</field>
+        <field type="DateField" name="posting_date">2013-07-03</field>
+        <field type="IntegerField" name="retweets">26</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153204" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بيان من رئاسة الجمهورية : تجدد رئاسة الجمهورية تأكيدها على خارطة الطريق التى استجابت فيها للنداء و دعت كافة القوى.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352433737985818625</field>
+        <field type="DateField" name="posting_date">2013-07-02</field>
+        <field type="IntegerField" name="retweets">29</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153205" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">فيديو مصور بهليكوبتر لجموع المصريين في القاهرة في الاتحادية ومنطقة التحرير ومحيطها .. هل يفي الرئيس بوعده والذي.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352014270961168384</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">29</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153206" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مؤسسة الرئاسة تصدر بيانا بعد منتصف الليل لتخبر المصريين أن أوباما اتصل بالرئيس وأخبره أنه يقف معه كرئيس منتخب .... </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/351879261751218176</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">37</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153207" model="data.tweets">
+        <field type="CharField" name="user_id">elshaheeed</field>
+        <field type="CharField" name="username">كلنا خالد سعيد</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">قاضي الاستقلال أحمد عطية أبو شوشة:  لماذا يعتقد الرئيس أن المفهوم الوحيد للشرعية الدستورية هو أن يبقى فى الحكم.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshaheeed/status/352205151890718721</field>
+        <field type="DateField" name="posting_date">2013-07-02</field>
+        <field type="IntegerField" name="retweets">40</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153208" model="data.tweets">
+        <field type="CharField" name="user_id">nabehlsharqawi</field>
+        <field type="CharField" name="username">El sharqawy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nabehlsharqawi/status/352313242091126784</field>
+        <field type="DateField" name="posting_date">2013-07-02</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153209" model="data.tweets">
+        <field type="CharField" name="user_id">agent_ny17</field>
+        <field type="CharField" name="username">بالعلم تتقدم الاممُ</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed: CBC تنقل أحداث الإتحادية بطائرة  @Ghada75  can you share this please :-) ؟! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/agent_ny17/status/352018675924090880</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;, &quot;@Ghada75&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/OfVLepfDED&quot;]</field>
+    </object>
+
+    <object pk="153210" model="data.tweets">
+        <field type="CharField" name="user_id">dienerallahs87</field>
+        <field type="CharField" name="username">conan edogawa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed مبروك عليكم حكم العسكر وعودة نائب مبارك وانتظروا قريبا عودة مبارك يا حمير العسكر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dienerallahs87/status/352913895083606018</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153211" model="data.tweets">
+        <field type="CharField" name="user_id">mmme78780610</field>
+        <field type="CharField" name="username">Ⓜⓞⓗⓐⓜⓔⓓ</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@BoycottSawiris: ‏كلنا خالد سعيد .. يا ترى هتنشروا دا ؟ تتحملوا سبب هذا الدم !  @Elshaheeed </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mmme78780610/status/351665964628180993</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/B0HLxCTLwr\u200e&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="153212" model="data.tweets">
+        <field type="CharField" name="user_id">waleedfattah</field>
+        <field type="CharField" name="username">عايز حقي في مصر</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">غياب السيسي و رئيس الاركان عن احتفال القوات المسلحة بالعاشر من  رمضان لعله خير @Elshaheeed @ikhwantawasol  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/waleedfattah/status/358022233567944704</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;, &quot;@ikhwantawasol&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/GtFptx1ZYg&quot;]</field>
+    </object>
+
+    <object pk="153213" model="data.tweets">
+        <field type="CharField" name="user_id">chemsou</field>
+        <field type="CharField" name="username">شمس الدين الجزائري</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Misr25TV @MisrAlQawia @gelhaddad @Elshaheeed @ElMokhalesTV @Essam_Elerian @EgyPresidency الخائن البرادعي  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/chemsou/status/353585956466614272</field>
+        <field type="DateField" name="posting_date">2013-07-06</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Misr25TV&quot;, &quot;@MisrAlQawia&quot;, &quot;@gelhaddad&quot;, &quot;@Elshaheeed&quot;, &quot;@ElMokhalesTV&quot;, &quot;@Essam_Elerian&quot;, &quot;@EgyPresidency&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/j94USajnvL&quot;]</field>
+    </object>
+
+    <object pk="153214" model="data.tweets">
+        <field type="CharField" name="user_id">ziadaly</field>
+        <field type="CharField" name="username">ziadaly</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">هذا ليس بانقلاب ... “@Elshaheeed: تصريح جديد من المتحدث العسكري للقوات المسلحة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ziadaly/status/351808788002639873</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/mN6NYSCfW5\u201d&quot;]</field>
+    </object>
+
+    <object pk="153215" model="data.tweets">
+        <field type="CharField" name="user_id">ma7moudahly74</field>
+        <field type="CharField" name="username">Ma7moud ♥74♥ Zidan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed حلقولوا .. نعيما يا ابو الامراس  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ma7moudahly74/status/352911731569348608</field>
+        <field type="DateField" name="posting_date">2013-07-04</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/bvf9oc2BtI&quot;]</field>
+    </object>
+
+    <object pk="153216" model="data.tweets">
+        <field type="CharField" name="user_id">ma7moudahly74</field>
+        <field type="CharField" name="username">Ma7moud ♥74♥ Zidan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed دلعوا يا دلعوا .. مرسى الشعب خلعوا  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ma7moudahly74/status/352912876253614082</field>
+        <field type="DateField" name="posting_date">2013-07-04</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/XHUbOZsJIB&quot;]</field>
+    </object>
+
+    <object pk="153217" model="data.tweets">
+        <field type="CharField" name="user_id">mohammed_abdalu</field>
+        <field type="CharField" name="username">Mohammed Abudalu</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">إلى #وائل_غنيم وعبد الرحمن منصور أدمنز صفحة #كلنا_خالد_سعيد  … … @Ghonim @amans @Elshaheeed #مصر @amrelhady4000 </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohammed_abdalu/status/353186877722984448</field>
+        <field type="DateField" name="posting_date">2013-07-05</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0648\u0627\u0626\u0644_\u063a\u0646\u064a\u0645&quot;, &quot;#\u0643\u0644\u0646\u0627_\u062e\u0627\u0644\u062f_\u0633\u0639\u064a\u062f&quot;, &quot;#\u0645\u0635\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ghonim&quot;, &quot;@amans&quot;, &quot;@Elshaheeed&quot;, &quot;@amrelhady4000&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/apsB2zi1Rc&quot;]</field>
+    </object>
+
+    <object pk="153218" model="data.tweets">
+        <field type="CharField" name="user_id">waleedfattah</field>
+        <field type="CharField" name="username">عايز حقي في مصر</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">غياب السيسي و رئيس الاركان عن احتفال القوات المسلحة بالعاشر من  رمضان لعله خير @Elshaheeed @ikhwantawasol  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/waleedfattah/status/358022233567944704</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;, &quot;@ikhwantawasol&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/GtFptx1ZYg&quot;]</field>
+    </object>
+
+    <object pk="153219" model="data.tweets">
+        <field type="CharField" name="user_id">waelessam2011</field>
+        <field type="CharField" name="username">waelessam</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed ان شاء الله ربنا هايحرر مصر من معدومى العقل  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/waelessam2011/status/351380640337391616</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/M7m7ZfPV5x&quot;]</field>
+    </object>
+
+    <object pk="153220" model="data.tweets">
+        <field type="CharField" name="user_id">makaveli8482</field>
+        <field type="CharField" name="username">دستور الاول يا اغبية</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed: مؤسسة الرئاسة تصدر بيانا بعد منتصف الليل لتخبر المصريين أن أوباما اتصل بالرئيس وأخبره أنه يقف معه.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/makaveli8482/status/351879824324837376</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153221" model="data.tweets">
+        <field type="CharField" name="user_id">waelbadei</field>
+        <field type="CharField" name="username">كل نفس ذائقة الموت</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@amrelhady4000 @Abdurrahmanezz @FJ_Portal @Elshaheeed  هدية   #السيسي   للمعارضة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/waelbadei/status/352488602653061120</field>
+        <field type="DateField" name="posting_date">2013-07-03</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0633\u064a\u0633\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@amrelhady4000&quot;, &quot;@Abdurrahmanezz&quot;, &quot;@FJ_Portal&quot;, &quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/9kDrFiWy8V&quot;]</field>
+    </object>
+
+    <object pk="153222" model="data.tweets">
+        <field type="CharField" name="user_id">hazem_wadie</field>
+        <field type="CharField" name="username">Hazem Wadie Malik</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ramyboushra @kwadiewahba @WagihEmil @mkeldabaa @OmniaWadie @Elshaheeed @FatimaNaoot  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hazem_wadie/status/353621896719388672</field>
+        <field type="DateField" name="posting_date">2013-07-06</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ramyboushra&quot;, &quot;@kwadiewahba&quot;, &quot;@WagihEmil&quot;, &quot;@mkeldabaa&quot;, &quot;@OmniaWadie&quot;, &quot;@Elshaheeed&quot;, &quot;@FatimaNaoot&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/B8nf26WsMF&quot;]</field>
+    </object>
+
+    <object pk="153223" model="data.tweets">
+        <field type="CharField" name="user_id">a_kassm</field>
+        <field type="CharField" name="username">عبدالحميد قاسم Kassm</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text"> الشيخ الشعراوي  يصف الوضع السياسي في مصر @Elshaheeed @Lolita_Arch @Rababoush @DrDar4 @sokarhanem @lamialoutfi share </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/a_kassm/status/353777029210046464</field>
+        <field type="DateField" name="posting_date">2013-07-06</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;, &quot;@Lolita_Arch&quot;, &quot;@Rababoush&quot;, &quot;@DrDar4&quot;, &quot;@sokarhanem&quot;, &quot;@lamialoutfi&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153224" model="data.tweets">
+        <field type="CharField" name="user_id">bahrooz</field>
+        <field type="CharField" name="username">Baher Ghorab</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed @GhostyMaher  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bahrooz/status/354775626936369152</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">125</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;, &quot;@GhostyMaher&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153225" model="data.tweets">
+        <field type="CharField" name="user_id">mokhtar_saraya</field>
+        <field type="CharField" name="username">mokhtar saraya</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text"> @alaasadek @Youssefalhosiny @WagdyGhonim @Elshaheeed والله يستحقوا الشنق </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mokhtar_saraya/status/357311376857260032</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">4376</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@alaasadek&quot;, &quot;@Youssefalhosiny&quot;, &quot;@WagdyGhonim&quot;, &quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153226" model="data.tweets">
+        <field type="CharField" name="user_id">gemy200016</field>
+        <field type="CharField" name="username">جميل المصرى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@Elshaheeed: ‏الرئيس لصحيفة الجارديان: &amp;quot;استقالتي تؤدي لفوضى مستمرة&amp;quot;  رئيس مخلوع،كلاكيت تاني مرة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/gemy200016/status/351392002249728001</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">48</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/EPyrXuwgfp\u200e&amp;quot;\u062a\u0635\u0631\u064a\u062d\u0627\u062a&quot;]</field>
+    </object>
+
+    <object pk="153227" model="data.tweets">
+        <field type="CharField" name="user_id">moonmasrya</field>
+        <field type="CharField" name="username">mona hassan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@NadyaHassan: Muslim Brotherhood #MB terrorists kill unarmed kids in #Alexandria |  @EricTrager18 @Elshaheeed </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/moonmasrya/status/353494264556163073</field>
+        <field type="DateField" name="posting_date">2013-07-05</field>
+        <field type="IntegerField" name="retweets">7505</field>
+        <field type="TextField" name="hash_tags">[&quot;#MB&quot;, &quot;#Alexandria&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@EricTrager18&quot;, &quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/XL1OKsBJwF&quot;]</field>
+    </object>
+
+    <object pk="153228" model="data.tweets">
+        <field type="CharField" name="user_id">bhsally1</field>
+        <field type="CharField" name="username">sally</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed On the delusion that this is &amp;quot;different&amp;quot;, a &amp;quot;popular coup&amp;quot; - with lessons from history. #EgyptCoup  … </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bhsally1/status/353476396728848385</field>
+        <field type="DateField" name="posting_date">2013-07-05</field>
+        <field type="IntegerField" name="retweets">2034</field>
+        <field type="TextField" name="hash_tags">[&quot;#EgyptCoup&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Z55HjvqfY9&quot;]</field>
+    </object>
+
+    <object pk="153229" model="data.tweets">
+        <field type="CharField" name="user_id">hba_82</field>
+        <field type="CharField" name="username">hala</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بداية #مجزرة_الحرس_الجمهوري ا لجيش والشرطة يهدم سور المعتصمين لفض الإعتصام:  @alaa @Monasosh @belalfadl @Elshaheeed </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hba_82/status/354512812388794370</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">3548</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u062c\u0632\u0631\u0629_\u0627\u0644\u062d\u0631\u0633_\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@alaa&quot;, &quot;@Monasosh&quot;, &quot;@belalfadl&quot;, &quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Rbggfo1Zaw&quot;]</field>
+    </object>
+
+    <object pk="153230" model="data.tweets">
+        <field type="CharField" name="user_id">srhmasry</field>
+        <field type="CharField" name="username">Sarah Masry</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed ودي مدينة كفرالشيخ :)  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/srhmasry/status/351442154159226880</field>
+        <field type="DateField" name="posting_date">2013-06-30</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/CrXb7LsMhH&quot;]</field>
+    </object>
+
+    <object pk="153231" model="data.tweets">
+        <field type="CharField" name="user_id">aymandyab5</field>
+        <field type="CharField" name="username">aymandyab</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed يا عبد الرحمن اقرا وراجع نفسك الله يخليك وفوقا بقا يا عالم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/aymandyab5/status/351949180752756736</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">455</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/ZIhPv3GwYj&quot;]</field>
+    </object>
+
+    <object pk="153232" model="data.tweets">
+        <field type="CharField" name="user_id">amr_raouf</field>
+        <field type="CharField" name="username">amr raouf</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">حملة الطوارئ بجميع فروع جمعية رساله لصالح المصابين فى الاحداث .. الخميس 4 يوليو من 2 : 7 مساء  …@alaa @Elshaheeed </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amr_raouf/status/352414923134996480</field>
+        <field type="DateField" name="posting_date">2013-07-02</field>
+        <field type="IntegerField" name="retweets">41</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/t5J6hZrCit&quot;]</field>
+    </object>
+
+    <object pk="153233" model="data.tweets">
+        <field type="CharField" name="user_id">karimelzyady</field>
+        <field type="CharField" name="username">عينى عليكى يا بلادى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed يا بلادى عيشى حرة: ثورة عساكر شطرنج  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/karimelzyady/status/354359358311763971</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">36</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/FfaVThDQoC&quot;]</field>
+    </object>
+
+    <object pk="153234" model="data.tweets">
+        <field type="CharField" name="user_id">hamzaelmassry</field>
+        <field type="CharField" name="username">فل من فلول 25 يناير</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed لا للاقصاء ولا للتعتيم : شعارات سيكفر بهاالاسلاميون مثلما كفرو بالديموقراطيه الزائفه مشهد رهيب   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hamzaelmassry/status/353942129753587712</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">1193</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/MSvEcaW5PD&quot;]</field>
+    </object>
+
+    <object pk="153235" model="data.tweets">
+        <field type="CharField" name="user_id">karimelzyady</field>
+        <field type="CharField" name="username">عينى عليكى يا بلادى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed يا بلادى عيشى حرة: من أجل إنقاذ مصر رساله الى الرئيس محمد مرسى  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/karimelzyady/status/351731149804011521</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">47</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/8kKDdlbDZs&quot;]</field>
+    </object>
+
+    <object pk="153236" model="data.tweets">
+        <field type="CharField" name="user_id">7nanrash</field>
+        <field type="CharField" name="username">الهدوء الصاخب</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed  فيديو يكشف كذب وتضليل الاعلاميين المصريين الغير مهنيين    </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/7nanrash/status/356742257975635968</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/HEJ7bDxX30&quot;]</field>
+    </object>
+
+    <object pk="153237" model="data.tweets">
+        <field type="CharField" name="user_id">hamzaelmassry</field>
+        <field type="CharField" name="username">فل من فلول 25 يناير</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed @saidsadek  …للى لسه ميعرفش &amp;quot; فضيحه اهل تمرد الجديدة &amp;quot; ليعلم الجميع الحقيقه لا عذر لاحد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hamzaelmassry/status/353722084205142016</field>
+        <field type="DateField" name="posting_date">2013-07-06</field>
+        <field type="IntegerField" name="retweets">234</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;, &quot;@saidsadek&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153238" model="data.tweets">
+        <field type="CharField" name="user_id">ahmed_karam_</field>
+        <field type="CharField" name="username">ahmed k</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmed_karam_/status/352985559603490817</field>
+        <field type="DateField" name="posting_date">2013-07-04</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153239" model="data.tweets">
+        <field type="CharField" name="user_id">sheref_ah</field>
+        <field type="CharField" name="username">شريف اللباد</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed هل هذا يرضيكم يا كلنا خالد سعيد يامن تدعون انكم ضمير الامة هذا خالد سعيد جديد ننتظر موقفكم   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sheref_ah/status/355230104714096641</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">43</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/FHh8IF6E0f&quot;]</field>
+    </object>
+
+    <object pk="153240" model="data.tweets">
+        <field type="CharField" name="user_id">ma7moudahly74</field>
+        <field type="CharField" name="username">Ma7moud ♥74♥ Zidan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed   .. خرفان كاذبون مكانهم السجون </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ma7moudahly74/status/352911193775677440</field>
+        <field type="DateField" name="posting_date">2013-07-04</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="153241" model="data.tweets">
+        <field type="CharField" name="user_id">taherahmedtaher</field>
+        <field type="CharField" name="username">م. طاهر أحمد طاهر</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Elshaheeed Please help me spread the truth &amp;quot;Was the toppling of president Morsi of Egypt a military coup?&amp;quot;   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/taherahmedtaher/status/352863936082755587</field>
+        <field type="DateField" name="posting_date">2013-07-04</field>
+        <field type="IntegerField" name="retweets">26</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Elshaheeed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/3sWL3eWZaG&quot;]</field>
+    </object>
+
+</django-objects>

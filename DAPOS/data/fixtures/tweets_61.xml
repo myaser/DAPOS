@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="67149" model="data.tweets">
+        <field type="CharField" name="user_id">amira_nosseir</field>
+        <field type="CharField" name="username">الكاهنة/ أميرة نصير</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@OmneyaNosseir  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amira_nosseir/status/358128113433075712</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@OmneyaNosseir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="67150" model="data.tweets">
+        <field type="CharField" name="user_id">amira_nosseir</field>
+        <field type="CharField" name="username">الكاهنة/ أميرة نصير</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Eftekasat 7th anniversary - Walahy testahel ya alby feat. Hany Adel:  اللي بيحصل ده حلو </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amira_nosseir/status/358365933133238272</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">70</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/9Vu2Q0s57W&quot;]</field>
+    </object>
+
+    <object pk="67151" model="data.tweets">
+        <field type="CharField" name="user_id">amira_nosseir</field>
+        <field type="CharField" name="username">الكاهنة/ أميرة نصير</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لو دي علمانية الاخوان يبقي ليه ﻷ D: &amp;quot;@thawrahh: قرودغان لحظة تجلى .. ياواد يا مؤمن  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amira_nosseir/status/358319604247961601</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/sVH5LOsZUL&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="67152" model="data.tweets">
+        <field type="CharField" name="user_id">amira_nosseir</field>
+        <field type="CharField" name="username">الكاهنة/ أميرة نصير</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">إيه ده مش حد يقول أن النهارده كان عيد وفاة عمر سليمان, وحشتني يا غالي 3&gt; #الحاضر_الغائب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amira_nosseir/status/358371392850378753</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u062d\u0627\u0636\u0631_\u0627\u0644\u063a\u0627\u0626\u0628&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="67153" model="data.tweets">
+        <field type="CharField" name="user_id">andyegypt</field>
+        <field type="CharField" name="username">الإشتـــنــاركــى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هاتلاقي الشرطة منزلة خبر يقولك: &amp;quot; تم القبض علي حرامي غسيل بالمعادي و 6 قناصة من حماس &amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/andyegypt/status/358133866449485824</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="67154" model="data.tweets">
+        <field type="CharField" name="user_id">amira_nosseir</field>
+        <field type="CharField" name="username">الكاهنة/ أميرة نصير</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يعني مصدق أن اﻷخوان يلبسوا جيش بس مش مصدق أن الجيش يندس، مصدق أنهم بياخدوا فلوس بس أنت مكنتش بتاخد، إعلامهم فاسد بس إعلامك زلابية، ماشي! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amira_nosseir/status/358318518011310083</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="67155" model="data.tweets">
+        <field type="CharField" name="user_id">5orm</field>
+        <field type="CharField" name="username">صاحب نظرية الـ خرم</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ربنا مبينساش حد .. كله هياخد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/5orm/status/358277165638369280</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="67156" model="data.tweets">
+        <field type="CharField" name="user_id">amira_nosseir</field>
+        <field type="CharField" name="username">الكاهنة/ أميرة نصير</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">احنا نزرع البلكونة شتلات شاي بالنعناع وشجر سجاير ويبقى عندنا زي ما تقول اكتفاء ذاتي، آه والله </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amira_nosseir/status/358279940862517248</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="67157" model="data.tweets">
+        <field type="CharField" name="user_id">studeep</field>
+        <field type="CharField" name="username">TK</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Relationship tip: Date women who have bought more books than shoes. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/studeep/status/348373766012809216</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">385</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="67158" model="data.tweets">
+        <field type="CharField" name="user_id">haithamtabei</field>
+        <field type="CharField" name="username">Haitham Tabei</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الفرنسية: 3 قتلى و7 مصابين في اشتباكات بين مؤيدي مرسي ومعارضيه في المنصورة (مصدر طبي) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/haithamtabei/status/358361416069160960</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="67159" model="data.tweets">
+        <field type="CharField" name="user_id">omneyanosseir</field>
+        <field type="CharField" name="username">Omneya Nosseir</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Amira_Nosseir اتلهى :*  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/omneyanosseir/status/358126472109641728</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Amira_Nosseir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="67160" model="data.tweets">
+        <field type="CharField" name="user_id">omneyanosseir</field>
+        <field type="CharField" name="username">Omneya Nosseir</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@3bdalla5aled @Amira_Nosseir  bytkalm 3alinaaaa  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/omneyanosseir/status/358130824421453824</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@3bdalla5aled&quot;, &quot;@Amira_Nosseir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/xO6KyfczNE&quot;]</field>
+    </object>
+
+    <object pk="67161" model="data.tweets">
+        <field type="CharField" name="user_id">omneyanosseir</field>
+        <field type="CharField" name="username">Omneya Nosseir</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Amira_Nosseir @3bdalla5aled الزم حدودك الزم حدو..هات الميكروفون  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/omneyanosseir/status/358132865923440640</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Amira_Nosseir&quot;, &quot;@3bdalla5aled&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/QzEWqHspMc&quot;]</field>
+    </object>
+
+</django-objects>

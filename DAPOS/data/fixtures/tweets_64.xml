@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="231285" model="data.tweets">
+        <field type="CharField" name="user_id">sarahcarr</field>
+        <field type="CharField" name="username">أبو كار</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Follow @ssirgany who is tweeting the Tamarod presser. it is a lesson in fascism. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarahcarr/status/357818592152133633</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">22</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231286" model="data.tweets">
+        <field type="CharField" name="user_id">beltrew</field>
+        <field type="CharField" name="username">Bel Trew - بل ترو</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Rt @Ssirgany: Tamarod refused to meet US&#39; Burns because the &#39;US supports terrorism&#39;&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/beltrew/status/357819054511239169</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231287" model="data.tweets">
+        <field type="CharField" name="user_id">rawyarageh</field>
+        <field type="CharField" name="username">Rawya Rageh</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">He means the Brotherhood RT @Ssirgany Tamarod&#39;s Abdel Aziz: we stand behind the the Armed Forces in confronting terrorism #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rawyarageh/status/357823777406595073</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231288" model="data.tweets">
+        <field type="CharField" name="user_id">beltrew</field>
+        <field type="CharField" name="username">Bel Trew - بل ترو</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Rt @Ssirgany: Tamarod&#39; Abdel Aziz: We met EU&#39;s Ashton after changes in European position regarding the revolution. Refused to meet US&#39; Burns </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/beltrew/status/357819115001479168</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231289" model="data.tweets">
+        <field type="CharField" name="user_id">rawyarageh</field>
+        <field type="CharField" name="username">Rawya Rageh</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Code word now for Islamists/MB MT @Ssirgany Tamarod&#39;s Hassan Shahin: We call on army &amp; police to deal firmly w terrorist groups #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rawyarageh/status/357823503120080899</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231290" model="data.tweets">
+        <field type="CharField" name="user_id">rawyarageh</field>
+        <field type="CharField" name="username">Rawya Rageh</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">MT @Ssirgany Ahram journo asks Tamarod to have a political role &amp; to sideline ppl like Asmaa Mahfouz #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rawyarageh/status/357823285024665600</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231291" model="data.tweets">
+        <field type="CharField" name="user_id">beltrew</field>
+        <field type="CharField" name="username">Bel Trew - بل ترو</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Rt @Ssirgany: Tamarod&#39;s Moh Abdel Aziz: we r transforming from a protest movement to a building movement.References &#39;write our constitution&#39; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/beltrew/status/357819230571339777</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231292" model="data.tweets">
+        <field type="CharField" name="user_id">justimage</field>
+        <field type="CharField" name="username">matthew cassel</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">But still besties with the US-funded army? RT @Ssirgany: Tamarod refused to meet US&#39; Burns because the &#39;US supports terrorism&#39; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/justimage/status/357846119469957121</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231293" model="data.tweets">
+        <field type="CharField" name="user_id">tarekshalaby</field>
+        <field type="CharField" name="username">Tarek Shalaby</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@TarekNasr360 @Ssirgany Why am I not surprised? They knew perfectly well after the 1st phase that SCAF was all over them, and they were fine </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/tarekshalaby/status/357840788404699137</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@TarekNasr360&quot;, &quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231294" model="data.tweets">
+        <field type="CharField" name="user_id">joekubrick</field>
+        <field type="CharField" name="username">Joseph Fahim</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Ssirgany @IamMariamHamdy generally disliked by artists and intellectuals. No real profile. Administrative yes man. Adapts to any regime. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/joekubrick/status/357164665446473728</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;, &quot;@IamMariamHamdy&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231295" model="data.tweets">
+        <field type="CharField" name="user_id">justimage</field>
+        <field type="CharField" name="username">matthew cassel</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">But still besties with the US-funded army? RT @Ssirgany: Tamarod refused to meet US&#39; Burns because the &#39;US supports terrorism&#39; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/justimage/status/357846119469957121</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231296" model="data.tweets">
+        <field type="CharField" name="user_id">tarekshalaby</field>
+        <field type="CharField" name="username">Tarek Shalaby</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@TarekNasr360 @Ssirgany Why am I not surprised? They knew perfectly well after the 1st phase that SCAF was all over them, and they were fine </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/tarekshalaby/status/357840788404699137</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@TarekNasr360&quot;, &quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231297" model="data.tweets">
+        <field type="CharField" name="user_id">joekubrick</field>
+        <field type="CharField" name="username">Joseph Fahim</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Ssirgany @IamMariamHamdy generally disliked by artists and intellectuals. No real profile. Administrative yes man. Adapts to any regime. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/joekubrick/status/357164665446473728</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;, &quot;@IamMariamHamdy&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231298" model="data.tweets">
+        <field type="CharField" name="user_id">bassem_sabry</field>
+        <field type="CharField" name="username">Bassem Sabry باسم</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">RT &amp;quot;@Ssirgany: Tamarod refused to meet US&#39; Burns because the &#39;US supports terrorism&#39;&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bassem_sabry/status/357827014629142528</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231299" model="data.tweets">
+        <field type="CharField" name="user_id">sanasaeed</field>
+        <field type="CharField" name="username">Sana Saeed</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">AKA woman who sparked #Jan25 RT @Ssirgany: Ahram journo asks for Tamarod to have a political role and to sideline ppl like Asmaa Mahfouz. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sanasaeed/status/357827641774055425</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Jan25&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231300" model="data.tweets">
+        <field type="CharField" name="user_id">betsy_hiel</field>
+        <field type="CharField" name="username">betsy hiel</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">#Egypt RT @Ssirgany: Tamarod&#39;s Abdel Aziz: we stand behind the the Armed Forces in confronting terrorism </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/betsy_hiel/status/357824925467279362</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231301" model="data.tweets">
+        <field type="CharField" name="user_id">baraka18</field>
+        <field type="CharField" name="username">Sonia Ordóñez</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">#Egypt &amp;quot;Rebel&amp;quot; movemnt press conference RT @Ssirgany Tamarod&#39;s Hassan Shahin: We call on army &amp; police to deal firmly with terrorist groups. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/baraka18/status/357823455191764992</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231302" model="data.tweets">
+        <field type="CharField" name="user_id">landacol</field>
+        <field type="CharField" name="username">Colonel Hans Landa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Baraka18 @Ssirgany @canacun Lost elections, support a coup and calling the supporters of #FJP &#39;terrorist groups.&#39; Great job #Tamarod #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/landacol/status/357838433714053122</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#FJP&quot;, &quot;#Tamarod&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Baraka18&quot;, &quot;@Ssirgany&quot;, &quot;@canacun&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231303" model="data.tweets">
+        <field type="CharField" name="user_id">yasmineelrafie</field>
+        <field type="CharField" name="username">Yasmine El Rafie</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Female ministers for health, environment and information. How original. #Egypt RT @Ssirgany Maha Zein El-Abadein for health. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/yasmineelrafie/status/357165773376069632</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231304" model="data.tweets">
+        <field type="CharField" name="user_id">alaskarp</field>
+        <field type="CharField" name="username">Marina Petrillo</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">RT “@Ssirgany: Ibrahim Mehleb for housing. #NewCabinet” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alaskarp/status/357164053187141632</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231305" model="data.tweets">
+        <field type="CharField" name="user_id">arablit</field>
+        <field type="CharField" name="username">M. Lynx Qualey</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">OK, so Inas Abdel-Dayem really is out @Ssirgany Mohamed Saber Arab for Culture. #newcabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/arablit/status/357163198400561153</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#newcabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231306" model="data.tweets">
+        <field type="CharField" name="user_id">americafreetv</field>
+        <field type="CharField" name="username">AmericaFree.TV</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">RT  @Ssirgany Did it? @EgyptSource Basem Fathy: #June30 brought an end to 2 negatives for civil society: #NGOlaw &amp;  2nd wave of NGO trials </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/americafreetv/status/357541844130861057</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#June30&quot;, &quot;#NGOlaw&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;, &quot;@EgyptSource&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231307" model="data.tweets">
+        <field type="CharField" name="user_id">g4s90</field>
+        <field type="CharField" name="username">George Salib®</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">#FF @MohAbdElHamid @ElGawadi @kriskoky @khouloudelgamal @SamarAlGamal @SamRashwan @samjaheen @Sarahngb @Ssirgany @seldeeb @Sarah_Gheita :)) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/g4s90/status/358119617664782336</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#FF&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MohAbdElHamid&quot;, &quot;@ElGawadi&quot;, &quot;@kriskoky&quot;, &quot;@khouloudelgamal&quot;, &quot;@SamarAlGamal&quot;, &quot;@SamRashwan&quot;, &quot;@samjaheen&quot;, &quot;@Sarahngb&quot;, &quot;@Ssirgany&quot;, &quot;@seldeeb&quot;, &quot;@Sarah_Gheita&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231308" model="data.tweets">
+        <field type="CharField" name="user_id">aliabunimah</field>
+        <field type="CharField" name="username">Ali Abunimah</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Delusional. Who funds the coup army? RT @Ssirgany: Tamarod refused to meet US&#39; Burns because the &#39;US supports terrorism&#39; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/aliabunimah/status/357846686690848768</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231309" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Khaled Abdel Aziz for youth. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357165335406850048</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231310" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Laila Rashed Iskandar for environment. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357164167280594944</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231311" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Taher Abu Zeid for sports. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357165442550341632</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231312" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Sherif Ismail for petroleum. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357164311501742081</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231313" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Mohamed Ibrahim Abu Shady for Supplies. #newcabinet. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357163765629849600</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#newcabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231314" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Doria Sharaf Eddin for information. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357164055930216450</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231315" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">The Economist&#39;s special report on &#39;the Arab Spring&#39;:  &amp;  &amp;  &amp; more </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357159521791123456</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">28</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/13lmOSuBpo&quot;, &quot;http://t.co/Tu9rEIcmS6&quot;, &quot;http://t.co/X23bF8KSGY&quot;]</field>
+    </object>
+
+    <object pk="231316" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">State agents campaigning against civil society r still powerful. Legal &amp; security crackdown is still possible but maybe further ahead. #prt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357539574169341952</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#prt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231317" model="data.tweets">
+        <field type="CharField" name="user_id">sumitapahwa</field>
+        <field type="CharField" name="username">Sumita Pahwa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Follow @Ssirgany for reporting from the Tamarod presser. A depressing mix of unapologetic army-worshipping &amp; Islamist-bashing. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sumitapahwa/status/357823717369319425</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231318" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@Zeinobia they reiterated earlier stance that they don&#39;t speak on behalf of Egyptians and merely present a vision </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357824354953871362</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Zeinobia&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231319" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Ashraf El-Araby for Planning. #newcabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357162864995348481</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#newcabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231320" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Osama Saleh for investment. #newcabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357162773601464320</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#newcabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231321" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Mohamed Abol Nasr for education. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357165137637019648</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231322" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Adel Labib for local development. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357162971509702656</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231323" model="data.tweets">
+        <field type="CharField" name="user_id">hassibahs</field>
+        <field type="CharField" name="username">Hassiba HadjSahraoui</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@mlotfy81 @Ssirgany Tunisia has a ministry of human rights &amp; transitional justice, drafted law on TJ, remit as described by Mohamed+ archive </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hassibahs/status/357168268533972992</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@mlotfy81&quot;, &quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231324" model="data.tweets">
+        <field type="CharField" name="user_id">h3shoor</field>
+        <field type="CharField" name="username">H3shoor</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;Today&#39;s kings are tomorrow&#39;s prisoners&amp;quot; good read by @Ssirgany  #egypt #june30 </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/h3shoor/status/357487415482937344</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#egypt&quot;, &quot;#june30&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/euZiEvFqUh&quot;]</field>
+    </object>
+
+    <object pk="231325" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">State TV gives conflicting reports about the swearing in of the new cabinet. Most probably tomorrow. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357140164969119744</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231326" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Today’s Kings Are Tomorrow’s Prisoners | Al Akhbar English  via @AlakhbarEnglish </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357433408156205056</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@AlakhbarEnglish&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/D0NAtAJDvz&quot;]</field>
+    </object>
+
+    <object pk="231327" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Ahmed Galal for finance. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357163601217327104</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231328" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Nabil Fahmy for foreign ministry. #newcabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357163515607392256</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#newcabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231329" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Ramzy George for scientific research. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357164549197148162</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231330" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Independent Union leader Kamal Abu Eita for manpower. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357165244356886530</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231331" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Mohamed Mokhtar Gomaa for religious endowments. #newcabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357164878110261248</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#newcabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231332" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Maha Zein El-Abadein for health. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357164619455938560</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231333" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Mohamed Mahgoub Abdel Moteleb for irrigation. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357164753526857728</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231334" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Ahmed El Borai for Social Solidarity. #NewCabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357162178677186564</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#NewCabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231335" model="data.tweets">
+        <field type="CharField" name="user_id">7azem122</field>
+        <field type="CharField" name="username">حازم بركات</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">للى مايعرفش &amp;quot; رئيس الجمهوريه قال خطاب لمده خمس دقايق وخلص &amp;quot; اه والله العظيم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/7azem122/status/357940348015755264</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231336" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Freedom &amp; Justice Party says Morsi supporters will demonstrate outside the Cabinet today at 12pm. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357323086678331393</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231337" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Mohamed Saber Arab for Culture. #newcabinet </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357162690843643905</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#newcabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231338" model="data.tweets">
+        <field type="CharField" name="user_id">rawyarageh</field>
+        <field type="CharField" name="username">Rawya Rageh</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Unlike stance toward #US under Sos Burns, #MB figures to meet visiting #EU FP Chief Ashton, likely going to be Amr Darrag &amp; M Beshr #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rawyarageh/status/357484356417236994</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#US&quot;, &quot;#MB&quot;, &quot;#EU&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231339" model="data.tweets">
+        <field type="CharField" name="user_id">basildabh</field>
+        <field type="CharField" name="username">Basil الضبع</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">So we’re crossing into Manial… </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/basildabh/status/357480521250516992</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231340" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Ahram journo asks for Tamarod to have a political role and to sideline ppl like Asmaa Mahfouz. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357822088796569600</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231341" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">FJP says 8 MB &amp; Islamist leaders were moved &amp;quot;illegally&amp;quot; to a heavily guarded prison: including Akef, El-Shater, Katatny &amp; Abu Ismail. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/358236181588221953</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231342" model="data.tweets">
+        <field type="CharField" name="user_id">egyptocracy</field>
+        <field type="CharField" name="username">Egyptocracy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عاجبني أوي الناس اللي مشغلة أسطوانة رجوع الجيش... هما كانوا مشيوا أصلا ولا صلاحيتهم قلت وأنا مش واخدة بالي؟  #مصر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/egyptocracy/status/357322487228403712</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0635\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231343" model="data.tweets">
+        <field type="CharField" name="user_id">sumitapahwa</field>
+        <field type="CharField" name="username">Sumita Pahwa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Ssirgany In short, don&#39;t allow MB back into politics, seek to defeat them on cultural plane.  Mubarakism all over again. Disheartening. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sumitapahwa/status/357819293498474496</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231344" model="data.tweets">
+        <field type="CharField" name="user_id">asirgany</field>
+        <field type="CharField" name="username">Sirgany</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">للأسف كتير من المتدينين و الملتزمين اللي مالهومش في السياسة نازلين النهاردة عشان حاسين إن الاضطهاد الديني ضد الملتحين راجع تاني #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/asirgany/status/358201925453365248</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231345" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Presser abt tomorrow&#39;s demos features Tamarod, June 30 Front, NSF and film director Khaled Youssef. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357811852215992321</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231346" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هو اكاونت @RabaaHeros  كان ايه قبل كده؟ كنت متابعاه قبل الاحداث بس تحت اسم تاني </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357668835538644994</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@RabaaHeros&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231347" model="data.tweets">
+        <field type="CharField" name="user_id">basildabh</field>
+        <field type="CharField" name="username">Basil الضبع</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">I don’t know what’s being reported out there but I didn’t witness any altercations in the vicinity of the cabinet building. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/basildabh/status/357467192788385792</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231348" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">What&#39;s in a president? | Mada Masr  via </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357400835795329025</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/EisEU77YI8&quot;]</field>
+    </object>
+
+    <object pk="231349" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Mohamed El Mahdy for justice and national reconciliation. #newcabinet. (new additional portfolio) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357163422321868800</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;#newcabinet&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231350" model="data.tweets">
+        <field type="CharField" name="user_id">basildabh</field>
+        <field type="CharField" name="username">Basil الضبع</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">There were probably a couple thousand protesters that marched from Qasr Al-Ainy to the cornishe. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/basildabh/status/357474117252943872</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">12</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231351" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">In #Tahrir, women on stage dancing to Egyptian love songs by Abdel Halim to Nancy Ajram  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/358251443977207808</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;#Tahrir&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/8isgaDTZ8G&quot;]</field>
+    </object>
+
+    <object pk="231352" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Tamarod&#39; Abdel Aziz: We met EU&#39;s Ashton after changes in European position regarding the revolution. Refused to meet US&#39; Burns. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357815595376447490</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231353" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">قيادات عمالية ونقابية تؤكد فشل دعوى الاتحاد العام للحشد ضد «مؤذن الثورة»  امل الناس في كمال ابو عيطة كبير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357428097383014402</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">12</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/MDfmkRTwFk&quot;]</field>
+    </object>
+
+    <object pk="231354" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Tamarod&#39;s Abdel Aziz: we stand behind the the Armed Forces in confronting terrorism </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357816615838040064</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">21</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231355" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Tamarod&#39;s Hassan Shahin: We call on army &amp; police to deal firmly with terrorist groups. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357821307389362176</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231356" model="data.tweets">
+        <field type="CharField" name="user_id">basildabh</field>
+        <field type="CharField" name="username">Basil الضبع</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Some Manial residents absolutely furious, police trying to calm them down while march goes by. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/basildabh/status/357483286609666048</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">38</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231357" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text"> ضمن مسلسل التعدي على المصورين والمراسلين الصحفيين .. احتجاز مصور الجزيرة مباشر مصر والنيابة تأمر بحبسه خمسة عشر يوم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357981242094260224</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231358" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">حوار مهم و راقي بين السيد مانكي و باسم يوسف   via @noonarabia </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357425094236192770</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@noonarabia&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/m0IOBiCeh4&quot;]</field>
+    </object>
+
+    <object pk="231359" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Tamarod&#39;s Moh Abdel Aziz: we r transforming from a protest movement to a building movement. References &#39;write our constitution&#39; initiative. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357814936916852738</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231360" model="data.tweets">
+        <field type="CharField" name="user_id">lobna</field>
+        <field type="CharField" name="username">Lobna Darwish</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">وزير الداخلية الحالي، #محمد_ابراهيم ، هو الوزير المسؤول عن تعاون الداخلية مع مهاجمي الكتدرائية في العباسية وعدم تدخل الأمن في زاوية أبو مسلم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/lobna/status/357845183016083457</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u062d\u0645\u062f_\u0627\u0628\u0631\u0627\u0647\u064a\u0645&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231361" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Film director Khaled Youssef: this is a cultural fight not political. &#39;Unfortunately they hold ideas that have to be defeated culturally&#39; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357817803513933824</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231362" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Tamarod refused to meet US&#39; Burns because the &#39;US supports terrorism&#39; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357815915250860034</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">21</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231363" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;Bearded chauvinistic right to clean shaven chauvinistic right&amp;quot; NYT: Egyptian Liberals Embrace the Military  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357081440468467713</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">1862</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/IiUoiAU2G4&quot;]</field>
+    </object>
+
+    <object pk="231364" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">How are Muslim youth so indoctrinated into Jihad? Written 3 years ago, but poignant today in #Syria and #Egypt -  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357537839908941824</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">21</field>
+        <field type="TextField" name="hash_tags">[&quot;#Syria&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/8xCyeEHlyo&quot;]</field>
+    </object>
+
+    <object pk="231365" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">most Egyptians don&#39;t know that over 4 million #women has no national ID card, help us spread awareness @Million_ID  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357417507012874240</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">87</field>
+        <field type="TextField" name="hash_tags">[&quot;#women&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Million_ID&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/wD9OBvoK6A&quot;]</field>
+    </object>
+
+    <object pk="231366" model="data.tweets">
+        <field type="CharField" name="user_id">basildabh</field>
+        <field type="CharField" name="username">Basil الضبع</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">I can confirm seeing people removing gates and making their way to lawn of psychiatric hospital. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/basildabh/status/358242593236197377</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">30</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231367" model="data.tweets">
+        <field type="CharField" name="user_id">rehamabdelaziz</field>
+        <field type="CharField" name="username">Reham</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">The situation in #Sinai is getting worse.more civilians being killed by mistake.tonight a house got shot by RPG. 3 died and others injured </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rehamabdelaziz/status/358361194190471170</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;#Sinai&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231368" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Egypt: Investigate Police, Military Killings of 51  Human Rights Watch report on the Republican Guard HQ shooting </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357410615733661699</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">637</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/C7vUdyuuzd&quot;]</field>
+    </object>
+
+    <object pk="231369" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Op-Ed by @NaderBakkar / Correcting the path: New ways forward for Egypt&#39;s governance   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357522023339147265</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">28</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@NaderBakkar&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/yyRAMasTuN&quot;]</field>
+    </object>
+
+    <object pk="231370" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">On sheep and infidels | Mada Masr  via @madamasr by @sarahcarr </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357521544479637505</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">882</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@madamasr&quot;, &quot;@sarahcarr&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/LWWiZE9lGJ&quot;]</field>
+    </object>
+
+    <object pk="231371" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اشتري أخبار الأدب بكره. عدد بدون رئيس تحرير بعد إقصاء المغفل رئيس التحرير اللي عينه إخوان مجلس الشورى  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357862147356766208</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/R3kaE9WaM6&quot;]</field>
+    </object>
+
+    <object pk="231372" model="data.tweets">
+        <field type="CharField" name="user_id">themiinz</field>
+        <field type="CharField" name="username">Menna منّة</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">I was just beaten up by #Ikhwan protesters, camera taken as well. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/themiinz/status/358238171290542081</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">452</field>
+        <field type="TextField" name="hash_tags">[&quot;#Ikhwan&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231373" model="data.tweets">
+        <field type="CharField" name="user_id">themiinz</field>
+        <field type="CharField" name="username">Menna منّة</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;إنتي تبع مين يا بنت الكلب&amp;quot;- المتظاهر لي قبل أن يستولي على الكاميرا.  #Ikhwan </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/themiinz/status/358240446356520961</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">363</field>
+        <field type="TextField" name="hash_tags">[&quot;#Ikhwan&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231374" model="data.tweets">
+        <field type="CharField" name="user_id">elnekity</field>
+        <field type="CharField" name="username">عبدالله النقيطى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">من قبل يوم 30/6 لحد دلوقتى كل مسيرة ل #اﻹخوان اللى بيهاجمهم البلطجيه مش الاهالى #المنصورة #Mansoura </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elnekity/status/358377410237960192</field>
+        <field type="DateField" name="posting_date">2013-07-20</field>
+        <field type="IntegerField" name="retweets">44</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\ufef9\u062e\u0648\u0627\u0646&quot;, &quot;#\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629&quot;, &quot;#Mansoura&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231375" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عدلي منصور بيصبح عليكم. من أولى قوانين رئيس الجمهورية: زيادة الزيادة في المعاشات العسكرية من 7.5% إلى 10% سنويا. #عيش  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357113087674941441</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">81</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0639\u064a\u0634&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/oJ78eIwZPI&quot;]</field>
+    </object>
+
+    <object pk="231376" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Qatar’s foreign policy: Change of tack  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357085344191102976</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">29</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Su5g7TYTSG&quot;]</field>
+    </object>
+
+    <object pk="231377" model="data.tweets">
+        <field type="CharField" name="user_id">skynewsarabia_b</field>
+        <field type="CharField" name="username">سكاي نيوز عربية-الآن</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">النائب العام المصري يأمر بفتح تحقيق عاجل في أحداث ميدان رمسيس والجيزة أمس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/skynewsarabia_b/status/357077079818387456</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231378" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Things are a bit tense at the Semiramis where police have blocked way to make sure demonstrators don’t get too close  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357473292854112257</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">28</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/EcAxkGX06i&quot;]</field>
+    </object>
+
+    <object pk="231379" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">EU brokered a deal bet. Mursi &amp; the opposition last April, with US &amp; military blessing. Mursi never responded </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357444218584711168</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">220</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231380" model="data.tweets">
+        <field type="CharField" name="user_id">ranagaza</field>
+        <field type="CharField" name="username">Rana</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">CBC, Egyptian feloul TV, is basically asking Egyptians to believe that the food/gas of 80 m people, goes to Gaza&#39;s 1.7 m via  tunnels. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ranagaza/status/358380736367169536</field>
+        <field type="DateField" name="posting_date">2013-07-20</field>
+        <field type="IntegerField" name="retweets">32</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231381" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Sexual Violence in Egypt: Myths and Realities  via @jadaliyya by @mariamkirollos </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357868179504111616</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">217</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@jadaliyya&quot;, &quot;@mariamkirollos&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/SqGivcdZco&quot;]</field>
+    </object>
+
+    <object pk="231382" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">The Brotherhood Revives Its Mehna Narrative - By Khalil al-Anani | The Middle East Channel  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357522454425513984</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">103</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/x7sMhYZWYP&quot;]</field>
+    </object>
+
+    <object pk="231383" model="data.tweets">
+        <field type="CharField" name="user_id">ahmadragheb</field>
+        <field type="CharField" name="username">ahmed ragheb</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">قلت وأكرر  شبكة البلطجة فى مصر مرتبطة بأجهزة الدولة ولن يتم تفكيكها إلا بإصلاح أجهزة الدولة من خلال العدالة الانتقالية وهو ما رفضه #الإخوان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmadragheb/status/358412914991972352</field>
+        <field type="DateField" name="posting_date">2013-07-20</field>
+        <field type="IntegerField" name="retweets">37</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0625\u062e\u0648\u0627\u0646&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231384" model="data.tweets">
+        <field type="CharField" name="user_id">drbassemyoussef</field>
+        <field type="CharField" name="username">Dr Bassem Youssef</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تشرفت بمعرفة القائمين على جمعية رسالة و بنك الطعام و الاورمان. حملات التشويه اللي ضدهم بالصاقهم بالإخوان غير صحيحة مطلقا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/drbassemyoussef/status/357081881889603584</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">625</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231385" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Far and away CNN&#39;s best correspondent @bencnn reflects on covering Egypt for decades, Jan 25 and June 30  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/358225525002604544</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">318</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@bencnn&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/4cbcM9bxqO&quot;]</field>
+    </object>
+
+    <object pk="231386" model="data.tweets">
+        <field type="CharField" name="user_id">elnekity</field>
+        <field type="CharField" name="username">عبدالله النقيطى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ال3 وفيات اللى هنا سيدات اخوان . واحده طلق مارى وواحده اختناق وواحده طلق نارى وخرطوش . والاصابات خرطوش وجروح قطعيه #المنصورة #Mansoura </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elnekity/status/358391825297453056</field>
+        <field type="DateField" name="posting_date">2013-07-20</field>
+        <field type="IntegerField" name="retweets">37</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629&quot;, &quot;#Mansoura&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231387" model="data.tweets">
+        <field type="CharField" name="user_id">elnekity</field>
+        <field type="CharField" name="username">عبدالله النقيطى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">والإخوان الى كانوا محبوسين فى العمارات #الداخليه كانت بتخرجهم وتسيبهم لﻷهالى شويه يضربوهم وبعد كده تحطهم فى البوكسات والمدرعات #المنصورة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elnekity/status/358378722111393793</field>
+        <field type="DateField" name="posting_date">2013-07-20</field>
+        <field type="IntegerField" name="retweets">40</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0647&quot;, &quot;#\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231388" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Behind Egypt&#39;s coup, months of acrimony between Morsi and top general over Sinai, policies -By HAMZA HENDAWI | AP  … </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357860090289729540</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/eMNNBRPBkG&quot;]</field>
+    </object>
+
+    <object pk="231389" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Cholera in Haiti: The UN strain | The Economist  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357404212533002241</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">103</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/pNygLzSesL&quot;]</field>
+    </object>
+
+    <object pk="231390" model="data.tweets">
+        <field type="CharField" name="user_id">ssirgany</field>
+        <field type="CharField" name="username">Sarah El Sirgany</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Penguins, ice and light... The beauty of nature captured on camera by the world&#39;s greatest...  via @MailOnline </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ssirgany/status/357419310697811968</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">174</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MailOnline&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/hCrprL8Hiv&quot;]</field>
+    </object>
+
+    <object pk="231391" model="data.tweets">
+        <field type="CharField" name="user_id">elnekity</field>
+        <field type="CharField" name="username">عبدالله النقيطى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مسمعش اى ابن كلب يزايد عليا . محدش بيكره اﻹخوان قدى لكن مش هبقى صهيونى زيهم واسكت على ظلم لحد حتى لو عدوى . علشان هيجى دورى بعدهم #المنصورة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elnekity/status/358378158296276993</field>
+        <field type="DateField" name="posting_date">2013-07-20</field>
+        <field type="IntegerField" name="retweets">53</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231392" model="data.tweets">
+        <field type="CharField" name="user_id">hafsahalawa</field>
+        <field type="CharField" name="username">Hafsa Halawa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">RT “@Ssirgany: Economist&#39;s special report on &#39;Arab Spring&#39;:  &amp;  &amp;  &amp; more” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hafsahalawa/status/357160599051968514</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Ymp6YQAGee&quot;, &quot;http://t.co/xleGjxVgrF&quot;, &quot;http://t.co/KcutOuIfI3&quot;]</field>
+    </object>
+
+    <object pk="231393" model="data.tweets">
+        <field type="CharField" name="user_id">oritperlov</field>
+        <field type="CharField" name="username">orit perlov</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">If true, it&#39;s pure stupidity. Shame.  RT @Ssirgany: #Tamarod refused to meet #US&#39; Burns because the &#39;US supports terrorism&#39; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/oritperlov/status/357852332404391936</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Tamarod&quot;, &quot;#US&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231394" model="data.tweets">
+        <field type="CharField" name="user_id">mohamedelibiary</field>
+        <field type="CharField" name="username">Mohamed Elibiary</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Interesting..RT @Ssirgany Behind Egypt&#39;s coup, acrimony btwn Morsi &amp;top Gen over Sinai -By HAMZA HENDAWI | AP  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohamedelibiary/status/357708251145580546</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/RBhQ6YWpNg\u2026&quot;]</field>
+    </object>
+
+    <object pk="231395" model="data.tweets">
+        <field type="CharField" name="user_id">tombalderston</field>
+        <field type="CharField" name="username">Thomas Balderston</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Ssirgany Visit  Blessings. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/tombalderston/status/357862437669711874</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">287</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="231396" model="data.tweets">
+        <field type="CharField" name="user_id">nasserelhawary</field>
+        <field type="CharField" name="username">nasser el-hawary</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Thanks @Ssirgany @Maktoob_Yahoo for being top engaged members in my community this week :) | insight by  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasserelhawary/status/357930780661518336</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">68000</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Ssirgany&quot;, &quot;@Maktoob_Yahoo&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/I3k7bjVUcU&quot;]</field>
+    </object>
+
+</django-objects>

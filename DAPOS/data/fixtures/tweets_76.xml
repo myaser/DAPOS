@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="162303" model="data.tweets">
+        <field type="CharField" name="user_id">drmonajjar</field>
+        <field type="CharField" name="username">Mohammed AnNajjar</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@iOrto @Be__Ultras لو وقفت في البلكونة ممكن تتضرب بالخرطوش </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/drmonajjar/status/354252314716016640</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@iOrto&quot;, &quot;@Be__Ultras&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162304" model="data.tweets">
+        <field type="CharField" name="user_id">memam8</field>
+        <field type="CharField" name="username">Mohamed Emam</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@iOrto من قلتوهم هم من أخرجوهم ، الجيش يدافع عن نفسه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/memam8/status/354187717560631297</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@iOrto&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162305" model="data.tweets">
+        <field type="CharField" name="user_id">fouda_</field>
+        <field type="CharField" name="username">Fouda</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@darshia @iOrto اللطيف حاجة كمان، مع فائض العمالة دي سوريين كتير لقوا شغل أول ما جم :) إحنا شعب إبن دينر بوكس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fouda_/status/355286481394348032</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@darshia&quot;, &quot;@iOrto&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162306" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">اللهم اجعله خير... اللهم اجعله خير... تف تف تف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/357508367696134144</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162307" model="data.tweets">
+        <field type="CharField" name="user_id">rebelnabil</field>
+        <field type="CharField" name="username">Nabil</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">سفير تركيا استدعوه عشان يفهموه فيروح يفهم اردوغان بس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rebelnabil/status/355293121908719617</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162308" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">يا أبي، أنا أسمي الأشياء بأسمائها لا أكثر، ولهذا لم يعد لي أصدقاء </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/355296793459830784</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162309" model="data.tweets">
+        <field type="CharField" name="user_id">haniii21</field>
+        <field type="CharField" name="username">Hani</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">.@Youssefalhosiny فتقوم تحرض عليهم كلهم... برافو فاشية، برافو زينوفوبيا... هتلر في قبره أكيد مبسوط منك! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/haniii21/status/355149201925091328</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162310" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">واحد ذكي من دول يسألني: هو انت تبع مين بالظبط؟ أرد عليه وأقول: وهو أنا لازم أبقى &amp;quot;تبع&amp;quot; حد يا حيلتها؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/357526877805608962</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162311" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">-لا يمكن قبول قتل العشرات من الناس تحت اي مسمي وبأي حجه. حجه محاوله الاقتحام واهيه الان كما كانت ايام محمد محمود... </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/354178578973343745</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162312" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@ElGawadi: طول عمر الشعب المصري مش عنصري و لا متعصب..... غير مع اللي مختلفين معاه في اللون و الدين و الشكل و الطائفة و الأفكار&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/355295195195113472</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162313" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@OnewaySpeaker الناس اللي في النص اتكتموا لأنهم خونة في نظر الطرفين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/357629925148209154</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@OnewaySpeaker&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162314" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">السيسي يسحب سفيرنا في أنقرة. يا جماعة مو انقلاب... الرئيس مدني :-) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/355288863754821633</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162315" model="data.tweets">
+        <field type="CharField" name="user_id">kassem_ax</field>
+        <field type="CharField" name="username">Kassem</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لايجب ان يشغلنا سقوط الاخوان عن عوده الفلول ... الثورة مستمره #فلول_اكتر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kassem_ax/status/357624980143489024</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0641\u0644\u0648\u0644_\u0627\u0643\u062a\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162316" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">هل هذه الأرض حقاً مباركةٌ أم مُعَمَّدةٌ بدمٍ، ودمٍ، ودمٍ، لا تجفِّفُهُ الصلواتُ ولا الرملُ. #درويش </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/355118174821289984</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062f\u0631\u0648\u064a\u0634&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162317" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">صحفية في جريدة العربي الناصري مسمية نفسها على الفيس بوك &amp;quot;نشوى الديب يحيا جيشنا&amp;quot;... بقالي كتير ماضجكتش كده بصراحة :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/355320027441922048</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162318" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">خلاصة الكلام: ناس مؤمنة بفكرة (أيا كانت) بتموت على يد ناس أوساخ في سبيل ناس أوساخ تانيين قاعدين في أماكن آمنة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/354183979647254529</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162319" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ما حدث في 30 يونيو حركة احتجاج شعبي، وما حدث في 3 يوليو هو انقلاب عسكري استغل حركة الاحتجاج. هكذا هو فهمي للأمور، ولكنها أزمة مصطلحات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/355290383506354176</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162320" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">أغاني من العصر الناصري، وأغاني من بتاعة الجيش، ونشيد من عصر ما قبل يوليو به مقطع عن فرعونية مصر... أي كلام يا عبد السلام #منصة_رابعة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/355828916964966400</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0646\u0635\u0629_\u0631\u0627\u0628\u0639\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162321" model="data.tweets">
+        <field type="CharField" name="user_id">_dehema</field>
+        <field type="CharField" name="username">موظف حكومة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ياجدعان أبوس ايديكم ماحدش يبرر لحد فى اى اشتباك يحصل .. طالما ماحضرتوش ماتحكمش مهما شفت فيديوهات ..الدم أكبر من إنك تشيل ذنب فيه بكلمة فارغة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/_dehema/status/354500152410636288</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162322" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">فتمتم الفيلد مارشال مونتجومري حانقا: إنهم يريدون منح #السيسي رتبة فيلد مارشال... الرتبة شكلها هتلم يا عزيزتي أوفيليا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/357525969008988160</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0633\u064a\u0633\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162323" model="data.tweets">
+        <field type="CharField" name="user_id">mai_khalil</field>
+        <field type="CharField" name="username">Mai</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ايوا هاتوا كل محرض شاحن للشباب دول انهم يعتقدوا فعلا ان ده نصرة للإسلام و عندما يقتلوا توضع صورة مرسي على جثثهم!حتى موتاهم بيتاجروا بيهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mai_khalil/status/354193906885337088</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162324" model="data.tweets">
+        <field type="CharField" name="user_id">wild_atheart</field>
+        <field type="CharField" name="username">القصاص أولاً</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">بديع طالع يساوم على القتلى بإن #مرسي يرجع، ربنا ينتقم منكم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/wild_atheart/status/354178791456776193</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0631\u0633\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162325" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@memam8 لا ألوم القواعد، لأنهم مغيبون أو مسكونون بالفكرة... من قتلهم هم من أطلقوا عليهم النار بالاشتراك مع من حرضوهم على الموت </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/354187135403823105</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@memam8&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162326" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">طوبى للمؤمنين إيمانًا صادقًا بفكرة، أما من يستغلونهم فلهم الدرك الأسفل من العار </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/354955057118191616</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162327" model="data.tweets">
+        <field type="CharField" name="user_id">waelmmdooh_</field>
+        <field type="CharField" name="username">wael</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">1m:  بغض النظر عن موقفك من الجيش، متسمحش لحد يكذب عليك أو يستخف بعقلك. حماية المتظاهرين ف #30يونيو علي راسنا، بس رواية قتل طفلة #سيناء كدب. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/waelmmdooh_/status/355136144939290624</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#30\u064a\u0648\u0646\u064a\u0648&quot;, &quot;#\u0633\u064a\u0646\u0627\u0621&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162328" model="data.tweets">
+        <field type="CharField" name="user_id">mohsenkamal</field>
+        <field type="CharField" name="username">mohsen kamal سي محسن</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">و مازل السفه في منصة رابعة بيتريقوا على أسامي الضحايا و القتلى زي جيكا و بيقولوا قتلاهم و قتلانا .. الرحمة من السفه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohsenkamal/status/355721002635898883</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162329" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ما زلت أتذكر ضاحكا كم كنت ساذجا حتى سنة 2008 لدرجة أنني كنت أوجع قلبي في جدالات ساخنة دفاعا عن الإخوان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/357402015946637312</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162330" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">كلهم أوساخ: من قتلهم، ومن حرضهم، ومن وضع صور أطفال سوريا الشهداء ليوهمنا أنهم من ضحايا المذبحة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/354180491047473153</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162331" model="data.tweets">
+        <field type="CharField" name="user_id">ibrahimtawfik</field>
+        <field type="CharField" name="username">ibrahim tawfik</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا شخصيا من مؤيدى الهتاف الجميل ارحل يا سيسى مرسى مش رئيسى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ibrahimtawfik/status/354191875198042112</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162332" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الأوشابتي: تماثيل صغيرة كان يضعها الفراعنة مع الميت لتؤدي الأعمال الشاقة بدلا منه، ويأخذ هو المجد وحده. ما أكثر الأوشابتي في مصر الآن </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/355343329988321284</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162333" model="data.tweets">
+        <field type="CharField" name="user_id">darshia</field>
+        <field type="CharField" name="username">heba 3\69</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الغريب إن العمالة المصرية أكتر من الهم عالقلب في بلاد العالم شرق وغرب و قال بنمارس شوفينية قذرة على ناس لجأت إلينا مكرهة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/darshia/status/355279152124923905</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162334" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">يقول كونفوشيوس في محاوراته: إن بعضكم ليلبس صندله وهو نازل إلى الشارع وينسى مخه في الجزامة اللي جنب الباب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/355339044495953920</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162335" model="data.tweets">
+        <field type="CharField" name="user_id">mhantirah</field>
+        <field type="CharField" name="username">mohamed hantirah</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@nazlyhussein: الجيش كداب وانا ومش بصدقه.. والإخوان كدابين وانا مش بصدقهم. بس في ٤٢ واحد ماتوا.&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mhantirah/status/354194054084440064</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162336" model="data.tweets">
+        <field type="CharField" name="user_id">sherinwagdy</field>
+        <field type="CharField" name="username">Sherin Wagdy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">والله بحب وائل خليل و شيفاه انسان محترم و جميل و عنده نقاء ثوري ولا يمكن اخونه .... بس الصح شوفوا وائل عايز ايه و نروح الناحية التانية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sherinwagdy/status/356838654443925504</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162337" model="data.tweets">
+        <field type="CharField" name="user_id">temo_maverick14</field>
+        <field type="CharField" name="username">TEMO</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@i3atef: ‏الإخوان بعد حقارتهم في رفع صور مرسي فوق جثث المتوفين في اشتباكات الحرس الجمهوري طالعين يطالبوا بعودة مرسي للحكم مقابل التصالح&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/temo_maverick14/status/354182804411654144</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162338" model="data.tweets">
+        <field type="CharField" name="user_id">baho_egypt</field>
+        <field type="CharField" name="username">Baho Bakhsh</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كل ما اقول لحد 57 شخص اتقتلوا على ايد الجيش يترد على برمي عيال من على سطح عمارة بالاسكندرية وقتل الناس في بين السرايات.منطق العين بالعين ساد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/baho_egypt/status/355272105245421569</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162339" model="data.tweets">
+        <field type="CharField" name="user_id">elgawadi</field>
+        <field type="CharField" name="username">مُهاب الجوادي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">يوم مجزرة اللاجئين السودانيين، كان واقف جنبي بواب أسواني في عمارة في جامعة الدول.. و كان عمال يشتم و يقول &amp;quot;يا سود يا ولاد الوسخة&amp;quot;..اه والله </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elgawadi/status/355294949853511680</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162340" model="data.tweets">
+        <field type="CharField" name="user_id">semsemanasr2</field>
+        <field type="CharField" name="username">yazan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Shidzz ياريت تختاروا بعنايه اللى بيتكلم على المنصه في رابعه الناس بتقفلنا على الواحده و فعلا زي ما قولت دول مش شيوخ دول ناس عايزه ترغي ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/semsemanasr2/status/355131084045946881</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Shidzz&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162341" model="data.tweets">
+        <field type="CharField" name="user_id">rababoush</field>
+        <field type="CharField" name="username">rababoush</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">“@anaga3an: الواد على #منصة_رابعه  بيقولهم الاعلام نزلت ليه ارفعوها تاني بسرعة” تلاقي في كاميرا خارجية بتصور....اعملوا باي لأوباما </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rababoush/status/355826262289289216</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0646\u0635\u0629_\u0631\u0627\u0628\u0639\u0647&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162342" model="data.tweets">
+        <field type="CharField" name="user_id">themiinz</field>
+        <field type="CharField" name="username">Menna منّة</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;إنتي تبع مين يا بنت الكلب&amp;quot;- المتظاهر لي قبل أن يستولي على الكاميرا.  #Ikhwan </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/themiinz/status/358240446356520961</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">364</field>
+        <field type="TextField" name="hash_tags">[&quot;#Ikhwan&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162343" model="data.tweets">
+        <field type="CharField" name="user_id">nihalysr</field>
+        <field type="CharField" name="username">Nihal El Gohary</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ربنا يرحم اللي ماتوا ، وحسبنا الله ونعم الوكيل في اللي بيتاجروا بدمهم ، وحسبنا الله ونعم الوكيل في اللي قتلهم برضه ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nihalysr/status/354194056605212672</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162344" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">بدليل توازن عدد القتلى RT @G4S90: المتحدث العسكري: الجيش كان يدافع عن نفسه أثناء «اشتباكات الحرس الجمهوري»  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/357536272480763904</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">108</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@G4S90&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/5GtSUQDvG0&quot;]</field>
+    </object>
+
+    <object pk="162345" model="data.tweets">
+        <field type="CharField" name="user_id">dinasamak</field>
+        <field type="CharField" name="username">dinasamak</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لا تلوموا الضحية في فقيرة مثلكم مستغلة مثلكم.. لوموا قادتهم وقادتكم.. لوموا جلاديهم وجلاديكم.. لوموا مرشد حقير ودولة قمعية ودافعوا عن الحلم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dinasamak/status/354236028967583745</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">66</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162346" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text"> لما الاخوان عملوا حفلة علي زياد العليمي لما قال على طنطاوى حمار.. ايييييييييييييييييه.. دونياااااا... </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/356737323133698049</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">182</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162347" model="data.tweets">
+        <field type="CharField" name="user_id">rashapress</field>
+        <field type="CharField" name="username">رشا عزب</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">جثمان كرم كما وصفت امه تعرض لتعذيب عنيف وربط للساقين والقدمين وكدمات متفرقة وهذا ما تعرض له غالبية الجثامين الموجودة بمشرحة زينهم الان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rashapress/status/355128681615720448</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">161</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162348" model="data.tweets">
+        <field type="CharField" name="user_id">malekadly</field>
+        <field type="CharField" name="username">malek adly</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">أهالي القتلي امبارح رفضوا دخول المحامين الحقوقيين المشرحة والنهارده محامين الإخوان رفضوا حضورهم التحقيقات ... محدش يلومني ولا يعتب عليا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/malekadly/status/354601518479056897</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">107</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162349" model="data.tweets">
+        <field type="CharField" name="user_id">aabdoallah</field>
+        <field type="CharField" name="username">Ahmed 3abdAllah</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">قيادات الإخوان خلت الدم أرخص من تمن صور السيسي إللى بتتباع في الشوارع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/aabdoallah/status/355792828548386816</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162350" model="data.tweets">
+        <field type="CharField" name="user_id">elmansi</field>
+        <field type="CharField" name="username">elmansi</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">بدور علي نسخة المنشورات اللي وزعها الاخوان في 27 مايو 2011 وسموها جُمعة الوقيعة بين الجيش والشعب..وحروح اوزعها عالاخوان #موتوا_بغيظكم :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elmansi/status/355732919718903812</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">49</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0648\u062a\u0648\u0627_\u0628\u063a\u064a\u0638\u0643\u0645&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162351" model="data.tweets">
+        <field type="CharField" name="user_id">be__ultras</field>
+        <field type="CharField" name="username">معنديش تويتر خالص</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لو وقفت مع الجيش هبقي خاين ولو وقفت مع الاخوان هبقي خاين ولو وقفت علي الحياد هبقي سلبي #احا انا هروح اقف في البلكونة احسن </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/be__ultras/status/354248209381588992</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u062d\u0627&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162352" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@anas3qeel المقال بالكامل اتفتح أهو خلاص  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/355313534084714499</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">3089</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@anas3qeel&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/qITYTWeon1&quot;]</field>
+    </object>
+
+    <object pk="162353" model="data.tweets">
+        <field type="CharField" name="user_id">yassminabaza</field>
+        <field type="CharField" name="username">Yasmine Abaza</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أرواح51 مصري بين يديك.تاجر بيهم قياداتهم وشمت فيهم شعبهم.ماتوامعتقدين انهم على حق. الهم ارحمهم وصبر قلوب أمهاتهم ونور قلوبهم فى شهرك الكريم. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/yassminabaza/status/354495361236205568</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162354" model="data.tweets">
+        <field type="CharField" name="user_id">zoomax1</field>
+        <field type="CharField" name="username">Hazem Youssef</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مفيش محاولة اغتيال لقائد الجيش التاني وده لتغطية خوفهم من عربيه وقتلهم من فيهاطلعت طفله وابيهاماشيين بعربيتهم #مصر #كاذبون #الانقلاب_العسكري </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zoomax1/status/355135359979503616</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0635\u0631&quot;, &quot;#\u0643\u0627\u0630\u0628\u0648\u0646&quot;, &quot;#\u0627\u0644\u0627\u0646\u0642\u0644\u0627\u0628_\u0627\u0644\u0639\u0633\u0643\u0631\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162355" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">قبل المجزرة | صفوت حجازى يهدد بإقتحام مقر الحرس الجمهوري وتحرير مرسي:  #الإخوان_القتلة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/354193871636410369</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0625\u062e\u0648\u0627\u0646_\u0627\u0644\u0642\u062a\u0644\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Ckhb1Wh4Mi&quot;]</field>
+    </object>
+
+    <object pk="162356" model="data.tweets">
+        <field type="CharField" name="user_id">elma7roossa</field>
+        <field type="CharField" name="username">المحروسة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">المؤتمر البائس الذي قدم فيه الإخوان كل ما هو رخيص ومبتذل من استعراض جرحى بدمائهم إلى استغلال سيدة مسيحية غير متزنة أفقدهم أي بقايا مصادقية 7 </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elma7roossa/status/354491213761609729</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">29</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162357" model="data.tweets">
+        <field type="CharField" name="user_id">elma7roossa</field>
+        <field type="CharField" name="username">المحروسة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كل التحليلات دي مش هترجع واحد مات لحضن ابوه وامه, إنما ممكن تقنع واحد ما ينزلش اعتصام يأيد جماعة معندهاش مانع انك تموت عشان تتاجر بدمك. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elma7roossa/status/354496570093342720</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162358" model="data.tweets">
+        <field type="CharField" name="user_id">elma7roossa</field>
+        <field type="CharField" name="username">المحروسة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مش قادرة اصدق ان فيه ناس بتبرر سرقة الإخوان لصور أطفال سوريا وبتقول بكره هتشوفي صور أطفالهم القتلى! يعني هم سرقوا صور على ما يصوروا قتلاهم! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elma7roossa/status/354185158573830144</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">58</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162359" model="data.tweets">
+        <field type="CharField" name="user_id">iorto</field>
+        <field type="CharField" name="username">Muhammad Abdelghani</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">FJ party posted a photo from #syria claiming it has taken at the ikhwan sit in #liars  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/iorto/status/354185674330603521</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">72</field>
+        <field type="TextField" name="hash_tags">[&quot;#syria&quot;, &quot;#liars&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/rwe1EGJBCP&quot;]</field>
+    </object>
+
+    <object pk="162360" model="data.tweets">
+        <field type="CharField" name="user_id">usamashazly</field>
+        <field type="CharField" name="username">Usama Al Shazly</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">منة علاء صحفية المصري اليوم اتضربت في مظاهرات الاخوان عند الحرس،قلنا 100 مرة ردا على ليه الاعلام مبينقلش،هما بيختاروا اللي ينقل على مزاجهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/usamashazly/status/358253087800041472</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">75</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162361" model="data.tweets">
+        <field type="CharField" name="user_id">moudbarthez</field>
+        <field type="CharField" name="username">Moud Barthez</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الاخوان يدبرون امراً يوم الجمعة القادمة, والبلتاجي يدعو لجمعة زحف للقاهرة من جميع المحافظات!! كفاكم تضحية بأبناء الفقراء منكم لاجل كرسي! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/moudbarthez/status/355134249449435138</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">32</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162362" model="data.tweets">
+        <field type="CharField" name="user_id">wafaasalem</field>
+        <field type="CharField" name="username">Wafaa Salem</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">منصة #رابعة : وشهدائهم أسمائهم عجيبة .. جيكا وميكا وسيكا .. أما إحنا فشهدائنا لهم أسماء محترمة !!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/wafaasalem/status/355707041014231040</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">48</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0631\u0627\u0628\u0639\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162363" model="data.tweets">
+        <field type="CharField" name="user_id">osama_saber</field>
+        <field type="CharField" name="username">دماغوس ®</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@iOrto  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/osama_saber/status/357633936475697152</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">243</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@iOrto&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162364" model="data.tweets">
+        <field type="CharField" name="user_id">7ely</field>
+        <field type="CharField" name="username">Mostafa Helmy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كلم لنا يابني الصيدلية، شوف لنا إزازة جاك دانيالز نطهر بيها الجرح. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/7ely/status/354495771728547840</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">36</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162365" model="data.tweets">
+        <field type="CharField" name="user_id">waleedabdellah</field>
+        <field type="CharField" name="username">Waleed Abdellah</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;اللي يعادينا بروح امه يموت .. الحلوة بتخترق سرعة الصوت&amp;quot; .... من على البربريز الخلفي لإف 16 شغالة على خط الجيزة - فيصل بقالها ساعة !! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/waleedabdellah/status/358248547990257665</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">76</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162366" model="data.tweets">
+        <field type="CharField" name="user_id">a_mansorr</field>
+        <field type="CharField" name="username">عدلى منصور</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بعد ما قدمت الحاجة الساقعة للوليه بتاعة الاتحاد الاوروبى هى و السيسى كرمشت ايديها بعشره يورو بس انا مرضيتش اخدها . *الامارات كفاية* </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/a_mansorr/status/357870634316996609</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">194</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="162367" model="data.tweets">
+        <field type="CharField" name="user_id">elshobakii</field>
+        <field type="CharField" name="username">mohamed elshobaki</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@iOrto  :-)) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elshobakii/status/357538918842908672</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@iOrto&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+</django-objects>

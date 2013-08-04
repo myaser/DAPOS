@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="176114" model="data.tweets">
+        <field type="CharField" name="user_id">noranor44</field>
+        <field type="CharField" name="username">nora nor</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Hossny_Mubarak انت مش عارف اصل اثيوبيا مش بيعرفوا عربى ههههههه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/noranor44/status/341547591563083776</field>
+        <field type="DateField" name="posting_date">2013-06-03</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Hossny_Mubarak&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="176115" model="data.tweets">
+        <field type="CharField" name="user_id">sherif_kha</field>
+        <field type="CharField" name="username">Sherif Fathy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Hossny_Mubarak بس بنتفق معاهم ان حكامنا إخوان. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sherif_kha/status/341368416831152128</field>
+        <field type="DateField" name="posting_date">2013-06-02</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Hossny_Mubarak&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="176116" model="data.tweets">
+        <field type="CharField" name="user_id">hossny_mubarak</field>
+        <field type="CharField" name="username">مبـــــــــــارك</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">I liked a @YouTube video  Sherine Wagdy - Wala Leila / شيرين وجدي - ولا ليلة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hossny_mubarak/status/342496438707695616</field>
+        <field type="DateField" name="posting_date">2013-06-05</field>
+        <field type="IntegerField" name="retweets">62</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@YouTube&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="176117" model="data.tweets">
+        <field type="CharField" name="user_id">clever_flower</field>
+        <field type="CharField" name="username">Amal Abou-Setta</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Andyegypt: انهاردة مات واحد اسمه &amp;quot;حسام&amp;quot; عضو #تمرد في قسم حلوان بعد التعذيب اثناء احتجازه ..” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/clever_flower/status/342062699666104322</field>
+        <field type="DateField" name="posting_date">2013-06-04</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062a\u0645\u0631\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="176118" model="data.tweets">
+        <field type="CharField" name="user_id">hazemfareed</field>
+        <field type="CharField" name="username">الرفيق حازم التوافقى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كل ماتكلمهم عن أي فشل يقولولك &amp;quot;أصل دي تركة مبارك&amp;quot; .. بقت أقصى أمنياتي إنهم يحافظوا على تركة مبارك. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hazemfareed/status/304252921141399553</field>
+        <field type="DateField" name="posting_date">2013-06-02</field>
+        <field type="IntegerField" name="retweets">226</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="176119" model="data.tweets">
+        <field type="CharField" name="user_id">saraahusein</field>
+        <field type="CharField" name="username">ســـــــــــارة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإبداع بيجي بالليل والكل نايم فبتستمع بيه لوحدك ويزيد غرورك . </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/saraahusein/status/341375644606816256</field>
+        <field type="DateField" name="posting_date">2013-06-02</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="176120" model="data.tweets">
+        <field type="CharField" name="user_id">hossny_mubarak</field>
+        <field type="CharField" name="username">مبـــــــــــارك</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تبقى &amp;quot; الـפـمدلله &amp;quot; الڪلمـۃ الۈפـيدة المعبرة عن ڪۧل פـال </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hossny_mubarak/status/341347200196022272</field>
+        <field type="DateField" name="posting_date">2013-06-02</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="176121" model="data.tweets">
+        <field type="CharField" name="user_id">hossny_mubarak</field>
+        <field type="CharField" name="username">مبـــــــــــارك</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">من عجايب شعب مصر أن &amp;quot;وحياة امك&amp;quot; شتيمة و &amp;quot;وحياة أبوك&amp;quot; طلب بأدب #Egypt_Always_Leads </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hossny_mubarak/status/341898900111757312</field>
+        <field type="DateField" name="posting_date">2013-06-04</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt_Always_Leads&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="176122" model="data.tweets">
+        <field type="CharField" name="user_id">hossny_mubarak</field>
+        <field type="CharField" name="username">مبـــــــــــارك</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@hazemfareed التويتة دي ترجمتها ضحك السنين :D  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hossny_mubarak/status/341349344089341953</field>
+        <field type="DateField" name="posting_date">2013-06-02</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@hazemfareed&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/IbMjlHiqKk&quot;]</field>
+    </object>
+
+    <object pk="176123" model="data.tweets">
+        <field type="CharField" name="user_id">hossny_mubarak</field>
+        <field type="CharField" name="username">مبـــــــــــارك</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">في منتصف القرن الماضي عندما أسست أمريكا وكالة ناسا أرادت مصر أن تدخل في المنافسة فأسست وكالة البلح #Egypt_Always_Leads </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hossny_mubarak/status/341896453473591298</field>
+        <field type="DateField" name="posting_date">2013-06-04</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt_Always_Leads&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="176124" model="data.tweets">
+        <field type="CharField" name="user_id">hossny_mubarak</field>
+        <field type="CharField" name="username">مبـــــــــــارك</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الفرق اللي بين ثورتين مصر وتركيا.. ان معندهـمش تحرش جنسي ولا اتهامات بالعلاقات الكاملة داخل خيام الاعتصامات ولا قناة الحافظ #Turkey #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hossny_mubarak/status/341362000892420096</field>
+        <field type="DateField" name="posting_date">2013-06-02</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Turkey&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="176125" model="data.tweets">
+        <field type="CharField" name="user_id">hossny_mubarak</field>
+        <field type="CharField" name="username">مبـــــــــــارك</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الصورة الأكثر انتشاراً على الفيس بوك  #مصر #مرسي #الإخوان #أحلام  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hossny_mubarak/status/341385584603983872</field>
+        <field type="DateField" name="posting_date">2013-06-02</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0635\u0631&quot;, &quot;#\u0645\u0631\u0633\u064a&quot;, &quot;#\u0627\u0644\u0625\u062e\u0648\u0627\u0646&quot;, &quot;#\u0623\u062d\u0644\u0627\u0645&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/zrndlnQbco&quot;]</field>
+    </object>
+
+</django-objects>

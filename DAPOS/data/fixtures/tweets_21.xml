@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="34060" model="data.tweets">
+        <field type="CharField" name="user_id">bothainakamel1</field>
+        <field type="CharField" name="username">الإرهابي لا دين له</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">“@LoaiNagati: الاخوان حطوا الحواجز ديه لقفل كوبري اكتوبر!!  أزيلت الان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bothainakamel1/status/356868165571067908</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/eYTT6obAHR\u201d\u0628\u0633&quot;]</field>
+    </object>
+
+    <object pk="34061" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اخوان عندي على الفيسبوك. مصريين دول ولا ايه انا مش عارف  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357617290788880384</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">36</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/qgUjHxxTAp&quot;]</field>
+    </object>
+
+    <object pk="34062" model="data.tweets">
+        <field type="CharField" name="user_id">nermbed</field>
+        <field type="CharField" name="username">Nermeen Bedair</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">+1000 “@LoaiNagati: ده مطالب الاخوان برجوع مرسي ومجلس الشورى والدستور، منطقيه اكتر من مطالب بيان &amp;quot;استكمال الثوره&amp;quot;!!” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nermbed/status/356791237057056770</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34063" model="data.tweets">
+        <field type="CharField" name="user_id">seksek</field>
+        <field type="CharField" name="username">قاهر الفولورز</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@LoaiNagati: حسن البرنس على منصة رابعه: نحن اول شعب يفشل انقلابا عسكريا.. ومرسي يعيش مع الله&amp;quot;ليه؟ المسيح؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/seksek/status/358190056319614976</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34064" model="data.tweets">
+        <field type="CharField" name="user_id">nermbed</field>
+        <field type="CharField" name="username">Nermeen Bedair</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الصندوق بدل النسر دي معبرة جدا &amp;quot;@pyrovisky:لوووووول @LoaiNagati: اخوان عندي على الفيسبوك. مصريين دول ولا ايه مش عارف  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nermbed/status/357620613675892736</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/hzIQDaMEfZ&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="34065" model="data.tweets">
+        <field type="CharField" name="user_id">3am_mina</field>
+        <field type="CharField" name="username">مينا نفس حروف أمين</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati اساحبي دة زياد تحريراوي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/3am_mina/status/356999000433500161</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34066" model="data.tweets">
+        <field type="CharField" name="user_id">aaddeellasd</field>
+        <field type="CharField" name="username">عادل</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati  اذا دا المثقف بتاعهم لاعتب على المغير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/aaddeellasd/status/357150446483275777</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34067" model="data.tweets">
+        <field type="CharField" name="user_id">mohamedrefaat</field>
+        <field type="CharField" name="username">Mohamed ٌRefaat</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@LoaiNagati: الثوابت عند الاخوان في الاشتباكات: اعتدوا علينا واحنا بنصلي - ضربوا المسجد - الضحايا كلهم من عندنا&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohamedrefaat/status/356943335535034370</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34068" model="data.tweets">
+        <field type="CharField" name="user_id">fadelsoliman</field>
+        <field type="CharField" name="username">Fadel Soliman</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati EU takes step back on Egypt EU warned Egyptian army, and declared administration appointed by army as illegitimate. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadelsoliman/status/356973930403201024</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34069" model="data.tweets">
+        <field type="CharField" name="user_id">fadelsoliman</field>
+        <field type="CharField" name="username">Fadel Soliman</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati و ميركل تطالب بالإفراج عن د مرسي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadelsoliman/status/356974108690497538</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34070" model="data.tweets">
+        <field type="CharField" name="user_id">mohamedrefaat</field>
+        <field type="CharField" name="username">Mohamed ٌRefaat</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@LoaiNagati: الثوابت عند الاخوان في الاشتباكات: اعتدوا علينا واحنا بنصلي - ضربوا المسجد - الضحايا كلهم من عندنا&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohamedrefaat/status/356943335535034370</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34071" model="data.tweets">
+        <field type="CharField" name="user_id">fadelsoliman</field>
+        <field type="CharField" name="username">Fadel Soliman</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati EU takes step back on Egypt EU warned Egyptian army, and declared administration appointed by army as illegitimate. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadelsoliman/status/356973930403201024</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34072" model="data.tweets">
+        <field type="CharField" name="user_id">fadelsoliman</field>
+        <field type="CharField" name="username">Fadel Soliman</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati و ميركل تطالب بالإفراج عن د مرسي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadelsoliman/status/356974108690497538</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34073" model="data.tweets">
+        <field type="CharField" name="user_id">omr245</field>
+        <field type="CharField" name="username">عمر السحرتي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MhmdAbdelRahman @Baher @LoaiNagati أسحابي موقع أخواني لأرسال أشارات الهجوم و التخريب و الشفره الخاصه بهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/omr245/status/357034217210773506</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MhmdAbdelRahman&quot;, &quot;@Baher&quot;, &quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34074" model="data.tweets">
+        <field type="CharField" name="user_id">nahlasoliman3</field>
+        <field type="CharField" name="username">نــــهــــلـــة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati وموتوا طفلين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nahlasoliman3/status/356944194197131264</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34075" model="data.tweets">
+        <field type="CharField" name="user_id">nefro79</field>
+        <field type="CharField" name="username">Heba Khafagy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati هو لسه مسقطش؟! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nefro79/status/357708983089364992</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34076" model="data.tweets">
+        <field type="CharField" name="user_id">yasmen_gad</field>
+        <field type="CharField" name="username">yasmen</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عيله سوريه محتاجه مساعده عينيه او ماليه ف طلخا #المنصوره.ال حابب يساعد يعرفني.ريتويت @LoaiNagati @Mirna_elhelbawi @monaeltahawy @halem2020 </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/yasmen_gad/status/357625428963377152</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;, &quot;@Mirna_elhelbawi&quot;, &quot;@monaeltahawy&quot;, &quot;@halem2020&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34077" model="data.tweets">
+        <field type="CharField" name="user_id">thebigpharaoh</field>
+        <field type="CharField" name="username">The Big Pharaoh</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Reporting a power cut during Iftar, my friend @LoaiNagati. Shall we expect a coup soon? cc @nytimes  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/thebigpharaoh/status/357230032629927938</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;, &quot;@nytimes&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/YvlxPpd6qO&quot;]</field>
+    </object>
+
+    <object pk="34078" model="data.tweets">
+        <field type="CharField" name="user_id">ahmediiiii</field>
+        <field type="CharField" name="username">ahmed ibrahim</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ويخلق ما لا تعلمون RT @LoaiNagati: حسن البرنس على منصة رابعه: نحن اول شعب يفشل انقلابا عسكريا.. ومرسي يعيش مع الله </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmediiiii/status/358190408431452160</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34079" model="data.tweets">
+        <field type="CharField" name="user_id">mhmdabdelrahman</field>
+        <field type="CharField" name="username">Mhmd AbdelRahman</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati ما هو اساحبي دة مزيف، دة اكونت تبع زياد تحريراوي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mhmdabdelrahman/status/356997071263367168</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34080" model="data.tweets">
+        <field type="CharField" name="user_id">themiinz</field>
+        <field type="CharField" name="username">Menna منّة</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@LoaiNagati @Nermbed @ONewsAgency @AlMasryAlYoum نفس المراسل باين؟ :D :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/themiinz/status/357625243516416001</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;, &quot;@Nermbed&quot;, &quot;@ONewsAgency&quot;, &quot;@AlMasryAlYoum&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34081" model="data.tweets">
+        <field type="CharField" name="user_id">nirvanasaid</field>
+        <field type="CharField" name="username">Nirvana Said</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati اسحابي طلعوا اخوانجية وبيأيدوا الطرطور </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nirvanasaid/status/357017587864969217</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34082" model="data.tweets">
+        <field type="CharField" name="user_id">ehabdbk</field>
+        <field type="CharField" name="username">ehabdbk</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@LoaiNagati: خطبة رابعه في قمة السوء. تكفير وتحريض وتخوين وخرافات. شيئ غير مبشر بالمره” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ehabdbk/status/358174551579963392</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34083" model="data.tweets">
+        <field type="CharField" name="user_id">fadelsoliman</field>
+        <field type="CharField" name="username">Fadel Soliman</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati من غير p و عملت بنصيحتك بس الجمع برضه كووووو لانها فرنساوي  عجبتني آخر تويتة منك </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadelsoliman/status/357710520008192001</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34084" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أنا كلّ يوم هرسمك تصويرة لونها جديد  الصباح اكتمل مع حمزه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356974813094494208</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/zg7x8w184f&quot;]</field>
+    </object>
+
+    <object pk="34085" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">النهارده النور قطع علينا على الفطار. فين الاخوان اللي قالوا المشكله سببها الحراميه والفلول عشان يمشوا مرسي؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357228742541713408</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34086" model="data.tweets">
+        <field type="CharField" name="user_id">elgawadi</field>
+        <field type="CharField" name="username">مُهاب الجوادي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@LoaiNagati: حسن البرنس على منصة رابعه: نحن اول شعب يفشل انقلابا عسكريا.. ومرسي يعيش مع الله&amp;quot; المسيح مرسي بن سنية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elgawadi/status/358190613260283904</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34087" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عارف ليه انا قلبي اختارك.. اسئله مهمه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357694484395458560</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">52</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/zW2tEDckbj&quot;]</field>
+    </object>
+
+    <object pk="34088" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وجايه بألف خبر، وانا عليها ما نقدر  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357935211830444036</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">195</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/s4zMtR51FB&quot;]</field>
+    </object>
+
+    <object pk="34089" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اللي مني.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357064964005044224</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34090" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">I really hate video ads. RT @9GAG: Dear Youtube, I will always &amp;quot;Skip this ad.&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357141303483564032</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@9GAG&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34091" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ايه خطة عدلي لتحقيق للامن حتى النهايه؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357967827212320768</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34092" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@SherifAshraf  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356948363264008193</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@SherifAshraf&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34093" model="data.tweets">
+        <field type="CharField" name="user_id">masryabt7lm</field>
+        <field type="CharField" name="username">الــــ رشا</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">علم القاعدة خير وأبقي RT @LoaiNagati: اخوان عندي على الفيسبوك. مصريين دول ولا ايه انا مش عارف  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/masryabt7lm/status/357620436466532352</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/LOam1GfVhw&quot;]</field>
+    </object>
+
+    <object pk="34094" model="data.tweets">
+        <field type="CharField" name="user_id">pyrovisky</field>
+        <field type="CharField" name="username">اللهو الخفي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ويأتي في آخر الزمان يملاء الارض عدلاً RT @LoaiNagati: حسن البرنس على منصة رابعه: نحن اول شعب يفشل انقلابا عسكريا.. ومرسي يعيش مع الله </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/pyrovisky/status/358189979710656512</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34095" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وبعد قفل الميادين وتحويلها لساحة حرب مع الاهالي او الداخليه؟ ها.. وبعدين؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356891316585631750</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34096" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;عَلامَ النفس أٌضنيها واشغلها برَجل يجري في دماه صَديدُ.. فللحاقدين عِند الله وعيدهم.. وليس بعد الله ثَم وَعيد&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357306490882752512</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34097" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الشيخ خالد الجندي بينظر للعلمانيه في قلب الجيش المصري  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356907116214239233</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/u7s4amF3Xs&quot;]</field>
+    </object>
+
+    <object pk="34098" model="data.tweets">
+        <field type="CharField" name="user_id">sohamorsy</field>
+        <field type="CharField" name="username">sohamorsy ليث العرين</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati وخطبة جمعة ادام السيسي نفاق صرف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sohamorsy/status/358171698740203522</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34099" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الاخوان مش عارفين يعملوا ايه وبيلفوا حوالين نفسهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356861081194475520</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34100" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الخارجيه المصريه: ابلغنا تركيا رفضنا البالغ لتدخلها في الشأن الداخلي المصري </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357878773695250434</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34101" model="data.tweets">
+        <field type="CharField" name="user_id">mhmdabdelrahman</field>
+        <field type="CharField" name="username">Mhmd AbdelRahman</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@abobaasel @LoaiNagati هيلفوا كل بيان بطوبة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mhmdabdelrahman/status/356949116472922112</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@abobaasel&quot;, &quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34102" model="data.tweets">
+        <field type="CharField" name="user_id">nayera_zahran</field>
+        <field type="CharField" name="username">الثورة تنتصر</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@LoaiNagati: خطبة الجمعه في رابعه عن الجهاد والشهادة في سبيل الله.. وش كده&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nayera_zahran/status/358172683592536064</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34103" model="data.tweets">
+        <field type="CharField" name="user_id">loliozy</field>
+        <field type="CharField" name="username">الثورة لازم تحكم</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati هيا حرب عالاسلام فعلا ... بدليل ان مصر كلها صايمة ورابعة فاطرة :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loliozy/status/357498156558200834</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34104" model="data.tweets">
+        <field type="CharField" name="user_id">_7enzy_</field>
+        <field type="CharField" name="username">Mai El Hennawy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@LoaiNagati: الثوابت عند الاخوان في الاشتباكات: اعتدوا علينا واحنا بنصلي- ضربوا المسجد- الضحايا كلهم من عندنا&amp;quot; رموا زجاجات خمر فيها مولوتوف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/_7enzy_/status/356946786532868096</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34105" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بيان اهبل من الاخوان. قالك السيسي تحول من قائد يحبه الناس الى قاتل ينتظرون القصاص منه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356806926509670400</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/M8llsWdYlv&quot;]</field>
+    </object>
+
+    <object pk="34106" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ياسيادة السفير عايزين نقعد معاك سعادتك، اللي حصل ده مش ثوره - حاضر يابني - والنبي يا سيادة السفير بالمره اسقطوا جنيسة البرادعي - حاضر يابني </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357480969571270657</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34107" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">احمد منصور وصل لمرحلة ان البرادعي بتاع امريكا وعميل وكده. بالتوفيق </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357150191893229568</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34108" model="data.tweets">
+        <field type="CharField" name="user_id">hadeermaged</field>
+        <field type="CharField" name="username">Dee ♒</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وفيه اطفال وستات ماتوا RT @LoaiNagati: الثوابت عند الاخوان في الاشتباكات: اعتدوا علينا واحنا بنصلي - ضربوا المسجد - الضحايا كلهم من عندنا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hadeermaged/status/356943034199449600</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34109" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">منصة رابعه كان عليها عبد الرحمن عز ودلوقتي حسن البرنس. رموز الحركه الاسلاميه وكده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/358187057803309060</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34110" model="data.tweets">
+        <field type="CharField" name="user_id">hadeermaged</field>
+        <field type="CharField" name="username">Dee ♒</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وفيه اطفال وستات ماتوا RT @LoaiNagati: الثوابت عند الاخوان في الاشتباكات: اعتدوا علينا واحنا بنصلي - ضربوا المسجد - الضحايا كلهم من عندنا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hadeermaged/status/356943034199449600</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34111" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">منصة رابعه كان عليها عبد الرحمن عز ودلوقتي حسن البرنس. رموز الحركه الاسلاميه وكده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/358187057803309060</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34112" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">كمال الجنزوري مصدر السلطات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357489485484789766</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34113" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اخونا اردوغان اللي عامل مناحه على مرسي.. ياريت لما يخرج تاخده عندك يحكم شهرين، عشان يجيب ضلفها ونخلص </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357800354286546946</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34114" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مبنزلش مظاهرات تأييد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/358192316344844291</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34115" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صفوت حجازي: قادة الانقلاب يبحثون لأنفسهم عن مخرج الآن وهم في هلع شديد  :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357300994507423745</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34116" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">باكينام على الاسفلت. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357482031875231744</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34117" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عمرو هاشم ربيع يكتب: فلنسقط المرجعيات الدينية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356914467751198721</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/3j21pC5t4R&quot;]</field>
+    </object>
+
+    <object pk="34118" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">المتحدث العسكري منذ خمسة ايام: لسنا مؤهلين للحكم ودورنا السياسي انتهى. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/358201189436882944</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34119" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">غير الثوابت، ممكن تجَود. مثلًا: مسكنا بلطجيه اعترفوا انهم تبع جبهة الانقاذ - المسيحيين كانوا بيضربونا مع الشرطه - تمرد نزلوا مع الفلول </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356943948792602628</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34120" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اكاونت الحريه والعداله الرسمي بيعمل ريتويت لأساحبي #الهيلاهوب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356996690340888578</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0647\u064a\u0644\u0627\u0647\u0648\u0628&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34121" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">حسن البرنس على منصة رابعه: نحن اول شعب يفشل انقلابا عسكريا.. ومرسي يعيش مع الله </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/358188944782929921</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34122" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اخوان اونلاين: وقفة امام سفارة النمسا للمطالبه بعودة مرسي.. ووفد من المتظاهرين قابل السفير وشرح له ان ما حدث هو انقلاب وليس ثوره #البلالا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357479704296566785</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0628\u0644\u0627\u0644\u0627&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34123" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">من هتافات الاخوان اليوم: قالوا مرسي قالوا اخوان.. طلعت حرب على الاسلام. مفيش فايده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357497722401599489</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34124" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">احنا نحتفظ ببيان استكمال الثوره، عشان لما ولادنا يسألونا ليه فشلت ثورة 25 يناير، نقولهم اقروا البيان ده هتعرفوا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356807829048401920</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34125" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لا لفرعنة اون تي في </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357491429645352962</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34126" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الاخوان اللي في الاشتباكات يبعدوا عن الاهالي ويسلموا نفسهم للداخليه أرحم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356919786036408320</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">12</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34127" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الثوابت عند الاخوان في الاشتباكات: اعتدوا علينا واحنا بنصلي - ضربوا المسجد - الضحايا كلهم من عندنا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356942727075733506</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">186</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34128" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">خطبة الجمعه في رابعه عن الجهاد والشهادة في سبيل الله.. وش كده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/358169872104042496</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">15</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34129" model="data.tweets">
+        <field type="CharField" name="user_id">saad_558</field>
+        <field type="CharField" name="username">عـبــ نـبي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الظاهر ان الجنزوري عامل شفرة الدم ، ومبيموتش </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/saad_558/status/357498890175524864</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">15</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34130" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@KarimMaged  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357485553568063490</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">35</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@KarimMaged&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34131" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الشعب يستجيب لدعوات رفض الإقصاء..ويفضل الضبطية القضائية : سائق ينقل أتوبيس إخواني إلى القسم بدلا من رابعة   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357891857935634432</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">500</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/DL78fiW7de&quot;]</field>
+    </object>
+
+    <object pk="34132" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">نيويورك تايمز: الفترة التى تولى فيها الإخوان زمام الأمور فى مصر، اثبتت أن الديمقراطية والإسلام السياسى لا يجتمعان #DontMix </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357477708457979904</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;#DontMix&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34133" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">والموضوع معاهم مبقاش مرسي ولا ديموقراطيه.. ده مجرد خوف من الرجوع للمعتقلات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356861264301006850</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34134" model="data.tweets">
+        <field type="CharField" name="user_id">amlmtaha</field>
+        <field type="CharField" name="username">الولية الزومبى</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الكلب ده لازم يتقتل &amp;quot;@LoaiNagati: البلتاجي: ما يحدث في سيناء يتوقف في اللحظه التي يتراجع فيها السيسي عن انقلابه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amlmtaha/status/356843565420249088</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">437</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/TgNWoKqB7V&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="34135" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">انا هأطلع عليك اشاعه انك رحت اسرائيل، ولو مطلعتش تنفيها تبقى حصلت. #خالتك_عامله_ايه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357320222983720960</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062e\u0627\u0644\u062a\u0643_\u0639\u0627\u0645\u0644\u0647_\u0627\u064a\u0647&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34136" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">في شريعتهم، قطع الطريق يستوجب تطبيق حد الحرابه. وعقوبتك تكون القتل او الصلب او تقطيع الايدين والرجلين، أو اقل حاجه تتنفي من البلد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356868849943056384</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34137" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">رئيس حزب الوطن السلفي، كان محتجز مع مرسي. خرج النهارده يقول انه هيتفرغ للعباده فقط </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357483126517272578</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34138" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بيانات الجيش اللي بيرميها على رابعه بتتطور. البيان الاول مدحهم، التاني قالهم اعتصامكم مش هيغير حاجه، التالت بيقولهم انجو بنفسك عشان فيها دم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356947539402043394</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">36</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34139" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أصحاب المحال برمسيس ينضمون لمتظاهرى «الشرعية» ضد الانقلاب العسكرى - بوابة الحرية والعدالة:  الغيبوبه التامه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/356921369247744000</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/tiVXj5yWHE&quot;]</field>
+    </object>
+
+    <object pk="34140" model="data.tweets">
+        <field type="CharField" name="user_id">bannatweets</field>
+        <field type="CharField" name="username">Ahmed El-Banna</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati اي حاجه فيها دين في رغيف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bannatweets/status/356943130194489345</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34141" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">قبل ما انام احب اقول ان لو مرسي سقط هتحصل ثوره اسلاميه وشوف بقا يا شعب عايز رئيسك يبقى ابو اسماعيل وﻻ الزمر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357708679518232577</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">22</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34142" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الناس وزعت مياه على الاخوان في القصر العيني النهارده، زي ما صبحي صالح كان بيتغدي الساعه 2 في حرب اكتوبر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/357494089115107328</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34143" model="data.tweets">
+        <field type="CharField" name="user_id">7azla2om</field>
+        <field type="CharField" name="username">حزلجوم</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">طاهر ابو زيد محلفش اليمين .. ركنه في البعيدة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/7azla2om/status/357306555634417667</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">42</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34144" model="data.tweets">
+        <field type="CharField" name="user_id">loainagati</field>
+        <field type="CharField" name="username">لؤي نجاتي</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">خطبة رابعه في قمة السوء. تكفير وتحريض وتخوين وخرافات. شيئ غير مبشر بالمره </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loainagati/status/358173682620841985</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34145" model="data.tweets">
+        <field type="CharField" name="user_id">tamerelshazle</field>
+        <field type="CharField" name="username">tamer_elshazle®</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ألا قوللى يابنى نعم يا حجه هو النشطاء كان رد فعلهم أيه على حادثه أتوبيس العريش قالو لا لشيطنه الأخوان يا حجه أحه يا أبنى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/tamerelshazle/status/356898766990741505</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">36</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34146" model="data.tweets">
+        <field type="CharField" name="user_id">sarafahmy2000</field>
+        <field type="CharField" name="username">سارة فهمي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati @Dounizm ياه صفوت حجازي بيوصف حالته ظنا منه انها حالة خصمه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarafahmy2000/status/357302504427499521</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;, &quot;@Dounizm&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34147" model="data.tweets">
+        <field type="CharField" name="user_id">mramzy</field>
+        <field type="CharField" name="username">Mohamed Ramzy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@eng_aayad @LoaiNagati قول انت الحق  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mramzy/status/356943319735074816</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">4376</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@eng_aayad&quot;, &quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Cqn2ArmgCD&quot;]</field>
+    </object>
+
+    <object pk="34148" model="data.tweets">
+        <field type="CharField" name="user_id">shalabawi</field>
+        <field type="CharField" name="username">Shalabawi© | شـلباوى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@OHagrass @LoaiNagati كلام تم تحفيظنا له .. اميريكا مغتصبة الشرق الاوسط كله و لندن مغتصبة افريقيا و شرق اوريبا مغتصب الجنوب و تركيا الركراد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/shalabawi/status/357324800722608130</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@OHagrass&quot;, &quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34149" model="data.tweets">
+        <field type="CharField" name="user_id">luistpjo9w</field>
+        <field type="CharField" name="username">Luis Ngan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/luistpjo9w/status/356791421598056448</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34150" model="data.tweets">
+        <field type="CharField" name="user_id">luistpjo9w</field>
+        <field type="CharField" name="username">Luis Ngan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/luistpjo9w/status/356791421598056448</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34151" model="data.tweets">
+        <field type="CharField" name="user_id">yahyaaljamal</field>
+        <field type="CharField" name="username">يحيى الجمل</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati @DrBassemYoussef كلاب - بعتم المبادئ وتحولتم لحيوانات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/yahyaaljamal/status/352563094142205952</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;, &quot;@DrBassemYoussef&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34152" model="data.tweets">
+        <field type="CharField" name="user_id">engineer__free</field>
+        <field type="CharField" name="username">AhMed Abd AlBaSet</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@LoaiNagati: ما هي عملية الاختطاف اللي هدفها الافراج عن واحد اسمه &amp;quot;حماده&amp;quot; لازم نهايتها تكون سيس كده&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/engineer__free/status/337198504982220801</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34153" model="data.tweets">
+        <field type="CharField" name="user_id">temo_maverick14</field>
+        <field type="CharField" name="username">TEMO</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بيان من اجل الاخوان :-)&amp;quot;@LoaiNagati: ارفض بيان &amp;quot;استكمال الثوره&amp;quot; جملة وتفصيلًا.. ايه ده؟&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/temo_maverick14/status/356789245744132098</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34154" model="data.tweets">
+        <field type="CharField" name="user_id">salma_zeid</field>
+        <field type="CharField" name="username">متمردة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اثريين ضد العقول المتعفنه ،، بيان حول وزير #الاثار المرشح #النبراوي #مصر  @LoaiNagati @AhmedFouad_Negm @AhmedZaky  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/salma_zeid/status/357015606463172610</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0627\u062b\u0627\u0631&quot;, &quot;#\u0627\u0644\u0646\u0628\u0631\u0627\u0648\u064a&quot;, &quot;#\u0645\u0635\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;, &quot;@AhmedFouad_Negm&quot;, &quot;@AhmedZaky&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/7S0DtXv1C3&quot;]</field>
+    </object>
+
+    <object pk="34155" model="data.tweets">
+        <field type="CharField" name="user_id">sciencepyramid</field>
+        <field type="CharField" name="username">SciencePyramid</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati @FadelSoliman الإعلان الأصلي اهو وبيعترف بمنصب رءيس مصر المؤقت، معلش بقي:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sciencepyramid/status/356975294034345985</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">189</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;, &quot;@FadelSoliman&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/2YMs7NcU7m&quot;]</field>
+    </object>
+
+    <object pk="34156" model="data.tweets">
+        <field type="CharField" name="user_id">amadou_yaya</field>
+        <field type="CharField" name="username">AhMeD YeHiA</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@LoaiNagati شوف دي  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amadou_yaya/status/357229540080238594</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="34157" model="data.tweets">
+        <field type="CharField" name="user_id">talaatsarhan1</field>
+        <field type="CharField" name="username">talaatsarhan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Moroelbakry @Nefro79 @LoaiNagati  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/talaatsarhan1/status/357844192430530562</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Moroelbakry&quot;, &quot;@Nefro79&quot;, &quot;@LoaiNagati&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/6UxhcFudUN&quot;]</field>
+    </object>
+
+</django-objects>

@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="134556" model="data.tweets">
+        <field type="CharField" name="user_id">mahmoudsharshr</field>
+        <field type="CharField" name="username">محمود شرشر</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Dr_Mokka جريدة الحريه والعداله مطبوعه من امبارح ان فى قتله وقبل ما تحصل حاجه امام الحرس الجمهورى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mahmoudsharshr/status/354072727193255936</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134557" model="data.tweets">
+        <field type="CharField" name="user_id">luna13s</field>
+        <field type="CharField" name="username">luna</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Dr_Mokka تحذير أحمد معوض ومحمد الجمل وحازم عفيفي عناصر إخوانية يرجي عدم التعامل معهم #ريتويت  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/luna13s/status/357796167918161921</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0631\u064a\u062a\u0648\u064a\u062a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/L6cl6ubuuW&quot;]</field>
+    </object>
+
+    <object pk="134558" model="data.tweets">
+        <field type="CharField" name="user_id">fadynabil2</field>
+        <field type="CharField" name="username">لن تموتي يابلدي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Dr_Mokka #قاتل_الأطفال_بالأسكندرية يعترف بقتل شهداء #بور_سعيد .. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadynabil2/status/354247425113849856</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0642\u0627\u062a\u0644_\u0627\u0644\u0623\u0637\u0641\u0627\u0644_\u0628\u0627\u0644\u0623\u0633\u0643\u0646\u062f\u0631\u064a\u0629&quot;, &quot;#\u0628\u0648\u0631_\u0633\u0639\u064a\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134559" model="data.tweets">
+        <field type="CharField" name="user_id">yasmen_gad</field>
+        <field type="CharField" name="username">yasmen</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Dr_Mokka @KareemFarid @Doaa_Sultan_EG  محتاجه غساله و تلاجه ل 25 شخص سوري ف العجمي .الهانوفيل #اسكندريه .ال يقدر يساعد يعرفني .ريتويت </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/yasmen_gad/status/354053846538006528</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0647&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;, &quot;@KareemFarid&quot;, &quot;@Doaa_Sultan_EG&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134560" model="data.tweets">
+        <field type="CharField" name="user_id">qalawa</field>
+        <field type="CharField" name="username">Hatem</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Dr_Mokka: كسم السياسة ... الاخوان المفروض يتقتلوا بايد الشعب .ز دى ثورة مش فيلم عاطفى” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/qalawa/status/354234221499400193</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134561" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اللهم أنى صايم خليها تآكلك &amp;quot;@FaSpOcKy: @Dr_Mokka أبو أمك يا موكا يا اللى بتعرص على أمك يا شرموط&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/357859461760692224</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134562" model="data.tweets">
+        <field type="CharField" name="user_id">abdelrahmanfar6</field>
+        <field type="CharField" name="username">عبرحمن</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Dr_Mokka كل اعتصاماتهم مليانة سلاح ... اعتصام الجامعة طلع منه سلاح وجرينوف اتعمل بيه مجزرتين ، بين السرايات والمنيل ، ارهابيين ولاد دين كلب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abdelrahmanfar6/status/354064574523260930</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134563" model="data.tweets">
+        <field type="CharField" name="user_id">mai200200</field>
+        <field type="CharField" name="username">mai</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Dr_Mokka @ElBaradei  لأ مش عفو يا اسلام و كانهم مرتكبين جريمة بس حنطلعهم صدقة ..براااااااااءة ده حقهم يطلعو متكرمين مش كأنهم على راسهم بطحة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mai200200/status/357839849920794624</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;, &quot;@ElBaradei&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134564" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ميةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةةة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354971220904644610</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/pXp3UXsiYZ&quot;]</field>
+    </object>
+
+    <object pk="134565" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مين نفسة فى سيجارة ؟  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354974120309559296</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134566" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مين جائ الاتحادية. أنهاردة ؟. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/358171716385640448</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134567" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">يللا نتسحر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354738145662742530</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134568" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا لوحدى على التايم لاين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/355010802899628032</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134569" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">النهاردة الجيش هيعمل احلى صفقة سلاح فى حياته </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354065409030365184</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134570" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تويتر وحشني والله .. وللأ إقولكوا موحشنيش خالص </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/357694996524179456</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134571" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أنا هعمل مليونية يوم الثلاثاء القادم وهسميها جمعة دعم الهري </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/358178392476090368</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134572" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مبقتش قادر أتكلم من كتر أللى حواليا .... التعريص ملى الكيس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/358058321494159360</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134573" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عموما علشان مبقاش حرمت نفسي من حاجة قبل رمضان كسم حزب النور .. كسم عدلى منصور </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354405755706818562</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134574" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">حملة نواب شباب تعلن عن تكملة مسيرة حملة تمرد  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/356594016894197761</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/NFHvf6l8C0&quot;]</field>
+    </object>
+
+    <object pk="134575" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">طيب يا جماعة أنا هفطر فى الاتحادية أنهاردة وهكون هناك من الساعة 3 لو حد جائ يقوللى 01110402829 </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/358178166528942081</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134576" model="data.tweets">
+        <field type="CharField" name="user_id">alaasaied4</field>
+        <field type="CharField" name="username">LOly♥</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Dr_Mokka فيديو..#البلتاجي يعترف بوقوف #الإخوان وراء ما يحدث في #سيناء  ” #مصر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alaasaied4/status/354230142635225089</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">43</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0625\u062e\u0648\u0627\u0646&quot;, &quot;#\u0633\u064a\u0646\u0627\u0621&quot;, &quot;#\u0645\u0635\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/0vOMyCxG8D&quot;]</field>
+    </object>
+
+    <object pk="134577" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">سوريا جاية مفيش كلام </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354252090924744704</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134578" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الله حي ودورنا جاي .. الله حي ودورنا جاي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354066992208166912</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134579" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">شوفوا كدب الاخوان  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354241478249283586</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134580" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أنا فى الاتحادية فوق المنصة. أللى هنا يجيلي نفطر مع بعض </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/358265096746708993</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134581" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الجيش غلطان لو كانوا سابونا قتلنا مرسي مكانش بقى ليه مؤيدين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354255085490028545</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134582" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Tahoun71 لا يابرنس دى قزابز ويسكي مقفولة بختمها بتاع الجمارك </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354246212511207426</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Tahoun71&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134583" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كسم السياسة ... الاخوان المفروض يتقتلوا بايد الشعب .ز دى ثورة مش فيلم عاطفى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354232605840908288</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134584" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">معتصمو «رابعة العدوية» يعتذرون للأهالي عن الأضرار  عالم تخاف ماتختيشيش برضو! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/357838016381210624</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/UKdQumvs0f&quot;]</field>
+    </object>
+
+    <object pk="134585" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اهالى مدينة نصر محاصرين الإخوان ؟ طب تفتكروا. لو السلاح اللي تحت المنصة. طلع. هيعملوا ايه ؟ عموما ربنا يستر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/357792621889986560</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134586" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">فاكرين فض اعتصام يوليو يوم 1 رمضان يللا البس وا يا اخوان يا معرصين شوية من اللى شوفناه سنة ونص </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354064982788407297</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134587" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كدة هقوم انام وانا مرتاح ومطمن ان فى عيون ساهرة على راحة المواطنين .. الجيش المصري العظيم ... كسم مرسي والجيش والشرطة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354070048236765184</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134588" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تمرد تقوم بتفيعل حملة #نواب_شباب لتمكين الشباب من الترشح لعضوية المجالس النيابية ... انضموا  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/356561334005022720</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0646\u0648\u0627\u0628_\u0634\u0628\u0627\u0628&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/kANxlj9D28&quot;]</field>
+    </object>
+
+    <object pk="134589" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">المتحدث باسم الشرطة دة ابن متناكة .. اوعى تفتكر اننا ناسيننكوا انتوا والعسكر بس لسة دوركوا مجاش  .. مش ناسيين التحرير يا ولاد الوسخة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354241108940828672</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134590" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">المسحين فاكرين ان الاخوان مشيوا خلاص هيحتلوا التايم لاين بس دة بعدكوا احنا موجودين يا مسيحيييين سا بتوع الجبنة النستو يا معفنيييييييييييييين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/355011646374154241</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134591" model="data.tweets">
+        <field type="CharField" name="user_id">abodfoly</field>
+        <field type="CharField" name="username">Abdallah ©</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@Dr_Mokka   عبدالرحمن عز مامتش الفيديو بيتنفس لاخر الفيديو بس شكله بيطلع ف الروح لكن الفيديو ما يثبتش انه مات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abodfoly/status/354183210177003521</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">409</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134592" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كل سنة وانتوا طيبين يا شباب .. كفاية سياسة بقى عاوزين نصوم رمضان كله السنة اللى فاتت فطرت نص رمضان على مرسي واللى قبلها مبارك كدة حرااااااام </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354402249595813888</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134593" model="data.tweets">
+        <field type="CharField" name="user_id">sugar_sue83</field>
+        <field type="CharField" name="username">Sarah™</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أنباء عن فض أعتصام النهضة من قبل الأهالى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sugar_sue83/status/357696656612933632</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134594" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">خلاصة الكلام ... من اعمالكم ’سلط عليكم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354068466707341313</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134595" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">طيب واللى واقفين فى رابعة دول خولات ؟ ملهومش فى الغاز ؟. ولا هما بيبعتوا اللى معاهم سلاح بس والسرسجية بيقفوا يهتفوا ؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354071102806437888</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134596" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اللهم اهلك الظالمين بالظالمين ... واخرجنا من بينهم سالمين ..(جيش _ شرطة _ اخوان ) .ة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354248075889479681</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134597" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تحدانى مسيحي انى اجيب 100  ريتويت من 100واحد مسلم  للتويتة دي ريتويت يا شباااااااااااااااااااااااااب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/355012166711115776</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134598" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بصراحة ومنغير زعل انا موافق على فض اعتصام دين ابوهم بالقوة دول ولاد شرموطة يستاهلوا كفاية اللى حصللنا منهم والعيال اللى ماتت </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354064042995875840</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134599" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">طيب أصدق ازاى سلمية مظاهرتهم مع كل الأسلحة المضبوطة معاهم دي !! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354239022408802306</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134600" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ابن الشرموطة فى مؤتمر الاخوان بيقولك احنا ابطال محمد محمود ومجلس الوزراء ... احا يا شراميط دة انتوا نسيتوا نفسكوا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354228776458137600</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134601" model="data.tweets">
+        <field type="CharField" name="user_id">g4s90</field>
+        <field type="CharField" name="username">George Salib®</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@AlMasryAlYoum #Jun30 قوات الجيش والشرطة تكثف اطلاق الغازات المسيلة للدموع لفض اعتصام مؤيدي الرئيس المعزول في شارع صلاح سالم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/g4s90/status/354058533609811968</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;#Jun30&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134602" model="data.tweets">
+        <field type="CharField" name="user_id">aabdoallah</field>
+        <field type="CharField" name="username">Ahmed 3abdAllah</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">المعتصم السلمي ادافع عنه بحياتي لو اتفضله اعتصامه . </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/aabdoallah/status/354070337866055680</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134603" model="data.tweets">
+        <field type="CharField" name="user_id">amrhamdon</field>
+        <field type="CharField" name="username">في الكون وحيد</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وهو من امتى التضامن والهتاف جاب حق اللي مات ارحمنا ضيعتوا حقوق الشهدا والقتله طلعتوهم مقابل الفلوس والطرف التالت انتم وعاوزني اتضامن ارحمنا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amrhamdon/status/354067237331673088</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134604" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ElBaradei  ياريت العفو للشباب أللى متلفقلهم قضايا ومحبوسين وهما من الثوار .. أحمد حمدي .. أحمد البلبيسي .. عبودي إبراهيم ..عمرو عادل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/357839609071271940</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ElBaradei&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134605" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإخوان يعلنون بدء إخلاء الشوارع الجانبية لـ«رابعة العدوية» من المعتصمين  ناس تخاف ماتختيشيش!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/357836789077520384</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/6uBXvhFV6L&quot;]</field>
+    </object>
+
+    <object pk="134606" model="data.tweets">
+        <field type="CharField" name="user_id">eidf_2011</field>
+        <field type="CharField" name="username">Osama Moushraf</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">#راصد  مليشيات ال #اخوان بيضربوا خرطوش من فوق مسجد المصطفي ومن فوق المبنى المجاور للمسجد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/eidf_2011/status/354068149362114561</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0631\u0627\u0635\u062f&quot;, &quot;#\u0627\u062e\u0648\u0627\u0646&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134607" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">معرفتش أصور مدرعات الجيش أوي بس زمانهم وصلوا عند #جامعة_القاهرة #بين_السرايات  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354062572321910784</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062c\u0627\u0645\u0639\u0629_\u0627\u0644\u0642\u0627\u0647\u0631\u0629&quot;, &quot;#\u0628\u064a\u0646_\u0627\u0644\u0633\u0631\u0627\u064a\u0627\u062a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/H1oTOVD1SV&quot;]</field>
+    </object>
+
+    <object pk="134608" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عدد المدرعات اﻷن فى محيط المتحف المصرى وصل 22 مدرعة للتأمين..كإجراء احترازى بعد اشتباكات صلاح سالم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354082893183721474</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134609" model="data.tweets">
+        <field type="CharField" name="user_id">moh_megahed</field>
+        <field type="CharField" name="username">Mohammed Megahed</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مسيرة كبيرة للاخوان على كوبري الجامعة الان في طريقها للمنيل والجيش قفل الكوبري بالدبابات ومنعهم من المرور حتى الان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/moh_megahed/status/357803478501961729</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134610" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">امدرعات كتير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354060056599347200</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">154</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134611" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الشرطة بتضرب نار </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354053766535856129</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">350</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134612" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا فى الدور ال14 كاشفة الشارع بالجامع بالكامل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354059705271848961</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">355</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134613" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإخوان بضربوا من الجامع خرطوش كتير وفيه نار مولعة جوة معرفش مولعينها ليه والجيش والشرطة بيردوا عليهم بغاز وخرطوش.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354062102543081472</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">901</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134614" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">المدرعات تحت عمارتى بظبط!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354054894124146688</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">295</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134615" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">المدرعات بتتحرك فى يوسف عباس وفيه جزء كبير منها واقف عند الجامع.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354062873615544320</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">316</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134616" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإخوان بيضربوا خرطوش من فوق المسجد ومن فوق المبنى اللى بيتبنى حنب الجامع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354066408432353281</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">1032</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134617" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">فيه واحد منهم شايفاه بوضوح فشخ فوق الجامع وواحد تانى فوق المبنى والمصحف..!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354066612900470784</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">560</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134618" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الشرطة بتضرب غاز والإخوان بيضربوا خرطوش.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354054628029108225</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">774</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134619" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإسعاف جت وبتاخد مصابين من جوة الجامع. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354069448853958657</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">349</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134620" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عربيات جيش كبيرة.. وجنود كتير احيه احيه.. تكبيرات بصوت عالى #صلاح_سالم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354053304839438336</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">440</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0635\u0644\u0627\u062d_\u0633\u0627\u0644\u0645&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134621" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإخوان بيضريوا نار وخرطوش من جوة الجامع.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354057177524207618</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">834</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134622" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الجيش كسر اول سور #صلاح_سالم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354053652668887040</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">423</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0635\u0644\u0627\u062d_\u0633\u0627\u0644\u0645&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134623" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">حرب فى صلاح سالم.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354055455783399424</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">407</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134624" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بيخبطوا جامد تحت البيت وبيقولوا الله اكبر بصوت عالى وشكل فيه ضرب او اشتباكات وناس بتجرى.. استر يارب #صلاح_سالم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354052900823113730</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">531</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0635\u0644\u0627\u062d_\u0633\u0627\u0644\u0645&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134625" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بعد ما حدث فى الاخوان عند الحرس الجمهوري وبعد رفضهم البرادعي لرئاسة الوزراء .. حزب النور يرشح البابا تواضروس لرئاسة الجمهورية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354078603262173184</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134626" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مبحاولش اقف فى البلكونة كتير.. مكشوفة فشخ، طلع ابص وادخل وببص من ورا الإزاز. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354068454082486272</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">135</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134627" model="data.tweets">
+        <field type="CharField" name="user_id">ikapo_</field>
+        <field type="CharField" name="username">كابو بذات نفسه</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عارفين الجيش هيبقي صاحبي وحبيبي امتي لما يطلع الناس اللي قتلت محمد محسن وشهداء ماسبيرو ومجلس الوزراء والعباسيه ومحمد محمود ويقدمهم للمحاكمه. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ikapo_/status/354242458793684993</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134628" model="data.tweets">
+        <field type="CharField" name="user_id">hinar_a</field>
+        <field type="CharField" name="username">HiNaR ™</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">RT @Fadynabil2: @Dr_Mokka  مصر كُلها معزومة النهاردة على الفطار فى التحرير  #انزل_يامصري احمي وطنك </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hinar_a/status/355680889230991360</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">195</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0646\u0632\u0644_\u064a\u0627\u0645\u0635\u0631\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Fadynabil2&quot;, &quot;@Dr_Mokka&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/viYWftILTm&quot;]</field>
+    </object>
+
+    <object pk="134629" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الشيخ بيولول والجيش ولا الداخلية جت جنب الجامع للمعلومة محاصراه بس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354065052912975872</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">569</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134630" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اهم مشيوا من عند الجامع وسابوا الشيخ يولول.. ومسكوا لحد دلوقتى 3 إخوان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354065302524411905</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">351</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134631" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كسم أردوغان عادى &amp;quot;@DostorNews: #أردوغان يرفض لقاء #البرادعي  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/357798741006225410</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">45</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0623\u0631\u062f\u0648\u063a\u0627\u0646&quot;, &quot;#\u0627\u0644\u0628\u0631\u0627\u062f\u0639\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/HCQi82IgZ1&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="134632" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مضربوش عليهم وهما بيصلوا يا جدعان كانوا خلصوا صلاة وفيه منهم شاف الجيش والشرطة من بعد وطلعوا يجروا. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354069798642130944</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">1214</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134633" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الوضع الأن امام مديرية امن الجيزة ربنا يستر  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354263020907659264</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">51</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/PoxFDSsklu&quot;]</field>
+    </object>
+
+    <object pk="134634" model="data.tweets">
+        <field type="CharField" name="user_id">_mezooo_</field>
+        <field type="CharField" name="username">Mo3taz Yousry</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مفيش دكتور يستلم الجثة ويشرحها محتاجين دعم في مشرحة زنهم #رتويت #Help </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/_mezooo_/status/356057973824552961</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0631\u062a\u0648\u064a\u062a&quot;, &quot;#Help&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134635" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا حاسة إنى فى حرب.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354060193824382976</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">154</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134636" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الطلقات بتطلع لحد البلكونة.. مش عارفة ادخل البلكونة واصور خالص كل ده من ورا الإزاز... </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354060350162866176</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">310</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134637" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@YasminMahfouz دليل #براءة #الجيش #المصرى من قتل #الاخوان اتفو علي دي ناس وسخه ... #HB   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354570868120227840</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">1249</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0628\u0631\u0627\u0621\u0629&quot;, &quot;#\u0627\u0644\u062c\u064a\u0634&quot;, &quot;#\u0627\u0644\u0645\u0635\u0631\u0649&quot;, &quot;#\u0627\u0644\u0627\u062e\u0648\u0627\u0646&quot;, &quot;#HB&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@YasminMahfouz&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/gWGGzejhc9&quot;, &quot;http://t.co/A7ocPpAwJL&quot;]</field>
+    </object>
+
+    <object pk="134638" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">من اهالي شهداء المنيل .. انا عايز اعمل تويت للصورة ١٠٠٠ مرة .. و لا حول و لا قوة الا بالله #حسرة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354185699601301504</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2486</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062d\u0633\u0631\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/VfShQXzDZx&quot;]</field>
+    </object>
+
+    <object pk="134639" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كل العربيات بترجع بضهرها على كوبري اكتوبر اللى رايح على اتجاه رمسيس الاخوان قاطعين الكوبري وفى اقوال بتقول انهم جايين على التحرير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/355793006504321028</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134640" model="data.tweets">
+        <field type="CharField" name="user_id">mano_yasser</field>
+        <field type="CharField" name="username">مُفتية خراب الدِيار</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ع الباغي تدور الدوائر ولما تجيلك الفرصة عشان تشمت وتفرح ان وساختهم اللي عملوها فيك بتتردلهم يبقى ده حقك ولو امتنعت مش هتاخد اوسكار اطيب قلب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mano_yasser/status/354230118853517313</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134641" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الجيش مطلع إخوان كتير فشخ من ورا الجهاز المركزى للمحاسبات كانوا بيضربوا عليهم خرطوش. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354079994126929921</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">753</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134642" model="data.tweets">
+        <field type="CharField" name="user_id">bayou7_</field>
+        <field type="CharField" name="username">Michael bayouh</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا مش متضامن مع حد كان اخرس مع سحل وقتل شباب بلدنا علشان كرسى ... الحصاد من نفس صنف الزرع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bayou7_/status/354070643198803969</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134643" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تم اﻷن تمركز عدد 14 مدرعة عند مدخل التحرير من عبد المنعم رياض..بمحازاة سور المتحف المصرى  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354079873637167106</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">34</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/q5ZoysCXqE&quot;]</field>
+    </object>
+
+    <object pk="134644" model="data.tweets">
+        <field type="CharField" name="user_id">elsaeiidy</field>
+        <field type="CharField" name="username">Black Bloc™</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">طيارات الجيش وصلت وعلى ارتفاع منخفض </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elsaeiidy/status/354065189630525440</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134645" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مذراعات جيش كتير جدا داخلة علي #جامعة_القاهرة #النهضه #بين_السرايات غالبا ألغتصام هيتفض  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354062528109744128</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">38</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062c\u0627\u0645\u0639\u0629_\u0627\u0644\u0642\u0627\u0647\u0631\u0629&quot;, &quot;#\u0627\u0644\u0646\u0647\u0636\u0647&quot;, &quot;#\u0628\u064a\u0646_\u0627\u0644\u0633\u0631\u0627\u064a\u0627\u062a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/VGU0xLd32T&quot;]</field>
+    </object>
+
+    <object pk="134646" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">نداء من رابعة العدوية شخصيا   #مصر  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354246422956220416</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">51</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0635\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/6dV0Rmkpja&quot;]</field>
+    </object>
+
+    <object pk="134647" model="data.tweets">
+        <field type="CharField" name="user_id">fariddar2003</field>
+        <field type="CharField" name="username">الرئيس المقلوب</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الاخوان استباحوا إطلاق الرصاص علي متظاهرين سلمين بحجة حماية مقرهم بالمقطم ثم يصرخون عندما يستخدم الجيش الرصاص دفاعاً عن مصر!!!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fariddar2003/status/354230785978535937</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134648" model="data.tweets">
+        <field type="CharField" name="user_id">sosa_zezoo</field>
+        <field type="CharField" name="username">يا واد يا سوستة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اللى صعبان علية الاخوان وهما بيفضوا اعتصامهم مصعبش علية الطفل اللى اترمى من العمارة يا كلاب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sosa_zezoo/status/354060904209465344</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">12</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134649" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تم اﻷن إنزال المدرعات فى محيط عبد المنعم رياض..ويتم اﻹنتشار اﻷن فى محيط ميدان التحرير وكوبرى قصر النيل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354075899370536961</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134650" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">على كوبرى 6 أكتوبر 6 حاملات مدرعات بإتجاه التحرير..و8عربيات اسعاف على كوبرى اكتوبر بإتجاه صلاح سالم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354072229530710017</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/h390xRaXs7&quot;]</field>
+    </object>
+
+    <object pk="134651" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">حملة تمرد #شباب_نواب  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/356815936285704192</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0634\u0628\u0627\u0628_\u0646\u0648\u0627\u0628&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134652" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مش شمتانة...و مش بابيع مبادئي..ومش باعرض للعسكر وقمعهم..ويسقط كل كلاب العسكر...بس بردو مش ناسية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354076098356711425</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134653" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الدنيا فى رمسيس خربانة احنا اخدنا عيادة وروحنا على هناك لان المصابين كتير من اهالى رمسيس والفجالة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/356889610762199042</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134654" model="data.tweets">
+        <field type="CharField" name="user_id">reemeladl</field>
+        <field type="CharField" name="username">Reem El Adl</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هو احنا ليه مصممين نلعب ملايكة.!! انتوا اوڤر قوي بصراحة.. انا أسفة جداً.. و هم ايه اللي وداهم هناك #مره_من_نفسنا #صلاح_سالم #الاخوان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/reemeladl/status/354060555817979904</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0631\u0647_\u0645\u0646_\u0646\u0641\u0633\u0646\u0627&quot;, &quot;#\u0635\u0644\u0627\u062d_\u0633\u0627\u0644\u0645&quot;, &quot;#\u0627\u0644\u0627\u062e\u0648\u0627\u0646&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134655" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لو عبد الرحمن عز مات قولولى عشان ناخد عزاء الحسيني ابو ضيف اظن فاكرينه .. صاحبي اللى مات غدر من الاخوان وانصارهم الكفرة تجار الدين والدم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354182593777905666</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134656" model="data.tweets">
+        <field type="CharField" name="user_id">ranelbaradei</field>
+        <field type="CharField" name="username">وكاله انباء البرادعي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أسماء المستقيلين من الجزيرة مباشر مصر - علاء العيوطي - حاتم فريد - دينا موسى - كارم محمود - حجاج سلامة - حسن عبد الغفار </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ranelbaradei/status/354230843859927041</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">32</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134657" model="data.tweets">
+        <field type="CharField" name="user_id">michael3sam</field>
+        <field type="CharField" name="username">Michael 3sam</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">البدايه .. ضرب المعتصمون عند صلاح سالم الخرطوش على جنود الحرس الجمهورى..فتدخلت الداخليه بالتنسيق مع القوات المسلحه #صلاح_سالم #رابعة_العدوية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/michael3sam/status/354065132772540418</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0635\u0644\u0627\u062d_\u0633\u0627\u0644\u0645&quot;, &quot;#\u0631\u0627\u0628\u0639\u0629_\u0627\u0644\u0639\u062f\u0648\u064a\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134658" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">RT @freiheit_0: #الأن #مصر #الحرس_الجمهور  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354073327821787136</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">29</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0623\u0646&quot;, &quot;#\u0645\u0635\u0631&quot;, &quot;#\u0627\u0644\u062d\u0631\u0633_\u0627\u0644\u062c\u0645\u0647\u0648\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@freiheit_0&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/w2bKwj3pky&quot;]</field>
+    </object>
+
+    <object pk="134659" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">موبايلى فصل.. مش عارفة اصور.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354059525231349762</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">63</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134660" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">‏#صورة واضحة لآثار فض ‏#الجيش و ‏#الشرطة لاعتصام ‏#الإخوان أمام ‏#الحرس_الجمهوري بـ ‏#صلاح_سالم  @Almogaz </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354082514781999107</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">57</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Almogaz&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/vAL78gOET7&quot;]</field>
+    </object>
+
+    <object pk="134661" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@SlmaShelbayah ايوة انا فى العمارة الى بتبص على صلاح سالم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354064748733665283</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">62</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@SlmaShelbayah&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134662" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">فض اعتصام أنصار #مرسي عند الحرس الجمهوري وإطلاق قنابل غاز #صلاح_سالم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/354058814603005952</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">137</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0631\u0633\u064a&quot;, &quot;#\u0635\u0644\u0627\u062d_\u0633\u0627\u0644\u0645&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/7cmO16jjDQ&quot;]</field>
+    </object>
+
+    <object pk="134663" model="data.tweets">
+        <field type="CharField" name="user_id">mohmadmamdouh</field>
+        <field type="CharField" name="username">Mohamed Mamdouh</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أهالى #سيدى_جابر إستعدوا بسرعة #الاخوان جايين بمسيرة من #القائد_ابراهيم على سيدى جابر .. ريتويت ضرورى جدا. #اسكندرية #الاسكندرية #Alex </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohmadmamdouh/status/356891577370673152</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">55</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0633\u064a\u062f\u0649_\u062c\u0627\u0628\u0631&quot;, &quot;#\u0627\u0644\u0627\u062e\u0648\u0627\u0646&quot;, &quot;#\u0627\u0644\u0642\u0627\u0626\u062f_\u0627\u0628\u0631\u0627\u0647\u064a\u0645&quot;, &quot;#\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629&quot;, &quot;#\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629&quot;, &quot;#Alex&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134664" model="data.tweets">
+        <field type="CharField" name="user_id">dr_mokka</field>
+        <field type="CharField" name="username">eslam حامي الميدان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كيري: جيش مصر جنبها حربا أهلية  الوجه الأخر للعالم التى تخاف ولا تختيشيش! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_mokka/status/357838637326938112</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">65</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134665" model="data.tweets">
+        <field type="CharField" name="user_id">egypt_now111</field>
+        <field type="CharField" name="username">مصر الآن</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تم السيطرة على ميادين ، رمسيس ، المنيب ، لبنان ، الجيزة بالإضافة الى رابعة والنهضة ، وبعد المغرب انتظروا المفاجآت . </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/egypt_now111/status/356815925095313409</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">141</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134666" model="data.tweets">
+        <field type="CharField" name="user_id">mina_ramzy23</field>
+        <field type="CharField" name="username">mina ramzy23</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Dr_Mokka رمضان كريم عليك ياصاحبى وعلى الاسرة :)))  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mina_ramzy23/status/354632895970816003</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/wJFon9cDWE&quot;]</field>
+    </object>
+
+    <object pk="134667" model="data.tweets">
+        <field type="CharField" name="user_id">saifullahfight</field>
+        <field type="CharField" name="username">saifullah</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">eslam حامي الميدان @Dr_Mokka 20s كل العربيات بترجع بضهرها على كوبري اكتوبر اللى رايح على اتجاه رمسيس الاخوان.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/saifullahfight/status/355793282237861888</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Dr_Mokka&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+</django-objects>

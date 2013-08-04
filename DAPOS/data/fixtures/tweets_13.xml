@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="17848" model="data.tweets">
+        <field type="CharField" name="user_id">islamelgawish</field>
+        <field type="CharField" name="username">Islam Gawish™</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology بعديها بخمس دقائق الدخلية سندت الجيش من صلاح سالم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/islamelgawish/status/354169318063341568</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17849" model="data.tweets">
+        <field type="CharField" name="user_id">islamelgawish</field>
+        <field type="CharField" name="username">Islam Gawish™</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology عشر دقايق و المتوسيكلات رجعت برشاشات  بيضربوا في الكل ، الجيش رد بقنابل غاز و بدأ التعامل و الضرب بقي من الكل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/islamelgawish/status/354168780198395905</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17850" model="data.tweets">
+        <field type="CharField" name="user_id">islamelgawish</field>
+        <field type="CharField" name="username">Islam Gawish™</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology بعد الاذان جيه عيال علي موتويسكلات ضربوا خرطوش علي الجيش و المعتصمين و جريو الجيش ضرب كام قنبلة غاز و رجعوا ورا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/islamelgawish/status/354168108639977472</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">25</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17851" model="data.tweets">
+        <field type="CharField" name="user_id">ghadeerusa</field>
+        <field type="CharField" name="username">ghadeer USA</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@Sabrology: ‏استقالة وسام فضل .. محرر اخبار في قناة الجزيرة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ghadeerusa/status/354143083128033280</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">61</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/znOWZMaiAS\u200e&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="17852" model="data.tweets">
+        <field type="CharField" name="user_id">magyj</field>
+        <field type="CharField" name="username">magy</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">تكبييييييير “@Sabrology: وصول عدد مؤيدي مرسي الى 8 مليار وهو عدد يفوق عدد سكان الارض وانشقاق السيسي الى نصفين كلاهما يؤيد مرسي” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/magyj/status/353973398239592450</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">25</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17853" model="data.tweets">
+        <field type="CharField" name="user_id">albusisi</field>
+        <field type="CharField" name="username">عبد العزيز البسيسي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology قناة الجزيرة سبب في كل بلاء وجريرة مفرقة بين الأهل والعشيرة #مذبحة_الحرس_الجمهوري </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/albusisi/status/354194154772889600</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0630\u0628\u062d\u0629_\u0627\u0644\u062d\u0631\u0633_\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17854" model="data.tweets">
+        <field type="CharField" name="user_id">magyj</field>
+        <field type="CharField" name="username">magy</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">“@Sabrology: فيديو الجيش لأحداث الحرس الجمهوري فجر اليوم   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/magyj/status/354172130453241858</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/ho8qJPAnUl\u201d&quot;]</field>
+    </object>
+
+    <object pk="17855" model="data.tweets">
+        <field type="CharField" name="user_id">seksek</field>
+        <field type="CharField" name="username">قاهر الفولورز</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@Sabrology: ‏السؤال هنا: هو ليه كان حاطط علم القاعدة في القاعدة؟&amp;quot;امال مسمينه علم القاعدة ليه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/seksek/status/353955997716451328</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17856" model="data.tweets">
+        <field type="CharField" name="user_id">bishoy_louis</field>
+        <field type="CharField" name="username">Bishoy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@Sabrology: شبكة #رصد الوسخة ناشرين صور رصاص مش مضروب وبتقول الجيش ضربه لأغراض التسخين .. متامر واهبل  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bishoy_louis/status/354149988252655618</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0631\u0635\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/bmKR7y2BT0&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="17857" model="data.tweets">
+        <field type="CharField" name="user_id">samrashwan</field>
+        <field type="CharField" name="username">sam rashwan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">RT @Sabrology: نص التكليف الذي وصل لشباب الإخوان بخصوص مظاهرات اليوم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/samrashwan/status/353882383486951424</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17858" model="data.tweets">
+        <field type="CharField" name="user_id">ahmedhanafyi</field>
+        <field type="CharField" name="username">بس متقولش مصالحه</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">RT @magyj: “@Sabrology: فيديو الجيش لأحداث الحرس الجمهوري فجر اليوم   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmedhanafyi/status/354172240671158272</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@magyj&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/Uz8FKRsuUv\u201d&quot;]</field>
+    </object>
+
+    <object pk="17859" model="data.tweets">
+        <field type="CharField" name="user_id">dr_ebrahim</field>
+        <field type="CharField" name="username">طــبــ ميدانى ـيـب</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology استقالة وسام فضل .. محرر اخبار في قناة الجزيرة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_ebrahim/status/354139492782850049</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">21</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/V2qdBXXU4G&quot;]</field>
+    </object>
+
+    <object pk="17860" model="data.tweets">
+        <field type="CharField" name="user_id">bishoy_louis</field>
+        <field type="CharField" name="username">Bishoy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@Sabrology: شبكة #رصد الوسخة ناشرين صور رصاص مش مضروب وبتقول الجيش ضربه لأغراض التسخين .. متامر واهبل  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bishoy_louis/status/354149988252655618</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0631\u0635\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/bmKR7y2BT0&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="17861" model="data.tweets">
+        <field type="CharField" name="user_id">malakboghdady</field>
+        <field type="CharField" name="username">إيغما لادوس</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Sabrology: وصول عدد مؤيدي مرسي الى 8 مليار وهو عدد يفوق عدد سكان الارض وانشقاق السيسي الى نصفين كلاهما يؤيد مرسي” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/malakboghdady/status/353976534220013568</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17862" model="data.tweets">
+        <field type="CharField" name="user_id">samrashwan</field>
+        <field type="CharField" name="username">sam rashwan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">RT @Sabrology: نص التكليف الذي وصل لشباب الإخوان بخصوص مظاهرات اليوم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/samrashwan/status/353882383486951424</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17863" model="data.tweets">
+        <field type="CharField" name="user_id">elmasryhoda</field>
+        <field type="CharField" name="username">HODA EL MASRY</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology في انتظار جمعة الحصبة اللي ح يموتوا بيها </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elmasryhoda/status/356854377740378112</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17864" model="data.tweets">
+        <field type="CharField" name="user_id">daliahassouna</field>
+        <field type="CharField" name="username">Dalia Hassouna</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@Sabrology: عارفين يعني ايه خيري رمضان يقول فيه انفجار حصل من شوية؟ يعني فيه انفجار هيحصل كمان شوية..&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/daliahassouna/status/357300041930649600</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17865" model="data.tweets">
+        <field type="CharField" name="user_id">heshoz</field>
+        <field type="CharField" name="username">Hesham Mansour</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@Sabrology طول عمرك رومانسي وشفاف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/heshoz/status/356718604739284994</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17866" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@RanaSalemWeza: “@Fact: If the entire world smoked a joint of Marijuana, there would be peace for 3 hours on the entire planet.” @Sabrology </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357615345411960833</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17867" model="data.tweets">
+        <field type="CharField" name="user_id">nermeenhussein</field>
+        <field type="CharField" name="username">Nermeen Hussein</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology هما ادوله العلم كده و هو محبش يغير مكانه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nermeenhussein/status/353956513301270530</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17868" model="data.tweets">
+        <field type="CharField" name="user_id">heshoz</field>
+        <field type="CharField" name="username">Hesham Mansour</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@Sabrology طول عمرك رومانسي وشفاف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/heshoz/status/356718604739284994</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17869" model="data.tweets">
+        <field type="CharField" name="user_id">3mriak</field>
+        <field type="CharField" name="username">Mr. Amr</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">RT @Sabrology: استقالة وسام فضل .. محرر اخبار في قناة الجزيرة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/3mriak/status/354139519236317184</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/8chTIbY2t1&quot;]</field>
+    </object>
+
+    <object pk="17870" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@RanaSalemWeza: “@Fact: If the entire world smoked a joint of Marijuana, there would be peace for 3 hours on the entire planet.” @Sabrology </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357615345411960833</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17871" model="data.tweets">
+        <field type="CharField" name="user_id">nermeenhussein</field>
+        <field type="CharField" name="username">Nermeen Hussein</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology هما ادوله العلم كده و هو محبش يغير مكانه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nermeenhussein/status/353956513301270530</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17872" model="data.tweets">
+        <field type="CharField" name="user_id">ksouka</field>
+        <field type="CharField" name="username">Karim  Souka</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@faissl @Sabrology هاهاهاها تويت القرن: -)) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ksouka/status/356182362737999875</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@faissl&quot;, &quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17873" model="data.tweets">
+        <field type="CharField" name="user_id">nadasherbeny91</field>
+        <field type="CharField" name="username">ندى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology @moneloky وحضراتكم عرفتوا منين إن اللى بيضرب ده إخوان؟؟ مكتوب عليهم مثلاً؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nadasherbeny91/status/353961004335501312</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;, &quot;@moneloky&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17874" model="data.tweets">
+        <field type="CharField" name="user_id">rashaelgammal</field>
+        <field type="CharField" name="username">Rasha El Gammal</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology هل تعلم أن من الجرائم التي ارتكبت ضد مصر هي السماح لأطفال الأغنياء بتعلم عربية بسيطة جداً ليحرم مصر من شباب منتمي لكن معاه فلوس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rashaelgammal/status/354540189852504065</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17875" model="data.tweets">
+        <field type="CharField" name="user_id">elba7r</field>
+        <field type="CharField" name="username">ElBa7r</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">RT: @Sabrology جماعة الاخوان المسلمون هم المافيا العربية .. حرفيا وبكل دقة علمية! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elba7r/status/356926554137305091</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17876" model="data.tweets">
+        <field type="CharField" name="user_id">nanestan</field>
+        <field type="CharField" name="username">The H!</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@faissl @Sabrology @HamzawyAmr فكرتني بالفنان عيسوي عيسوي عيسوي :))) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nanestan/status/356184629348270081</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@faissl&quot;, &quot;@Sabrology&quot;, &quot;@HamzawyAmr&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17877" model="data.tweets">
+        <field type="CharField" name="user_id">asma2mosad</field>
+        <field type="CharField" name="username">خان يخون إخوان خونة</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Sabrology: صورة لعدد من الاخوان أثناء احترامهم للشرعية  والاحترام للشريعة له جذور تاريخية أصيلة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/asma2mosad/status/353960913281359873</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/aZoWOszSBz\u201d\u0641\u0639\u0644\u0627&quot;]</field>
+    </object>
+
+    <object pk="17878" model="data.tweets">
+        <field type="CharField" name="user_id">rababoush</field>
+        <field type="CharField" name="username">rababoush</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">لا كله بتاعي أنا واعدة ماما بالبوفات “@Sabrology: وحياة اغلى حاجة عندكو .. اللي يمسك المغير يسيبلي حتة” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rababoush/status/353939295633018881</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17879" model="data.tweets">
+        <field type="CharField" name="user_id">amreldib</field>
+        <field type="CharField" name="username">Amr Eldib</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@sabrology @AmrEldib مفيش محرر في الجزيرة بالاسم فضلا عن البروفايل حديث وبوستاته قليلة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amreldib/status/354145331379830786</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@sabrology&quot;, &quot;@AmrEldib&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/IznZmmaaEg&quot;]</field>
+    </object>
+
+    <object pk="17880" model="data.tweets">
+        <field type="CharField" name="user_id">wafaasalem</field>
+        <field type="CharField" name="username">Wafaa Salem</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">فعلا ما يشبهوش غير المافيا والجماعات الماسونية RT @Sabrology: @WafaaSalem لا فيه .. المافيا الروسية والايطالية واليابانية .. دي بقى العربية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/wafaasalem/status/356925791096938497</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;, &quot;@WafaaSalem&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17881" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">جولة عمالية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357544789912190976</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17882" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">شبكة #رصد الوسخة ناشرين صور رصاص مش مضروب وبتقول الجيش ضربه لأغراض التسخين .. متامر واهبل  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354148605558398976</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">35</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0631\u0635\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/jFxQYG4KDu&quot;]</field>
+    </object>
+
+    <object pk="17883" model="data.tweets">
+        <field type="CharField" name="user_id">lovelife_smile</field>
+        <field type="CharField" name="username">Love Life &amp;Smile</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Sabrology: صورة لعدد من الاخوان أثناء احترامهم للشرعية  Ikhwan respecting legitimacy #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/lovelife_smile/status/353960715373121536</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/2VLHgZUE7h\u201d&quot;]</field>
+    </object>
+
+    <object pk="17884" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">So much hatred on this planet, everyone hates those who are different </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356353506313138176</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17885" model="data.tweets">
+        <field type="CharField" name="user_id">ismailkhalaf70</field>
+        <field type="CharField" name="username">Ismail Khalaf</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Sabrology: استقالة وسام فضل .. محرر اخبار في قناة الجزيرة  ده ما تروه يا ساده كذب و تضليل ... اقفلوها </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ismailkhalaf70/status/354143505314086913</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/yf2NfJFKcw\u201d&quot;]</field>
+    </object>
+
+    <object pk="17886" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">جريدة نجوم على تويتر is out!  ▸ Top stories today via @tomatnilefm @Sabrology @AshrafHamdi </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354150701041057793</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@tomatnilefm&quot;, &quot;@Sabrology&quot;, &quot;@AshrafHamdi&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17887" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">نص التكليف الذي وصل لشباب الإخوان بخصوص مظاهرات اليوم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353882287730995200</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17888" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عاجل: ظهور الفنان العالمي مايكل انجلو في اعتصام رابعة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354170622416412672</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/NdfqEDBOpM&quot;]</field>
+    </object>
+
+    <object pk="17889" model="data.tweets">
+        <field type="CharField" name="user_id">ahmedmagdy470</field>
+        <field type="CharField" name="username">Ahmed Magdy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology @PiDegg @SaadElShater امك بتترجي ابوك انه يقتل كام واحد . احه علي دي عيله </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmedmagdy470/status/357821207703326720</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;, &quot;@PiDegg&quot;, &quot;@SaadElShater&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17890" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Some people are born to carry the burden of other people. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356775708510531585</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17891" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مسلسلات رمضان 2013.xls -  اعداد @Neveen_Hamzah </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/355391811956641792</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Neveen_Hamzah&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17892" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مصطفى حسني ايز ذا نيو عمرو خالد .. ماهو لازم يبقى فيه نجم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357293551165505536</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17893" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يعني لما النور يقطع دلوقتي ندعي على مين؟ اقطاي ولا أيبك؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354529043409944576</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17894" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اهنئ الامة الاسلامية بشهر رمضان .. حد يعرف مسلسل هيفاء وهبي جاي على قناة ايه؟  @HaifaWehbe </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354381797896888320</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@HaifaWehbe&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17895" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@WafaaSalem لا فيه .. المافيا الروسية والايطالية واليابانية .. دي بقى العربية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356925415325048832</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@WafaaSalem&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17896" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">روحت البنك قلتلهم حساب رقم 306306 دعم مصر سحب من فضلك .. الراجل مرضيش وكان عصبي مش عارف ليه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356178647926833152</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17897" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">التكوين والشكل الهيكلي لجماعة الاخوان المسلمون بالاضافة للاهداف و طريقة العمل السري يطابق تكوين المافيا الايطالية والروسية واليابانية. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356925998173921280</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17898" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صباح الخير  :-)  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357404486513332224</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17899" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">جريدة نجوم على تويتر is out!  ▸ Top stories today via @tomatnilefm @Sabrology @AshrafHamdi </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354150701041057793</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">903</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@tomatnilefm&quot;, &quot;@Sabrology&quot;, &quot;@AshrafHamdi&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17900" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عاجل: المسيحيين كلهم اونلاين. انا محاصر. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/355009175320924161</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17901" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يا اوباما يا جبان يا عميل الإخوان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353939789977894912</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17902" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">باعترافاتهم باعترافاتهم : شيخ يغنى تأييدا لمرسى : كلنا معرصين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354549419749818371</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">98</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/BhC5y30Luq&quot;]</field>
+    </object>
+
+    <object pk="17903" model="data.tweets">
+        <field type="CharField" name="user_id">kkholoudsaad</field>
+        <field type="CharField" name="username">kholoud saad</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology انا عايزة الفيديو ده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kkholoudsaad/status/354174566404341760</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17904" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مصر عدت من الزمبيل الاولاني .. احنا دلوقتي في التاني </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357586942390571008</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17905" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">تبقى دائما رائحة الورد في يد من يعطي الورد .. رومي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/355358943180095488</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17906" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@AnotherMoMo: ‏السيسي بعد ما شاف المنظر ده والعالم اتطمن من بكرة هيبدأ خطة Kill Bill&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353935937979428865</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17907" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هل تعلم أنه قبل ثورة 25 يناير, كل العيال الروشة والتشيكس والبنات الكوول ماكانوش بيكتبوا على فيسبوك وتويتر بالعربي عشان بيئة؟ :P </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354537865402793985</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17908" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">تبقى دائما رائحة الورد في يد من يعطي الورد .. رومي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/355358943180095488</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17909" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اصدقائي الغير مصريين اللي منهارين على مرسي .. علقوا صورته في الديوانية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353968753186324480</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17910" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@AnotherMoMo: ‏السيسي بعد ما شاف المنظر ده والعالم اتطمن من بكرة هيبدأ خطة Kill Bill&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353935937979428865</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17911" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هل تعلم أنه قبل ثورة 25 يناير, كل العيال الروشة والتشيكس والبنات الكوول ماكانوش بيكتبوا على فيسبوك وتويتر بالعربي عشان بيئة؟ :P </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354537865402793985</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17912" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">دين ام اعلان احمد عز دا هدف دين امه ايه؟ انا حاولت ابص على التلاجة والعفش والتليفزيون مش قادر اعرف بيعلن عن ايه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/355434582402809857</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17913" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يوسف الحسيني الفاشي او جمهور ومصداقية القناة .. اختاروا وتابعونا @Youssefalhosiny @ONtveg </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/355353295134539776</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Youssefalhosiny&quot;, &quot;@ONtveg&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17914" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@ELD0DGE: ‏إصرف يا سيسى إصرف ولايهمك ..كل الألوان والفلوس دى خيرى رمضان بيلمها فى مكالمتين&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353923496180584449</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17915" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">برنامج نسمة على الطاير برنامج حقير وكل من يعمل فيه تافه وعنصري وحقير .. الناس الغلابة اللي بتتريقوا عليهم دول هما اللي بيأكلوكم عيش </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356719740904935424</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17916" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هوببااااااا  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353917711656562691</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17917" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">فيديو الجيش لأحداث الحرس الجمهوري فجر اليوم   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354171247346724864</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">4549</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/QlnU2Oqcrk&quot;]</field>
+    </object>
+
+    <object pk="17918" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لا لبلتجة المظاهرات  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353957726809886720</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17919" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">كلمة سر: ال777 وال999 نازلين الشوارع بكرة. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/355354978568781824</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17920" model="data.tweets">
+        <field type="CharField" name="user_id">dinadwidar</field>
+        <field type="CharField" name="username">Dunz</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">العلم المناسب في المكان المناسب &amp;quot;@Sabrology: ‏السؤال هنا: هو ليه كان حاطط علم القاعدة في القاعدة؟&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dinadwidar/status/353956669966925826</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17921" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ذا ايجيبشان بيبول ار نوت ريدي فور رمضان .. هما هيصوموا بط هوين؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354193217136234496</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17922" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الحرب على الارهاب .. مصطلح مطاطي استعماري استخدمه بوش الاب والابن لكسب موافقة عالمية للاحتلال العسكري للعراق وافغانستان. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356687897031745536</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17923" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الفيديو اللي الجيش اذاعه في التليفزيون دا مش فيديو بيوضح الاحداث .. دا فيديو كليب مش ناقصه غير صوت الفنان محمد ثروت. نعم لتجنيد المخرجين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354175064373067777</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17924" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وجود نهى العمروسي ونهلة سلامة في مشهد واحد هو اكر كارثي بكل المقاييس وهو السبب الرئيسي في امتناع الكائنات الفضائية عن الاتصال بنا. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356344384519806976</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17925" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الناصريين قعدوا سنين يتفاخروا ان عبد الناصر لبس الاخوان طرح .. احنا بقى لبسناهم نقاب #البلتاجي #بديع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357579600940900355</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0628\u0644\u062a\u0627\u062c\u064a&quot;, &quot;#\u0628\u062f\u064a\u0639&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17926" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يقتلوا او يصلبوا او تقطع ايديهم وارجلهم من خلاف .. يعني رجل يمين و ايد شمال او العكس .. دا حد الحرابة. صلي عالكوبري بقى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356871726220578816</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17927" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">قد ايه الوحدة العربية جميلة .. مصريين بيحاربوا في #سوريا وسوريين بيحاربوا في #مصر .. المشكلة الوحيدة انهم بيحاربوا نفسهم! بيحرقوا بلادهم! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356898880295669760</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0633\u0648\u0631\u064a\u0627&quot;, &quot;#\u0645\u0635\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17928" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يا منافقين .. فاكرين؟  @elmogheer @Abdurrahmanezz  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354302188710936576</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@elmogheer&quot;, &quot;@Abdurrahmanezz&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/XVbv2B1FCp&quot;]</field>
+    </object>
+
+    <object pk="17929" model="data.tweets">
+        <field type="CharField" name="user_id">al_nehaya</field>
+        <field type="CharField" name="username">The End</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Bishoy_Louis @esraamahfouz @Sabrology لو الجيش ضرب يبقى الفوارغ عند الجيش وجنبهم مش في الطرف الثاني ولا هو بيطير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/al_nehaya/status/354153912149872640</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Bishoy_Louis&quot;, &quot;@esraamahfouz&quot;, &quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17930" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اتنين عساكر اتخطفوا في عين شمس شرقي!! الخبر من سكاي نيوز </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354152176773369857</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17931" model="data.tweets">
+        <field type="CharField" name="user_id">dahliadou</field>
+        <field type="CharField" name="username">Dahlia A. Nofal</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">برنامج “لا سوستا” وحمزاوي… مع كامل احتقاري!! #تفووو #زمن_الإخص </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dahliadou/status/355082370145189890</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062a\u0641\u0648\u0648\u0648&quot;, &quot;#\u0632\u0645\u0646_\u0627\u0644\u0625\u062e\u0635&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17932" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اكاونت وسام فضل اهو على فيسبوك .. قولوله هو الكلام دا مش انا .. اقنعوه انه كداب وما استقلش وانا كداب  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354144172351029249</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/I8GEOk4df7&quot;]</field>
+    </object>
+
+    <object pk="17933" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هل يجد المصريون صعوبة في التخلص من الفاشية فأدمنوا تغيير صورها من عسكرية لدينية لرأسمالية لبوليسية؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/355351341893304320</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17934" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">انا ماعرفتش اتفائل زيكم .. الثورة المضادة بتنجح بفضل غباء ووساخة الاخوان. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/355356231667421184</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17935" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@mrsmsismael: الى ابو الفتوح...الثورة تستدعى الانحياز للحق..اما مسك العصا من المنتصف لا يصلح فى الثورات..يصلح فقط للراقصات..فى حزب الوسط&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357294554967310339</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17936" model="data.tweets">
+        <field type="CharField" name="user_id">farisa666</field>
+        <field type="CharField" name="username">Revolution not Coup</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology @FarahSaafan القوات المسلحه:لدينا فيديو تفصيلى بما حدث وسيتم نشره للرأى العام..إخوان ومتأسلمين تجار دم ودين كالمعتاد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/farisa666/status/354141926427078656</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;, &quot;@FarahSaafan&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17937" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">جزء كبير من غضبي على الاخوان هو انهم السبب في تغيير مبادئ الكثير ممن كانوا حقوقيون لا يقبلون القمع لأي كان فصاروا يطالبون به </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356895539503173632</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17938" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عارفين يعني ايه خيري رمضان يقول فيه انفجار حصل من شوية؟ يعني فيه انفجار هيحصل كمان شوية.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357292326781067265</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17939" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بلال فضل و شبكة رصد الكذابين @belalfadl  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/355404993773326336</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@belalfadl&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/xksgEOBDpa&quot;]</field>
+    </object>
+
+    <object pk="17940" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">حلقة مصطفى محمود العلم والايمان عن الاخوان ..  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354965998241193985</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">39</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/w6tuly0cLS&quot;]</field>
+    </object>
+
+    <object pk="17941" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عارفين فيلم رصيف نمرة خمسة لما فريد شوقي دخل على زي رستم راح قايل الله اكبر ودخل في الصلاة؟ :)))) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356911765717651456</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17942" model="data.tweets">
+        <field type="CharField" name="user_id">themidozz</field>
+        <field type="CharField" name="username">Ahmad Gamaleddin</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">برنامج لا سوستا مع سما المصري لا ينفع في رمضان ولا غير رمضان ده اسفاف وابتذال بلا حدود ..مكنش ناقص الا انها تقوم تقعد على رجله </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/themidozz/status/355112452276494336</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17943" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هاني سلامة هو الشخصية المثالية لتمثيل دور مسلسل الداعية .. هو بيض زيهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354780830209552385</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17944" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">احنا نعمل سور حوالين رابعة و نعلن المكان محمية طبيعية او زي الفاتيكان في ايطاليا ومعابد الفيازا في الهند وحديقة حيوان في الجيزة. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356581979900215297</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17945" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بالمناسبة .. #برافر_لن_يمر  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357551769238257664</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0628\u0631\u0627\u0641\u0631_\u0644\u0646_\u064a\u0645\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17946" model="data.tweets">
+        <field type="CharField" name="user_id">donia_iskandar</field>
+        <field type="CharField" name="username">Donia Iskandar</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لا سوستا برنامج قذر و لا يليق بجميع المقاييس ميضحكش و مش fun اللي يعرف بقي طارق نور يقوله الكلمتين دول : عيب علي تاريخك الأرف ده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/donia_iskandar/status/355250197124755457</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17947" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">استحملنا اعتقالات وضرب و غاز ورصاص ورامي عصام عشان ييجي يوم واحد زي خيري رمضان يبقى بطل قومي؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353984246085459969</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17948" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وحياة اغلى حاجة عندكو .. اللي يمسك المغير يسيبلي حتة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353938953444917249</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17949" model="data.tweets">
+        <field type="CharField" name="user_id">raminism</field>
+        <field type="CharField" name="username">rami</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Egyptians have two national sentiments 1) he&#39;s a traitor.. burn him 2) he&#39;s a hero, I wanna have his baby </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/raminism/status/356138258251530240</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17950" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">جماعة الاخوان المسلمون هم المافيا العربية .. حرفيا وبكل دقة علمية! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356926208044314624</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17951" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">“@HuffingtonPost: WATCH: 12-year-old Egyptian boy puts all #America to shame  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353919590763466752</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">1505</field>
+        <field type="TextField" name="hash_tags">[&quot;#America&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Ln0PzQ8tvE\u201d&quot;]</field>
+    </object>
+
+    <object pk="17952" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">قطع الطريق كان يقوم به العرب في الجاهلية ويسمى الحرابة. وجزائهم ان يصلبوا او يقتلوا او تقطع ايديهم وترجلهم من خلاف ... يا بتوع الشريعة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356870126169112576</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17953" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@kalimakhus: ‏لما تكون مسلح وتتحصن وسط عزل وأطفال ونساء ده اسمه استخدام لدروع بشرية ودي جريمة حرب أو جريمة ضد الإنسانية في غير زمن الحرب&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354140928400822272</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17954" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">دكتور رمزي موافي طبيب بن لادن هرب مع مرسي من سجن وادي النطرون وأسس خلية ارهابية في سيناء سماها جيش مصر الحر وهو المسئول عن كل عمليات سيناء! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357068770990239744</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17955" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">في مهرجان الجري من الثيران في اسبانيا بتحصل حالات تحرش ..عارفين بيقارنوها بإيه؟ بالتحرير. احنا بقى يتضرب بينا المثل   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357114399833595904</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">98</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/AaMxxGDM3W&quot;]</field>
+    </object>
+
+    <object pk="17956" model="data.tweets">
+        <field type="CharField" name="user_id">nmontasser</field>
+        <field type="CharField" name="username">Nadia Montasser</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">لو الشعب المصري ما رفعش قضية علي قناة القاهرة والناس علي برنامج الدعارة لا سوستا يبقي أنا هابقى من مؤيدي أبو اسماعيل اللي عاوز يطهر الإعلام </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nmontasser/status/355137093049126913</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17957" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@Youssefalhosiny  &amp;quot;@AhmdAlish: تحداني يوسف الحسيني إني أجمع 100 ريتويت لتوينة بتقول إنه مفتعل وأوفر وسخيف&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356694529434337282</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Youssefalhosiny&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17958" model="data.tweets">
+        <field type="CharField" name="user_id">ahmadfouadanwar</field>
+        <field type="CharField" name="username">أحمد فؤاد أنور</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">RT @Sabrology: RT @Sabrology: شبكة #رصد الوسخة ناشرين صور رصاص مش مضروب وبتقول الجيش ضربه لأغراض التسخين .. متامر واهبل  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmadfouadanwar/status/354150626575388674</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0631\u0635\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;, &quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/jFxQYG4K&quot;]</field>
+    </object>
+
+    <object pk="17959" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بس وراح قايل الله اكبر و رمى الكابينيه من فوق السطوح عالعساكر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354244474093830144</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17960" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">شيخ الجامع الكداب بيقول مفيش اسعاف.. والمصحف مش اقل من 5 عربيات اسعاف برة الجامع. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354119888421388290</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">858</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17961" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">للمعلومة.. الجيش فى اول الضرب لقيته بيتراجع لورا هو والداخلية من الأسلحة اللى كانت مع الإخوان. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354092787286818816</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">1180</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17962" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">فيه واحد منهم شايفاه بوضوح فشخ فوق الجامع وواحد تانى فوق المبنى والمصحف..!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354066612900470784</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">560</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17963" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإخوان بيضربوا خرطوش من فوق المسجد ومن فوق المبنى اللى بيتبنى حنب الجامع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354066408432353281</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">1032</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17964" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإخوان واقفين ورا باب الجامع وعمالين يقولوا للجيش والداخلية &amp;quot;إهجم إهجم إهجم&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354076178765709314</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">584</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17965" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">من اقوال حراس بنايات عمارات العبور ان إمبارح لقوا عربيات بتنزل اسلحة فى المسجد وده سبب هجوم الجيش والداخلية إنهاردة. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354118168970665984</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">1159</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17966" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الشيخ بيولول والجيش ولا الداخلية جت جنب الجامع للمعلومة محاصراه بس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354065052912975872</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">569</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17967" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لا الشرطة ولا الداخلية مانعين الإسعاف.. الإسعاف جت وخدت ناس ومازالت موجودة والجامع بيفتح الباب يطع المصابين دون تدخل من الجيش او الشرطة. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354095395690921985</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">757</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17968" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@malekadly:  العدالة والمكاشفة قبل المصالحة … دا الكلام&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356903690923282432</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">155</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17969" model="data.tweets">
+        <field type="CharField" name="user_id">mirna_elhelbawi</field>
+        <field type="CharField" name="username">Mirna El Helbawi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مضربوش عليهم وهما بيصلوا يا جدعان كانوا خلصوا صلاة وفيه منهم شاف الجيش والشرطة من بعد وطلعوا يجروا. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mirna_elhelbawi/status/354069798642130944</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">1214</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17970" model="data.tweets">
+        <field type="CharField" name="user_id">kim_jong_un_kor</field>
+        <field type="CharField" name="username">كيم يونغ أون</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أوباما ,لقد خطفت أمي ,وعلقتها, و سرقتها, وضربتها على راسها من الخلف, وكسرت لها رقبتها, واغتصبتها مرتين, واشعلت فيها النيران وهي الآن حزينة. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kim_jong_un_kor/status/319603046810259458</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">285</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17971" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">شهود على احداث الجرس الجمهوري من سكان عمارات العبور @IslamElGawish @Mirna_elhelbawi </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354147458726633472</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@IslamElGawish&quot;, &quot;@Mirna_elhelbawi&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17972" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هل تعلم أنه من حقك كمواطن أن تقبض على صفوت حجازي طبقا لقانون الضبطية القضائية الذي اقره مرسي والنظام الاخواني؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354232952382693376</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17973" model="data.tweets">
+        <field type="CharField" name="user_id">ahmdalish</field>
+        <field type="CharField" name="username">أحمد العش</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تحداني يوسف الحسيني إني أجمع 100 ريتويت لتوينة بتقول إنه مفتعل وأوفر وسخيف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmdalish/status/287316004219015168</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">734</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17974" model="data.tweets">
+        <field type="CharField" name="user_id">hamzawyamr</field>
+        <field type="CharField" name="username">Amr Hamzawy</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">2. إلى من قبلوا تعطيل العقل حين الاستماع لأكاذيب موتورين، وشوفينية مدعي وطنية، وسرديات الأبيض النقي والاسود الحالك التي تجترها ألسنة متحولين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hamzawyamr/status/356175050774286336</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">194</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17975" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الحقيقة: تم تسليم شحنة اسلحة لبعض الاشخاص في الاعتصام فقرر الجيش والشرطة فضه فبدأ بالغاز فردوا بالاسلحة النارية وانباء عن قتلى في الصفين. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354142702671110144</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17976" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الدستور اللي احنا قلنا عليه لأ وانتوا كنتوا ميتين عليه عشان الشريعة بيتيح للجيش محاكمتكم عسكريا دلوقتي يا اخوان .. وقالت الصناديق للدين نعم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354187490854305792</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">21</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17977" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صفوت حجازي: اللي ماتوا هندفن معاهم صورة مرسي لكي يخفف الله عنهم عذاب القبر ... عذاب قبر؟ امال فين الحور العين والخمرة؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354153042691629056</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">22</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17978" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">من اقوال الرئيس المعزول: وفيها ايه لما شوية ناس يموتوا علشان الباقيين يعيشوا كويس .. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354173586845605888</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">22</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17979" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وصول عدد مؤيدي مرسي الى 8 مليار وهو عدد يفوق عدد سكان الارض وانشقاق السيسي الى نصفين كلاهما يؤيد مرسي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/353972669898698755</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">94</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17980" model="data.tweets">
+        <field type="CharField" name="user_id">faissl</field>
+        <field type="CharField" name="username">#MB 80 Years Of Lies</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">.@HamzawyAmr هل شايف ان الدلالة الرمزية لسرديات ما بعد الشوفينية كافية لاستبطان المحتوي الرمزي الكامن في أكاذيب الوتر البُعدي للعقل الكلي؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/faissl/status/356180279829864448</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">81</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17981" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;@jhamaki: واحد اخواني عايز يضايق جيرانه قرر يصلي التراويح في الأسانسير&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356924867167268867</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">52</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17982" model="data.tweets">
+        <field type="CharField" name="user_id">samer_kamel</field>
+        <field type="CharField" name="username">Ess Kay</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">The Samer Kamel Daily is out!  ▸ Top stories today via @FaridaAbouElEzz @Sabrology @EgyptianNudist </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/samer_kamel/status/356734913497669632</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">684</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@FaridaAbouElEzz&quot;, &quot;@Sabrology&quot;, &quot;@EgyptianNudist&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17983" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صفقة قنابل الغاز .. مدرعات الشرطة الجديدة .. الدستور والضبطية القضائية .. كنا نتظاهر ضدها وتطالبون بها. اكلتم يوم اكل الثور الابيض. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356896200127033345</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">34</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17984" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الله يرحمك .. &amp;quot;@MYousrySalama: ‏من برر السحل سيًسحَل ولو بعد حين، وعلى أيدي من برر لهم.&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354176193932689408</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">95</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17985" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">انا لا ابرر القتل ولا اقبله ولا حتى في صورة حكم اعدام .. اثق في كلام اصدقائي الشهود بأن الاخوان من بدأوا اطلاق النار ولم انسى جيش ماسبيرو! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/354181658976600065</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">43</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17986" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">طفل يعود للحياة بعد ساعتين من الأحضان بين ذراعي امه!! The power of love is the power of creation  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/356718176018501632</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">51</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/hU92Mo6ymE&quot;]</field>
+    </object>
+
+    <object pk="17987" model="data.tweets">
+        <field type="CharField" name="user_id">islamelgawish</field>
+        <field type="CharField" name="username">Islam Gawish™</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لأي كلب بيحور و يقول الجيش هجم علي الناس ، من الساعة ٢ ليلا والمعتصمين بحشدوا و هجمو علي الجيش للدخول للحرس انا شفت بعيني </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/islamelgawish/status/354098937877114881</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">120</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17988" model="data.tweets">
+        <field type="CharField" name="user_id">m_albugaily</field>
+        <field type="CharField" name="username">مبارك البغيلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الامارات الشقيقة ترفض تهديدات واشنطن لمصر وتعرض 3  اضعاف المعونة الاميركية الى مصر . كفوووووووووووووووووووووووو ياعيال زايد . </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/m_albugaily/status/353963301820055553</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">279</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17989" model="data.tweets">
+        <field type="CharField" name="user_id">joya_grant</field>
+        <field type="CharField" name="username">Joya Grant</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology @Gue3bara @SaadElShater ًاتم كنتم بتترجوه يغتال يا مدام ! انتم قتالين قتلا عادى كده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/joya_grant/status/357818095525576705</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;, &quot;@Gue3bara&quot;, &quot;@SaadElShater&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17990" model="data.tweets">
+        <field type="CharField" name="user_id">3amrkhaled</field>
+        <field type="CharField" name="username">Amr Khaled</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Rababoush @Sabrology هم مسكوا جزء كبير منه وألباقي بيبظ فمش عارفين يمسكوه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/3amrkhaled/status/353939625179480064</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Rababoush&quot;, &quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17991" model="data.tweets">
+        <field type="CharField" name="user_id">citizen_haytham</field>
+        <field type="CharField" name="username">Haytham A. Aziz</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology المتهم محمد عبد الحى( أحد المتهمين ببتر أصبع مواطن بمنطقة رابعه ) منصور مع اسماعيل هنية ارهابي حماس  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/citizen_haytham/status/357580329340899328</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">137</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/hsczchjSfe&quot;]</field>
+    </object>
+
+    <object pk="17992" model="data.tweets">
+        <field type="CharField" name="user_id">same7_m</field>
+        <field type="CharField" name="username">sameh</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Sabrology: وصول عدد مؤيدي مرسي الى 8 مليار وهو عدد يفوق عدد سكان الارض وانشقاق السيسي الى نصفين كلاهما يؤيد مرسي” #تكبييير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/same7_m/status/353977053969784832</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062a\u0643\u0628\u064a\u064a\u064a\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17993" model="data.tweets">
+        <field type="CharField" name="user_id">sallygomah</field>
+        <field type="CharField" name="username">Sally Gomaa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@Sabrology: استقالة وسام فضل .. محرر اخبار في قناة الجزيرة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sallygomah/status/354144799642755072</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/sj1BD8i7zq&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="17994" model="data.tweets">
+        <field type="CharField" name="user_id">sabrology</field>
+        <field type="CharField" name="username">☭ Ahmed Sabry</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">The Sabrology Daily is out!  ▸ Top stories today via @rababyoussef1 </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sabrology/status/357797895136751616</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">1071</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@rababyoussef1&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17995" model="data.tweets">
+        <field type="CharField" name="user_id">wafaasalem</field>
+        <field type="CharField" name="username">Wafaa Salem</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">how ugly :( RT @Sabrology: So much hatred on this planet, everyone hates those who are different </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/wafaasalem/status/356353952893239297</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="17996" model="data.tweets">
+        <field type="CharField" name="user_id">mf996</field>
+        <field type="CharField" name="username">...</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ya_akalil @ismailkhalaf70 @sabrology شف رد محمد علي   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mf996/status/354156512047939584</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ya_akalil&quot;, &quot;@ismailkhalaf70&quot;, &quot;@sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/5IRl9McQwq&quot;]</field>
+    </object>
+
+    <object pk="17997" model="data.tweets">
+        <field type="CharField" name="user_id">drsultanjaz</field>
+        <field type="CharField" name="username">سلطان نجد و الحجاز</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">افضل حل يلغوا الستات RT @Sabrology: أخطار تهدد المرأة المسلمة .. الشيطان دلوقتي بيغزك مش بيغرك  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/drsultanjaz/status/354903500527910913</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">29</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/hatFmRku&quot;]</field>
+    </object>
+
+    <object pk="17998" model="data.tweets">
+        <field type="CharField" name="user_id">mf996</field>
+        <field type="CharField" name="username">...</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MF996 @ya_akalil @ismailkhalaf70 @sabrology وشف صفحة عماد الدين السيد هنا لتأكد   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mf996/status/354157862794174464</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MF996&quot;, &quot;@ya_akalil&quot;, &quot;@ismailkhalaf70&quot;, &quot;@sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/1O2Kp7q5Vx&quot;]</field>
+    </object>
+
+    <object pk="17999" model="data.tweets">
+        <field type="CharField" name="user_id">inplainsite</field>
+        <field type="CharField" name="username">NicholasSimcikArese</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Sabrology: انتشار واسع النطاق لحملة #تمرد   o; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/inplainsite/status/354051624035037185</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062a\u0645\u0631\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/hdAdwk5jib\u201d&quot;]</field>
+    </object>
+
+    <object pk="18000" model="data.tweets">
+        <field type="CharField" name="user_id">saraalburiki</field>
+        <field type="CharField" name="username">SA</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Loooooooooooooool RT @Sabrology: مين ساكن هنا؟ غسيل مين دااااااااااااااااااااااااا؟  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/saraalburiki/status/356930073011556352</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/pBduYODnTy&quot;]</field>
+    </object>
+
+    <object pk="18001" model="data.tweets">
+        <field type="CharField" name="user_id">fahdformat</field>
+        <field type="CharField" name="username">Etخn2t</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Sabrology: حتى لا ننسى ...  رب ارحمنا من كل قاتل ظالم وارزقنا بحاكم عادل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fahdformat/status/354625180540207104</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">53</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18002" model="data.tweets">
+        <field type="CharField" name="user_id">drabolfotoh</field>
+        <field type="CharField" name="username">عبدالمنعم أبو الفتوح</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology @mrsmsismael  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/drabolfotoh/status/350609650913251329</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">393</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;, &quot;@mrsmsismael&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18003" model="data.tweets">
+        <field type="CharField" name="user_id">fadysadek_</field>
+        <field type="CharField" name="username">Fady Sadek</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology @OnewaySpeaker  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadysadek_/status/355327426731061248</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">32</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;, &quot;@OnewaySpeaker&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18004" model="data.tweets">
+        <field type="CharField" name="user_id">mahmoudmmdoh10</field>
+        <field type="CharField" name="username">الشيخ مولوتوف</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Rababoush @Sabrology  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mahmoudmmdoh10/status/353939701272555521</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">162</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Rababoush&quot;, &quot;@Sabrology&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18005" model="data.tweets">
+        <field type="CharField" name="user_id">mohagalaa</field>
+        <field type="CharField" name="username">mohamed galaa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sabrology @HendSabry @MYousrySalama  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohagalaa/status/354209686519685120</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">30</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sabrology&quot;, &quot;@HendSabry&quot;, &quot;@MYousrySalama&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/AHUVdTERou&quot;]</field>
+    </object>
+
+</django-objects>

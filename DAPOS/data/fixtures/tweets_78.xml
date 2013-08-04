@@ -1,0 +1,2773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="233397" model="data.tweets">
+        <field type="CharField" name="user_id">xformoody</field>
+        <field type="CharField" name="username">شاي سكر برا</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism @Sherwet_ @HebaEzzat_2011 الدماغ دي دماغ بانكوووووو </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/xformoody/status/358020456361627649</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;, &quot;@Sherwet_&quot;, &quot;@HebaEzzat_2011&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233398" model="data.tweets">
+        <field type="CharField" name="user_id">amrelsebaai</field>
+        <field type="CharField" name="username">amr   madkor</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism @Sandmonkey ابوبركه صورة نموذجيه  لكل من يريد ان يرى افاق </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amrelsebaai/status/358375938372804609</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;, &quot;@Sandmonkey&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233399" model="data.tweets">
+        <field type="CharField" name="user_id">fadynabil2</field>
+        <field type="CharField" name="username">لن تموتي يابلدي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism بكره في #التحرير احتفالا بيوم العاشر من اكتوبر ودعم #الجيش المصري وفي جميع ميادين مصر احتفالا بنصراكتوبر ودعم الشارع المصري </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadynabil2/status/357973844323090432</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u062a\u062d\u0631\u064a\u0631&quot;, &quot;#\u0627\u0644\u062c\u064a\u0634&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233400" model="data.tweets">
+        <field type="CharField" name="user_id">mahmoudaswany1</field>
+        <field type="CharField" name="username">Aswany</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism لا على فكرة انا لسه مروح من ناحية صلاح سالم بالعافية .هما كتير فشخ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mahmoudaswany1/status/358385725437263872</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233401" model="data.tweets">
+        <field type="CharField" name="user_id">elmanialawe</field>
+        <field type="CharField" name="username">Elmanialawe</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism الدنيا حر الطريق لايطاق ارجوا سرعه فتح الطريف عن طريق الشرطه رحمه للمرضى والعجائز والأطفال </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elmanialawe/status/358215382370234370</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233402" model="data.tweets">
+        <field type="CharField" name="user_id">amelshahat</field>
+        <field type="CharField" name="username">حفيد السيسي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@shiref_t_w @virtualactivism والله طلاب الكلية الحربية ياكلوهم اكل. ... انتم متعرفهومش :-) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amelshahat/status/358380104361062400</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@shiref_t_w&quot;, &quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233403" model="data.tweets">
+        <field type="CharField" name="user_id">famisac</field>
+        <field type="CharField" name="username">Fahmy I.</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism الحصار اللي قبل دا كانو بيحسبوه بالاسابيع و دلوقتي دقايق دا الفرق لما الداخليه بتعمل شغلها </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/famisac/status/358338173769756672</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233404" model="data.tweets">
+        <field type="CharField" name="user_id">colormered</field>
+        <field type="CharField" name="username">ColorMeRed</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@virtualactivism Such trash!!! The Ikhwan need to be shipped off to their own planet. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/colormered/status/358338993940725762</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233405" model="data.tweets">
+        <field type="CharField" name="user_id">colormered</field>
+        <field type="CharField" name="username">ColorMeRed</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@virtualactivism Guess they lost all the new uniforms when their factory was raided... LOL </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/colormered/status/358345702318936064</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233406" model="data.tweets">
+        <field type="CharField" name="user_id">drmagdyalsharif</field>
+        <field type="CharField" name="username">Dr.Magdy Al Sharif</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism هتعملي عقلك بعقله . ؟ حجازي مفسر الأحلام دا مهيطل .. وساعات حمؤه .. حد يزعل من حمؤه ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/drmagdyalsharif/status/358341561546842112</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233407" model="data.tweets">
+        <field type="CharField" name="user_id">drmagdyalsharif</field>
+        <field type="CharField" name="username">Dr.Magdy Al Sharif</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism هتعملي عقلك بعقله . ؟ حجازي مفسر الأحلام دا مهيطل .. وساعات حمؤه .. حد يزعل من حمؤه ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/drmagdyalsharif/status/358341561546842112</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233408" model="data.tweets">
+        <field type="CharField" name="user_id">fadynabil2</field>
+        <field type="CharField" name="username">لن تموتي يابلدي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism الآن| جبهة #30يونيو : الشعب المصري سيخرج غداً للإعلان عن رفضه للإرهاب ودعم الجيش في عمليات تطهير سيناء #مصر_بعد_الإخوان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadynabil2/status/357814127047090176</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#30\u064a\u0648\u0646\u064a\u0648&quot;, &quot;#\u0645\u0635\u0631_\u0628\u0639\u062f_\u0627\u0644\u0625\u062e\u0648\u0627\u0646&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233409" model="data.tweets">
+        <field type="CharField" name="user_id">khalmohamed</field>
+        <field type="CharField" name="username">mohamed khalil</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism تجار دم ودين . يعنى هما بيودوا الناس تموت وهما مستخبيين وراهم عشان فى الاخر يعملوا مؤتمر يتاجروا فيه بدمهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/khalmohamed/status/357983051147526146</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233410" model="data.tweets">
+        <field type="CharField" name="user_id">adhamsaif20</field>
+        <field type="CharField" name="username">adham saif</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism حمرااااااااااااااا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/adhamsaif20/status/358019625096724481</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233411" model="data.tweets">
+        <field type="CharField" name="user_id">ali73ali</field>
+        <field type="CharField" name="username">Ali Abdelaal</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism  قوليلهم الجمعة أجازة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ali73ali/status/357962917783666688</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233412" model="data.tweets">
+        <field type="CharField" name="user_id">theresemsl</field>
+        <field type="CharField" name="username">theresemy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism We know what they want-disruption central.They know they can&#39;t get anything else.Throwing toys out of t pram comes to mind. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/theresemsl/status/357961509747441664</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233413" model="data.tweets">
+        <field type="CharField" name="user_id">deenahsn</field>
+        <field type="CharField" name="username">Deena</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism the ones that actually went to cover Rabaa sit-in, according to ahram </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/deenahsn/status/358326897232445441</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233414" model="data.tweets">
+        <field type="CharField" name="user_id">mohamed7emam</field>
+        <field type="CharField" name="username">طالع من أوم أوم</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism  أه يا أبن الكدابة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohamed7emam/status/358019667610189828</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233415" model="data.tweets">
+        <field type="CharField" name="user_id">ahmedgomaa888</field>
+        <field type="CharField" name="username">ahmed gomaa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism عدد المتواجدين فى مطعم الشبراوى اكتر منهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmedgomaa888/status/358385751974608896</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233416" model="data.tweets">
+        <field type="CharField" name="user_id">marwanyouness</field>
+        <field type="CharField" name="username">م مروان يونس</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism عالم افتراضي يمثل الالهة فيه المرشد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/marwanyouness/status/358013139159220224</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233417" model="data.tweets">
+        <field type="CharField" name="user_id">thawry3</field>
+        <field type="CharField" name="username">thawry</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism فعلا المسلمانى قال كدة لم يطلب احد لقاء اردوغان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/thawry3/status/358213960887050240</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233418" model="data.tweets">
+        <field type="CharField" name="user_id">batnen_mahmoud</field>
+        <field type="CharField" name="username">ملك الرومانسية</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism سيبك منه ده تبع اعلان البقر بتاع لبنيتا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/batnen_mahmoud/status/358224028135202817</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233419" model="data.tweets">
+        <field type="CharField" name="user_id">bayanwaleed</field>
+        <field type="CharField" name="username">Bayan Waleed</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism &amp; the women threatened #Aljazeerah presenter &amp; kicked her out .She was there ready to cover a promised #Ikhwani Massacre </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bayanwaleed/status/358213814262579201</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Aljazeerah&quot;, &quot;#Ikhwani&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233420" model="data.tweets">
+        <field type="CharField" name="user_id">drmagdyalsharif</field>
+        <field type="CharField" name="username">Dr.Magdy Al Sharif</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism @Sherwet_ الخشاف كان منقوع براطيش ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/drmagdyalsharif/status/358016414994542592</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;, &quot;@Sherwet_&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233421" model="data.tweets">
+        <field type="CharField" name="user_id">ahegazy91</field>
+        <field type="CharField" name="username">Ahmed Hegazy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism طالعين يصلوا قيام الليل برده اخوانا الارهابيين تاني ولا ايه ؟؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahegazy91/status/358375233499037697</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233422" model="data.tweets">
+        <field type="CharField" name="user_id">bayanwaleed</field>
+        <field type="CharField" name="username">Bayan Waleed</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism eye witnesses .... Some of Alhussain&#39;s sellers beside the Mosque ... ;-) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bayanwaleed/status/358214523896868866</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233423" model="data.tweets">
+        <field type="CharField" name="user_id">shiref_t_w</field>
+        <field type="CharField" name="username">shiref taha sayd</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism خلى الولاد فى الكلية يتدربوا تدريب عملى عليهم و يخلصونا منهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/shiref_t_w/status/358379098906693633</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233424" model="data.tweets">
+        <field type="CharField" name="user_id">alaa_noureldin</field>
+        <field type="CharField" name="username">Alaa Noureldin</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism  دى مش وسعت !! دى بقت دوبل كلوش :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alaa_noureldin/status/357963287327031297</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233425" model="data.tweets">
+        <field type="CharField" name="user_id">ebrahimseleem3</field>
+        <field type="CharField" name="username">إبْرَاهِيمْ سِليمْ</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism البرادعى بيعمل باصله علشان لم نعمل قعده عرب وكده يغلطه :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ebrahimseleem3/status/358208095547174912</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233426" model="data.tweets">
+        <field type="CharField" name="user_id">ma3etgods</field>
+        <field type="CharField" name="username">اخوحسن ومرقص وكوهين</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism ده المفروض يخش ويخرج بلطع ختم دخول وخروج علي قفاه هههه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ma3etgods/status/357818151754403841</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233427" model="data.tweets">
+        <field type="CharField" name="user_id">shadyead</field>
+        <field type="CharField" name="username">فـ ـــركشے</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism ايون ما اهو رافض يقعد مع البوب يبقا ولا يلزمنا بشلن </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/shadyead/status/358236829578821632</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233428" model="data.tweets">
+        <field type="CharField" name="user_id">hebaezzat_2011</field>
+        <field type="CharField" name="username">Heba</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism @Sherwet_ طيب بالنسبة لمرسيكو ....باعوه وش كدة :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hebaezzat_2011/status/358016259587186688</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;, &quot;@Sherwet_&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233429" model="data.tweets">
+        <field type="CharField" name="user_id">walid65</field>
+        <field type="CharField" name="username">صائد خرفان متقاعد</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism @cairowire @KarShaf The answer was clear build on possibilities not affirmation , The army does not support any candidacy&#39; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/walid65/status/358244863646507008</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;, &quot;@cairowire&quot;, &quot;@KarShaf&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233430" model="data.tweets">
+        <field type="CharField" name="user_id">mahamed1966</field>
+        <field type="CharField" name="username">mahamed elghetany</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism @Sandmonkey هذه هي اراء قطب التكفيري هذا الكلب من ذاك الكلب ايضا ..التكفير لايموت </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mahamed1966/status/358375881942642690</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;, &quot;@Sandmonkey&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233431" model="data.tweets">
+        <field type="CharField" name="user_id">ussaskar2</field>
+        <field type="CharField" name="username">mohammed askar</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism @Sherwet_ ههههههه يادوبك على مقاسه .. البلتاجى رئيس أشارة رابعه العدويه . </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ussaskar2/status/358016602987429888</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;, &quot;@Sherwet_&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233432" model="data.tweets">
+        <field type="CharField" name="user_id">ahmose_i</field>
+        <field type="CharField" name="username">Hany Girgus</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@virtualactivism مش عاوز مصر تنجح لانها لو نجحت هيحصل عنده زي ما حصل في مصر. أكبر انتقام منه أننا ننجح. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmose_i/status/358207977947271168</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233433" model="data.tweets">
+        <field type="CharField" name="user_id">hellboy19854</field>
+        <field type="CharField" name="username">هانى شاكر شرف الدين</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism @walid65 لا اصل دول مش بيحبو مرسى وبس دول مؤمنين بيه وبعدين دا بطل الحرب والسلام </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hellboy19854/status/358242440798416897</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;, &quot;@walid65&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233434" model="data.tweets">
+        <field type="CharField" name="user_id">__taymur__</field>
+        <field type="CharField" name="username">تيمورلنك</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism السؤال خبيث من اللي سأله الراجل مالوش ذنب ده راجل عسكري بيرد من غير لف ودوران :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/__taymur__/status/358238794161860608</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233435" model="data.tweets">
+        <field type="CharField" name="user_id">fouadwaheed</field>
+        <field type="CharField" name="username">Waheed Fouad</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism الخارج ﻻ يبكى على فرص ضائعة ﻻنهم يصنعون فرص جديدة طالما وجدوا من القيادات ما يسمح لهم من تدخل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fouadwaheed/status/357821654996488192</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233436" model="data.tweets">
+        <field type="CharField" name="user_id">yaseenelmasry</field>
+        <field type="CharField" name="username">مصر رجعت لينا</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism @Sherwet_ والله كده كويس يعنى اخيرا اعترفوا ان مرسى مش فى الحكم الناس دى اخر جهل فى الدنيا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/yaseenelmasry/status/358016290268516352</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;, &quot;@Sherwet_&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233437" model="data.tweets">
+        <field type="CharField" name="user_id">masryasel2</field>
+        <field type="CharField" name="username">عصام غنيم</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism @MohamedElHenaw7 لا٠ هوه بيحسب الاقباط دول جماعه مسلمين زي السلفيين ٠ حمار مش فاهم بيقول ايه ؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/masryasel2/status/358021141341806594</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;, &quot;@MohamedElHenaw7&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233438" model="data.tweets">
+        <field type="CharField" name="user_id">tamer1977s</field>
+        <field type="CharField" name="username">Tamer Shedeed</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism( انساهم تلاقيهم ورا ظلك ماشيين     هتنشغل ليه بيهم خليهم عايشين ) عمرو دياب :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/tamer1977s/status/357962249144500226</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233439" model="data.tweets">
+        <field type="CharField" name="user_id">amr_toha</field>
+        <field type="CharField" name="username">¤ جيشنا مش عسكر ¤</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism  كمية تناقض فوق الاحتمال الآن تذكروا قادة حرب أكتوبر بالخير؟ امى يعنى هيا اللى عملت احتفالات اكتوبر وعزمت قتلة السادات؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amr_toha/status/357959747602882560</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233440" model="data.tweets">
+        <field type="CharField" name="user_id">alatef</field>
+        <field type="CharField" name="username">atef nahass</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism هم لا يبحثون سوى عن اثارة الفوضى وفي النهاية لن يرضوا عنا إلا ونحن ضعفاء لكي نخضع لشروطهم!مع رفضي لأي قمع وإضطهادبالطبع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alatef/status/358380675746902018</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233441" model="data.tweets">
+        <field type="CharField" name="user_id">amr_toha</field>
+        <field type="CharField" name="username">¤ جيشنا مش عسكر ¤</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism ايون ... لا ودلوقتى بيخاطبوا &amp;quot;جيش مصر العظيم&amp;quot; .. يانهار اثود .. يا نهار اثود !! مش ده اللى كنتوا شمتانين فيه علنى بعد ٦٧ ؟؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amr_toha/status/357961975667503105</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233442" model="data.tweets">
+        <field type="CharField" name="user_id">muhammedmegahed</field>
+        <field type="CharField" name="username">muhammed megahed</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism ههههههه  ان شاء الله ينجحو في تكوين دوله تمتد من رابعه العدويه شرقا الي موقف ااتوبيسات العباسيه غربا مرورا بكوبري كتوبر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/muhammedmegahed/status/358343382965305345</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233443" model="data.tweets">
+        <field type="CharField" name="user_id">mkholief</field>
+        <field type="CharField" name="username">Mohamed</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism أردوغان: رفضت الرد علي اتصال البرادعي، كيف أرد عليك وأنت شخص غير منتخب ع...:   مقاطعة تركيا فرض عين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mkholief/status/358023865470959616</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/XHJ3t0PJx3&quot;]</field>
+    </object>
+
+    <object pk="233444" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">المئات من الإخوان يتظاهرون بالفيوم للمطالبة بعودة مرسي للحكم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358217609663086593</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/rx3v2CjLmw&quot;]</field>
+    </object>
+
+    <object pk="233445" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">hehhhhhhh the very peaceful Ikhwani demonstrators... oh so beeeesfol </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358210902341849089</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233446" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الاتحاد الأفريقي: مصر تخاطر بدخول حرب أهلية إذا تم إقصاء الإسلاميين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357961261813739520</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/57ptqVYZgL&quot;]</field>
+    </object>
+
+    <object pk="233447" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">يتوقف عن الكتابة في “الوطن” بعد اساءة “منتصر”  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357819205988515842</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/wlD1NsV3GZ&quot;]</field>
+    </object>
+
+    <object pk="233448" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">سفير الاتحاد الأوروبي بالقاهرة: مستعدون لطرح مصالحة بين &amp;quot;الإخوان&amp;quot; والحكومة الحالية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357985043672600577</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/6cRmeLo5Og&quot;]</field>
+    </object>
+
+    <object pk="233449" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">تطويق مداخل التحرير بالأسلاك الشائكة بعد أنباء عن مسيرة إخوانية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357959484208988160</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/wGdT4pZpKj&quot;]</field>
+    </object>
+
+    <object pk="233450" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Police and army intensify their presence in Tahrir Sq. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358213850669137921</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233451" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Look at Madinet Nasr women &#39;greeting&#39; Ikhwan demo .. hehhhh [NOT!!]  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358371591773626369</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/4aq7cxLsiQ&quot;]</field>
+    </object>
+
+    <object pk="233452" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Min of Interior says they will disperse the sit-in in front of the Media Production Village within minutes. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358337383344783361</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233453" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">100s of Rabaa extremist demonstrators heading for presidential[republican] guard. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358209035377446913</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233454" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Army blocks roads leading to Min of Defense. A helicopter is flying over Abbassiya. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358241692563947521</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233455" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">UN requests investigations into arrests since 3rd July &amp; says will send investigative team. Did they do that with Mubarak??? hmmmm.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358236766668468227</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233456" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Asala Salafi party asks ppl to not deal with new gov. So what the heck do you want???? </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357957693572513793</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233457" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">UN requests investigations into arrests since 3rd July &amp; says will send investigative team. Did they do that with Mubarak??? hmmmm.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358236766668468227</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233458" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Asala Salafi party asks ppl to not deal with new gov. So what the heck do you want???? </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357957693572513793</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233459" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Tahrir Sq demonstrators create wired fences around Tahrir after hearing that Ikhwan were planning to march into Tahrir. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357959362641281025</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233460" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;#UK gov felt there was now increased likelihood weapons parts cld b used in excessive repression of protesters in near future.&amp;quot; Bwahaaaaaha </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358377807144947712</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233461" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Reps from Tamarrod meet with Ashton, say whoever respects Egypt&#39;s revolution we will respect them &amp; whoever stands agnst it, it&#39;s their loss </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357815637004918784</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233462" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">who needs effing Erdogan? he&#39;s an Ikhwan and as he said, Morsi is his president. Effing idiot! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358206957930295298</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233463" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Legal adviser to Ikhwan says AbuBaraka says the cirme of those who made the &#39;coup&#39; agnst Morsi is no less than [crime of] atheism. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358338204476248065</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233464" model="data.tweets">
+        <field type="CharField" name="user_id">barcilonawy</field>
+        <field type="CharField" name="username">in god we trust</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">يا معلمى دى لغه خرفان ايه وصلنا ليها@virtualactivism </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/barcilonawy/status/357962643622989824</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233465" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Erdogan says he received phone call from ElBaradei &amp; refused 2 respond bec he isnt &#39;legitimate. #ahole  via @mkholief </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358206753197928450</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#ahole&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@mkholief&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/KSUDiiEmaN&quot;]</field>
+    </object>
+
+    <object pk="233466" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ههههههههههه شوفتوا مليونية صلاح سالم؟ طب شوفوها   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358385149110521856</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/Rwqj9DYomP&quot;]</field>
+    </object>
+
+    <object pk="233467" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الشعب اللي يجيللك منه الريح. اتنحي عنه واستريح  .. ههههه (منقول) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357944344042418176</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233468" model="data.tweets">
+        <field type="CharField" name="user_id">alatef</field>
+        <field type="CharField" name="username">atef nahass</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivismإديني  القاضية ف الحتة الفاضية !! تحيا الديمكراطية ((: </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alatef/status/358378985324941312</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism\u0625\u062f\u064a\u0646\u064a&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233469" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">انطلاق المئات من متظاهري «رابعة» الى «الحرس الجمهوري»  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358209140906143746</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/4dMgKeWqS3&quot;]</field>
+    </object>
+
+    <object pk="233470" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Ikhwan&#39;s Safwat Hegazi holed up at Rabaa like a rat, says we have 8 demands, foremost of which is return of Morsi. Tough luck ya Safwat </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358221171143081985</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233471" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">احمد سعيد بيقول لكم علي فكرة الجيش حمي مرسي من مصير القذافي. انا لو من الاخوان أشكرهم انهم لحقوا يخبوه!!!  :))))))) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357942473538015232</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233472" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@MonyChehab @mo2menvich الحلاوة مش بالمعنى أحلى وأوحش. وإلا إيه يا منى؟ ساعدينى هنا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357967057318461440</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MonyChehab&quot;, &quot;@mo2menvich&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233473" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">بأقشعر لما بأشوف صورة زفت الحداد ده. وشه بتاع واحد أفاق. صدق اللى قال سماههم على وجوههم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357972654210289664</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233474" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">كل سنة وإنت طيب يا نيلسون مانديلا يا حبيب الملايين! يا رب يقومك بالسلامة أو على الأقل يخفف عنك أى ألم يا رب. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357942910320254977</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233475" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">قال حكومة إنجلترا شايفة دلوقتى إن فيه إحتمالات أكبر لاستخدام السلاح اللى بتبعته لمصر فى قمع المتظاهرين. هع هع لا دمكم خفيف على فكرة. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358378350919684096</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233476" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">أردو بيقول لكم رفضت الرد علي اتصال البرادعي، كيف أرد عليك وأنت شخص غير منتخب عينك الانقلابيون! الحقيقة البرادعى اللى غلطان عشان عبرك أصلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358207560811163648</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233477" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">كل سنة وإنت طيب يا نيلسون مانديلا يا حبيب الملايين! يا رب يقومك بالسلامة أو على الأقل يخفف عنك أى ألم يا رب. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357942910320254977</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233478" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">قال حكومة إنجلترا شايفة دلوقتى إن فيه إحتمالات أكبر لاستخدام السلاح اللى بتبعته لمصر فى قمع المتظاهرين. هع هع لا دمكم خفيف على فكرة. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358378350919684096</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233479" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">أردو بيقول لكم رفضت الرد علي اتصال البرادعي، كيف أرد عليك وأنت شخص غير منتخب عينك الانقلابيون! الحقيقة البرادعى اللى غلطان عشان عبرك أصلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358207560811163648</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233480" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">السفير المصري يعتذر عن عدم تلبية دعوة أردوغان لإفطار السفراء الأجانب بأنقرة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358236845710131200</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/rZUYeMLS9E&quot;]</field>
+    </object>
+
+    <object pk="233481" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">«برهامي»: لم أشهد أحداث «الحرس الجمهوري».. وعفا الله عما سلف  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358239772038283264</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/58ojuOBfrg&quot;]</field>
+    </object>
+
+    <object pk="233482" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@asyooty_el ما كانش ينفع برضه طبعا. هو رده الصراحة أفضل رد طالما إنه سؤل السؤال ده. بس مش عارفة ليه قلبى وجعنى كده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358325818205802498</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@asyooty_el&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233483" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">بيان الإخوان بيقول مصر بيتهددها خطر كبير وحرب أهلية. ولا كأنهم هم اللى بيتهددوها وهما اللى بيقولوا هنقلبها حرب أهلية. عبط إحنا يا عوريان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357969778389942272</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233484" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">منصة رابعه العدوية قامت بالقاء بيان وقالت فيه انها هتعين البلتاجي رئيس مؤقت وصفوت حجازي رئيس وزراء مع عزل الفريق السيسي via @Sherwet_ ههه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358015719528595457</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sherwet_&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233485" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">حلوين قوى الأمثال الجديدة دى: اللي عنده رئيس محيره يعمل ثورة ويطيره. يامورث في غير ملكك. علي طره انت وجماعتك. ضل جيش ولا ضل مرسى (منقول) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357943679308140544</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233486" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">طيب معلش بقى - ربة المنزل اللى من القليوبية اللى بتقول خطفوها وودوها رابعة وأجبروها علن جهاد النكاح - وسعت منها حبتين تلاتة أربعة الصراحة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357962487510990848</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233487" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@AHegazy91 ما ده الوقت اللى بيخوف الحقيقة. بيكونوا أكلوا وشبعوا والجو إتحسن والمزاج عالى ويطلعوا بقى يطلعوا ميتين الشعب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358375604552335360</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@AHegazy91&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233488" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">أما توحة بقى فبيقول الإخوان لا يعقدون الصفقات. فعلا يا توحة. ماى مازر اللى عقدت صفقات.إرجع نام فى الخلية تانى - نام نام وادبح لك جوزين خرفان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357982670149517313</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233489" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Min of Int says bomb squads deployed at underground stations and airport is on high alert. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358244806343917569</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233490" model="data.tweets">
+        <field type="CharField" name="user_id">roda2468</field>
+        <field type="CharField" name="username">Roda</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Roda is out!  ▸ Top stories today via @DavidMitchell68 @ArarMaher @virtualactivism </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/roda2468/status/358272600914399232</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">846</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@DavidMitchell68&quot;, &quot;@ArarMaher&quot;, &quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233491" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الأصالة:حكومة الببلاوي غير شرعية لكن يجب عليها حماية المتظاهرين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357957871004164098</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/B2QhOBNEct&quot;]</field>
+    </object>
+
+    <object pk="233492" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Extremist Ikhwan Safwat Hegazi says if you tell us where Morsi is we will go get him out even if it costs us the lives of 1 million ppl. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358340494083899393</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233493" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Rabaa demonstrations make reinforcements arnd them with sand and stones. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357814711821148160</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233494" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Army spokesperson said he gave orders for his ppl to show their IDs to those who ask. Warns abt non-peaceful demos </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358244566928867330</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233495" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Gunmen attack alAreesh checkpoints with RPGs. One fell by accident on a home. 3 dead, 3 injured. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358339537115688962</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233496" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Ikhwan r so frigging dumb!! They actually put on podium man wearing army uniform 2 try &amp; fool ppl - but turns out 2b old-style,outdated </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358345495548145664</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233497" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Extremist Ikhwan Safwat Hegazi says &amp;quot;we know where army barracks are &amp; their leaders. If you were men, you&#39;d tell us where Morsi is.&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358340333614022656</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233498" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Ppl are holding up Ikhwan inside alAzhar Mosque refusing 2 let them out. Helicoptrs hovring ovr as ppl cheer 4 it.Police trying 2 release em </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358210364275568640</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233499" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Frankly I am more concerned about the late evening in #Egypt. It is when Ikhwan usually plan their worst. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358243406834708480</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233500" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Morsi&#39;s Ikhwan stand atop the pedestrian bridge in front of Army&#39;s Almaza Air Base. Army on high alert. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358374497797148673</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233501" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Media presented alKarmooti says Ikhwan tried to assassinate army chief twice: 1 by targeting his plane in AlArresh &amp; 1 dressed as pres guard </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358215932927148033</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233502" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Not happy about army spokesperson saying if Sissi resigns he can nominate himself as pres. While true it&#39;s his right, it&#39;s a really bad idea </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358237980189671426</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233503" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Hehhh.. Egyptian TV apologizes for not covering extremists&#39; demos at Rabaa bec their broadcast trucks have been stolen. All of them? </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358326592407207936</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233504" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">«البرنس» لمعتصمي «رابعة»: مرسي «يعيش مع الله».. والانقلاب فشل   وطبعا الجزيرة هى اللى ناشراه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358218123419205634</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/d3uVFf94Nx&quot;]</field>
+    </object>
+
+    <object pk="233505" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">هذا هو  الفرق بيني الاخوان المنافقون الكذابون المتأسلمون@virtualactivism  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357979483371876353</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/iOM18BFIRs&quot;]</field>
+    </object>
+
+    <object pk="233506" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ههه حمزاوى توقف عن الكتابة عشان هيرفع قضية على خالد منتصر عشان مقال منتصر عنه. طيب هتريحنا شوية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357819104926773250</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233507" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">هههه أحمد سعيد بيقول لكم: عااااااااجل.... الدكتور محمد البلتاجي رئيس جمهورية رابعة العدوية يستقبل المهندس سيد فتحي سفير إشارة روكسي!  ههه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358342255838363648</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233508" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">على فكرة - إحنا كمان بندعو حكومة الببلاوى الشرعية إنها ما تتعاملش معاكم أصلا عشان إنتو بهايم ما تستحقوش من أساسه. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357958631829942272</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233509" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">إيه اللى حامق أهاليهم قوى على مورسيكو الأول؟ مالها آشتون ومال مورسيكو؟ ثانيا ليه ماعملوش كده فى مبارك بنفس الحمأة؟؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357817772203458561</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233510" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">سكان رابعة فاض بهم الكيل... ينظمون وقفة اعتراضًا على اعتصام أنصار المعزول   إعتصام قصاد إعتصام هههه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357966782927093760</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/IOOU04oUis&quot;]</field>
+    </object>
+
+    <object pk="233511" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الصورة دى أكبر تعبير عن زمن مورسيكو - الفهلوة, الغباء, والأنا أفهمك بقى .. مش أى أى ولا زى زى  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357821433893756928</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/RNHvJh9zJy&quot;]</field>
+    </object>
+
+    <object pk="233512" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">كنا فى رمضان يوم ما عبر الجيش وحققها ولادها شياطين لكين القلب إنسانِى كمافى 30 يونيه قامت كسرت طوقها وِجرت الخونة للقفص الحديد تانى #أبنودى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357822942400352256</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0623\u0628\u0646\u0648\u062f\u0649&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233513" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Ashton AGAIN calling for release of Morsi. Why should he be released? He shld be indicted and should stand trial. Release: no. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357817238268555265</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233514" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">1000s of ppl begin to gather in Sidi Gaber, Alexandria, in response to 30 June coalition to counter Ikhwan protests. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358243738079870976</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233515" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">an Ikhwani in Sohag pours gasoline in his home where his parents &amp; brothers r, threatens to burn them unless they go with him to demos </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358211207427129344</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233516" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">oh grrreat! Jihadists in Europe threaten Ikhwan with assassinatns if they agreed 2 reconciliation. Ikhwan said &#39;we don&#39;t accept threats&#39; LOL </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357982262232489984</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233517" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Ashton AGAIN calling for release of Morsi. Why should he be released? He shld be indicted and should stand trial. Release: no. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357817238268555265</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233518" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">1000s of ppl begin to gather in Sidi Gaber, Alexandria, in response to 30 June coalition to counter Ikhwan protests. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358243738079870976</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233519" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">an Ikhwani in Sohag pours gasoline in his home where his parents &amp; brothers r, threatens to burn them unless they go with him to demos </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358211207427129344</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233520" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">oh grrreat! Jihadists in Europe threaten Ikhwan with assassinatns if they agreed 2 reconciliation. Ikhwan said &#39;we don&#39;t accept threats&#39; LOL </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357982262232489984</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233521" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Ikhwan issue statement warning of a civil war and saying that Friday&#39;s chants will be deafening. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357956578982375424</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233522" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Extremist Abdel Majid says majority of #Copts r agnst Morsi ouster. Err.... ummm.... yeah. uh huh </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358018582921228288</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#Copts&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233523" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ستات مدينة نصر بيحيوا مسيرة إخوانية ههههه.. زى السكر  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358371798124986368</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/4aq7cxLsiQ&quot;]</field>
+    </object>
+
+    <object pk="233524" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">EU amb says he&#39;s ready 2 mediate reconciliatn bet us &amp; Ikhwan.Um yeah we&#39;ll mediate bet u &amp;terrorists in ur countries so they join ur govs </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357984677023330306</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233525" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Erdogan claims #ElBaradei got 1.5% votes agnst Morsi.You idiot he did not even enter elections!!! #erdo_fi_ein_ommo </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358222712902135809</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#ElBaradei&quot;, &quot;#erdo_fi_ein_ommo&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233526" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ارتفاع ضحايا هجوم العريش إلى 3 قتلى ومثلهم مصابين من المدنيين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358339635887357952</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/KPYxG2qJTk&quot;]</field>
+    </object>
+
+    <object pk="233527" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">عبد المقصود من منصة رابعة: اللهم عليك بالسيسي والإعلام جبهة الخراب. هههههه بيتدعى علينا يا عبمقصود؟   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358220444416999427</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/VD1IDkpn0f&quot;]</field>
+    </object>
+
+    <object pk="233528" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">10 رمضان ذكرى حرب أكتوبر وموت المصريين لعبور القنال ضد اعداء الوطن.الإخوان عايزين يعملوها مدبحة للمصريين بعضهم لبعض.فينكم وفين الوطن والجيش؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357821877693067264</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233529" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">عاصم عبد الماجد: غالبية الأقباط يرفضون الانقلاب على مرسي&gt; هويمكن يقصد يعرف واحد اسمه غالبية؟ ياد يا غالبية مش إنت بترفض الإنقلاب ياد؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358018964409942016</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233530" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">100s of Ikhwan demonstrating in Fayyoum to demand Morsi&#39;s return. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358217509637332993</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233531" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">وزير الخارجية الأمريكي: الجيش جنّب مصر حربا أهليا بعزل مرسي  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357813296818176000</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/CEb6KB8AHC&quot;]</field>
+    </object>
+
+    <object pk="233532" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">John Kerry said Egyptian army saved Egypt from a civil war by removing Morsi. Now will everyone relax abt demons in front of US Embassy? </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357813187422326785</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233533" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">So UK gave weapons to Egypt under Mubarak- not repressive? and under Morsi not repressive? under ElBaradei repressive? hehh #cute #UK </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358378957776760832</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#cute&quot;, &quot;#UK&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233534" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">African Union says Egypt is risking a civil war if it excludes Islamists. Umm.. what if &amp;quot;Islamists&amp;quot; refuse 2b included? should we beg them? </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357961144348053505</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233535" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">معتصمو «النهضة» يهددون بقطع «الدائري» و«المحور» في جمعة «عودة الرئيس»  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357960201619509248</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/lT061Sw217&quot;]</field>
+    </object>
+
+    <object pk="233536" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الجيش يغلق الشوارع المؤدية لـالدفاع ومروحية تحلق فى سماء العباسية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358241765024727041</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/BSGAvZIMPz&quot;]</field>
+    </object>
+
+    <object pk="233537" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">So UK gave weapons to Egypt under Mubarak- not repressive? and under Morsi not repressive? under ElBaradei repressive? hehh #cute #UK </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358378957776760832</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#cute&quot;, &quot;#UK&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233538" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">African Union says Egypt is risking a civil war if it excludes Islamists. Umm.. what if &amp;quot;Islamists&amp;quot; refuse 2b included? should we beg them? </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357961144348053505</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233539" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">معتصمو «النهضة» يهددون بقطع «الدائري» و«المحور» في جمعة «عودة الرئيس»  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357960201619509248</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/lT061Sw217&quot;]</field>
+    </object>
+
+    <object pk="233540" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الجيش يغلق الشوارع المؤدية لـالدفاع ومروحية تحلق فى سماء العباسية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358241765024727041</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/BSGAvZIMPz&quot;]</field>
+    </object>
+
+    <object pk="233541" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الإخوان تحذر من حرب أهلية وتزعم: تظاهرات الغد ستصم الآذان  آه حرب بس سلمية على فكرة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357956790207528960</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/86rF9jK9N8&quot;]</field>
+    </object>
+
+    <object pk="233542" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الإخوان بيتكلموا بضمير الغائب: مصر يتهددها خطر كبير. يا عم إنتو الخطر أصلا -وماعندكوش ضمير من أساسه لا غائب ولا حاضر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357970083173240833</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233543" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">وبنتريأ عالإخوان؟ طب شوفوا المتخلف آدمن وائل الإبراشى كات إيه نقلا عن روزاليوسف - مفاجأة جثمان العندليب.   هنهبل بقى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358388031406870528</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/opOdKZ3LYv&quot;]</field>
+    </object>
+
+    <object pk="233544" model="data.tweets">
+        <field type="CharField" name="user_id">waelnawara</field>
+        <field type="CharField" name="username">Wael Nawara</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">طبيعي أن يستدعي الشعب الجيش في مواجهة إرهابيين وميليشيات مسلحة ومرتزقة ومقاتلين أجانب  @ASHRAFel_MAHDY @RaghdaElSaeed @Nadiaglory </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/waelnawara/status/358012374806052866</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ASHRAFel_MAHDY&quot;, &quot;@RaghdaElSaeed&quot;, &quot;@Nadiaglory&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233545" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">معتصمو رابعة العدوية يحصنون الاعتصام بالرمال والحجارة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357814828145975296</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/FujdOKHurR&quot;]</field>
+    </object>
+
+    <object pk="233546" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">وزارة الداخلية: استشهاد وإصابة 5 من رجال الشرطة فى هجمات غادرة بسيناء  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357818525622079488</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/hD3OnI79dg&quot;]</field>
+    </object>
+
+    <object pk="233547" model="data.tweets">
+        <field type="CharField" name="user_id">waelnawara</field>
+        <field type="CharField" name="username">Wael Nawara</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">طبيعي أن يستدعي الشعب الجيش في مواجهة إرهابيين وميليشيات مسلحة ومرتزقة ومقاتلين أجانب  @ASHRAFel_MAHDY @RaghdaElSaeed @Nadiaglory </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/waelnawara/status/358012374806052866</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ASHRAFel_MAHDY&quot;, &quot;@RaghdaElSaeed&quot;, &quot;@Nadiaglory&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233548" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">معتصمو رابعة العدوية يحصنون الاعتصام بالرمال والحجارة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357814828145975296</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/FujdOKHurR&quot;]</field>
+    </object>
+
+    <object pk="233549" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">وزارة الداخلية: استشهاد وإصابة 5 من رجال الشرطة فى هجمات غادرة بسيناء  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357818525622079488</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/hD3OnI79dg&quot;]</field>
+    </object>
+
+    <object pk="233550" model="data.tweets">
+        <field type="CharField" name="user_id">marwanyouness</field>
+        <field type="CharField" name="username">م مروان يونس</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">نهاية منطقية فالتطرف الديني في اي دين يبرر العنف و تبرير العنف يصل مع الوقت لتبرير الارهاب و اباحة قتل المعارضين لارادتك الالهية ارضاء للرب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/marwanyouness/status/358014395160342529</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233551" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Min of interior: AlAzhar ppl clash with Ikhwan. 13 arrested, 3 injured among them a Syrian. Police managd 2 get every1 out of AlAzhar Mosque </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358212759458033665</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233552" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">10s of Ikhwan demonstrators storm Abbassiya mental health hospital to use its facilities. I think they shld be locked in there. :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358238685537374211</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233553" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Min of foreign affairs cancels diplomatic passports for Morsi, his family and his aides. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357816855303426048</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233554" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الواد القمر - عفوا قصدى المتحدث العسكرى بيقول سنتعامل بكل جسم مع اللاجئين للعنف. قول يا باشا قول كمان. :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357963156439564288</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233555" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">قبل ما أمشى خدوا دى  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357825919815131139</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233556" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">أبو بركة: المنقلبون على مرسي جريمتهم لا تقل عن الشرك بالله -   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358338661147885569</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">296</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/X5FwhnDQmZ&quot;]</field>
+    </object>
+
+    <object pk="233557" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@KarShaf @virtualactivism clarification from DNE:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358240651315384322</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">81</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@KarShaf&quot;, &quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/wYmvMyAS3u&quot;]</field>
+    </object>
+
+    <object pk="233558" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Ikhwan&#39;s alPrince tells Rabaa&#39;s Ikhwan that Morsi &#39;lives with God&#39; and that the &#39;coup failed&#39;. Hehhh... hash is good y&#39;all. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358217928904151040</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233559" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">نقل الكتاتني إلى سجن شديد الحراسة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358245552833576960</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/ZPzkizSnP6&quot;]</field>
+    </object>
+
+    <object pk="233560" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">وزير الداخلية: فض اعتصام مدينة الإنتاج الإعلامي خلال دقائق  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358337490811240448</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/UZbZskpRAk&quot;]</field>
+    </object>
+
+    <object pk="233561" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@Magiiii13 @virtualactivism @smallBldg @MaherSafwat Declare Muslim Brotherhood organization as a terrorist group  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357987310438072322</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">498</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Magiiii13&quot;, &quot;@virtualactivism&quot;, &quot;@smallBldg&quot;, &quot;@MaherSafwat&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/clOBKxO5bB&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="233562" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">أنصار مرسي يتجمعون بمحيط «مدينة الإنتاج» وتكثيف أمني للشرطة   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358327068175503360</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/DvC3z8fjHX&quot;]</field>
+    </object>
+
+    <object pk="233563" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الآلاف من نشطاء الإسكندرية يتوافدون على سيدي جابر وسط استعدادات أمنية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358243961074237443</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/x64xZVr14A&quot;]</field>
+    </object>
+
+    <object pk="233564" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">صفوت حجازي: مطالبنا 8 أولها عودة مرسي.. وعزله يكون بالدستور  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358221280790577154</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/wAQk2sC1cy&quot;]</field>
+    </object>
+
+    <object pk="233565" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">تمرد لآشتون: من يحترم ثورة الشعب سنحترمه ومن يقف ضدها هو الخاسر  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357816101503119361</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/qemotwnRIa&quot;]</field>
+    </object>
+
+    <object pk="233566" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">One of #AlJazeera correspondents who resigned says they&#39;re broadcasting images from Syria and claiming they are from Egypt. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358216954269540353</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;#AlJazeera&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233567" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">صفوت حجازي: إحنا عارفين كتايب الجيش اللي بتضرب الناس وقادتهم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358340610232565760</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/WwWNgZopqW&quot;]</field>
+    </object>
+
+    <object pk="233568" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">F16s flying ovr Cairo to celebrate 10th of Ramadan. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358213204280741888</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233569" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Counting crowds: Was Egypt&#39;s uprising the biggest ever? [her answer is no] </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357820759667777537</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">3799</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233570" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">My testimony on the attack via @Zeinobia &#39;s blog :How I was attacked by Angry #Morsy protesters  #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358388221493141504</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">247</field>
+        <field type="TextField" name="hash_tags">[&quot;#Morsy&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Zeinobia&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/v8otFfe4vW&quot;]</field>
+    </object>
+
+    <object pk="233571" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">مؤتمر صحفى برابعة العدوية لأهالى ضحايا أحداث الحرس الجمهورى  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357972455748411392</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/jAAUTbf4Ku&quot;]</field>
+    </object>
+
+    <object pk="233572" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">لا بأقول إيه بقى - هى أخدت الكلام منى؟ بأفتح اليوم السابع لقيت فريدة الشوباشى بتقول اللى لسه بأقوله. هأخاصمك بقى! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357971882240249856</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233573" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">To Hamas defenders.. here&#39;s my Palestinian friend #MohammedOmar writing: Hamas Strikes Just the Wrong Note  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358208023476441089</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">30</field>
+        <field type="TextField" name="hash_tags">[&quot;#MohammedOmar&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Qd0F24UmHe&quot;]</field>
+    </object>
+
+    <object pk="233574" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">#UK halts export of arms components to #Egypt due to fears over state force #guardian  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358376371510190080</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">218</field>
+        <field type="TextField" name="hash_tags">[&quot;#UK&quot;, &quot;#Egypt&quot;, &quot;#guardian&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/NIbb90NFul&quot;]</field>
+    </object>
+
+    <object pk="233575" model="data.tweets">
+        <field type="CharField" name="user_id">monychehab</field>
+        <field type="CharField" name="username">✌ victory ✌</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مذيع الجزيرة أحمد منصور: #السيسي سيموت منتحرا  و انت بقى يا حلو هتموت مفش**  بايد المصريين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/monychehab/status/358346227915571200</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0633\u064a\u0633\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233576" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Watch #alJazeera angles when filming the Ikhwan demos. LOLLL too close so as to make-believe it is &#39;massive&#39;.  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358218576362082307</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;#alJazeera&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/d3uVFf94Nx&quot;]</field>
+    </object>
+
+    <object pk="233577" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الداخلية تنشر رجال المفرقعات في المترو والقطارات.. والمطار يعلن الطوارئ   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358245106299576320</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/L7rvPMkjYe&quot;]</field>
+    </object>
+
+    <object pk="233578" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">اللواء سامح الطرابلسي الخبير الأمني بيقول تم العثور على حاوية فقط من 3 بها 4006 طبنجات صوت من تركيا   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357826956672249856</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/baMMqYqLf7&quot;]</field>
+    </object>
+
+    <object pk="233579" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">«أردوغان» يزعم حصول البرادعي على 1.5% بانتخابات الرئاسة أمام مرسي في 2012    إنت حمار يا حمار؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358222934222962688</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">193</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/ZGpjBMf7di&quot;]</field>
+    </object>
+
+    <object pk="233580" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">مصلحة السجون: نقل «خيرت #الشاطر » إلى سجن العقرب شديد الحراسة   … </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358246035933503489</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0634\u0627\u0637\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Z9p8WNZbA9&quot;]</field>
+    </object>
+
+    <object pk="233581" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">المراسل المستقيل من الجزيرة: القناة بثت مشاهد سورية على أنها من مصر  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358217062935576576</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">111</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/kIF5Fk3JRe&quot;]</field>
+    </object>
+
+    <object pk="233582" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">المتحدث العسكري: أوامر لأفراد الجيش بإبراز هويتهم ونحذر من الخروج عن السلمية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358244695803047938</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/AzahG45rBR&quot;]</field>
+    </object>
+
+    <object pk="233583" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">التلفزيون يعتذر عن إذاعة اعتصام رابعة للاستيلاء على سيارات البث   ههه طب أنا بأحب أتفرج عليهم. وبعدين بقى؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358326742320033792</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/3ImpJGnpRP&quot;]</field>
+    </object>
+
+    <object pk="233584" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">مؤيدو الرئيس المعزول يعتلون كوبري مشاة أمام قاعدة ألماظة الجوية .. وحالة تأهب قصوى بالكلية الحربية See more at:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358374601908166657</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/uLQtd6Fxu1&quot;]</field>
+    </object>
+
+    <object pk="233585" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">مؤيدو المعزول يقطعون كوبرى 6 أكتوبر من الاتجاهين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358215000692768769</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">21</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/V8i6v599c9&quot;]</field>
+    </object>
+
+    <object pk="233586" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الداخلية: أهالي الأزهر والحسين اشتبكوا مع الإخوان.. وضبط 13 وإصابة سوري  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358212964261691392</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/ovdsxqresc&quot;]</field>
+    </object>
+
+    <object pk="233587" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">فيديو إردو أهه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358207664032989187</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">480</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233588" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ابداع اللقطة لمصور عبقري :D  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358012284804677633</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233589" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Arms sales to Egypt – interactive #guardian  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358376218753634304</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;#guardian&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/cwG2SKHPle&quot;]</field>
+    </object>
+
+    <object pk="233590" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">عاصم عبد الماجد: غالبية الأقباط يرفضون الانقلاب على مرسي - اللينك أهه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358019076397862913</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">105</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/6x4USBHZaa&quot;]</field>
+    </object>
+
+    <object pk="233591" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">مش عايزة أدخل فى النص لا بين قنديل ومرتضى ولا بين منتصر وحمزاوى بس الصراحة مقالة خالد منتصر حلوة برضه مع بعض التحفظ  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357980839520378881</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">460</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/is0BD3uAju&quot;]</field>
+    </object>
+
+    <object pk="233592" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">هههههههههه بيقول لك ال cc شال مر c من الكر c   :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358372987780608001</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233593" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">السفير المصري يعتذر عن عدم تلبية دعوة أردوغان لإفطار السفراء الأجانب بأنقرة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358236399163539457</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">200</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/LsJQVVfiNm&quot;]</field>
+    </object>
+
+    <object pk="233594" model="data.tweets">
+        <field type="CharField" name="user_id">dandrawy_hawary</field>
+        <field type="CharField" name="username">Dandrawy Elhawary</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الذين يهاجمون الجنزورى .. يجهلون قامة هذا الرجل الملقب بوزير الفقراء .. والذى تعرض لظلم فى عهدى مبارك ومرسى.. النشطاء والنخبة جتكم ستين نيلة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dandrawy_hawary/status/357584788732915712</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">32</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233595" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">إحالة 5 من معتصمي «رابعة العدوية» للجنايات بتهمة «تعذيب مواطن وقطع إصبعه»  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357824158861770752</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">75</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/oEmp5oK4T7&quot;]</field>
+    </object>
+
+    <object pk="233596" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">طب إيه الخبر الغريب ده؟ ممكن حد يفهمنى؟  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358386899829792769</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">28</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/GXKtqZZ22C&quot;]</field>
+    </object>
+
+    <object pk="233597" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الخارجية: إلغاء الجوازات الدبلوماسية لمحمد مرسي واسرته ومساعديه ومستشاريه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357816947150303233</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">31</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/QhKzVUofug&quot;]</field>
+    </object>
+
+    <object pk="233598" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">إخوانى بسوهاج يحاول حرق والديه وأشقائه لرفضهم السفر للاعتصام برابعة   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358211335613464577</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">38</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/0kkkQJQ5H7&quot;]</field>
+    </object>
+
+    <object pk="233599" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">أمرك يا سيسى يا سيسى أمرك هههههههههه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358235918869606401</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">1774</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/p5kxJnqnKS&quot;]</field>
+    </object>
+
+    <object pk="233600" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">العشرات من الإخوان يقتحمون مستشفى العباسية للأمراض النفسية   حد بسرعة يقفل الباب ويرمى المفتاح فى النيل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358238919621488640</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">46</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/I7TMRkOozF&quot;]</field>
+    </object>
+
+    <object pk="233601" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@A_Shaoul_R هههههه لأ اهى إقرا القصة وقوللى لو مصدق نص كلمة فيها  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/357964033866997760</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">28</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@A_Shaoul_R&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/H9mTx3lLT2&quot;]</field>
+    </object>
+
+    <object pk="233602" model="data.tweets">
+        <field type="CharField" name="user_id">virtualactivism</field>
+        <field type="CharField" name="username">marlyn</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">أدمن صفحة القوات المسلحة يكشف أن من أتوا به على المنصة فى رابعة هو شخص يرتدى زى عسكرى تم إلغاؤه لخداع المصريين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/virtualactivism/status/358345756970717184</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">110</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Brnhm5mm46&quot;]</field>
+    </object>
+
+    <object pk="233603" model="data.tweets">
+        <field type="CharField" name="user_id">asmaa2447</field>
+        <field type="CharField" name="username">منك لله يامرسى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@virtualactivism: أبو بركة: المنقلبون على مرسي جريمتهم لا تقل عن الشرك بالله -   حول ولا قوة الا بالله </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/asmaa2447/status/358376262688980994</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/ywFfJ659Gt&amp;quot;\u0644\u0627&quot;]</field>
+    </object>
+
+    <object pk="233604" model="data.tweets">
+        <field type="CharField" name="user_id">fadynabil2</field>
+        <field type="CharField" name="username">لن تموتي يابلدي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism البلتاجى يخطط لمذبحة كبيرة غدااا لأنصاره برابعة وإلصاقها بالجيش ، وسيتم الزج فيها بأطفال  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadynabil2/status/357985547454644226</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">184</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/cXht2ta8b6&quot;]</field>
+    </object>
+
+    <object pk="233605" model="data.tweets">
+        <field type="CharField" name="user_id">laurettalis8</field>
+        <field type="CharField" name="username">Lauretta Rhea</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/laurettalis8/status/358211254063607808</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233606" model="data.tweets">
+        <field type="CharField" name="user_id">thawry3</field>
+        <field type="CharField" name="username">thawry</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/thawry3/status/358222705654378496</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233607" model="data.tweets">
+        <field type="CharField" name="user_id">thawry3</field>
+        <field type="CharField" name="username">thawry</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/thawry3/status/358222926778085376</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233608" model="data.tweets">
+        <field type="CharField" name="user_id">drbassemyoussef</field>
+        <field type="CharField" name="username">Dr Bassem Youssef</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism do u believe that Gaza with pop. 1.8m smaller than Shobra would actually cause the shortage of a country of 90m? </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/drbassemyoussef/status/356860720169762817</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">63</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="233609" model="data.tweets">
+        <field type="CharField" name="user_id">sampark22986091</field>
+        <field type="CharField" name="username">Sam Park</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@virtualactivism امسك اخوانى! HAHAHA #سر_مش_مكسوف_منه #ياناس_ياعسل_فولوباك_الخميس_وصل  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sampark22986091/status/357980964711968770</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0633\u0631_\u0645\u0634_\u0645\u0643\u0633\u0648\u0641_\u0645\u0646\u0647&quot;, &quot;#\u064a\u0627\u0646\u0627\u0633_\u064a\u0627\u0639\u0633\u0644_\u0641\u0648\u0644\u0648\u0628\u0627\u0643_\u0627\u0644\u062e\u0645\u064a\u0633_\u0648\u0635\u0644&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@virtualactivism&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/o9o4YWvTfD&quot;]</field>
+    </object>
+
+</django-objects>

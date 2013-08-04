@@ -1,0 +1,2786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="91184" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">إذا كان بمتبرجة فهو جهاد في سبيل الله والجهاد مستحب في رمضان RT @Cer: هو التحرش الجنسي في نهار رمضان حرام؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/354783487443746816</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91185" model="data.tweets">
+        <field type="CharField" name="user_id">darshiologist</field>
+        <field type="CharField" name="username">موصطفا ع.جواد</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer السؤال التالت كله كان جاي من بره المنهج!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/darshiologist/status/354565507405459457</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91186" model="data.tweets">
+        <field type="CharField" name="user_id">fishoegy</field>
+        <field type="CharField" name="username">Fisho</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer الي ملوش خير في حمامة ملوش خير في حد يا جدع D: </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fishoegy/status/354744712965525504</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91187" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@3azaziil  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355704051565998082</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@3azaziil&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91188" model="data.tweets">
+        <field type="CharField" name="user_id">3am_mina</field>
+        <field type="CharField" name="username">مينا نفس حروف أمين</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer @LuluDeRaven اوعي حد يشوف الفديو دة في بورسعيد يا وليد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/3am_mina/status/355146746457882625</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;, &quot;@LuluDeRaven&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91189" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ده تحريض .. مش كدة؟ :-P RT @Cer: يعني بيان واحد يعمل كل ده؟ أمال لو واحدة قلعت ملط في نص تويتر هتعملوا إيه؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/356851076638576641</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91190" model="data.tweets">
+        <field type="CharField" name="user_id">perdita_s</field>
+        <field type="CharField" name="username">S</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer رضي الله عنهم وارضاهم وزادهم ايمان وورعا. الواحد بيفكر يتوب بقي ويدخل في دين الداخلية الجديد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/perdita_s/status/354796012503695360</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91191" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@alaasadek @Cer مساء الخيرات يا عمونا .. والنبي تحدف تليفون الديلر بتاعك .. الصنف ده معداش عليا قبل كدة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/356142922586013696</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@alaasadek&quot;, &quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91192" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@miromourad12388 @Cer حضرتك فيه قواعد لكل حاجة حتى الحرب والخروج عليها بيعتبر جريمة .. الموضوع بسيط .. لكن إحنا بنستسهل وما بيهمناش الدم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/354458520227291137</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@miromourad12388&quot;, &quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91193" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Photo:   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356987734151274497</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91194" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Photo:   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356987734151274497</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91195" model="data.tweets">
+        <field type="CharField" name="user_id">5orm</field>
+        <field type="CharField" name="username">صاحب نظرية الـ خرم</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أذان المغرب  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/5orm/status/355008749527764992</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91196" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Fredrika Stahl - One Man Show  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356579545761054720</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91197" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Fredrika Stahl - Pourquoi pas moi:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356579123616952320</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">35</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/xXCJK5Unwz&quot;]</field>
+    </object>
+
+    <object pk="91198" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@RihamHady طبعا  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355719260724670464</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">35</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@RihamHady&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91199" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@LuluDeRaven  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355368702889308163</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LuluDeRaven&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91200" model="data.tweets">
+        <field type="CharField" name="user_id">luluderaven</field>
+        <field type="CharField" name="username">DG</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@Cer مرة سالت الشيخ عن المعاصي الي بعملها وانا صايمة والمفروض الشياطين متسلسلة قالي الشياطين الصغيرة مش بتتسلسل وبتوسوس لضعافاء الايمان فقط </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/luluderaven/status/355319349785006081</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91201" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Fredrika Stahl - So High  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357199357486968832</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">60</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91202" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Fredrika Stahl - I&#39;ll win your heart  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356572080877215745</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/8SJG8szRgs&quot;]</field>
+    </object>
+
+    <object pk="91203" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">كل عام وأنتم بخير  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354586465772118017</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91204" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">تقبل الله منكم الصيام والقيام  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354777435671248897</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91205" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">فيما يتعلق باللحظة الراهنة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357301782667481088</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91206" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صوموا لرؤيته وأفطروا لرؤيته  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354778569186082816</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91207" model="data.tweets">
+        <field type="CharField" name="user_id">abdelrhmanafify</field>
+        <field type="CharField" name="username">abdelrhman afify</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer @Perdita_S المعركه الجايه هتشتم وتتشتم وتتضرب وتموت ويتنكل بيك، والنهايه مش هنكون اتقدمنا خطوه للامام، الصراحه انا فاقد الامل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abdelrhmanafify/status/357120180490477568</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;, &quot;@Perdita_S&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91208" model="data.tweets">
+        <field type="CharField" name="user_id">g4s90</field>
+        <field type="CharField" name="username">George Salib®</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">#FF @lilianwagdy @LuluDeRaven @Cer @mado_1 @Sarah_Othmann @Nadawassef @WilloEgy @AmrEzzat @evronia @Asadx @Hala_Elkhawanky @PetrofWilliam :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/g4s90/status/358028954499686400</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#FF&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@lilianwagdy&quot;, &quot;@LuluDeRaven&quot;, &quot;@Cer&quot;, &quot;@mado_1&quot;, &quot;@Sarah_Othmann&quot;, &quot;@Nadawassef&quot;, &quot;@WilloEgy&quot;, &quot;@AmrEzzat&quot;, &quot;@evronia&quot;, &quot;@Asadx&quot;, &quot;@Hala_Elkhawanky&quot;, &quot;@PetrofWilliam&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91209" model="data.tweets">
+        <field type="CharField" name="user_id">walidezign</field>
+        <field type="CharField" name="username">walid</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هل تعرف اين يباع بوليس النجدة وكم سعره؟ @Cer  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/walidezign/status/357532973551194112</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/kNgrx3d31g&quot;]</field>
+    </object>
+
+    <object pk="91210" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@Nah0da  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357213688349995008</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Nah0da&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91211" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">RT @Cer: في شئون مصر الثورية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/356961697619132417</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91212" model="data.tweets">
+        <field type="CharField" name="user_id">elgawadi</field>
+        <field type="CharField" name="username">مُهاب الجوادي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@Cer: ‏الداخلية : التاريخ أثبت برائتنا من احداث 25 يناير  أماااااال #معروفة #تشخير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elgawadi/status/354594048637534209</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0639\u0631\u0648\u0641\u0629&quot;, &quot;#\u062a\u0634\u062e\u064a\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/BwXXjNmpXp\u200e&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="91213" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">One man show </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356836045599408129</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91214" model="data.tweets">
+        <field type="CharField" name="user_id">mand0z</field>
+        <field type="CharField" name="username">Mohannad</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Guess who&#39;s back </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mand0z/status/354618337000562688</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91215" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بفكر أختم القرآن في شهر رمضان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354755277263880192</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91216" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;You lost me long ago to your one man show&amp;quot;, she said </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356847601791930368</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91217" model="data.tweets">
+        <field type="CharField" name="user_id">anaje</field>
+        <field type="CharField" name="username">Anaje</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الحب هو سيجارة حشيش على النيل وأغنية عن الفراق </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/anaje/status/357540618735583233</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91218" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@kalimakhus لا للإرهاب.. نعم للقلع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356852443688083457</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@kalimakhus&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91219" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">It was 2010 and it was Alex Supertramp&#39;s glorious days </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354942312872296448</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91220" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عايزة أتناك مش عايزة أتصواااااااار #مصر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355029243492712448</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0635\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91221" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">إيه أحسن طريقة أروح بيها المريوطية-الهرم؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356783899432595457</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91222" model="data.tweets">
+        <field type="CharField" name="user_id">lubnaarja</field>
+        <field type="CharField" name="username">لبنى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;One could&#39;ve fancied that the tears welling from his eyes were pure gin&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/lubnaarja/status/357526266074775553</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91223" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">طول عمري نفسي أنط علي سونيا جراهام </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355774314374631424</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91224" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يا سوسو  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355020669500661760</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91225" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">البيان: صوموا لرؤيته وأفطروا لرؤيته </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354620989407113216</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91226" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عيب أوي بصراحة لما نعمل عقلنا بعقل يوسف الحسيني </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355146229644136448</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91227" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يعني ممكن تقضوا وقت فراغكم في ضرب العشرة أفيد بكتير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355146354932199424</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91228" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لا للإقصاء.. نعم للحوار  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357210151712870400</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91229" model="data.tweets">
+        <field type="CharField" name="user_id">sherif_a</field>
+        <field type="CharField" name="username">Sherif Adel</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">طول ما انتي لونك بيج عمرك ما هتنضفي يا وسخه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sherif_a/status/357323806274101249</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91230" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الببلاوي رئيسا للوزراء، ألف ألف مبروك، عقبال عندك يا أم زينهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354593475724984320</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91231" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@doaafayyad @Perdita_S  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355774048673869826</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@doaafayyad&quot;, &quot;@Perdita_S&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91232" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بين العلم ومعز مسعود والأشياء الأخري  تاني </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355308632637845504</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/eze62mGyRd&quot;]</field>
+    </object>
+
+    <object pk="91233" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الإبداع الإسلامي في الفن والسخرية بيخليني أفكر غصب عني إن المشكلة ممكن تبقي جينية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355366164706234368</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91234" model="data.tweets">
+        <field type="CharField" name="user_id">sherif_a</field>
+        <field type="CharField" name="username">Sherif Adel</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">طول ما انتي لونك بيج عمرك ما هتنضفي يا وسخه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sherif_a/status/357323806274101249</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91235" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الببلاوي رئيسا للوزراء، ألف ألف مبروك، عقبال عندك يا أم زينهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354593475724984320</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91236" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@doaafayyad @Perdita_S  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355774048673869826</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@doaafayyad&quot;, &quot;@Perdita_S&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91237" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بين العلم ومعز مسعود والأشياء الأخري  تاني </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355308632637845504</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/eze62mGyRd&quot;]</field>
+    </object>
+
+    <object pk="91238" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الإبداع الإسلامي في الفن والسخرية بيخليني أفكر غصب عني إن المشكلة ممكن تبقي جينية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355366164706234368</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91239" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يعني بيان واحد يعمل كل ده؟ أمال لو واحدة قلعت ملط في نص تويتر هتعملوا إيه؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356847900870975488</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91240" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">The Wikipedia War Over Egypt&#39;s &#39;Coup&#39; | FP Passport  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355394236079800320</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/kbA1bvduet&quot;]</field>
+    </object>
+
+    <object pk="91241" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@LuluDeRaven يا إلهي.. عايزك ترفعي يافطة نعم لصهر الحضارات باسمي في المطار </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355730401572044801</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LuluDeRaven&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91242" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@_Mahmoud @LuluDeRaven ده ابن النيل مصطفي الجندي عضو مجلس الشعب السابق من قائمة الثورة مستمرة #الثورة_مستمرة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354387463948599296</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u062b\u0648\u0631\u0629_\u0645\u0633\u062a\u0645\u0631\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@_Mahmoud&quot;, &quot;@LuluDeRaven&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91243" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@LuluDeRaven @shafa3aat وافقة وحمرا، لو لونها اتغير تبقي خيانة للثورة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354934675048890369</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LuluDeRaven&quot;, &quot;@shafa3aat&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91244" model="data.tweets">
+        <field type="CharField" name="user_id">5orm</field>
+        <field type="CharField" name="username">صاحب نظرية الـ خرم</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هو حضرتك حداثية ؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/5orm/status/357491307431723008</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91245" model="data.tweets">
+        <field type="CharField" name="user_id">wagdghazi</field>
+        <field type="CharField" name="username">Wagd Ghazi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أحه. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/wagdghazi/status/354932112257859585</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91246" model="data.tweets">
+        <field type="CharField" name="user_id">gue3bara</field>
+        <field type="CharField" name="username">Guebara - جيبارا</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">جوينت حزين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/gue3bara/status/354379896824406016</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91247" model="data.tweets">
+        <field type="CharField" name="user_id">hasanolla</field>
+        <field type="CharField" name="username">مش مطول هنا كتير</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أنثى السرطان مرهفة الكس ... </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hasanolla/status/356376481779290112</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91248" model="data.tweets">
+        <field type="CharField" name="user_id">anaje</field>
+        <field type="CharField" name="username">Anaje</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الحب هو تحمل الرملة في طيزك من أجل جنس على البحر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/anaje/status/357541340654993408</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91249" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وأحبب من شئت فإنك مفارقه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355818170449268736</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91250" model="data.tweets">
+        <field type="CharField" name="user_id">anaje</field>
+        <field type="CharField" name="username">Anaje</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@LuluDeRaven بس جابر مش مصري.. دا من المعادى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/anaje/status/355356253414895616</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LuluDeRaven&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91251" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صاورة ده ولا مش صاورة؟ ما تنطق؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354928974520008704</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91252" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الموسيقي الكلاسيكية كما ينبغي أن تكون  via @gr33ndata </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357171058463350784</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@gr33ndata&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/4LM0V9UjLB&quot;]</field>
+    </object>
+
+    <object pk="91253" model="data.tweets">
+        <field type="CharField" name="user_id">rsocialist</field>
+        <field type="CharField" name="username">☭ A M R عَمْرو Амр ☭</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أنا وهبت نفسي لله ياولاد المتناكة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rsocialist/status/356854998979719168</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91254" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وأحبب من شئت فإنك مفارقه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355818170449268736</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91255" model="data.tweets">
+        <field type="CharField" name="user_id">anaje</field>
+        <field type="CharField" name="username">Anaje</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@LuluDeRaven بس جابر مش مصري.. دا من المعادى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/anaje/status/355356253414895616</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LuluDeRaven&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91256" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صاورة ده ولا مش صاورة؟ ما تنطق؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354928974520008704</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91257" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الموسيقي الكلاسيكية كما ينبغي أن تكون  via @gr33ndata </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357171058463350784</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@gr33ndata&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/4LM0V9UjLB&quot;]</field>
+    </object>
+
+    <object pk="91258" model="data.tweets">
+        <field type="CharField" name="user_id">rsocialist</field>
+        <field type="CharField" name="username">☭ A M R عَمْرو Амр ☭</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أنا وهبت نفسي لله ياولاد المتناكة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rsocialist/status/356854998979719168</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91259" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لا للإقصاء.. نعم للحوار  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357210252153876480</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91260" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@Perdita_S هنبنيها لإن الزمن = صفر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355773318571364352</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Perdita_S&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91261" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ممكن حد يفهمنا ده ايه؟  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355765143742844928</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91262" model="data.tweets">
+        <field type="CharField" name="user_id">anaje</field>
+        <field type="CharField" name="username">Anaje</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اوصيكم بأقباط مصر خيرا فإن لنا فبهم نسبا ومززا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/anaje/status/355355959201251331</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91263" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أكونتات حزب الحرية والعدالة بتستخدم علامات تعجب كتير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357159745855045633</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91264" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الداخلية : التاريخ أثبت برائتنا من احداث 25 يناير  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354592812190277632</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">72</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/8OZ1jfAx9S&quot;]</field>
+    </object>
+
+    <object pk="91265" model="data.tweets">
+        <field type="CharField" name="user_id">hatzipornim</field>
+        <field type="CharField" name="username">Hatzipornim</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مدام عندي مخزون من الكريم فريش مدام عندي أمل #تويتة_عميقة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hatzipornim/status/354617610626801664</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062a\u0648\u064a\u062a\u0629_\u0639\u0645\u064a\u0642\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91266" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صوما مقبولا وإفطارا شهيا  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355009203770912768</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91267" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@LuluDeRaven @shafa3aat أهم حاجة في البنت الشيوعية بزازها، معروفة يعني </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354934195010797569</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LuluDeRaven&quot;, &quot;@shafa3aat&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91268" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الحمد لله السبوبة اللي كانت شغالة في وزارة الثقافة رجعت شغالة زي ما كانت #الثورة_مستمرة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357540139616047105</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u062b\u0648\u0631\u0629_\u0645\u0633\u062a\u0645\u0631\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91269" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@DrBassemYoussef لأ ينطبق عليهم المثل: القحبة تلهيك وتجيب اللي فيها فيك </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357131839225339904</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@DrBassemYoussef&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91270" model="data.tweets">
+        <field type="CharField" name="user_id">perdita_s</field>
+        <field type="CharField" name="username">S</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اي حد مش بيقدر الفن الهابط والاسفاف بيعاني جامد في حياته يا سامح، ولازم نساعده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/perdita_s/status/356085406455971842</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91271" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الناس داخلة سبق مين فاشي أكتر من التاني مع إن كلنا خولات وربنا ومنعرفش ندبح فرخة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357206178918432769</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91272" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">معلومة إن كيم كارديشيان هتيجي مصر ده مش مهمة.. معلومة إن طيز كيم كارديشيان هتيجي مصر هي اللي مهمة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354562546071633920</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91273" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@Gue3bara عشان عادل إمام بيحاول يحافظ علي شخصية روبين هود اللي جواه، يمكن السبب يبقي إن زبه مبيقفش، محدش عارف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356581726950129666</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Gue3bara&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91274" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">My favorite Sunni extremist | Back by popular demand | I never wanted Sharia so badly before |  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354761907539947522</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">90</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/D9aMrglG&quot;]</field>
+    </object>
+
+    <object pk="91275" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الإرهاب أتأخر أوي وأنا بدأت أقلق عليه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354929645658968064</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91276" model="data.tweets">
+        <field type="CharField" name="user_id">mah_hood</field>
+        <field type="CharField" name="username">Mah hood</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">المفتاح لقلب الراجل زبه .. امتى بقى النسوان تفهم دا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mah_hood/status/355728378189459456</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91277" model="data.tweets">
+        <field type="CharField" name="user_id">ramiii</field>
+        <field type="CharField" name="username">Rami Mohsen</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">هي الناس عاملة أهمية ليه لشوية ناس مضوا علي بيان ؟ يا عم خلي الناس تهيص </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramiii/status/356790690396651520</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91278" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الناس بتوع الإقصاء زي الناس بتوع لا للإقصاء بيتكلموا أخلاق مش سياسة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356831742558081024</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91279" model="data.tweets">
+        <field type="CharField" name="user_id">mah_hood</field>
+        <field type="CharField" name="username">Mah hood</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تأتي النهارات المتتالية وانتي لا تزالين فيرجان .. مش ناوية تتفتحي بقى? </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mah_hood/status/356224447419662336</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91280" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صورة لي مع دولة رئيس الوزراء حازم الببلاوي ايام ما كان ناشط زينا &amp;quot;اللي اداك يدينا يا سيدي&amp;quot;.. صورة عمرها 6 سنين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357503465918328832</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91281" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@WagdGhazi  معاكسة صباحية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354937448201076736</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">91</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@WagdGhazi&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91282" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عشرات يتظاهرون أمام منزل «النحاس باشا» بسمنود تنديدًا بإهانته من «أبو إسلام»   مصر بلد الماضي والحاضر والمستقبل معا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356784448026587137</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">45</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/H7XkaIrnsd&quot;]</field>
+    </object>
+
+    <object pk="91283" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">امبارح كان امتحان صعب للأناركيين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354565081209643010</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91284" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الجيش العلماني الوطني الحر ناكنا؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354360169313996801</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91285" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أحب أحيي رانيا يوسف علي كل حاجة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355726597719986176</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91286" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">- Watch Out For Homosexuals - 50s Public Information Film  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355156739093577728</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">68</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/sO3sHGfbAD&quot;]</field>
+    </object>
+
+    <object pk="91287" model="data.tweets">
+        <field type="CharField" name="user_id">hanigamal</field>
+        <field type="CharField" name="username">Hani Gamal</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer ههه بالنسبة لكده، أفطروا لرؤيته وأفطروا برضه لرؤيته ;) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hanigamal/status/354779104379289602</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91288" model="data.tweets">
+        <field type="CharField" name="user_id">malek</field>
+        <field type="CharField" name="username">MaLek</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@MaLek @Cer دليل #براءة #الجيش #المصرى من قتل #الاخوان اتفو علي دي ناس وسخه ... #HB   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/malek/status/354574749382356992</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">334</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0628\u0631\u0627\u0621\u0629&quot;, &quot;#\u0627\u0644\u062c\u064a\u0634&quot;, &quot;#\u0627\u0644\u0645\u0635\u0631\u0649&quot;, &quot;#\u0627\u0644\u0627\u062e\u0648\u0627\u0646&quot;, &quot;#HB&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MaLek&quot;, &quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/gWGGzejhc9&quot;, &quot;http://t.co/A7ocPpAwJL&quot;]</field>
+    </object>
+
+    <object pk="91289" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عاجل.. الرئاسة تكلف حازم الببلاوي رسميا برئاسة الوزراء  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354608501231857665</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/1ee1UWr04W&quot;]</field>
+    </object>
+
+    <object pk="91290" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ما دام مبسوطين أنا مش هنكد عليكم .. بس فلقسوا كويس وما تنسوش المرهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/354359579636801536</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91291" model="data.tweets">
+        <field type="CharField" name="user_id">5orm</field>
+        <field type="CharField" name="username">صاحب نظرية الـ خرم</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أنا بمدح في اللي يفوح المسك من قدمه .. واللي ما يصلي عليه في القلب يبقى كسمه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/5orm/status/357218058865082368</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91292" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">How to Spot a Communist  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355156074787115009</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">545</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91293" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@ahmed3wahab خلاص لقيتها  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354992018600116224</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">172000</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ahmed3wahab&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91294" model="data.tweets">
+        <field type="CharField" name="user_id">dalianegm</field>
+        <field type="CharField" name="username">D  دي        =^‥^=</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Sext: ta3ala kol ma3aya konafa bel eshta </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dalianegm/status/355782790173831169</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91295" model="data.tweets">
+        <field type="CharField" name="user_id">5orm</field>
+        <field type="CharField" name="username">صاحب نظرية الـ خرم</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ايه الأخبار يا جبريل؟  لا جديد بين العبيد يا كبير طيب انا على العرش هستوي شوية غوعي تنساني لحد لما اتحرق يا جبريل عيب يا كبير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/5orm/status/354398027068346368</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91296" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أون تي في عاملة لقاء مع بائع كنافة حول تأثير الوضع السياسي على سلع شهر رمضان  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355000318943182848</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Zg3N9adh6S&quot;]</field>
+    </object>
+
+    <object pk="91297" model="data.tweets">
+        <field type="CharField" name="user_id">fondo81</field>
+        <field type="CharField" name="username">احمد</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا وهيما قررنا نقطع كوبرى اكتوبر عند التحرير ومطالبنا ان المغرب يأذن دلوقتى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fondo81/status/357525040264261634</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91298" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">والله لنساكي  ده معجزة السنة ده بدون مبالغة :D thanks @_stto_ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354576049390092290</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">79</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@_stto_&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91299" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أمن الدولة راح لأبويا عيادته النهاردة.. تقريبا هم دلوقتي في مرحلة الجيرنج قبل ما نرجع زي زمان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356464392365293569</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91300" model="data.tweets">
+        <field type="CharField" name="user_id">luluderaven</field>
+        <field type="CharField" name="username">DG</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@cer  حبيبك رجع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/luluderaven/status/355013463468281856</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">1571</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91301" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الفكرة مش في إن أمن الدولة شغال لإنه أكيد مبطلش شغل.. لكن إنه يروح بالشكل العلني ده ويسأل ويتكلم باعتباره أمن دولة فيه معني تهديد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356466674377031680</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91302" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الحكومة الثورية الشابة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357195887052734465</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91303" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">قصتنا الغريبة - فيروز  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355732355127853058</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">706</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91304" model="data.tweets">
+        <field type="CharField" name="user_id">badgirlwiwi</field>
+        <field type="CharField" name="username">ويوي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">المدمنين حقهم مهدور فالبلد دي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/badgirlwiwi/status/355793721574428672</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91305" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@WagdGhazi  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356081398613934080</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">257</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@WagdGhazi&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91306" model="data.tweets">
+        <field type="CharField" name="user_id">massouny</field>
+        <field type="CharField" name="username">ماصوني</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كس ام الباشمهندس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/massouny/status/357196663418388480</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91307" model="data.tweets">
+        <field type="CharField" name="user_id">yasinsbeih</field>
+        <field type="CharField" name="username">yasin sbeih</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">‏ما أروع شعور دوخة السيجارة بعد الافطار يا جماعة .. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/yasinsbeih/status/355015458472206337</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91308" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Head Machine - Orgasm  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355145121689370624</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">481</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91309" model="data.tweets">
+        <field type="CharField" name="user_id">thameenahusary</field>
+        <field type="CharField" name="username">ثمينة حُصَري</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">جماعة &amp;quot;فلسطين لازم تثور على حماس وفتح والاحتلال&amp;quot; .. الرحمة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/thameenahusary/status/356768823728291840</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91310" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">شاهد - قرار جمهوري بتعيين د. كمال الجنزروي مستشاراً للرئيس عدلي منصور #ONtveg #ONtvLIVE  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357494294397353984</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;#ONtveg&quot;, &quot;#ONtvLIVE&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/tbgdnwa5bC&quot;]</field>
+    </object>
+
+    <object pk="91311" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@Cer  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/354405577654407169</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">164</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91312" model="data.tweets">
+        <field type="CharField" name="user_id">_belal_</field>
+        <field type="CharField" name="username">belal alaa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">the wind will carry us #هدوا_أعصابكم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/_belal_/status/356834926101938176</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0647\u062f\u0648\u0627_\u0623\u0639\u0635\u0627\u0628\u0643\u0645&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91313" model="data.tweets">
+        <field type="CharField" name="user_id">fouda_</field>
+        <field type="CharField" name="username">Fouda</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">*تويتة فيها &amp;quot;أبانا الذي في المخابرات&amp;quot; عشان يبان إني فاهم أي إبن متناكة&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fouda_/status/354746285871476736</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91314" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;ربنا يشفي كُل مريض&amp;quot; #الابتذال_ملأ_الشوال  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357123786031636481</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">51</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0627\u0628\u062a\u0630\u0627\u0644_\u0645\u0644\u0623_\u0627\u0644\u0634\u0648\u0627\u0644&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/GKBStB8gIQ&quot;]</field>
+    </object>
+
+    <object pk="91315" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Al Qaeda militants kill man for being &amp;quot;gay&amp;quot;  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357713565685649408</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">134</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/yQ12hXzuK2&quot;]</field>
+    </object>
+
+    <object pk="91316" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">انفراد لوكالة رويترز: الاخوان رفضوا اتفاق مع المعارضة بوساطة اوروبية كان ممكن ينقذ مرسي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357198674541027329</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">243</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91317" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اتصدمتم في الجيش؟ يا سوسو </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354359393522946049</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91318" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">حركة «فؤادة ووتش»؟  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357686577062875138</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91319" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Stoned Jesus - I&#39;m The Mountain  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355148261436305408</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">466</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/mq3KK3tnAl&quot;]</field>
+    </object>
+
+    <object pk="91320" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أنا عارفة ياختي إيه ده  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354788172552609794</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91321" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@faissl مش لعزف.. كورس عن تاريخه عمل موقع  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357716215931731968</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">37000</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@faissl&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/PObxdEOWj4&quot;]</field>
+    </object>
+
+    <object pk="91322" model="data.tweets">
+        <field type="CharField" name="user_id">5orm</field>
+        <field type="CharField" name="username">صاحب نظرية الـ خرم</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">انت فاهم كل حاجة بس معرص </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/5orm/status/354578864288178176</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91323" model="data.tweets">
+        <field type="CharField" name="user_id">5orm</field>
+        <field type="CharField" name="username">صاحب نظرية الـ خرم</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">انت فاهم كل حاجة بس معرص </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/5orm/status/354578864288178176</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91324" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">6 أبريل:القوات المسلحة تهيب بالمواطنين ومستخدمي السوشيال ميديا الإبلاغ عن أي شخص يُهدد أو يُسيء للمؤسسة العسكرية  احا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356586846395965442</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/ZH50qjeR8l&quot;]</field>
+    </object>
+
+    <object pk="91325" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@possyalkalyoube @Fadynabil2 @MaLek  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354578722600402944</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">16000</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@possyalkalyoube&quot;, &quot;@Fadynabil2&quot;, &quot;@MaLek&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/4ZiAHppKE8&quot;]</field>
+    </object>
+
+    <object pk="91326" model="data.tweets">
+        <field type="CharField" name="user_id">_mahmoud</field>
+        <field type="CharField" name="username">Mahmoud Omar</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">في بيان رسمي، قالت حكومة #غزة أنّ &amp;quot;مخطط برافر غير شرعي وندعم مقاومته بكافة الوسائل&amp;quot;. أجهزة هذه الحكومة قمعت الوقفة ضد برافر. #برافر_لن_يمر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/_mahmoud/status/356788561841881089</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">39</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u063a\u0632\u0629&quot;, &quot;#\u0628\u0631\u0627\u0641\u0631_\u0644\u0646_\u064a\u0645\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91327" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Pink Floyd - Echoes / Live at Pompeii (full)  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357519209300889601</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">11000</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/NDkMGp7Brr&quot;]</field>
+    </object>
+
+    <object pk="91328" model="data.tweets">
+        <field type="CharField" name="user_id">etshhh</field>
+        <field type="CharField" name="username">Hesham Esmail</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">حازم الببلاوي رئيسا للوزراء والبرادعي نائب وسيد عبد الحفيظ مديرا للكرة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/etshhh/status/354616684524486657</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91329" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Metallica Feat. Beltagy Live  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357161279053508608</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">298</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91330" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لا إنتوا كده إتهبلتوا بقى يا ولاد المجنونة  @shabab6april </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356586154579083264</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">186</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@shabab6april&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/PW8ywnPSEC&quot;]</field>
+    </object>
+
+    <object pk="91331" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">IN PICTURES: Israelis take to the streets for Ashdod&#39;s first ever gay pride march  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357345562741317634</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">43</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/x0qAzxARwH&quot;]</field>
+    </object>
+
+    <object pk="91332" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@WagdGhazi  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357496423731834880</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">256</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@WagdGhazi&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91333" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@possyalkalyoube @Fadynabil2 @MaLek  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354578722600402944</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">16000</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@possyalkalyoube&quot;, &quot;@Fadynabil2&quot;, &quot;@MaLek&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/4ZiAHppKE8&quot;]</field>
+    </object>
+
+    <object pk="91334" model="data.tweets">
+        <field type="CharField" name="user_id">_mahmoud</field>
+        <field type="CharField" name="username">Mahmoud Omar</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">في بيان رسمي، قالت حكومة #غزة أنّ &amp;quot;مخطط برافر غير شرعي وندعم مقاومته بكافة الوسائل&amp;quot;. أجهزة هذه الحكومة قمعت الوقفة ضد برافر. #برافر_لن_يمر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/_mahmoud/status/356788561841881089</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">39</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u063a\u0632\u0629&quot;, &quot;#\u0628\u0631\u0627\u0641\u0631_\u0644\u0646_\u064a\u0645\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91335" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Pink Floyd - Echoes / Live at Pompeii (full)  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357519209300889601</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">11000</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/NDkMGp7Brr&quot;]</field>
+    </object>
+
+    <object pk="91336" model="data.tweets">
+        <field type="CharField" name="user_id">etshhh</field>
+        <field type="CharField" name="username">Hesham Esmail</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">حازم الببلاوي رئيسا للوزراء والبرادعي نائب وسيد عبد الحفيظ مديرا للكرة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/etshhh/status/354616684524486657</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">13</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91337" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Metallica Feat. Beltagy Live  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357161279053508608</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">298</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91338" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لا إنتوا كده إتهبلتوا بقى يا ولاد المجنونة  @shabab6april </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356586154579083264</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">186</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@shabab6april&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/PW8ywnPSEC&quot;]</field>
+    </object>
+
+    <object pk="91339" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">IN PICTURES: Israelis take to the streets for Ashdod&#39;s first ever gay pride march  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357345562741317634</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">43</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/x0qAzxARwH&quot;]</field>
+    </object>
+
+    <object pk="91340" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@WagdGhazi  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357496423731834880</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">256</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@WagdGhazi&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91341" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اتفرجت علي وثائقي عن واحدة نامت مع 251 واحد في 10 ساعات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355702801780838400</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91342" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">طالبة تنتحر بعيار من سلاح والدها لاعتراض والدتها على خلعها الحجاب | المصري اليوم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355707927417458688</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">114</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/kOgSyvkUHd&quot;]</field>
+    </object>
+
+    <object pk="91343" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مرشج وزاره العدل الجديد مات من 5 سنين شوفو  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356465409135882240</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/GeSdp4u91C&quot;]</field>
+    </object>
+
+    <object pk="91344" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عاجل ومؤكد إلى جميع مؤيدى الرئيس محمد #مرسى مرسى محجوز فى الصحراء الغربية في الكيلو 150 عند يافطة مكتوب عليها.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354941531137904640</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0631\u0633\u0649&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91345" model="data.tweets">
+        <field type="CharField" name="user_id">fondo81</field>
+        <field type="CharField" name="username">احمد</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">حملة اضرب كلاكس لو مبتحبش غادة عبد الرازق واقفين على كوبرى اكتوبر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fondo81/status/357524256973791232</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">15</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91346" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الثورة الجاية مش عايزين فيها شباب طاهر .. عايزين شباب نجس لا مؤاخذة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/354356700402294786</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">27</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91347" model="data.tweets">
+        <field type="CharField" name="user_id">malakboghdady</field>
+        <field type="CharField" name="username">إيغما لادوس</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مصر كلها ساكنة في شقق الا غادة عبد الرازق ساكنة في مول العرب #مسلسل_حياة #كس_أم_الأڤواره </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/malakboghdady/status/356145673709699072</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0633\u0644\u0633\u0644_\u062d\u064a\u0627\u0629&quot;, &quot;#\u0643\u0633_\u0623\u0645_\u0627\u0644\u0623\u06a4\u0648\u0627\u0631\u0647&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91348" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Yes Is The Answer -- essays about progressive rock  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354769425523687424</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">47</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/dfyAgHqRPs&quot;]</field>
+    </object>
+
+    <object pk="91349" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">حمزة علاء الدين: النوبة، حانات مانهاتن، تقاليد الساموراي   via @ma3azef </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355756677435375616</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">25</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ma3azef&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/k9hfFRH4CE&quot;]</field>
+    </object>
+
+    <object pk="91350" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Nice bra  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355780377652113408</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">96</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91351" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">The Doors-The End [FULL]:  via @youtube </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354381753403707393</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">5680</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@youtube&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91352" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">How a Clean, Tidy Home Can Help You Survive the Atomic Bomb: A Cold War Film from 1954 | Open Culture  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355148795601879042</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">140</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/MvoHZJY2oO&quot;]</field>
+    </object>
+
+    <object pk="91353" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الشباب الطاهر بتاع 30 يونيو هياخد ذات نفس الخازوق اللى أخده الشباب الطاهر بتاع 25 يناير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/354354656685727745</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">52</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91354" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">World Record, watch 275,000 dominoes falling </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357534675608563712</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">1863</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91355" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مصادر: السيسي نائبا أول لرئيس الوزراء في حكومة الببلاوي  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356850822153371650</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">218</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/LWPvANoTFh&quot;]</field>
+    </object>
+
+    <object pk="91356" model="data.tweets">
+        <field type="CharField" name="user_id">luluderaven</field>
+        <field type="CharField" name="username">DG</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text"> تقرير الشروق الي اتحط واتشال عن احداث رابعة via @Cer </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/luluderaven/status/355019794845675521</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91357" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Arabian Sand Cat </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355764539767271425</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">850</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91358" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Dem shorts  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356130545022939136</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">193</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91359" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#Dostor #Egypt اتحاد القوى الصوفية: الإعلان الدستوري «انتكاسة» شديدة للحريات وردّة للخلف  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354564206655320066</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">31</field>
+        <field type="TextField" name="hash_tags">[&quot;#Dostor&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/pc0UJNhKPg&quot;]</field>
+    </object>
+
+    <object pk="91360" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Unique Egyptian sphinx unearthed in north Israel  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354999290583715840</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">38</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/iDhSBs9AFz&quot;]</field>
+    </object>
+
+    <object pk="91361" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">براءة أحمد عز وجميع المتهمين في قضية «احتكار الحديد»  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356186881618219012</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">389</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Nb7zero32f&quot;]</field>
+    </object>
+
+    <object pk="91362" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Egyptian Politics Has Gone So Crazy It Needs a New Word to Explain It | FP Passport  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355775220902150145</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">133</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/178k4Sr04n&quot;]</field>
+    </object>
+
+    <object pk="91363" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مساعد وزير الداخلية يطالب المواطنين بسرعة الإبلاغ عن أي أجسام غريبة   عم مجاهد؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355001243741061121</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">41</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/ycLJqTg8vx&quot;]</field>
+    </object>
+
+    <object pk="91364" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عمرو واكد جاب ورا، مش أد الكلام بتقولوه ليه؟  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357205611982761985</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">30</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/wchq44wV5F&quot;]</field>
+    </object>
+
+    <object pk="91365" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ابن النيل ابن المتناكة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354385428016668672</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">1067</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91366" model="data.tweets">
+        <field type="CharField" name="user_id">barackobama_ar</field>
+        <field type="CharField" name="username">باراك حسين أوباما</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لمن سأل، نعم يا عرب أنا أصوم مثلكم في رمضان كي أشعر بما تشعرون به وكي لا تزيطون علي بتعبكم وعطشكم يو بنش أوف دراما كوينز </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/barackobama_ar/status/355812757175681025</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">30</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91367" model="data.tweets">
+        <field type="CharField" name="user_id">alarabiya_brk</field>
+        <field type="CharField" name="username">Al Arabiya Breaking</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الرئيس المصري يعين محمد البرادعي نائبا لرئيس الجمهورية للعلاقات الخارجية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alarabiya_brk/status/354608385385185280</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">46</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91368" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">سيعود منتصرا شامخا رافعا رأسه محررا القدس كصلاح الدين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356211995311210499</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">200</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/DBrZKh53JC&quot;]</field>
+    </object>
+
+    <object pk="91369" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#الوطن | #الجيش يدعو المواطنين للإبلاغ عن المسيئين إليه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357539178219061248</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">28</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0648\u0637\u0646&quot;, &quot;#\u0627\u0644\u062c\u064a\u0634&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/WbKNo6gBmw&quot;]</field>
+    </object>
+
+    <object pk="91370" model="data.tweets">
+        <field type="CharField" name="user_id">alaasadek</field>
+        <field type="CharField" name="username">Alaa Sadek</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">إغلاق القنوات الدينية قبل شهر رمضان الكريم يذكرنا بما حدث في زمن الهكسوس والمغول عندما أغلقوا المساجد ومنعوا العبادة، نظام ساقط يعشق الرقص </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alaasadek/status/356001588466290688</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">1089</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91371" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">شذى لعمرو واكد بعد هجومه على جمال عبد الناصر: أنت فاشل وتسعى لتكون بطلًا   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356578418793512961</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">35</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/B23RtgOhd5&quot;]</field>
+    </object>
+
+    <object pk="91372" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">البحرية الأمريكية تحرك سفينتين الى قرب الساحل المصري كإجراء احتراز  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355771993225826304</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/jkDCqVyg3W&quot;]</field>
+    </object>
+
+    <object pk="91373" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Left vs Right  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/355169862701690881</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">396</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91374" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">كيم كارديشيان هتعمل فرحها في مصر  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/354562319159799808</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">476</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/uDWoO19WiA&quot;]</field>
+    </object>
+
+    <object pk="91375" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#Cinema بالفيديو.. إيناس الدغيدي: أنا مخرجة «الجنس» ولن أكون بطلة لأي من أفلامي  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357680774075940864</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">40</field>
+        <field type="TextField" name="hash_tags">[&quot;#Cinema&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/783umtlDjI&quot;]</field>
+    </object>
+
+    <object pk="91376" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@emadzyd @rashad صفوت أهو بيدعم الشرعية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/356473500162195457</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">58</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@emadzyd&quot;, &quot;@rashad&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/hB7W1SzlEl&quot;]</field>
+    </object>
+
+    <object pk="91377" model="data.tweets">
+        <field type="CharField" name="user_id">cer</field>
+        <field type="CharField" name="username">H</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هاني سلامة دماغه جابته لإن ممكن يكون فيه حد في العالم مهتم يغتاله  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cer/status/357694126336114690</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">61</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/ReZlntdOya&quot;]</field>
+    </object>
+
+    <object pk="91378" model="data.tweets">
+        <field type="CharField" name="user_id">sherifmadkoor</field>
+        <field type="CharField" name="username">Sherif Madkour</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">إعلان أولويز الجديد بجد تحفة ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sherifmadkoor/status/356587035437436928</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">338</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91379" model="data.tweets">
+        <field type="CharField" name="user_id">ess_younis</field>
+        <field type="CharField" name="username">isaad younis</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عاجل: تم تغيير عبارة &amp;quot; اعمل نفسك ميت &amp;quot;.. الي &amp;quot; اعمل نفسك بتصلي عالكوبري &amp;quot;.. و الله الموفق و المستعان. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ess_younis/status/357114215032553473</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">125</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91380" model="data.tweets">
+        <field type="CharField" name="user_id">_sana_albdr</field>
+        <field type="CharField" name="username">سنا.</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer @CARPENTERxx مو المشكلة إنها نامت معهم، اللي يقهر وين حصلتهم وحنا اللي ندور نص واحد مالقيناه!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/_sana_albdr/status/355718315131412481</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;, &quot;@CARPENTERxx&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91381" model="data.tweets">
+        <field type="CharField" name="user_id">wagdghazi</field>
+        <field type="CharField" name="username">Wagd Ghazi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer  أنا بتعذّب من الجمال و أنا بسمع التراك ده يا لاف. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/wagdghazi/status/354634587873349633</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">51</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91382" model="data.tweets">
+        <field type="CharField" name="user_id">yasserigo</field>
+        <field type="CharField" name="username">Yasser</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer @EgyCommunist في 2011 كتبوا سؤال هل تريد الأحكام العرفية ودخلت قلت لهم انتم عملاء للعسكر وعملوا عليا حفلة يومها </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/yasserigo/status/356590109799362560</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;, &quot;@EgyCommunist&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91383" model="data.tweets">
+        <field type="CharField" name="user_id">egycommunist</field>
+        <field type="CharField" name="username">AB</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Marrvie @Cer  إنهم من المريخ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/egycommunist/status/355766526898483202</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">15</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Marrvie&quot;, &quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91384" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">RT @Cer: في شئون مصر الثورية  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/356961697619132417</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91385" model="data.tweets">
+        <field type="CharField" name="user_id">anaje</field>
+        <field type="CharField" name="username">Anaje</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@Bluefish80 @Cer  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/anaje/status/355391816952082432</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Bluefish80&quot;, &quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91386" model="data.tweets">
+        <field type="CharField" name="user_id">ammarelkalla</field>
+        <field type="CharField" name="username">AmMaR</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@cer  ولا انا غلطان ؟ :)  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ammarelkalla/status/356235947303645185</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91387" model="data.tweets">
+        <field type="CharField" name="user_id">wagdghazi</field>
+        <field type="CharField" name="username">Wagd Ghazi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer @M_ElGabry  ليلى علوي. via @Jimmy_VII  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/wagdghazi/status/356058248387907586</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;, &quot;@M_ElGabry&quot;, &quot;@Jimmy_VII&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/xspCtPFr9e&quot;]</field>
+    </object>
+
+    <object pk="91388" model="data.tweets">
+        <field type="CharField" name="user_id">perdita_s</field>
+        <field type="CharField" name="username">S</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/perdita_s/status/354783061356978176</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91389" model="data.tweets">
+        <field type="CharField" name="user_id">wagdghazi</field>
+        <field type="CharField" name="username">Wagd Ghazi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer @M_ElGabry  ليلى علوي. via @Jimmy_VII  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/wagdghazi/status/356058248387907586</field>
+        <field type="DateField" name="posting_date">2013-07-12</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;, &quot;@M_ElGabry&quot;, &quot;@Jimmy_VII&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/xspCtPFr9e&quot;]</field>
+    </object>
+
+    <object pk="91390" model="data.tweets">
+        <field type="CharField" name="user_id">miromourad12388</field>
+        <field type="CharField" name="username">الطَّاووسُ المُتمرّد</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@kalimakhus @Cer صديقي تامر مرسي عام كامل بلا عنف وبعد عزله الشارع تسيل الدماء به  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/miromourad12388/status/354461156448038912</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@kalimakhus&quot;, &quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/eyoLz33gLY&quot;]</field>
+    </object>
+
+    <object pk="91391" model="data.tweets">
+        <field type="CharField" name="user_id">a7mdsaa</field>
+        <field type="CharField" name="username">freeman</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/a7mdsaa/status/354361851477364736</field>
+        <field type="DateField" name="posting_date">2013-07-08</field>
+        <field type="IntegerField" name="retweets">282</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91392" model="data.tweets">
+        <field type="CharField" name="user_id">hichamyezza</field>
+        <field type="CharField" name="username">Hicham Yezza</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer أنا سعيد أنك بعتلي اللينك ده. خد ديه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hichamyezza/status/354555518821474306</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/7VrTW56lAS&quot;]</field>
+    </object>
+
+    <object pk="91393" model="data.tweets">
+        <field type="CharField" name="user_id">aliaaselim</field>
+        <field type="CharField" name="username">علياء</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer @MaLek الصفحة دي مش رسمية،،، لينك الصفحة الرسمية ومفيهوش الكلام ده:  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/aliaaselim/status/356746388912082945</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">165</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;, &quot;@MaLek&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/ovtqFrrw8S&quot;]</field>
+    </object>
+
+    <object pk="91394" model="data.tweets">
+        <field type="CharField" name="user_id">aa_whyy</field>
+        <field type="CharField" name="username">AYO_ola</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Always me :*:*&amp;quot;@certified_babe: [My Best Fans] @Aa_whyy @PhYsIC_gANgsTAr @Hunny_Lemonade @cer   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/aa_whyy/status/354862411175563264</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Aa_whyy&quot;, &quot;@PhYsIC_gANgsTAr&quot;, &quot;@Hunny_Lemonade&quot;, &quot;@cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/wofvbvu5bP&quot;, &quot;http://t.co/cEt3tlwDuE&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="91395" model="data.tweets">
+        <field type="CharField" name="user_id">wagdghazi</field>
+        <field type="CharField" name="username">Wagd Ghazi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer Tramping songs  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/wagdghazi/status/354938655460175875</field>
+        <field type="DateField" name="posting_date">2013-07-09</field>
+        <field type="IntegerField" name="retweets">841</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="91396" model="data.tweets">
+        <field type="CharField" name="user_id">kalimakhus</field>
+        <field type="CharField" name="username">Tamer Mowafy</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@Yasserigo @Cer ديه كانت بداية الحوار؟  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kalimakhus/status/69557311278030848</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Yasserigo&quot;, &quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/E7R88KP78w&quot;]</field>
+    </object>
+
+    <object pk="91397" model="data.tweets">
+        <field type="CharField" name="user_id">amr_corrupted</field>
+        <field type="CharField" name="username">Addicted To Music</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Cer  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amr_corrupted/status/357324004538851329</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3625</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Cer&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+</django-objects>

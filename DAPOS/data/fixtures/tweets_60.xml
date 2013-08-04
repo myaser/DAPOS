@@ -1,0 +1,2227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="134668" model="data.tweets">
+        <field type="CharField" name="user_id">baheegashereer</field>
+        <field type="CharField" name="username">بهيج الشرير</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly    في إشاعة بتقول أن أوباما من المنوفية وإسمه أصلا بركات وغيره لباراك. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/baheegashereer/status/357515882735468545</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134669" model="data.tweets">
+        <field type="CharField" name="user_id">mohhkamel</field>
+        <field type="CharField" name="username">مو Mo</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عشان البدلة الميري. &amp;quot;@ABakly: هو لية الناس بتهاجم حمزاوي ومبتهاجمش السيسي رغم أن الخلاصة النهائية لكلامهم واحدة .. لا إقصاء لأي فصيل ؟&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohhkamel/status/356456671582752769</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134670" model="data.tweets">
+        <field type="CharField" name="user_id">maihosney</field>
+        <field type="CharField" name="username">MAÏ</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly “@sheramomo: @M7mdEsma3el @ التمثال سليم.  لسة معدية عليه. بس كتبوا عليه بالبوية و غطو وش الست ببوسترات مرسي” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/maihosney/status/357152175627055104</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;, &quot;@M7mdEsma3el&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134671" model="data.tweets">
+        <field type="CharField" name="user_id">dinaamingad</field>
+        <field type="CharField" name="username">Dina Amin Gad</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">_هوانم جاردن سيتي:  و اسمع المقدمة قالك حتي لا تقع الاجيال القادمة في نفس الاخطاء :D @ABakly </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dinaamingad/status/356218619702681600</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134672" model="data.tweets">
+        <field type="CharField" name="user_id">dinaamingad</field>
+        <field type="CharField" name="username">Dina Amin Gad</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">_هوانم جاردن سيتي:  و اسمع المقدمة قالك حتي لا تقع الاجيال القادمة في نفس الاخطاء :D @ABakly </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dinaamingad/status/356218619702681600</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">99</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134673" model="data.tweets">
+        <field type="CharField" name="user_id">nefro79</field>
+        <field type="CharField" name="username">Heba Khafagy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@ABakly: الإخوان ناويين يعتصموا امام السفارة الأمريكية ! #Egypt @USEmbassyCairo” فين المارينز يا ولد ؟ هو لسه بتوع عمر عبد الرحمن هناك؟! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nefro79/status/357481884936179713</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@USEmbassyCairo&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134674" model="data.tweets">
+        <field type="CharField" name="user_id">tut2009</field>
+        <field type="CharField" name="username">Tsamy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly   كل واحد والحشيشه البتكيفه ، #الاتتكيفون </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/tut2009/status/356757003990867968</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0627\u062a\u062a\u0643\u064a\u0641\u0648\u0646&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134675" model="data.tweets">
+        <field type="CharField" name="user_id">mahmoudysalem</field>
+        <field type="CharField" name="username">محمود</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly @EGVenus  هي اصلا حقيقية ؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mahmoudysalem/status/356207346420158464</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;, &quot;@EGVenus&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134676" model="data.tweets">
+        <field type="CharField" name="user_id">ghostymaher</field>
+        <field type="CharField" name="username">ِAhmed Maher</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly فاكر ديه؟  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ghostymaher/status/239359864084779008</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">15</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134677" model="data.tweets">
+        <field type="CharField" name="user_id">princeszsara</field>
+        <field type="CharField" name="username">ⓈⒶⓇⒶ</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly @EGVenus دي بت بردو :D روح ربنا يسامحك </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/princeszsara/status/356208544460185600</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;, &quot;@EGVenus&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134678" model="data.tweets">
+        <field type="CharField" name="user_id">aaddeellasd</field>
+        <field type="CharField" name="username">عادل</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly @EGVenus  دي لجنه ملتحيه على شكل مُزه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/aaddeellasd/status/356211141405446145</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;, &quot;@EGVenus&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134679" model="data.tweets">
+        <field type="CharField" name="user_id">lolita_arch</field>
+        <field type="CharField" name="username">Lola Omar</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly @EGVenus لوووووووول ......دى أما الخاطبة الكميلة ..معلش السن ليه حكمه بردو:) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/lolita_arch/status/356208235096711169</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;, &quot;@EGVenus&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134680" model="data.tweets">
+        <field type="CharField" name="user_id">baheegashereer</field>
+        <field type="CharField" name="username">بهيج الشرير</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly  ولاد متناكة أنصاف متعلمين. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/baheegashereer/status/356901503203688448</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134681" model="data.tweets">
+        <field type="CharField" name="user_id">isefy</field>
+        <field type="CharField" name="username">ahmed saify</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly تقريبا دا عيل اخوانجى و حاطط صورتها فيه لجان اخوانجية كتير حاطين صور غير محجبات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/isefy/status/356207605535883265</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134682" model="data.tweets">
+        <field type="CharField" name="user_id">dg_aslan</field>
+        <field type="CharField" name="username">Giko</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Esmat__ @PrinceszSara @ABakly رقيتكوا واسترقيتكوا من عين الحسود داويتكوا تعيشوا ويحمي عافيتكوا وبالستر يعمر بيتكوا- روقة ستايل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dg_aslan/status/356229693088866305</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Esmat__&quot;, &quot;@PrinceszSara&quot;, &quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134683" model="data.tweets">
+        <field type="CharField" name="user_id">arasmi1</field>
+        <field type="CharField" name="username">Ahmad rasmi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@adam68mahmoud: @EGVenus @PrinceszSara @ABakly  ايوه هما دول هههههههههههههه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/arasmi1/status/356581349492137985</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@EGVenus&quot;, &quot;@PrinceszSara&quot;, &quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/AFLUishHfn&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="134684" model="data.tweets">
+        <field type="CharField" name="user_id">mohhkamel</field>
+        <field type="CharField" name="username">مو Mo</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">.@osama_sadek @ABakly يعني لو حسام بدراوي قالها كانت الناس هتقبلها منه؟ لأ برضه. إن فاتك الميري.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohhkamel/status/356464834256191490</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134685" model="data.tweets">
+        <field type="CharField" name="user_id">baheegashereer</field>
+        <field type="CharField" name="username">بهيج الشرير</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly    والله ياباشا أنا بيتي ملكي &amp;quot;مش شقة&amp;quot; في فلوريدا في أجمل منطقة شواطئ في أمريكا والبيت مش   ب ٢ مليون!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/baheegashereer/status/357572567554461699</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134686" model="data.tweets">
+        <field type="CharField" name="user_id">esmat__</field>
+        <field type="CharField" name="username">Ahmed</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@PrinceszSara @ABakly @EGVenus من 24 مارس  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/esmat__/status/356209458206085120</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@PrinceszSara&quot;, &quot;@ABakly&quot;, &quot;@EGVenus&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/xrOzeOb9Ar&quot;]</field>
+    </object>
+
+    <object pk="134687" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Fool Obama Thinks That Working With Muslim Brotherhood Will Bring Victory Over Terrorism   #TeaParty #tcot </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357475607002619904</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;#TeaParty&quot;, &quot;#tcot&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/LONGcjDbgc&quot;]</field>
+    </object>
+
+    <object pk="134688" model="data.tweets">
+        <field type="CharField" name="user_id">attisalah</field>
+        <field type="CharField" name="username">Amira</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly @attisalah اضربوا ديه، و شوف تعليقها تحت   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/attisalah/status/356307152291373056</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;, &quot;@attisalah&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/J8yGVajOrc&quot;]</field>
+    </object>
+
+    <object pk="134689" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Bent_Elsultan  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356145403445522432</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">288</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Bent_Elsultan&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134690" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">80% #aviation accidents occur during first 3 min &amp; last 8 min of a flight ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356228711621730304</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#aviation&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134691" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@tut2009 إنهم لحاقدون ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356455416063991808</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@tut2009&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134692" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">إلا هو الفلوطة صول &amp;quot;سوبحي ساليح&amp;quot; فين يا ولاد ؟ #Egypt #Ikhwan </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356246034428596225</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#Ikhwan&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134693" model="data.tweets">
+        <field type="CharField" name="user_id">dr_ebrahim</field>
+        <field type="CharField" name="username">طــبــ ميدانى ـيـب</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">#نشطاء_من_أجل_الاخوان  محمد انور السادات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_ebrahim/status/357606776444690433</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0646\u0634\u0637\u0627\u0621_\u0645\u0646_\u0623\u062c\u0644_\u0627\u0644\u0627\u062e\u0648\u0627\u0646&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134694" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">#نشطاء_من_أجل_الاخوان ايمن الصياد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357608171851886593</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0646\u0634\u0637\u0627\u0621_\u0645\u0646_\u0623\u062c\u0644_\u0627\u0644\u0627\u062e\u0648\u0627\u0646&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134695" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@dodamody768 انا بتريق ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357491945381175296</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@dodamody768&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134696" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">The real crime of Edward #Snowden, that he believed in the fourth amendment ! #Liberty </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357209961618616320</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Snowden&quot;, &quot;#Liberty&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134697" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">علي فكرة انا منوفي .. إنذار مبطن ! #PT </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356152713081401345</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#PT&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134698" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">نصيحة بطلوا تخوين مرسي .. والله نصيحة بجد ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356153267388030976</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134699" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@DinaAminGad وتجد من يحنو عليها ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356219351780704257</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@DinaAminGad&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134700" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">#نشطاء_من_أجل_الاخوان مني مكرم عبيد #تصحيح </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357610003739316224</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0646\u0634\u0637\u0627\u0621_\u0645\u0646_\u0623\u062c\u0644_\u0627\u0644\u0627\u062e\u0648\u0627\u0646&quot;, &quot;#\u062a\u0635\u062d\u064a\u062d&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134701" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Amir_El_Sherif اللية مجهدة .. ربنا ما يوريك ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/355861658876391424</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Amir_El_Sherif&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134702" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Nazi_A7yanan انت سعيد بجمهورية التعبئة العامة .. انا لأ :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356183306439626752</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Nazi_A7yanan&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134703" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">إلا هو مين اللي هيعزل الإخوان ويحظرهم ؟ #سؤال_سخيف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/355865104119644160</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0633\u0624\u0627\u0644_\u0633\u062e\u064a\u0641&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134704" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ayaabdullah الإخوان فاضلهم سيكا ويعلنوا الكفاح المسلح ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356157767326769152</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ayaabdullah&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134705" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">قالك مشاورات تشكيل الحكومة .. حكومة مين يا مولانا، المجد لأبانا الذي في المخابرات ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356187644062994432</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134706" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nadaa_123 ولو قابل هذا الفيلسوف في طفولتة لربما تحرش به ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356264400593747968</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nadaa_123&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134707" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ولا اي ذرة تعاطف .. تشربوا بيرة ؟ ولا نجيب ويسكي ؟ #Ikhwan </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356915321065570305</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Ikhwan&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134708" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الأهم من مكافحة الجماعات الإرهابية، هو مكافحة الأفكار الإرهابية ... وهو ما لن يحدث أبدا. #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356115590936670208</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134709" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإخوان ناويين يعتصموا امام السفارة الأمريكية هاهاهاهاهاهاهاهاهاهاهاهاهاهاهاهاهاهاهاهاهاهاها ! #Egypt @USEmbassyCairo </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357481494610059264</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@USEmbassyCairo&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134710" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">علي فكرة، أمريكا من أكثر الحكومات اللي بتبيع مواطنيها لو تم القبض عليهم بسبب نشاط غير سياسي ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356901763040813057</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134711" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">جبهة الإينكاز حتتفكك ؟ لولولولولولييييييي .. يا ريتها جابت دكر بط ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356244577994276864</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134712" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">كونتووووو فييييييين انتووووووو وانا بتصور مع رئيس الوزرا زمان ! #نوشتاء_ستايل #هع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357509414636363776</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0646\u0648\u0634\u062a\u0627\u0621_\u0633\u062a\u0627\u064a\u0644&quot;, &quot;#\u0647\u0639&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134713" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا عايزكم اليومين دول تتفرجوا علي فيلم &amp;quot;الجزيرة&amp;quot; ... طب والله هتتبسطوا ! #هع #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356956514294054913</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0647\u0639&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134714" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">حاتم عزام من منصة «رابعة»: رصاصات الغدر لن تقتل صوت الحرية .. نائب الكوكوواوا يبعث من جديد ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/355879842996158465</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134715" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">السينما الأمريكية عاملة زي السينما المصرية .. الستات اللي بتشوفهم في الأفلام نادرا ما تشوفهم في الحقيقة ! #Egypt #USA </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356148615816822784</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#USA&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134716" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">والغريب ان عبدالمنعم سعيد وهالة مصطفي هما أكثر اتنين بيتشتموا من بهوات النشطاء .. صدفة ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357227647392161792</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134717" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مفيش مسئول جدع كدة ياخدني مستشار لأي حاجة .. علي فكرة انا منوفي زي الجنزوري برضة ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357513359194726402</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134718" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بمناسبة تويتات نيفين .. انا اول واحدة صاحبتها في حياتي كانت اكبر مني بسبع سنين هاهاهاهاها ! @Neveen_Hamzah </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357851862680088576</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Neveen_Hamzah&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134719" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">طيب بما أن الإخوان دلوقتي أقلية ومعارضيهم أغلبية .. أعتقد أن التصالح معاهم هيبقي جانج بانج ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356926120295284736</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134720" model="data.tweets">
+        <field type="CharField" name="user_id">sameh_omar</field>
+        <field type="CharField" name="username">Sameh Ben Omar</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وأخرة ال بي بي أم ياحلوة ؟ أنا أحبه زي عينيا بس عايزين نتنقل للمرحلة اللي بعدها بقي :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sameh_omar/status/356890417884704768</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134721" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Bent_Elsultan لا احنا بيتضحك علينا كتير .. خشي كدة اتفسحي في موقع ميمري وشوفي الكوميديا المترجمة ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356141927235731456</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Bent_Elsultan&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134722" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Nefro79 @USEmbassyCairo المارينز لو ظهروا ممكن ياكلوا الإخوان .. وممكن فعلا يغتصبوا أم ايمن ! :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357482307365507072</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Nefro79&quot;, &quot;@USEmbassyCairo&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134723" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وكما كان موقفي من نظام مبارك هو نفسة مع الإخوان.. من لم يتورط في قتل أو فساد، أهلا بية في الحياة السياسية بشروط الديمقراطية مش بشروطة سعادتة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357148807621902336</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134724" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">جون كيري: الولايات المتحدة لن تتسرع في قرارها ان كان مرسي اطيح به في انقلاب في مصر .. اوعي تتسرع، إعمل الصح يا جون ! #Egypt @USAbilAraby </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357519873842216961</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@USAbilAraby&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134725" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">متي يصبح إختيار المحافظين بالإنتخاب، ويكون لكل محافظة حق التشريع وفرض الضرائب ومنح تيسيرات إستثمارية علي مستوي المحافظة ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356725633319047168</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134726" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وربنا مختار بيتقلب في تربتة يا ولاد الكلب يا كفرة .. أنقذوا تمثال نهضة مصر من ايدي الرعاع دول. #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357151614659854337</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134727" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا ضد كل أشكال العزل السياسي، لكن ايضا ضد ترك الحرية للفاشست لمصادرة المجتمع .. لابد من نص دستوري حاسم يمنع تقييد الحريات. #Egypt #Liberty </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356850597917495296</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#Liberty&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134728" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بس كويس أن الأخوة اللي فشخونا حياد وموضوعية امثال الأخت داليا عزت، فاقوا وصحيوا .. بس برضة مش هيعترفوا ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356957341758914560</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134729" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">يا نهار اغبر .. هو لبس الفايترز في القوات الجوية مكتوب علية &amp;quot;سنريهم أياتنا في الأفق&amp;quot; .. وجابولكم خميني ؟ #Egypt #EgyAirForce </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356218849953189889</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#EgyAirForce&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134730" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا لو شوفت مرسي مش هقولة غير كلمة واحدة ... قادر اللي أخد منك الفيل يرجعهولك ! #هع #رابعة #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356214791888572416</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0647\u0639&quot;, &quot;#\u0631\u0627\u0628\u0639\u0629&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134731" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">إلا هو انا لو قولت ان منشورات الجيش اللي بتترمي علي رابعة، عاملة زي منشورات جيش جنبينا كدة تزعلوا هاهاهاها ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356949724848332800</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134732" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">العريان: وصلت أنباء عن تخطيط بوليسى بتفجير أماكن بالقاهرة والجيزة واتهام المعتصمين بإحداثها.. سيبك من أفلام سلاح الفرسان دية يا علق ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356911858793455618</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134733" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ملقيتوش إلا جمال عيد تتهموة بأمريكا ! حتي التمويل الأمريكي اللي بيجيي لمنظمتة جاي من أقصي اليسار المعادي أصلا لكل النظام السياسي الأمريكي ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356121293420105729</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134734" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Nazi_A7yanan مفيش حاجة اسمها الشعب كدة في المطلق .. الشعب دة يعبر عنة احزاب وتنظيمات ونقابات وجمعيات وروابط .. ودة مش موجود </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356181680530272256</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Nazi_A7yanan&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134735" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الحقيقة أنا أخر مسلسل شوفتة علي بعضة من أولة لأخرة في رمضان كان مسلسل &amp;quot;ليالي الحلمية&amp;quot; الجزء الثالث ! #حقيقة #اة_والنيعمة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356216684102692864</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062d\u0642\u064a\u0642\u0629&quot;, &quot;#\u0627\u0629_\u0648\u0627\u0644\u0646\u064a\u0639\u0645\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134736" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الناس بتنسي ان الهجوم عالإعلام مبدأش بية الإسلاميين وإنما أول من أستخدم وصف الإعلام الفاسد وعمل مليونية ضد الإعلام كان توفيق عكاشة ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356141580899450880</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134737" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">متخيل لما نائب رئيس الولايات المتحدة يمسك التليفون علشان يقعد يكلم رؤساء دول يطلب ميمنحوش لجوء سياسي لسنودن .. مشهد من فيلم مقاولات مصري ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357511343240265729</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134738" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وهل ممكن حد يكلمني شوية عن سيادة النائب مصطفي الجندي عميد كتلة الثورة مستمرة اللي نزل عليها كل إخوانا الثورجية .. إختشوا علي دمكم ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357144281225498625</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134739" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@newnadine هل تعتقدي انهم فعلا رعب حقيقي ؟ ما ثبت أنهم خيل عجوز اهو وإتخلعوا في 48 ساعة .. ولو جهازنا الأمني اقوي كانوا مشيوا في وقت اقل ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356110031063756801</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@newnadine&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134740" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">صورة ليا مع رئيس الوزراء حازم الببلاوي ايام ما كان ناشط زينا &amp;quot;اللي اداك يدينا يا سيدي&amp;quot;.. صورة عمرها 6 سنين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357503537812480000</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134741" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وقاعدين ولاد القحابي يزايدوا علينا شوية بإقصاء الفلول وشوية بعدم إقصاء الإخوان ... كفاية بقي قحبنة يا ولاد المرا ! #pt #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357147266630434817</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#pt&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134742" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@newnadine مفيش حاجة في مصر اسمها تمكين .. مصر اصلا متأخونة جاهز، مصطلح التمكين دة ممكن ينفع في تركيا، في تونس .. الأخونة افكار مش بس تنظيم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356118356488765441</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@newnadine&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134743" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اذاي مش قادر تشوف أن تعريص الإخوان مارس 54 وتعريص الإخوان من بعد 25 يناير نسخة طبق الأصل تبعها زيادة دور العسكر بالسياسة ؟ #Egypt #المعرصون </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356893850159165440</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#\u0627\u0644\u0645\u0639\u0631\u0635\u0648\u0646&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134744" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@moniaaahmed اة طبعا لازم نتسامح مع الإرهابيين والفاشيين والمخبريين .. بس نعزل الفلول، علشان الفلول وحشين ! #اي_كلام_في_رغيف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357147976935809026</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u064a_\u0643\u0644\u0627\u0645_\u0641\u064a_\u0631\u063a\u064a\u0641&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@moniaaahmed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134745" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">يفضلوا يقولوا كل &amp;quot;خراء&amp;quot; وفي الأخر يزعلوا لما حد يتهمهم بالعمالة للإخوان أو لغيرهم .. وبالفم المليان تستاهلوا وشبهتونا يا ولاد الشرموطة ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356895462185377792</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134746" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بس عايزين الجد .. احلي إفية في الأسبوع اللي فات دة كلة، بيان الإشتراكيين الثوريين اللي قالك دية ثورة مش إنقلاب هاهاهاهاهاها ! #Egypt #RevSoc </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357686271692378112</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#RevSoc&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134747" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">سؤال حول الموضوعية مثلا .. هل في فروق كبيرة بين صحيفة الوطن وصحيفة الحرية والعدالة مثلا ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356757106357055491</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134748" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Mona_ElAshry الشوبكي حبيب الكل، اخوان ماشي، ناصريين حلو، عسكر ميضرش، مخابرات ومالة .. لا تثقي أبدا في كل كناسة معهد الأهرام &amp;quot;محطة مخابرات&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357224781491343360</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Mona_ElAshry&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134749" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإشتغاكيين الثوغيين قالك 30 يونيو ثورتنا .. يا رااااااااجل ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/355862687651078148</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134750" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">احا وقطعوا الطريق الدائري كمان من ناحية المنيب .. كدة مطار القاهرة محاصر فعلا ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356927104799084544</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134751" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عمر عبدالكافي وعمرو الليثي في برنامج واحد .. ويا تري بيسرحوا النسوان في الفواصل ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/355880580480643073</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134752" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ووقت الجد لو خير اليساريين بين حكم عسكري وحكم ليبرالي هيختاروا الحكم العسكري طوعا .. للأسف كثير منكم غير خبير بإنحيازات اليساريين. #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356269030459457536</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134753" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هو لية الناس بتهاجم حمزاوي ومبتهاجمش السيسي رغم أن الخلاصة النهائية لكلامهم واحدة .. لا إقصاء لأي فصيل ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356454778399760384</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134754" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;لقد أجرم مرسى حين اعتبر نفسه حاكما لدولة كبيرة وردد كلاما عن امتلاك السلاح والخبز والإرادة، فكان لابد من عقاب سريع&amp;quot; وائل قنديل ! #هع #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356603713592377344</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0647\u0639&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134755" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">احنا نتصالح مع الإخوان زي ما كل ولد بيصالح صاحبتة ... ومن غير كاندم ولا بلاي ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356924004319232000</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134756" model="data.tweets">
+        <field type="CharField" name="user_id">ayaabdullah</field>
+        <field type="CharField" name="username">الأخت آية</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لول قريته ومش فاهمه RT @ABakly: @ayaabdullah  بس متقعديش تقولي دة كلبة ودة حمارة والكلام دة . لو هتشتمي إشتمي بجد :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ayaabdullah/status/356914339933995008</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">613</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;, &quot;@ayaabdullah&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/NExpsIv51F&quot;]</field>
+    </object>
+
+    <object pk="134757" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بإستثناء عبدالمنعم سعيد وهالة مصطفي فقط لا غير .. مفيش واحد من تايكونز معهد الأهرام للدراسات الإستراتيجية مدافعش مرة عن الإخوان ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357227366055034880</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134758" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بيقولك الشقة التسعين متر بإتنين مليون جنية في مشروع هايد بارك .. دول ثمن فيلا في فلوريدا عالمحيط يا كفرة ! #a7a </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357570144282738688</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#a7a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134759" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لا يزال سؤالي قائم للإدارة الأمريكية.. هل تمنح الولايات المتحدة اللجوء السياسي للرئيس المصري السابق محمد مرسي ؟ @USAbilAraby @USEmbassyCairo </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/355881444800860160</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@USAbilAraby&quot;, &quot;@USEmbassyCairo&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134760" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وزير الدفاع الاسرائيلي: هناك تنسيق على كل المستويات الأمنية مع مصر وبعد انتهاء العمليات العسكرية المصرية في سيناء سيعود الوضع كما كان #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357122047672991746</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134761" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">إنما اللي عايز الديمقراطية مجرد صندوق يستعملة علشان يركبنا بية، لا يستحق عندي سوي العزل السياسي وأحيانا السجن لو هدد امن المجتمع. #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357149217615126528</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134762" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@moniaaahmed ولا اي حاجة .. هيخلوا الحرس الوطني يجيبة من قفاة وهيشدوة علي السوبريم كورت ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357508718071513089</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@moniaaahmed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134763" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">علي فكرة أمريكا لا طالبت بالإفراج عن شاليط ولا عن عزام .. وطالبت بالعيل الأهبل اللي اسمة ايلان لأنة اصلا كان أمريكي .. ارحمونا هري ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356899484556460032</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134764" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بس فاكرين لما لما كان الإخوان بيقولوا 30 يونيو هيبقي بداية الثورة الإسلامية والتمكين ؟ من النهاردة مفيش حكومة أنا الحكومة هاهاهاها ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356960222713090049</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134765" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">حد كدة يراجع اراء سيمور هيرش في الباتريوت أكت وفي فضائح إدارة اوباما التجسسية .. أو رأية في تعذيب أبوغريب وفي الإطعام القصري في جوانتنامو ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356477540300361729</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134766" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تمثال نهضة مصر دة إتعملة إكتتاب شعبي رعتة حكومة الوفد لإقامتة في ميدان رمسيس .. شوية رعاع يبهدلوة بالمنظر دة، بجد انا مقهور ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357153180141891585</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134767" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا شوفت تقريبا 10 دقائق من مسلسل الداعية .. في الحقيقة شوفت حالة من الإبتذال وتلقين للمشاهد أصابني بالغثيان .. ارحموا أبونا ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356444600799473665</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134768" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">1- مسمعتش يعني فيلم &amp;quot;ضد اقصاء اي فصيل&amp;quot; دة من الحقوقي الفشيخ الذي لا يشق لة غبار &amp;quot;حسام بهجت&amp;quot; أيام قانون العزل ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356852718628896768</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134769" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الناس بتسأل طب لية ناخد خالد تليمة بذنب أبوة .. كلام سليم، لكن كلمني عن تربيطاتة الإنتخابية في إنتخابات برلمان 2011 .. هي هي تربيطات أبوة ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357143194602975233</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134770" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">علي العموم ردي الوحيد علي الحكومة &amp;quot;الوطنية&amp;quot; اللي حادفة شمال دية، مستوحي من إبداعات الرئيس السابيك الحاج أبوعيلاء ... خليهم يتسلوا ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356450561844985857</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134771" model="data.tweets">
+        <field type="CharField" name="user_id">wizovic</field>
+        <field type="CharField" name="username">Suzy Fahim</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">دماغهم صغيرة أوي الملحدين ال بيكتبوا تويتس عبيطة قبل الفطار عن السكس قال ايه كده بيستفذوا بيها الصايمين يعني. عقلانيين ايه بس ده انتوا عيال. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/wizovic/status/357604856854355969</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134772" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا مثلا بحب القاهرة اليوم وعمرو أديب وبتكيف من تضليلة ومن ألاعيبة .. حد عندة مشكلة معايا مثلا ؟ انا راجل لعين يا أخي، أنت مالك ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356757914993700864</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134773" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أكثر خبرين كوميديين الأسبوع اللي فات: &amp;quot;تحرك الكونجرس لعزل أوباما&amp;quot; و&amp;quot;إستجواب الكونجرس لأوباما علي صفقة شراء سيناء من الشاطر&amp;quot; #Egypt #فتي_مصري </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356222869673476097</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#\u0641\u062a\u064a_\u0645\u0635\u0631\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134774" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اعتقال زوجين من النازيين الجدد لتعاطفهما مع سفّاح أوسلو .. لو كنا في أوربا، كان كل نوشتاء الندامة مشرفين في التخشيبة وبيتعمل معاهم الجلاشة ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357512825989644290</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134775" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لما نقولهم سيادة الدولة يقولك أنتو عايزين مجازر وبحور الدم.. لكن لما يتكلموا في العنف الثوري بيبقي قصدهم فوم بارتيز.. هات البيكيني يا ولد ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356888898175111169</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134776" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">صورة لي مع دولة رئيس الوزراء حازم الببلاوي ايام ما كان ناشط زينا &amp;quot;اللي اداك يدينا يا سيدي&amp;quot;.. صورة عمرها 6 سنين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357502594555473920</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134777" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإخوان المسلمون في الإسكندرية يطالبون بإغلاق القنصلية الأميركية في المدينة وطرد السفيرة من البلاد .. هدية للسيدة باترسون ! @USEmbassyCairo </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357135284573446145</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@USEmbassyCairo&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134778" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ايوة طبعا حكومة ثورية .. مش &amp;quot;البوب&amp;quot; بتاعكم قال عليها ثورية، تبقي ثورية طبعا ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357318829187153920</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134779" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وربنا اسعار العقارات في كتير من عواصم أوربا أرخص من أسعار الكومباوندز في مصر .. اصلا لو أقدر اشتري شقة بإتنين مليون جنية أقعد في مصر لية ؟! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357570989288206337</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134780" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هل تعلم أن مصطفي الجندي رجل أعمال المخابرات الفشيخ والثوري الأفشخ، سبق وإعترف علنا بتبرعة لحماس بمليون جنية أثناء الإنتفاضة الثانية ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357147008450039811</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134781" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإفراج عن مساعدة مرسي للشؤون السياسية باكينام الشرقاوي .. بكرة تقولك إغتصبوني 7 مرات متتالية ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357321925082624000</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134782" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اي مشروع للتهجير القصري هو مشروع عنصري حتي وإن كان لأسباب تنموية .. سواء كان في مصر أو إسرائيل أو بلاد الواق الواق ! #Egypt #Israel </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357213901429030912</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#Israel&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134783" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هل حد متخيل ان الدولة المصرية ناوية تمنع الإخوان عمليا من ممارسة السياسة ؟ إعادة تصنيع الفزاعة الإخوانية قائم علي قدم وساق يا سادة. #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356107321526599681</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134784" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">قالك المصرية نمرة 3 علي مستوي الإغراء .. الراجل دة أكيد إكتفي بمشاهدة مسلسلات رمضان اللي فيها ميكب وبوتكس وسيلكون طالعلهم ستات ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356096188212195329</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134785" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">2- بهوات قانون العزل نسيوا أنهم دعموا عزل وكلاء إجتماعيين لقبائل وعائلات، والنهاردة ضد عزل شوية تجار دين تمويلهم مشبوة ولا قواعد لهم. #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356853261183094787</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134786" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أنتو فاهمين كتير من اليساريين غلط.. بعضهم مع الإخوان نكاية في الليبراليين لا أكثر.. قولتلكم نفس الكلام وقت إنتخابات الرئاسة ومحدش صدق #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356268653878059009</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134787" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">علي فكرة يا إخوان .. اللي بيضربوكم هم المواطنين الشرفاء ! #ضحكة_شريرة_متقطعة #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356915528473919488</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0636\u062d\u0643\u0629_\u0634\u0631\u064a\u0631\u0629_\u0645\u062a\u0642\u0637\u0639\u0629&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134788" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أميركا الأن أصبحت بالنسبة لأي ليبرالي تماما كما الإتحاد السوفيتي بالنسبة لأي شيوعي في الحقبة البوليسية لحكم بريجينيف ! #USA #USSR #Librty </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356097655753023490</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#USA&quot;, &quot;#USSR&quot;, &quot;#Librty&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134789" model="data.tweets">
+        <field type="CharField" name="user_id">ma_hekal</field>
+        <field type="CharField" name="username">Mahmoud Hekal</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">رجعوا مرسي بسرعه&amp;quot;@AlMasryAlYoum «العدل» يجّهز لأوبريت «إرادة شعب».. وخالد يوسف مخرجًا ويسرا و«إمام» يشاركان &amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ma_hekal/status/356152665362796544</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134790" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">وزارة العدالة الانتقالية والمصالحة الوطنية .. دية وزارة هتاخد فولورز من ناس وتديهم لناس وتلغي كل البلوكات ! #Egypt #هع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357319456684392450</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#\u0647\u0639&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134791" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">اذاي تبقي ناشت ثوري ؟ تعمل يساري من أي نوع، تزايد علي الكل، تشتم اي حاجة لها علاقة بالدولة وأخيرا تشوف اية بيبضن الليبراليين وتعملة ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357666250798809088</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134792" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هاهاهاهاها دة السيسي طلع منوفي وعدلي منصور كمان .. المجد للمنايفة ! #الولايات_المتحدة_المنوفية #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356151536679792640</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a_\u0627\u0644\u0645\u062a\u062d\u062f\u0629_\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134793" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ويبقي شعار المرحلة قائم ولا تنزال عنة ... اية اللي وداهم هناك ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356891045247725568</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134794" model="data.tweets">
+        <field type="CharField" name="user_id">princeszsara</field>
+        <field type="CharField" name="username">ⓈⒶⓇⒶ</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Nazi_A7yanan @ABakly محدش راضي يفهم الحقيقه دي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/princeszsara/status/356185105540190208</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Nazi_A7yanan&quot;, &quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134795" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">سعد الحسيني: سنتظاهر أمام السفارة الأمريكية للتنديد بموقف واشنطن من الانقلاب .... هاهاهاهاهاها وجابولك باترسون ؟ ولا نبعت نجيب ؟ #Egypt #US </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357484840892891139</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#US&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134796" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">علي فكرة الإخوان عايزين يفسدوا &amp;quot;العرس الديمقراطي&amp;quot; وبيعملوا &amp;quot;وقيعة بين الجيش والشعب&amp;quot; وبرضة &amp;quot;اية اللي وداهم هناك&amp;quot;  نيهاهاهاهاهاهاها ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356911325579984896</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134797" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هل تعلم ان في نوشتاء مش مصدقين كمية السلاح اللي بيضبطها الجيش وشايفينها نوع من الدعاية ضد الإخوان .. بس مكسوفين يقولوا علي تويتر ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357139956814188545</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134798" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">السيسى: لقد أقسمنا اننا ليس لدينا أى أطماع .. يا عم هو بقي فاضل حاجة تطمعوا فيها اساسا، لقد هرمنا يا عم الحاج ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356451722002055170</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134799" model="data.tweets">
+        <field type="CharField" name="user_id">dodamody768</field>
+        <field type="CharField" name="username">dodafouad</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly اوك كلامك كله تمام بس احمد شفيق مش حرامي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dodamody768/status/357491042783723523</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134800" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا لازلت مصر أن حركة 6 أبريل بكل إنشقاقاتها دخلت تاريخ الحركات السياسية كأول حركة فاشية غير أيدولوجية ! #Egypt #April6 </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/355865922684190721</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#April6&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134801" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هي الناس اللي محروقة علي مشروع برافر الإسرائيلي بالنقب واخدين بالهم أننا عملنا نفس المشروع تقريبا مع أهل النوبة ولدواعي تنموية ايضا ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357212736570130432</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134802" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هو لية الناس سخنة كدة عالجزيرة ؟ قال يعني القنوات التانية مبتضللش ومبتكذبش !! الفكرة ان كل واحد عاجبة نوع من التضليل والكذب لا أكثر ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356756614872694786</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">12</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134803" model="data.tweets">
+        <field type="CharField" name="user_id">emadarab</field>
+        <field type="CharField" name="username">عماد عرب</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text"> عماد عرب ماشاء الله بيكتب درر .. يالا خليهم يتسلوا ! #أبو_عيلاء_مود #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/emadarab/status/356199745229828096</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0623\u0628\u0648_\u0639\u064a\u0644\u0627\u0621_\u0645\u0648\u062f&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134804" model="data.tweets">
+        <field type="CharField" name="user_id">ewis_dr11</field>
+        <field type="CharField" name="username">nermeen mohamed</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly ويمكرون ويمكر الله...وهو خير الماكرين...ارادوا شرا بمصر فقصمهم الله </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ewis_dr11/status/356960473201119234</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134805" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">المهم بقي يا ولاد أن وزير الطيران الجديد الثوري دة طلع مختلس سابق، ومين اللي حولة للنيابة الإدارية ؟ &amp;quot;الحرامي&amp;quot; أحمد شفيق ! #يا_معرصين #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357489831686848512</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u064a\u0627_\u0645\u0639\u0631\u0635\u064a\u0646&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134806" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">قالك &amp;quot;سيكيولارز فور مرسي&amp;quot; .. طب مفيش &amp;quot;هوموسيكشوالز فور مرسي&amp;quot; علشان تبقي محبوكة ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357519190388785154</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134807" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإخوان قاطعين كوبري أكتوبر ورمسيس وطريق النصر وصلاح سالم .. فاضل الدائري ويعزلوا قلب القاهرة عن مطار القاهرة والمنطفة المركزية #Egypt #Fact </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356902840469434368</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#Fact&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134808" model="data.tweets">
+        <field type="CharField" name="user_id">nile3k</field>
+        <field type="CharField" name="username">د/ عبدالله الناصر</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly @Bent_Elsultan مجزرة الاخوان على اكتوبر... ! بيحطوا الناس في شوال ويرموهم ع الكوبري علشان الناس تدوسهم!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nile3k/status/357562150279061505</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">258</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;, &quot;@Bent_Elsultan&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134809" model="data.tweets">
+        <field type="CharField" name="user_id">neveen14</field>
+        <field type="CharField" name="username">مصر رجعت</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">هاه ايه رأيك يا اخواني انت وهو في الغاز اللي اشتراه #الشاطر و #مرسي؟!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/neveen14/status/356886969701236738</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0634\u0627\u0637\u0631&quot;, &quot;#\u0645\u0631\u0633\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134810" model="data.tweets">
+        <field type="CharField" name="user_id">agnostic331</field>
+        <field type="CharField" name="username">Areej Sami</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الارهاب مش بعيد عني واراه كما لو كان في البيت المجاور ببساطه لاني من جيل التسعينات وماعنديش ذاكره سمك </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/agnostic331/status/356583533201989636</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134811" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أنصار مرسى يسحلون ضابط جيش ويمثلون بجثته بالجيزة ... الخبر دة لجنرالات المصالحة وعدم الإقصاء ! #Egypt #EgyArmy </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357129714223153152</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#EgyArmy&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134812" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text"> علشان تصدقوا لما قولتكم من ديسمبر اللي فات أن الإتحاد الأوربي هو اللي كان موقف قرض الصندوق لمرسي. #Egypt #EU </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357506654213898243</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">25</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#EU&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134813" model="data.tweets">
+        <field type="CharField" name="user_id">egvenus</field>
+        <field type="CharField" name="username">يسقط حكم العسكر</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ده بقى بياده شمال ههههههههه &amp;quot;@aaddeellasd: @ABakly @EGVenus  دي لجنه ملتحيه على شكل مُزه&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/egvenus/status/356228916043714562</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;, &quot;@EGVenus&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134814" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">حزب مصر يقبل استقالة عمرو خالد من رئاسته لرغبته في التفرغ إلى الدعوة.. اصل موضة أسلمة السلطة خلصت فنرجع بقي للأصل وهو اسلمة المجتمع ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357604721638375424</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134815" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">قالك الجيش بيضربنا واحنا بنصلي .. قال يعني كنت بتصلي في أوضة النوم والجيش جالك يا ابن المرا ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356942225848008704</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134816" model="data.tweets">
+        <field type="CharField" name="user_id">nesmaazim</field>
+        <field type="CharField" name="username">Nesma Abdelazim</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بس الأفشخ من حصول كرمان على نوبل إن وائل غنيم وأسماء محفوظ كانوا بينافسوها ع الجايزة #اشخر_في_قبرك_يانوبل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nesmaazim/status/356251757304750082</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0634\u062e\u0631_\u0641\u064a_\u0642\u0628\u0631\u0643_\u064a\u0627\u0646\u0648\u0628\u0644&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134817" model="data.tweets">
+        <field type="CharField" name="user_id">fbi_manhattan</field>
+        <field type="CharField" name="username">Horus</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">استقالة مستشار الامن القومى الامريكى جيمس جونز التى تأتى بعد اسبوع من استقالة رام مانويل رئيس هيئة العاملين بالبيت الابيض </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fbi_manhattan/status/356210111913541632</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134818" model="data.tweets">
+        <field type="CharField" name="user_id">hamzawyamr</field>
+        <field type="CharField" name="username">Amr Hamzawy</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text"> الترجمة الحرفية لمشروع &amp;quot;اي كلام في طياز علام&amp;quot; برعاية عمرو حمزاوي ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hamzawyamr/status/356175050774286336</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">196</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134819" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text"> ابراهيم الهضيبي بيسجل موقف بس .. انا مش معاهم ! #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356443410086895616</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">76</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134820" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الملك مينا .. موحد الدولة المصرية ومؤسس الدولة العميقة ! #Egypt #Narmer  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357486773586247682</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#Narmer&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/uKWTFLHQGk&quot;]</field>
+    </object>
+
+    <object pk="134821" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">إلا هو الثورجية يعرفوا أن خالد تليمة إبن النائب السابق محمد تليمة اللي نجح علي قوائم التجمع سنة 2005 وبعدها إنضم للحزب الوطني ؟ #هع #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357138206136872960</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">16</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0647\u0639&quot;, &quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134822" model="data.tweets">
+        <field type="CharField" name="user_id">fadelsoliman</field>
+        <field type="CharField" name="username">Fadel Soliman</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text"> هاهاهاها المخبر اللي بقي اخواني فاضل سليمان .. وأمك إتجوزت يا فاضل ولا لسة ؟ #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadelsoliman/status/236627758497796097</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">159</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134823" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">مجموعة من الأسماء على تويتر غير ثقة،منهم محبين للإخوان سراً ،ومنهم الممول والمراهق سياسيا -غداً تثبت الأيام صحة كلامي  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/357497282159054848</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">249</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/3hd00K13Lk&quot;]</field>
+    </object>
+
+    <object pk="134824" model="data.tweets">
+        <field type="CharField" name="user_id">ablafahita</field>
+        <field type="CharField" name="username">ابله فاهيتا</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ناوليني يا كركوره البورتومونيه الأسمر علشان اطلع زكاه عافيه بودي... </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ablafahita/status/357771203252977664</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">30</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134825" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text"> مقال جيد كالعادة لمأمون فندي .. تحذير مبطن للطبقة الحاكمة من الحرب الداخلية. #Egypt #Internal_War @mamoun1234 </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356724462915297280</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">70</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;, &quot;#Internal_War&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@mamoun1234&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134826" model="data.tweets">
+        <field type="CharField" name="user_id">saadelshater</field>
+        <field type="CharField" name="username">Saad K. El-Shater</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">واحب تعليقا علي البيان اللي من الطيارة استعين بكلام الأستاذ حموكشة للسيسي، آه يا بت يا خايبه .. أعصابك سايبه :)) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/saadelshater/status/356525500421783553</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">26</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134827" model="data.tweets">
+        <field type="CharField" name="user_id">bothainakamel1</field>
+        <field type="CharField" name="username">الإرهابي لا دين له</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الموقعون على البيان خليط ممن قالوا نعم فاستفتاء مارس و فتتوا الاصوات لصالح الجماعه بابو الفتوح ثم عصروا الليمون والآن يتضامنون مع الارهابيين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bothainakamel1/status/356800067132338176</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">101</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134828" model="data.tweets">
+        <field type="CharField" name="user_id">abakly</field>
+        <field type="CharField" name="username">Amr Bakly عمرو بقلي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Hazempasha  خد يا عم .. كرمش خمسة جنية بقي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abakly/status/356949027784372226</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">77</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Hazempasha&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134829" model="data.tweets">
+        <field type="CharField" name="user_id">skynewsarabia_b</field>
+        <field type="CharField" name="username">سكاي نيوز عربية-الآن</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الإخوان المسلمون في الإسكندرية يطالبون بإغلاق القنصلية الأميركية في المدينة وطرد السفيرة من البلاد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/skynewsarabia_b/status/357134858511843330</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">22</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134830" model="data.tweets">
+        <field type="CharField" name="user_id">arasmi1</field>
+        <field type="CharField" name="username">Ahmad rasmi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">looooooooooooool &amp;quot;@adam68mahmoud: @EGVenus @PrinceszSara @ABakly وفى اكتر بجد انا شفتهم هنا فى لندن  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/arasmi1/status/356581342215012352</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@EGVenus&quot;, &quot;@PrinceszSara&quot;, &quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/2JpzROUh1L&amp;quot;&quot;]</field>
+    </object>
+
+    <object pk="134831" model="data.tweets">
+        <field type="CharField" name="user_id">ma_hekal</field>
+        <field type="CharField" name="username">Mahmoud Hekal</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ma_hekal/status/357150855222419456</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134832" model="data.tweets">
+        <field type="CharField" name="user_id">kiroz_</field>
+        <field type="CharField" name="username">Kirolos Nathan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly التخبط اللي في الادارة الأمريكية يلزمة كبش يشيل الليلة .. اعتقد باترسون هتسقع بيبس وتبيعة في اشارات تاكساس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/kiroz_/status/353134621933834240</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134833" model="data.tweets">
+        <field type="CharField" name="user_id">esmat__</field>
+        <field type="CharField" name="username">Ahmed</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@PrinceszSara @ABakly القصد ده  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/esmat__/status/356215125964898304</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">301</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@PrinceszSara&quot;, &quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134834" model="data.tweets">
+        <field type="CharField" name="user_id">baheegashereer</field>
+        <field type="CharField" name="username">بهيج الشرير</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly   أحمد عاهر الحرامي سرق فكرة إعتصام ٦ أبريل من مدونة وائل عباس؛ شوف تعليقات وحوار &amp;quot;أنا المستقبل والأمل&amp;quot;      </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/baheegashereer/status/355873023422758912</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/tmk3sKqZ1q&quot;]</field>
+    </object>
+
+    <object pk="134835" model="data.tweets">
+        <field type="CharField" name="user_id">chemottos</field>
+        <field type="CharField" name="username">Che Mottos</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@mado_1 @M7mod_Blal @amr_imam @AmrKhairi @ABakly @hossambahgat @Bassem_Sabry ممكن تشوفوا دى لو سمحتموا و ريتويت  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/chemottos/status/357656874478338048</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@mado_1&quot;, &quot;@M7mod_Blal&quot;, &quot;@amr_imam&quot;, &quot;@AmrKhairi&quot;, &quot;@ABakly&quot;, &quot;@hossambahgat&quot;, &quot;@Bassem_Sabry&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/QTUmyOEm8p&quot;]</field>
+    </object>
+
+    <object pk="134836" model="data.tweets">
+        <field type="CharField" name="user_id">isaa3ed</field>
+        <field type="CharField" name="username">امنحتب</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly @Kemety شوفو التويت دي فيها صورة عن الكلام الي بتقولوه   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/isaa3ed/status/355903405920776192</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">31</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;, &quot;@Kemety&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/36PEGzIxNR&quot;]</field>
+    </object>
+
+    <object pk="134837" model="data.tweets">
+        <field type="CharField" name="user_id">eng_sahar</field>
+        <field type="CharField" name="username">Sahar Kamel</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/eng_sahar/status/356588371071598592</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">31</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="134838" model="data.tweets">
+        <field type="CharField" name="user_id">eng_sahar</field>
+        <field type="CharField" name="username">Sahar Kamel</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ABakly  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/eng_sahar/status/356588371071598592</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">31</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ABakly&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+</django-objects>

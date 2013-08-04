@@ -1,0 +1,2851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="177658" model="data.tweets">
+        <field type="CharField" name="user_id">alaa</field>
+        <field type="CharField" name="username">Alaa Abd El Fattah</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir الباعة الجائلين بتوع رمسيس القوات الخاصة معرفتش تشيلهم في عملية مشتركة بين الجيش والشرطة في اغسطس 2011 و ردوا بآلي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alaa/status/357051609227862016</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177659" model="data.tweets">
+        <field type="CharField" name="user_id">nermbed</field>
+        <field type="CharField" name="username">Nermeen Bedair</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا اتصدمت بجد “@ZeinabSamir:الصفحة الإنجليزي من خالد سعيد بتقول إنها ضد الانقلاب وبتتكلم كل يوم، والعربي ماتت خالص  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nermbed/status/357086932553052162</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/9QjSMHnUJ1\u201d&quot;]</field>
+    </object>
+
+    <object pk="177660" model="data.tweets">
+        <field type="CharField" name="user_id">sarah_othmann</field>
+        <field type="CharField" name="username">سارة عثمان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عام الرمادة ج ٢ “@ZeinabSamir: احنا هنسمي سنة حكم مرسي إيه؟ اقترح &amp;quot;السنة السودة&amp;quot;” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarah_othmann/status/357227345146413057</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177661" model="data.tweets">
+        <field type="CharField" name="user_id">karshaf</field>
+        <field type="CharField" name="username">Karim Shafei</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir إحنا ما أسقطناش الإخوان ولا حاجة.  هما نطوا من الشباك لوحدهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/karshaf/status/356496954655641600</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177662" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الصفحة الإنجليزي من خالد سعيد بتقول إنها ضد الانقلاب وبتتكلم كل يوم .. والعربي ماتت خالص.. احنا منهارين  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357086001023291393</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">63</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/WKbcYVBjRa&quot;]</field>
+    </object>
+
+    <object pk="177663" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">تجربة و عدت #لول #مرسي @ZeinabSamir  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357229417300373505</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0644\u0648\u0644&quot;, &quot;#\u0645\u0631\u0633\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/6TGzolMunn&quot;]</field>
+    </object>
+
+    <object pk="177664" model="data.tweets">
+        <field type="CharField" name="user_id">sober___</field>
+        <field type="CharField" name="username">∞</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir تجربه وعدت </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sober___/status/357225713214046208</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177665" model="data.tweets">
+        <field type="CharField" name="user_id">samehsameh97</field>
+        <field type="CharField" name="username">smsm</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir للصائم فرحتان  فرحه عند افطاره وفرحه عند لقاء ربه بيه اللهم تقبل يا رب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/samehsameh97/status/357916897758543874</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177666" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">“@iRafla: @ZeinabSamir راحو يصلوا على كوبري أكتوبر .. عشان يبقوا اضربوا و هما بيصلوا” تاااني! كفاية بقر بقى :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356857961244667906</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177667" model="data.tweets">
+        <field type="CharField" name="user_id">m_eltohamy1</field>
+        <field type="CharField" name="username">Mohamed Eltohamy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir الواحد بيفكر يعمل حملة #سكنى_مكانه يعنى نستغل وجود كل الاخوان فى رابعة ونسكن الناس اللى من غير سكن فى بيوتهم ^_^ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/m_eltohamy1/status/358303919027396610</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0633\u0643\u0646\u0649_\u0645\u0643\u0627\u0646\u0647&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177668" model="data.tweets">
+        <field type="CharField" name="user_id">alaa</field>
+        <field type="CharField" name="username">Alaa Abd El Fattah</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir القصة انه دهس متظاهرين فخطفوه على اعتصام النهضة و اتسحل و مات. مفيش اي تأكيد لأي حاجة لسه، بس شكلها بجد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alaa/status/357243721240166400</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177669" model="data.tweets">
+        <field type="CharField" name="user_id">drmerah</field>
+        <field type="CharField" name="username">Mervat Eissa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir مايو ايه؟؟ ولا مايو حتي ..مايو ماستغنتش عن التكييف ..انما انا قاعدة دلوقتي من غير تكييف عادي..واضح ان نحس مرسي مش اسطورة :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/drmerah/status/357977970595467264</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177670" model="data.tweets">
+        <field type="CharField" name="user_id">neversaydiee</field>
+        <field type="CharField" name="username">Rasha</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir سنة التيه ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/neversaydiee/status/357226902315995136</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177671" model="data.tweets">
+        <field type="CharField" name="user_id">hanyissac</field>
+        <field type="CharField" name="username">Hany Issac</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir  السنة الضايعة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hanyissac/status/357226287275847682</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177672" model="data.tweets">
+        <field type="CharField" name="user_id">budzaya</field>
+        <field type="CharField" name="username">Yusra بودزايا Badr</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">وزي ما قالت @ZeinabSamir احنا أكيد بنخس بس مش بنقول على الميزان. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/budzaya/status/357258186375438336</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177673" model="data.tweets">
+        <field type="CharField" name="user_id">ahmedashour10</field>
+        <field type="CharField" name="username">Ahmed Ashour Bazooka</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir اوسكار احسن اداء في رمضان :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmedashour10/status/357587529597337600</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177674" model="data.tweets">
+        <field type="CharField" name="user_id">ahthmedfouad842</field>
+        <field type="CharField" name="username">صائد الاخوان</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir عام النهضه زى عام الفيل كده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahthmedfouad842/status/357226038264213505</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177675" model="data.tweets">
+        <field type="CharField" name="user_id">ramiii</field>
+        <field type="CharField" name="username">Rami Mohsen</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir هو قال أحسن إسم &amp;quot; منحدر الصعود &amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramiii/status/357227607365918721</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177676" model="data.tweets">
+        <field type="CharField" name="user_id">amir_ramses</field>
+        <field type="CharField" name="username">amir ramses</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir على الابراج الصيني اغلبها يقع في سنة الثعبان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amir_ramses/status/357226514175102978</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177677" model="data.tweets">
+        <field type="CharField" name="user_id">lobna_hassan</field>
+        <field type="CharField" name="username">Lobna Hassan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir والصوت كمان بعيد عن صوته قوي فخرجني من الموود </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/lobna_hassan/status/356511257349718017</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177678" model="data.tweets">
+        <field type="CharField" name="user_id">khaleezz</field>
+        <field type="CharField" name="username">khaled ezz</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir انا شايف ان حد من الشرقيه للدخان حيكون متوافق عليه من كل القوي الرياضيه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/khaleezz/status/357179719713689600</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177679" model="data.tweets">
+        <field type="CharField" name="user_id">circlesowner</field>
+        <field type="CharField" name="username">Yousra Ramadan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir و كمان صوت بوجى مختلف عن صوته القديم  (يونس شلبي الله يرحمه) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/circlesowner/status/356511661361856512</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177680" model="data.tweets">
+        <field type="CharField" name="user_id">elanessakaf</field>
+        <field type="CharField" name="username">Kaf</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir مسلسل صيام صيام بيجي على نايل كوميدي الساعة 1:30 صباحاً و6:30 مساءا إنتاج 1981 </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elanessakaf/status/356509999381479424</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177681" model="data.tweets">
+        <field type="CharField" name="user_id">alaa</field>
+        <field type="CharField" name="username">Alaa Abd El Fattah</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir الأخوان في محاولة للتبرير المبكر اكاونتاتهم الرسمية كتبت عقيد جيش يدهس 60 متظاهر، اللي على الأرض وصف دهس 4 منهم واحد مات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alaa/status/357243864676970498</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177682" model="data.tweets">
+        <field type="CharField" name="user_id">youssef_is_one</field>
+        <field type="CharField" name="username">عم عبحميد</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir @shimo_sherif  ربنا ما يحرم حد من عائلة فى رمضا وكل رمضان ... يارب العالمين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/youssef_is_one/status/357868909635969026</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;, &quot;@shimo_sherif&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177683" model="data.tweets">
+        <field type="CharField" name="user_id">me2resh</field>
+        <field type="CharField" name="username">Me2resh</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir ماهو سوبر هيرو سيرسجي.  ودكتور ماشي مع قرده اسمها شفيقه. هيعملوا بيزنيس ايه يعني ! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/me2resh/status/357569867190239233</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177684" model="data.tweets">
+        <field type="CharField" name="user_id">hazemyehia1</field>
+        <field type="CharField" name="username">Hazem yehia</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@elanessakaf @ZeinabSamir وأحلام الفتى الطاير على نايل كوميدى الساعة 9 وفوازير نيللى الخطبة على القناة 5 وقت الفطار </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hazemyehia1/status/356511989381599232</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@elanessakaf&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177685" model="data.tweets">
+        <field type="CharField" name="user_id">tarekeltabey</field>
+        <field type="CharField" name="username">طارق التابعي</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@gr33ndata @ZeinabSamir follow Zeinab latest tweets, the arabic ver. got mute after Sisi statement 3-7, and English one keeps coup ranting. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/tarekeltabey/status/357089210970279936</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@gr33ndata&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177686" model="data.tweets">
+        <field type="CharField" name="user_id">lastoadri</field>
+        <field type="CharField" name="username">Eman AbdElRahman ✿</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@gr33ndata @ZeinabSamir @ZiadM مهما تعلم في المتبلم، يصبح ناسي.. نسيوا السبب في وجود ديكتاتور طلعناه بطلوع الروح! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/lastoadri/status/356805954534260736</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@gr33ndata&quot;, &quot;@ZeinabSamir&quot;, &quot;@ZiadM&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177687" model="data.tweets">
+        <field type="CharField" name="user_id">jadelrab</field>
+        <field type="CharField" name="username">Mohamed Jadelrab</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@khaledgb @ZeinabSamir في سواق تاكسي قال لي القرداتي هيشتغل بدل القرد عشان يجيب الفلوس .. اجابة مقنعة بالنسبة لي :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/jadelrab/status/357845220932599808</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@khaledgb&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177688" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@gr33ndata  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357089144788361216</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@gr33ndata&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177689" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@DLachine  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357556316492939265</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@DLachine&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177690" model="data.tweets">
+        <field type="CharField" name="user_id">waelgamal</field>
+        <field type="CharField" name="username">wael gamal</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir مصر لم يعد يحكمها الاسلاميون وشعبها صاحب قرار </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/waelgamal/status/356790297142894594</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177691" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الأغنية دي مصدر رئيسي للكأبة في العالم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357071700959051776</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/JWWcqbigIR&quot;]</field>
+    </object>
+
+    <object pk="177692" model="data.tweets">
+        <field type="CharField" name="user_id">waelgamal</field>
+        <field type="CharField" name="username">wael gamal</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir لا تحل دساتير ولا قوانين مشكلة مصر ولا غيرها. تحياتي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/waelgamal/status/356790189219266560</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177693" model="data.tweets">
+        <field type="CharField" name="user_id">irafla</field>
+        <field type="CharField" name="username">Raouf</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir راحو يصلوا على كوبري أكتوبر .. عشان يبقوا اضربوا و هما بيصلوا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/irafla/status/356857856928129024</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177694" model="data.tweets">
+        <field type="CharField" name="user_id">mohamedmsayed</field>
+        <field type="CharField" name="username">محمد سيد</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir @ElBa7r هو مش وائل غنيم كان عامل رسالة بالفيديو لـ #مرسي يطالبه بالإستقالة والدعوة لإنتخابات مبكرة، يعني مرسي السبب في اللي حصل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohamedmsayed/status/357147689122660353</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0631\u0633\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;, &quot;@ElBa7r&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177695" model="data.tweets">
+        <field type="CharField" name="user_id">emyy_80</field>
+        <field type="CharField" name="username">eman sayed®</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir وائل غنيم مش هيظهر اﻻبأمر ابو الفتوح </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/emyy_80/status/357089860697325568</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177696" model="data.tweets">
+        <field type="CharField" name="user_id">amera_elsaidi</field>
+        <field type="CharField" name="username">Just Amera</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir في اقاويل ان عبد الرحمن منصور اخد الصفحة الانجليزي وعمال يكتب فيها لصالح الاخوان.انا مش متأكدة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amera_elsaidi/status/357085917439213568</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177697" model="data.tweets">
+        <field type="CharField" name="user_id">loliozy</field>
+        <field type="CharField" name="username">الثورة لازم تحكم</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@alaa @dazzle_pop @ZeinabSamir الاخوان وقفو قدام عربيته حاول يعدي منهم خبط كام واحد فيهم قامو نزلوه من العربية وقتلوه ما اسمهاش سحل متظاهرين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loliozy/status/357249467340165121</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@alaa&quot;, &quot;@dazzle_pop&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177698" model="data.tweets">
+        <field type="CharField" name="user_id">emyy_80</field>
+        <field type="CharField" name="username">eman sayed®</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir وائل غنيم مش هيظهر اﻻبأمر ابو الفتوح </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/emyy_80/status/357089860697325568</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177699" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@radwamedhat80 مني ليكي ده بقى : حبيتك تنسيت النوم - فيروز  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356501013030645760</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">22</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@radwamedhat80&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/68y5Z9EVIp&quot;]</field>
+    </object>
+
+    <object pk="177700" model="data.tweets">
+        <field type="CharField" name="user_id">amera_elsaidi</field>
+        <field type="CharField" name="username">Just Amera</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir في اقاويل ان عبد الرحمن منصور اخد الصفحة الانجليزي وعمال يكتب فيها لصالح الاخوان.انا مش متأكدة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amera_elsaidi/status/357085917439213568</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177701" model="data.tweets">
+        <field type="CharField" name="user_id">loliozy</field>
+        <field type="CharField" name="username">الثورة لازم تحكم</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@alaa @dazzle_pop @ZeinabSamir الاخوان وقفو قدام عربيته حاول يعدي منهم خبط كام واحد فيهم قامو نزلوه من العربية وقتلوه ما اسمهاش سحل متظاهرين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/loliozy/status/357249467340165121</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@alaa&quot;, &quot;@dazzle_pop&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177702" model="data.tweets">
+        <field type="CharField" name="user_id">elmansi</field>
+        <field type="CharField" name="username">elmansi</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@Lastoadri @ZeinabSamir تابعي #ذات علي الليست دي :)  الكواليتي بس ضعيفة شوية بس عادي ده مسلسل يعني :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elmansi/status/357427240188911616</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0630\u0627\u062a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Lastoadri&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/KmVY58bg6s&quot;]</field>
+    </object>
+
+    <object pk="177703" model="data.tweets">
+        <field type="CharField" name="user_id">olaosman</field>
+        <field type="CharField" name="username">رمـضـان كـريـم</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Nermbed @ZeinabSamir  هنا بيقولوا إن الصفحة لا يديرها وائل غنيم! طيب مين؟ عبد الرحمن منصور؟ طيب ما يقول! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/olaosman/status/357087782474227712</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Nermbed&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177704" model="data.tweets">
+        <field type="CharField" name="user_id">khaled_el_masry</field>
+        <field type="CharField" name="username">هو_إنقلاب_بس_مبنقولش</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir اشاعة ايه ؟؟! ، المتحدث العسكري بنفسه على البي بي سي قال &amp;quot;مفيش مانع من ترشحه لو استقال من منصبه ، و هيا دى الديموقراطيه &amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/khaled_el_masry/status/358307103162630144</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177705" model="data.tweets">
+        <field type="CharField" name="user_id">hassangabr</field>
+        <field type="CharField" name="username">ببيع الحقيقة في كيس!</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir لا الصفحة الانجليزي نطقت </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hassangabr/status/357085829107167232</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">233</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177706" model="data.tweets">
+        <field type="CharField" name="user_id">aboumarwan</field>
+        <field type="CharField" name="username">Z Mans</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">9 down, 20 to go. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/aboumarwan/status/357914967510487040</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177707" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#أضف تدعم السفر والتنقل للشباب والأفراد والمؤسسات ومجموعات العمل الشبابية مع توفير تكاليف السفر والإقامة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357843478761705472</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">28</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0623\u0636\u0641&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/kIJSft4LVH&quot;]</field>
+    </object>
+
+    <object pk="177708" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">طوبى للغرباء </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356708843213959168</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177709" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أو نسميها &amp;quot;قدر ولطف&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357225920295219201</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177710" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@samehsameh97 اللهم أمين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357917250335936512</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@samehsameh97&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177711" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">شيكو &lt;3 #الرجل_العناب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356477080499785728</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0631\u062c\u0644_\u0627\u0644\u0639\u0646\u0627\u0628&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177712" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">والشعب كان فين ساعة معاهدة السلام؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357576869643689984</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177713" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@gr33ndata the arabic page is silent since july 3 and the english one covers the mb protesters saying &amp;quot;they are against the military coup&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357089133606354944</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@gr33ndata&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177714" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">طول عمري ما بحبش منى ذكي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357942472699154432</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177715" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@SafaaMahgoub تيسير فهمي طبعا :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357568726461194240</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@SafaaMahgoub&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177716" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">العاشر من رمضان.. كل سنة وانتو طيبين :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358185969150734336</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177717" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بيقولوا جايبين وزير دفاع جديد إسمه سيسي .. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356866994244558848</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177718" model="data.tweets">
+        <field type="CharField" name="user_id">yassmen_hassan</field>
+        <field type="CharField" name="username">yassmen hassan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">انا تقريبا شفت المسيخ الدجال #الرجل_العناب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/yassmen_hassan/status/357561098473447426</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0631\u062c\u0644_\u0627\u0644\u0639\u0646\u0627\u0628&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177719" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هو انتو عاملين مليونية احتفالا بالعاشر من رمضان؟ يا سوسو.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356786630050320386</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177720" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أخدت من الدقي لمدينة نصر في ٢٥ دقيقة!! الله أكبر ولله الحمد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357062652582830080</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177721" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صباح الخير.. هم الإخوان لسه قاطعين الشوارع؟ وعدد الإصابات كام يا ترى؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356939042736185344</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177722" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">رمضان السنة دي في صحبة أحمد موسى.. الله يسامحك يا بابا، أنا هيجيلي تخلف عقلي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357593758688215041</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177723" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">إسلام بحيري عامل برنامج على القاهرة والناس بيطرقع لمغتصبي الأطفال باسم الدين.. برافو </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357180260598562816</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177724" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">إعلان فودافون في رمضان، فاشل وللا زي كل سنة؟ :D #فشل_ذريع #فشل_مريع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356744590163841024</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0641\u0634\u0644_\u0630\u0631\u064a\u0639&quot;, &quot;#\u0641\u0634\u0644_\u0645\u0631\u064a\u0639&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177725" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">كان نفسي قبل ما يخطفوا مرسي يجاوبني على سؤال شغل بالي الفترة الأخيرة، ما هي ملامح المشروع الإسلامي؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357842668123992066</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177726" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">&amp;quot;لازم تروح تعمل عمرة عشان الجو هناك مختلف والاحساس مختلف&amp;quot; - داعية مز جديد على قناة صدى البلد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356814938959904770</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177727" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">سؤال بجد: هم ليه بيقطعوا الطرق بالليل؟ ليه مش الساعة سبعة الصبح أو واحدة الضهر أو أربعة العصر؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356888847088492544</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177728" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">سي بي سي جايبة فيديو متصور من فوق بطيارة.. يعني الجيش سايب الأهالي تتصرف وهو بيصور وبس! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357245770782621697</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177729" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هم هيعملوا إيه يوم عشرة رمضان يا كابتن متحت؟ #البلتاجي #رابعة #مصالحة_ومصارحة #عالجوهم_أولا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357233507984093187</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0628\u0644\u062a\u0627\u062c\u064a&quot;, &quot;#\u0631\u0627\u0628\u0639\u0629&quot;, &quot;#\u0645\u0635\u0627\u0644\u062d\u0629_\u0648\u0645\u0635\u0627\u0631\u062d\u0629&quot;, &quot;#\u0639\u0627\u0644\u062c\u0648\u0647\u0645_\u0623\u0648\u0644\u0627&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177730" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الناس اللي عازمينهم ألنهارده ع الفطار هيسيبونا ويروحوا التحرير .. طب والعصاير والفاكهة والشاي والقهوة والكنافة بالمانجة مين هياكلها؟؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358283908346941440</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177731" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">دا شتمته! قالت له يا متخلف يا مدعي اتفضل اطلع بره  #بسمة #هاني_سلامة #الداعية #مسلسل_ممل_مش_عارفة_بتفرج_عليه_ليه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356806689288241153</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0628\u0633\u0645\u0629&quot;, &quot;#\u0647\u0627\u0646\u064a_\u0633\u0644\u0627\u0645\u0629&quot;, &quot;#\u0627\u0644\u062f\u0627\u0639\u064a\u0629&quot;, &quot;#\u0645\u0633\u0644\u0633\u0644_\u0645\u0645\u0644_\u0645\u0634_\u0639\u0627\u0631\u0641\u0629_\u0628\u062a\u0641\u0631\u062c_\u0639\u0644\u064a\u0647_\u0644\u064a\u0647&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177732" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">“@7oss_o: بعد نقاش طويل عن أهمية عدم تقديس الأشخاص.العائلة أجمعت على ضرورة تعليق صورةللسيسي في الصالة ! ” أنامتوقعة خطوةزي دي قريب في بيتنا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357597789506650112</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177733" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وأصلا أنا بشجع على عدم الخوض في النقاشات والخناقات اللي سبق وحصلت من سنتين. حتى لو ده معناه تكرار المأساة.. ما احنا نستاهل طالما دي دماغنا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356791632865140737</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177734" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أتمنى تشاركونا في المسابقة دي.مسابقة الوصفة ناقصة حتة و السؤال الأول كمان نصف ساعة.اعرفوا شروط المسابقة من هنا  #Egypt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357830300162076672</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#Egypt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/hFsV0YuixO&quot;]</field>
+    </object>
+
+    <object pk="177735" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الزبادي اليوناني المُصنع منزلياً : أصح، وأرخص وألذ!   #ميانتا #زبادي #وصفات #طبخ #السعودية #مصر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357224618668462081</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u064a\u0627\u0646\u062a\u0627&quot;, &quot;#\u0632\u0628\u0627\u062f\u064a&quot;, &quot;#\u0648\u0635\u0641\u0627\u062a&quot;, &quot;#\u0637\u0628\u062e&quot;, &quot;#\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629&quot;, &quot;#\u0645\u0635\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/eElgNXroN0&quot;]</field>
+    </object>
+
+    <object pk="177736" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">حادثة في مترو العباسية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356874596370231296</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177737" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">كوكاكولا للتنمية البشرية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356838757116297216</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177738" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">إعلان بيبسي مش حلو </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356425464241340416</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177739" model="data.tweets">
+        <field type="CharField" name="user_id">ayouti</field>
+        <field type="CharField" name="username">Mohammed Al-Ayouti</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Need an inspirational quote? Here you go: TGIT! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ayouti/status/357762243036844036</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177740" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الإخوان حرفيا بيعضوا في الأرض </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356889758200373249</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177741" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هههههههههههههه الرجل العناب ، العيال دي مسخرة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357564809740423169</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177742" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أحيانا، الصمت أصدق إنباءا من الكلم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356758720862105601</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177743" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هم الإخوان سابوا صلاة التراويح وراحوا رمسيس؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356857488022315008</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177744" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">إحنا أكيد بنخس، بس مابنقولش ع الميزان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356700710970200064</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177745" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">نعم لصرف بدلات إرهاب للإرهابيين التائبين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356871309260623872</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177746" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بيعجبني في أبوبركة - غير بدلته - انفصاله عن الواقع </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357929620412178432</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177747" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">احنا هنسمي سنة حكم مرسي إيه؟ اقترح &amp;quot;السنة السودة&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357225574932037633</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177748" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">سوبرهيرو يشغلوه ديليفري .. ده كده مسلسل مصري صميم :D </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357569461018050562</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177749" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">منصور السيسي هيقول كلمة بمناسبة عشرة رمضان.. كل سنة وإنت طيب يا تمب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357845680909332484</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177750" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">دولة عميقة إيه يا أبوبركة.. وحياة الغزل الصريح بتاع مرسي في الداخلية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357930408060518401</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177751" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لسه شايفة كتابة قديمة على سور بتقول &amp;quot;الإخوان المسلمون يؤيدون قائمة الحرية والعدالة&amp;quot; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357838463246147584</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177752" model="data.tweets">
+        <field type="CharField" name="user_id">omnyamagdy</field>
+        <field type="CharField" name="username">أُمْنيَّة مَجْدِي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عاملين عزومة سمك و جمبري و السفرة ناقصلها اتنين ڤولت و تنور. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/omnyamagdy/status/357910890043019266</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177753" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الأمريكان لما يقولوا &amp;quot;حرب أهلية&amp;quot; وهم بيتكلموا عن مصر نعرف إنهم حمير بالضرورة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357632628511350785</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177754" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وبهذه المناسبة نحب نقول #حكمة_اليوم: المساوة ليست دائما عدلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356804573874233344</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062d\u0643\u0645\u0629_\u0627\u0644\u064a\u0648\u0645&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177755" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أجيب لك كوباية لبن دافي؟  @doaaeladl </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357967987757694976</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@doaaeladl&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177756" model="data.tweets">
+        <field type="CharField" name="user_id">omniaomnyy</field>
+        <field type="CharField" name="username">Omniaaaa</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ويقولك ابشروا في ناس من الجيش معانا. ما تروح سوريا بدين اهلك بدل ما تجيبلنا سوريا هنا. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/omniaomnyy/status/358218230818537472</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177757" model="data.tweets">
+        <field type="CharField" name="user_id">raghdaelsaeed</field>
+        <field type="CharField" name="username">رغدة السعيد</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir توقيت الاشاعة النهاردة كان مهم #الاخوان قوتهم فى اشاعاتهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/raghdaelsaeed/status/358306052674031616</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0627\u062e\u0648\u0627\u0646&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177758" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وعلى قد ما قلبي وجعني لما شفت فؤاد المهندس في الإعلان، على قد ما تضايقت من التنفيذ بتاع الكاركتر، عاملين وشه على رفيع، فبوظ الوهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356509801779445760</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177759" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لكل الامهات المستجدات سوبر ماما بتقولك ازاي تحضري شنطة البيبي CC: @Supermamame  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357228852424081409</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Supermamame&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/cX92Evej20&quot;]</field>
+    </object>
+
+    <object pk="177760" model="data.tweets">
+        <field type="CharField" name="user_id">3brex</field>
+        <field type="CharField" name="username">لا لأخونة الشيطان!</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nawaranegm S.O.S Obama .... يسقط عملاء الأمريكان !  #اقتراحات_يفط_لرابعة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/3brex/status/357593744666660864</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0642\u062a\u0631\u0627\u062d\u0627\u062a_\u064a\u0641\u0637_\u0644\u0631\u0627\u0628\u0639\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nawaranegm&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177761" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يعني بعد 100 سنة هيجي ناس تقول شسخ الإسلام القرضاوي! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356454447221714945</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177762" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هل ترغبين في التعرف على مكونات السحور الصحي و الذي يجعل صيامك أسهل؟ داخلي على هذا الرابط   #السعودية #مصر #سحور #صحة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357224652168372225</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629&quot;, &quot;#\u0645\u0635\u0631&quot;, &quot;#\u0633\u062d\u0648\u0631&quot;, &quot;#\u0635\u062d\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/PC2iRZspPV&quot;]</field>
+    </object>
+
+    <object pk="177763" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">والأغنية دي مصدر رئيسي للإنشكاح - في العالم بردو  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357072224244609024</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">90</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/n3oCtWYBZn&quot;]</field>
+    </object>
+
+    <object pk="177764" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مبادرة #عالجوهم_أولا وبعدين احتووهم. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356804372908359680</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0639\u0627\u0644\u062c\u0648\u0647\u0645_\u0623\u0648\u0644\u0627&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177765" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وما أنا بالمصدق فيك قولا ولكني شقيت بحسن ظني </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357454757125816320</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177766" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أنا عايزة أخلص من الدنيا دي، وأقابل الحقيقة وجها لوجه بقى </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357085511472517121</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177767" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أمريكا هتنهار بأسرع مما نتخيل والنعمة بسبب شوية البقر اللي بيحكموها </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357633015947599873</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177768" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">“@Sheryos: باسم سمرة في ذات هو بدايات كنب ٢٠١١.” أهالينا حاليا :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357577700912795648</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177769" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هو صحيح الاخوان ضربوا وسحلوا ظابط جيش امبارح حتى الموت، وهو كان في عربيته مروح؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357243438661505025</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177770" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">صحيح بكره اغنية فودافون بتاعة الاعلان، بس حابة الصورة والناس الحقيقية ومصر اللي في الشارع مش مصر بتاعة كوكاكولا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357462282525081600</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177771" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الببلاوي بكل مستشارينه ووزراءه والوقت المستغرق لإعلان الحكومة محسسني إنه جاي يقعد أربع سنين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357114686602354691</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177772" model="data.tweets">
+        <field type="CharField" name="user_id">usamashazly</field>
+        <field type="CharField" name="username">Usama Al Shazly</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">في ناس محسساني إنها بتعرف تاريخ مصر للمرة الأولى وهي بتتفرج على&amp;quot;ذات&amp;quot;،غالبا هما هما اللي بيتفرجوا 2012 على الفاروق ومش عارفين حيحصل إيه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/usamashazly/status/358086468511596545</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177773" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">أنا بقول نستهدى بالله كده ونفطر ونصلي التراويح ونرجع نتخانق براحتنا #اقصوهم #الدستور_أولا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356807562584276992</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0642\u0635\u0648\u0647\u0645&quot;, &quot;#\u0627\u0644\u062f\u0633\u062a\u0648\u0631_\u0623\u0648\u0644\u0627&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177774" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لا لإطلاق مصطلح الإرهابيين على الإرهابيين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356871051696807936</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177775" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الخلاصة، رمضان هو لمة العيلة.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357868375566860288</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177776" model="data.tweets">
+        <field type="CharField" name="user_id">rdlrudy_id</field>
+        <field type="CharField" name="username">Rudy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">فيروز - بحبك ما بعرف  @ZeinabSamir  on #SoundCloud </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rdlrudy_id/status/356500981409783809</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;#SoundCloud&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/2x4gDw7A63&quot;]</field>
+    </object>
+
+    <object pk="177777" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هم ليه بيمسكوا المسيحيين وزارة البيئة؟ وكأن ثورة لم تقم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357177862610100224</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177778" model="data.tweets">
+        <field type="CharField" name="user_id">alaajalal</field>
+        <field type="CharField" name="username">Alaa Jalal</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir متحاوليش عندهم حالة من النسيان الرهيب </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/alaajalal/status/358308328637612032</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177779" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هدوء يسبق عاصفة #حزن #اكتئاب #قلق </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357483793327722496</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062d\u0632\u0646&quot;, &quot;#\u0627\u0643\u062a\u0626\u0627\u0628&quot;, &quot;#\u0642\u0644\u0642&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177780" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اقتحموا مستشفى الأمراض العقلية بجد؟ طب والناس دي ذنبها إيه؟ وإيه علاقتهم باللي بيحصل؟! #الإخوان_في_نعيم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358309998973042688</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0625\u062e\u0648\u0627\u0646_\u0641\u064a_\u0646\u0639\u064a\u0645&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177781" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الحمد لله الناس ابتدت تدرك أزمة التكسب من الدين. ماينفعش حد يكون أكل عيشه إنه ينصحك ويفتيك في الدين #prt </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358207749609365505</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;#prt&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177782" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">من يوم ما كبرنا ورمضان بيجي بالنوستالجيا بتاعته ونقعد ندور بين القنوات على الحاجات القديمة، إنما النوستالجيا اللي بتسوقها بيبسي دي مشمومة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356509290762223616</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177783" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هل طفلك يتحدث بصيغة المؤنث و ترغبين في تغيير هذه العادة؟ اليكي الطريقة في هذا الرابط  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357489458285129729</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/9WVeZP7ZJi&quot;]</field>
+    </object>
+
+    <object pk="177784" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">والنبي خيالكم ما يسرحش بيكم لدرجة إنكو تقولوا الإخوان مجندين أوباما ومخترقين البيت الأبيض والسي أي إيه.. دول هبل، واحنا جبناهم الأرض في سنة! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356501962088386560</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177785" model="data.tweets">
+        <field type="CharField" name="user_id">_watan</field>
+        <field type="CharField" name="username">Najla&#39;</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">غدا يوم اضراب وغضب ضد مخطط برافر  #برافر_لن_يمر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/_watan/status/356482077002178560</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0628\u0631\u0627\u0641\u0631_\u0644\u0646_\u064a\u0645\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177786" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">“@ASoliman8: سكاي نيوز : أهالي رمسيس يمهلون الإخوان أقل من ساعة لفض اعتصامهم برمسيس . D:” this is fun </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356870965763907584</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177787" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مش احنا &amp;quot;منتصرين&amp;quot;؟ ننزل ليه تاني؟ إحنا كده نبقى بنقلد الإخوان وهم بيحشدوا لمظاهرات تأييد #justsaying </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357595718141222912</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#justsaying&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177788" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">سبحان الله الجو السنة دي يوليو بنكهة مايو .. ربنا كريم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357977453890772994</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177789" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هو أردوجان مش ناوي يحط لسانه في بقه وينقطنا بسكاته شوية بقى! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358334318109667328</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177790" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بطلوا أفورة.. الجيش متعود يرمي كوبونات ع الشعب ويديله هدايا.. مظهر احتفالي مش أكتر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358329365488074752</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177791" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الدستور أولا أصلا #خلصونا_بقى #عيب_كده #هنعيده_تاني #مابنتعلمش </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356788987819601920</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062e\u0644\u0635\u0648\u0646\u0627_\u0628\u0642\u0649&quot;, &quot;#\u0639\u064a\u0628_\u0643\u062f\u0647&quot;, &quot;#\u0647\u0646\u0639\u064a\u062f\u0647_\u062a\u0627\u0646\u064a&quot;, &quot;#\u0645\u0627\u0628\u0646\u062a\u0639\u0644\u0645\u0634&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177792" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#غرّد_بالخير للتبرع للمعهدالقومي للأورام من خلال حساب 777في كل فروع البنك الأهلي ومكاتب البريد، أومن خلال الإنترنت    </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358033160925614080</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">208</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u063a\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/U1AqVF6jVP&quot;]</field>
+    </object>
+
+    <object pk="177793" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">“@elmansi: برنامجي الجديد &amp;quot;موعد مع الشيف المُخيف&amp;quot; ... الحلقة الأولي &amp;quot;موقعة الهامبورجر&amp;quot; :)  smart! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356396982811639808</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/5Scv3g777q\u201d&quot;]</field>
+    </object>
+
+    <object pk="177794" model="data.tweets">
+        <field type="CharField" name="user_id">mohanedmokhtar</field>
+        <field type="CharField" name="username">برافر لن يمر</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">سيتم هدم 40 قرية فلسطينية بسبب قانون برافر #برافر_لن_يمر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohanedmokhtar/status/356482105338888192</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0628\u0631\u0627\u0641\u0631_\u0644\u0646_\u064a\u0645\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177795" model="data.tweets">
+        <field type="CharField" name="user_id">dr_ismailomar</field>
+        <field type="CharField" name="username">Ismail Omar</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@kazakhelo @ZeinabSamir مرسي من علامات الساعة أصلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dr_ismailomar/status/356456380942655488</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@kazakhelo&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177796" model="data.tweets">
+        <field type="CharField" name="user_id">neversaydiee</field>
+        <field type="CharField" name="username">Rasha</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تويتة في حب ريحة القهوة 3&gt; </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/neversaydiee/status/357193653271277568</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177797" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">إحنا أسقطنا الإخوان.. في وسط الزحمة، إنتو واخدين بالكو من المعلومة دي؟ :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356495153961254912</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177798" model="data.tweets">
+        <field type="CharField" name="user_id">mumagdi</field>
+        <field type="CharField" name="username">موتوا بغيظكم</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">حد يعرف اذا كان فيه صلاه ضرب علي الكوبري النهارده ولا لا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mumagdi/status/357226131360985090</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177799" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">قال يا فرعون إيه فرعنك، قال المصريين لما بيحبوه حد بيفرعنوه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356496061650583553</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177800" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الإخوان عايزين مرسي يرجع رئيس، وأصلا محدش فيهم قدم بلاغ إنه مخطوف. طب هم مش قلقانين هو فين؟ عايش وللا ميت؟ جعان وللا شبعان؟ بردان وللا حران؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358205087199809536</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">7</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177801" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مين اللي كانوا عاملين حملة &amp;quot;شغلني مكانه&amp;quot; ردا على دعوتنا للعصيان المدني  أيام المجلس العسكري؟ أمي؟؟؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358303087275937792</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177802" model="data.tweets">
+        <field type="CharField" name="user_id">lareinedegypte</field>
+        <field type="CharField" name="username">Mandoura Naguib</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir @Lastoadri شاهد على النت. كل المسلسلات!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/lareinedegypte/status/357435929981485057</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;, &quot;@Lastoadri&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177803" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">الشرعية فين؟  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356722909437370368</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">20</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177804" model="data.tweets">
+        <field type="CharField" name="user_id">abdelrhmanafify</field>
+        <field type="CharField" name="username">abdelrhman afify</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الوزارات الخدميه كلها فلول شرطه. الوزارات السياديه فلول عسكريين. الوزارات الاجتماعيه لجبهة الإنقاذ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abdelrhmanafify/status/357180500185587712</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177805" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ألحق أفطر عشان ألحق أشرب شاي عشان ألحق أشرب قهوة عشان ألحق اتسحر #هو_في_إيه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357234547148062720</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0647\u0648_\u0641\u064a_\u0625\u064a\u0647&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177806" model="data.tweets">
+        <field type="CharField" name="user_id">manalahmed137</field>
+        <field type="CharField" name="username">Manal</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir بالضبط. صعبان عليا إن البعض فاكر إن لسه في إيده قرار </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/manalahmed137/status/356819363573153793</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177807" model="data.tweets">
+        <field type="CharField" name="user_id">radwamedhat80</field>
+        <field type="CharField" name="username">Radwa Medhat</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">فيروز - راجعين يا هوى Classics  @ZeinabSamir  on #SoundCloud </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/radwamedhat80/status/356501854147985408</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">8</field>
+        <field type="TextField" name="hash_tags">[&quot;#SoundCloud&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/inReld9D1t&quot;]</field>
+    </object>
+
+    <object pk="177808" model="data.tweets">
+        <field type="CharField" name="user_id">whiterosa77</field>
+        <field type="CharField" name="username">أمل حياتي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Nermbed @ZeinabSamir طيب يغيروا الاسم ويسموها كلنا محمد مرسي بقي ههههههه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/whiterosa77/status/357087366147616768</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Nermbed&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177809" model="data.tweets">
+        <field type="CharField" name="user_id">cairotoday</field>
+        <field type="CharField" name="username">Cairo Live 24/7</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الأن | اصابة عشرات الركاب بجروح سطحية بسبب اصطدام أحد قطارات مترو القاهرة بالخط الثالث فى محطة العتبة بالصدادات الحديدية بآخر الرصيف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/cairotoday/status/356874654784307202</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177810" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">كوبري اكتوبر قافل ليه .. الإخوان بيصلوا عليه #اشك_اشك </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356861043223433217</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0634\u0643_\u0627\u0634\u0643&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177811" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ربنا مسلط عليهم غباءهم. في رمسيس مش بيواجهوا جيش ولا شرطة ولا أهالي.. إنما الباعة الجائلين.اللي هم 80% من البشر في رمسيس وهناك رزقهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357050891129458693</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177812" model="data.tweets">
+        <field type="CharField" name="user_id">nawaranegm</field>
+        <field type="CharField" name="username">اسمي اقصاء شيطنة</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">love and peace = موتوا بغيظكم #اقتراحات_يفط_لرابعة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nawaranegm/status/357592816278446080</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0642\u062a\u0631\u0627\u062d\u0627\u062a_\u064a\u0641\u0637_\u0644\u0631\u0627\u0628\u0639\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177813" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">يقال إن أهالي رابعة حاولوا يقنعوا معتصمي رابعة بالخروج في وسطهم لحمايتهم زي عادل إمام في الإرهاب والكباب.. أفضالك كترت أوي يا وحيد يا حامد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357104129933455362</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177814" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مستشفى د.مجدى يعقوب حلم يستحق الدعم  #غرّد_بالخير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358294597141004288</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">25</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u063a\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/Gif7KUtQ69&quot;]</field>
+    </object>
+
+    <object pk="177815" model="data.tweets">
+        <field type="CharField" name="user_id">sondosshabayek</field>
+        <field type="CharField" name="username">sondos shabayek</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">Looking for freelance webdesigners to create website for small company! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sondosshabayek/status/358297803354677248</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177816" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لسه صفحة كلنا خالد سعيد مانطقتش من يوم ٣ يوليو #ضربة_قفا_كبيرة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357084657268957185</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0636\u0631\u0628\u0629_\u0642\u0641\u0627_\u0643\u0628\u064a\u0631\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177817" model="data.tweets">
+        <field type="CharField" name="user_id">neversaydiee</field>
+        <field type="CharField" name="username">Rasha</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بمناسبة نتيجة الثانوية العامة احب اقول لاخوانا الطلبة العريان و ياسر برهامي دكاترة و مرسي و الشطار مهندسين  اظن الرسالة وصلت!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/neversaydiee/status/357114827996545024</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177818" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">“@Rezo007: إيناس عبد الدايم: وزيرة للثقافة.” وتستمر الأسطور: المصري كياد بطبعه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356394312688345088</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">26</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177819" model="data.tweets">
+        <field type="CharField" name="user_id">dialak11</field>
+        <field type="CharField" name="username">Diala K. Lashin</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@ZeinabSamir: أمريكا هتنهار بأسرع مما نتخيل والنعمة بسبب شوية البقر اللي بيحكموها&amp;quot; الفتي على الطريقة المصرية :-) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/dialak11/status/357645128938172416</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177820" model="data.tweets">
+        <field type="CharField" name="user_id">nermbed</field>
+        <field type="CharField" name="username">Nermeen Bedair</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تويتة ف حب اول كباية قهوة بعد الفطار </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nermbed/status/357915030584438784</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">17</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177821" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">على فكرة الرسول مات والصحابة اختلفوا  والخلافة بقت ملك على إيد معاوية واتقسمنا ميت ملة والكعبة اتهدمت كذا مرة، والإسلام مانتهاش.. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358318997533491201</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">15</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177822" model="data.tweets">
+        <field type="CharField" name="user_id">bu3aly</field>
+        <field type="CharField" name="username">Mahmoud</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">#مصرالخير بيطلعوا كل يوم 20 ام غارمه ووصلوا لـ 14,200 مكملين بتبرعاتكم ع حساب 100100 فالبنوك المصريه او بارسال رساله لـ9597 #غرّد_بالخير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bu3aly/status/358291824634380289</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">26</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0635\u0631\u0627\u0644\u062e\u064a\u0631&quot;, &quot;#\u063a\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177823" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">طاهر أبو زيد إزاي يعي؟ والزمالكاوية هيسكتوا!! احنا عايزين حد محايد.. من الترسانة مثلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357179274668670977</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">22</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177824" model="data.tweets">
+        <field type="CharField" name="user_id">ramyymoustafa</field>
+        <field type="CharField" name="username">كله بالقانون</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@neversaydiee @ZeinabSamir وخريجين حقوق هما اللي ماسكين الرئاسة ورئاسة الوزراء ونائب الرئيس وغيرهم :) فحقوق حلوة مفيش كلام </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ramyymoustafa/status/357115853956841472</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@neversaydiee&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177825" model="data.tweets">
+        <field type="CharField" name="user_id">aymanessam27</field>
+        <field type="CharField" name="username">ﻻ مصالحة مع إرهابيين</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">خطة اﻹخوان:الصبح مسيرات خايبة. بعدالفطار مشاكل. بالليل يطحنوا. الفجر يجروا. تانى يوم صويت وعويل على منصة رابعة!!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/aymanessam27/status/358313216553656320</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177826" model="data.tweets">
+        <field type="CharField" name="user_id">pres_mubarak</field>
+        <field type="CharField" name="username">أبـــــو عـــــلاء</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">احب اقول لكل شاب في ثانوية عامة جاب مجموع زي الزفت ... ولا يهمك يا حبيبي لو أهلك معاهم فلوس قدم شرطة أو حربية و طلع مايتين ام البشر براحتك </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/pres_mubarak/status/357178233977978880</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">19</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177827" model="data.tweets">
+        <field type="CharField" name="user_id">basemfathy</field>
+        <field type="CharField" name="username">Basem Fathy</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">طب أقولك حاجة تفوقك، لوكان السيسي الله يكرمه مستجابش للناس كان زماننا مرميين ف التحرير ف الصيام والحر وطلعت بيلفقلنا قضايا ومرسي يدعو للحوار </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/basemfathy/status/358057508348231680</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">165</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177828" model="data.tweets">
+        <field type="CharField" name="user_id">radwamedhat80</field>
+        <field type="CharField" name="username">Radwa Medhat</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">بكره انت و جاي  شحتفه بقي :-) @ZeinabSamir  on #SoundCloud </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/radwamedhat80/status/356499127539998720</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">14</field>
+        <field type="TextField" name="hash_tags">[&quot;#SoundCloud&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/J3z0uw67K2&quot;]</field>
+    </object>
+
+    <object pk="177829" model="data.tweets">
+        <field type="CharField" name="user_id">baher</field>
+        <field type="CharField" name="username">عيش حرية علمانية ☭</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ومن مساخر القدر ان الاخوان بيتضربوا بالغاز اللي اشتروه بالاطنان علشان يضربونا بيه </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/baher/status/356859936564723713</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177830" model="data.tweets">
+        <field type="CharField" name="user_id">mohammedrizq</field>
+        <field type="CharField" name="username">RIZQ</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">إزاي اصدق أي داعية إسلامي او احترمه وهوا بيقبض كل حلقة وبقي يستني موسم رمضان عشان المشاهدات والإعلانات تزيد وفلوسه تزيد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohammedrizq/status/358205366963675136</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">23</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177831" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">فرح #صائم محتاج طول شهر رمضان ب75 جنيه مع #بنك #الطعام_المصري  Via @EgyFoodBank #غرّد_بالخير </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358294618464870400</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">42</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0635\u0627\u0626\u0645&quot;, &quot;#\u0628\u0646\u0643&quot;, &quot;#\u0627\u0644\u0637\u0639\u0627\u0645_\u0627\u0644\u0645\u0635\u0631\u064a&quot;, &quot;#\u063a\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@EgyFoodBank&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/83kmQ1lbtt&quot;]</field>
+    </object>
+
+    <object pk="177832" model="data.tweets">
+        <field type="CharField" name="user_id">serengawy</field>
+        <field type="CharField" name="username">-Ghost in the post.</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الأول عالجمهورية عايز يدخل طب ويتخصص جراحة *دنتا هتشوف أيام سودة على دماغك ودماغ إللى خلفوك*...ألف ألف مبروك يا حبيبى. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/serengawy/status/357180975567998978</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177833" model="data.tweets">
+        <field type="CharField" name="user_id">islamistswatch</field>
+        <field type="CharField" name="username">Islamists Watchdog</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">قالك احتلال ميدان رمسيس هو أهم فعل ثوري، إنه أكبر ميادين الشرق الأوسط، وسيصيب البلاد كلها بالشلل، وهما مش عارفين يخرجوا من الجامع دلوقتي!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/islamistswatch/status/357039139243294720</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">79</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177834" model="data.tweets">
+        <field type="CharField" name="user_id">osama_saber</field>
+        <field type="CharField" name="username">دماغوس ®</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">#البلتاجي : الإخوان لن تفاوض الجيش إلا بعد عودة مرسي والشورى والدستور والبقرة اللي علي علبة لبنيتا #منقول :))) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/osama_saber/status/357759806532100096</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">33</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0628\u0644\u062a\u0627\u062c\u064a&quot;, &quot;#\u0645\u0646\u0642\u0648\u0644&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177835" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بايخة أوي إشاعة ترشح السيسي لرئاسة الجمهورية.. خصوصا وكلنا عا فين بما لا يدع مجال للشك إن وزير الدفاع في مصر طلع أكبر من رئيس الجمهورية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358305870062813184</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">34</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177836" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عدل..مش بزرميط عن بيان السياسيين المطالب بعدم اقصاء الاسلاميين سياسيا  via @feedly </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356800801156509696</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">54</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@feedly&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/U2lexlvn2B&quot;]</field>
+    </object>
+
+    <object pk="177837" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ريلاكس.. ثوار كتبوا البيان وثوار قروه ومش عاجبهم.. ده مالوش علاقة بالمراكب السايرة خالص .. الشعب والسيسي إيد واحدة  #احنا_بره_اللعبة_أصلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356811333313888258</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">39</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u062d\u0646\u0627_\u0628\u0631\u0647_\u0627\u0644\u0644\u0639\u0628\u0629_\u0623\u0635\u0644\u0627&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177838" model="data.tweets">
+        <field type="CharField" name="user_id">serengawy</field>
+        <field type="CharField" name="username">-Ghost in the post.</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الأول عالجمهورية عايز يدخل طب ويتخصص جراحة *دنتا هتشوف أيام سودة على دماغك ودماغ إللى خلفوك*...ألف ألف مبروك يا حبيبى. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/serengawy/status/357180975567998978</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177839" model="data.tweets">
+        <field type="CharField" name="user_id">islamistswatch</field>
+        <field type="CharField" name="username">Islamists Watchdog</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">قالك احتلال ميدان رمسيس هو أهم فعل ثوري، إنه أكبر ميادين الشرق الأوسط، وسيصيب البلاد كلها بالشلل، وهما مش عارفين يخرجوا من الجامع دلوقتي!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/islamistswatch/status/357039139243294720</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">79</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177840" model="data.tweets">
+        <field type="CharField" name="user_id">osama_saber</field>
+        <field type="CharField" name="username">دماغوس ®</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">#البلتاجي : الإخوان لن تفاوض الجيش إلا بعد عودة مرسي والشورى والدستور والبقرة اللي علي علبة لبنيتا #منقول :))) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/osama_saber/status/357759806532100096</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">33</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0628\u0644\u062a\u0627\u062c\u064a&quot;, &quot;#\u0645\u0646\u0642\u0648\u0644&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177841" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بايخة أوي إشاعة ترشح السيسي لرئاسة الجمهورية.. خصوصا وكلنا عا فين بما لا يدع مجال للشك إن وزير الدفاع في مصر طلع أكبر من رئيس الجمهورية </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/358305870062813184</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">34</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177842" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">عدل..مش بزرميط عن بيان السياسيين المطالب بعدم اقصاء الاسلاميين سياسيا  via @feedly </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356800801156509696</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">54</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@feedly&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/U2lexlvn2B&quot;]</field>
+    </object>
+
+    <object pk="177843" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ريلاكس.. ثوار كتبوا البيان وثوار قروه ومش عاجبهم.. ده مالوش علاقة بالمراكب السايرة خالص .. الشعب والسيسي إيد واحدة  #احنا_بره_اللعبة_أصلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/356811333313888258</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">39</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u062d\u0646\u0627_\u0628\u0631\u0647_\u0627\u0644\u0644\u0639\u0628\u0629_\u0623\u0635\u0644\u0627&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177844" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#الاخوان المصابين في #رمسيس .. بيتعالجوا في المستشفي #القبطي !! مطلوب ناس بتتكلم مسيحى عشان تترجم كلامهم فى المستشفى  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357048927809314817</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">70</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0627\u062e\u0648\u0627\u0646&quot;, &quot;#\u0631\u0645\u0633\u064a\u0633&quot;, &quot;#\u0627\u0644\u0642\u0628\u0637\u064a&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/rn3CVMYfrr&quot;]</field>
+    </object>
+
+    <object pk="177845" model="data.tweets">
+        <field type="CharField" name="user_id">zeinabsamir</field>
+        <field type="CharField" name="username">Zeinab Samir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@faissl هي دي؟  أمال حمزاوي محسسني إنه اتضرب واتشتم وكنت هعيط عليه ليه؟ ما منتصر بيقول كلامنا أهو </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zeinabsamir/status/357975428415234050</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">80</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@faissl&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177846" model="data.tweets">
+        <field type="CharField" name="user_id">hobziii</field>
+        <field type="CharField" name="username">Heba Salah</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">راجل كبير عند القصر العيني واحد وزع عليه منشورات مرسي رئيسي قال له:يارب تطمنوا عليه يابني اعلنوا عنه في نداء المفقودين بتاع القناة التالتة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hobziii/status/357502956305793024</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">106</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177847" model="data.tweets">
+        <field type="CharField" name="user_id">mo7amed_3ssam</field>
+        <field type="CharField" name="username">‏عصام رع</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">ﻣﺤﺪﺵ ﻳﺰﺍﻳﺪ ﻋﻠﻰ ﻛﻠﻴﺔ ﺗﺠﺎﺭﺓ ..ﺇﺣﻨﺎ ﺷﺎﻳﻠﻴﻦ ﺍﻟﺒﻠﺪ ﻣﻦ ﺳﻮﺍﻗﻴﻦ ﺗﻜﺎﺗﻚ ﻟﻤﺒﺮﻣﺠﻴﻦ ﻟﺘﺠﺎﺭ ﺳﻼﺡ .ﺩﻩ ﺃﻧﺎ ﻓﻴﻪ ﻭﺍﺣﺪ ﺩﻓﻌﺘﻰ ﺑﻴﺸﺘﻐﻞ ﺩﻛﺘﻮﺭ ﻣﻊ ﺃﺑﻮﻩ ﻓﻰ ﺍﻟﻌﻴﺎﺩﺓ !!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mo7amed_3ssam/status/357708033406672897</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">85</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177848" model="data.tweets">
+        <field type="CharField" name="user_id">3amrkhaled</field>
+        <field type="CharField" name="username">Amr Khaled</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MuMagdi @ZeinabSamir اسمها صلاة قطع الطريق ... أربع ركعات وإلقبلة تجاه الأمن المركزي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/3amrkhaled/status/357227701133770753</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MuMagdi&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177849" model="data.tweets">
+        <field type="CharField" name="user_id">el_shazli</field>
+        <field type="CharField" name="username">Medhat</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir  ممكن ده يفسر حاجة؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/el_shazli/status/358244824988012544</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177850" model="data.tweets">
+        <field type="CharField" name="user_id">daliaalshorbagy</field>
+        <field type="CharField" name="username">Dalia Elshorbagy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir @alaa   البواب بتاعنا هو اللي أتعرف عليه و بياكد الإصابات </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/daliaalshorbagy/status/357248285867655168</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;, &quot;@alaa&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177851" model="data.tweets">
+        <field type="CharField" name="user_id">radwamedhat80</field>
+        <field type="CharField" name="username">Radwa Medhat</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">تلات سلامات - محمد قنديل @ZeinabSamir  on #SoundCloud </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/radwamedhat80/status/356504519154212865</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;#SoundCloud&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/GvnfKh6ITO&quot;]</field>
+    </object>
+
+    <object pk="177852" model="data.tweets">
+        <field type="CharField" name="user_id">modawenon</field>
+        <field type="CharField" name="username">مدونون بلا قيود</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">عندك؟: الأخلاق تسبق الدين. مش معنى إن عندك دين إن عندك أخلاق، والعكس صحيح.  صحيح الدين يحض على...  @ZeinabSamir </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/modawenon/status/356866589364203521</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/9mcS1bsZNy&quot;]</field>
+    </object>
+
+    <object pk="177853" model="data.tweets">
+        <field type="CharField" name="user_id">fadynabil2</field>
+        <field type="CharField" name="username">لن تموتي يابلدي</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir مجزرة الاخوان على اكتوبر... ! بيحطوا الناس في شوال ويرموهم ع الكوبري علشان الناس تدوسهم!!! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/fadynabil2/status/357559019432452096</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">258</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177854" model="data.tweets">
+        <field type="CharField" name="user_id">haithamtabei</field>
+        <field type="CharField" name="username">Haitham Tabei</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir @moftasa هم دخلوا الجنينة @Haithamtabei  صورهم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/haithamtabei/status/358256853811097600</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">37</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;, &quot;@moftasa&quot;, &quot;@Haithamtabei&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/Ge3MzhbhmV&quot;]</field>
+    </object>
+
+    <object pk="177855" model="data.tweets">
+        <field type="CharField" name="user_id">umarihab</field>
+        <field type="CharField" name="username">Omar elNaggar</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Nermbed @ZeinabSamir  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/umarihab/status/357088078675976194</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Nermbed&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177856" model="data.tweets">
+        <field type="CharField" name="user_id">7rd3lek</field>
+        <field type="CharField" name="username">7rd.3lek</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir اخطر ارهابي فيهم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/7rd3lek/status/358301232630210561</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177857" model="data.tweets">
+        <field type="CharField" name="user_id">sarammohamed</field>
+        <field type="CharField" name="username">Sarah Mahmoud</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir بيقولوا مختلف عن كل المجلس العسكري  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarammohamed/status/356867834615300096</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/UWDOgUQ0N4&quot;]</field>
+    </object>
+
+    <object pk="177858" model="data.tweets">
+        <field type="CharField" name="user_id">umarihab</field>
+        <field type="CharField" name="username">Omar elNaggar</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Nermbed @ZeinabSamir  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/umarihab/status/357088078675976194</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Nermbed&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177859" model="data.tweets">
+        <field type="CharField" name="user_id">7rd3lek</field>
+        <field type="CharField" name="username">7rd.3lek</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir اخطر ارهابي فيهم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/7rd3lek/status/358301232630210561</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177860" model="data.tweets">
+        <field type="CharField" name="user_id">sarammohamed</field>
+        <field type="CharField" name="username">Sarah Mahmoud</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir بيقولوا مختلف عن كل المجلس العسكري  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarammohamed/status/356867834615300096</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/UWDOgUQ0N4&quot;]</field>
+    </object>
+
+    <object pk="177861" model="data.tweets">
+        <field type="CharField" name="user_id">zozo_16</field>
+        <field type="CharField" name="username">مافيش حريه بالساهل:(</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@alaa @ZeinabSamir  استشهاد  الشيخ مصطفي حامد من المحلة  تم قتله ب 3 رصاصات حيه من #الداخلية في #رمسيس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zozo_16/status/357245373179379712</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629&quot;, &quot;#\u0631\u0645\u0633\u064a\u0633&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@alaa&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177862" model="data.tweets">
+        <field type="CharField" name="user_id">radwamedhat80</field>
+        <field type="CharField" name="username">Radwa Medhat</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">فيروز - تعا ولا تجي  من الأغاني المفضلة ليا @ZeinabSamir  on #SoundCloud </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/radwamedhat80/status/356501325577588737</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#SoundCloud&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/B6IuQ6re3x&quot;]</field>
+    </object>
+
+    <object pk="177863" model="data.tweets">
+        <field type="CharField" name="user_id">y_muhammad1984</field>
+        <field type="CharField" name="username">يَحْيَى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/y_muhammad1984/status/357501260599005184</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">1953</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177864" model="data.tweets">
+        <field type="CharField" name="user_id">seldeeb</field>
+        <field type="CharField" name="username">Sarah El Deeb</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir المرادي اختيار صح اعتقد  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/seldeeb/status/357169596953931776</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/cVcnrBgaDY&quot;]</field>
+    </object>
+
+    <object pk="177865" model="data.tweets">
+        <field type="CharField" name="user_id">abobaasel</field>
+        <field type="CharField" name="username">haytham</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir المنشور الجديد... </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abobaasel/status/358331737618653185</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">22</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177866" model="data.tweets">
+        <field type="CharField" name="user_id">samehsameh97</field>
+        <field type="CharField" name="username">smsm</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir تابعي سكاي نيوز </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/samehsameh97/status/358300176252809216</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2017</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177867" model="data.tweets">
+        <field type="CharField" name="user_id">7rd3lek</field>
+        <field type="CharField" name="username">7rd.3lek</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir اخطر ارهابي فيهم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/7rd3lek/status/358301232630210561</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177868" model="data.tweets">
+        <field type="CharField" name="user_id">sarammohamed</field>
+        <field type="CharField" name="username">Sarah Mahmoud</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir بيقولوا مختلف عن كل المجلس العسكري  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarammohamed/status/356867834615300096</field>
+        <field type="DateField" name="posting_date">2013-07-14</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/UWDOgUQ0N4&quot;]</field>
+    </object>
+
+    <object pk="177869" model="data.tweets">
+        <field type="CharField" name="user_id">zozo_16</field>
+        <field type="CharField" name="username">مافيش حريه بالساهل:(</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@alaa @ZeinabSamir  استشهاد  الشيخ مصطفي حامد من المحلة  تم قتله ب 3 رصاصات حيه من #الداخلية في #رمسيس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/zozo_16/status/357245373179379712</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629&quot;, &quot;#\u0631\u0645\u0633\u064a\u0633&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@alaa&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177870" model="data.tweets">
+        <field type="CharField" name="user_id">daliaalshorbagy</field>
+        <field type="CharField" name="username">Dalia Elshorbagy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@alaa @zeinabsamir  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/daliaalshorbagy/status/357246302901370880</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@alaa&quot;, &quot;@zeinabsamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177871" model="data.tweets">
+        <field type="CharField" name="user_id">radwamedhat80</field>
+        <field type="CharField" name="username">Radwa Medhat</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">فيروز - تعا ولا تجي  من الأغاني المفضلة ليا @ZeinabSamir  on #SoundCloud </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/radwamedhat80/status/356501325577588737</field>
+        <field type="DateField" name="posting_date">2013-07-13</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#SoundCloud&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/B6IuQ6re3x&quot;]</field>
+    </object>
+
+    <object pk="177872" model="data.tweets">
+        <field type="CharField" name="user_id">y_muhammad1984</field>
+        <field type="CharField" name="username">يَحْيَى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/y_muhammad1984/status/357501260599005184</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">1953</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177873" model="data.tweets">
+        <field type="CharField" name="user_id">seldeeb</field>
+        <field type="CharField" name="username">Sarah El Deeb</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir المرادي اختيار صح اعتقد  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/seldeeb/status/357169596953931776</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">18</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/cVcnrBgaDY&quot;]</field>
+    </object>
+
+    <object pk="177874" model="data.tweets">
+        <field type="CharField" name="user_id">abobaasel</field>
+        <field type="CharField" name="username">haytham</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir المنشور الجديد... </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/abobaasel/status/358331737618653185</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">22</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177875" model="data.tweets">
+        <field type="CharField" name="user_id">yassergalal30</field>
+        <field type="CharField" name="username">yasser galal</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nawaranegm @ZeinabSamir  مثله الاعلي ابو الفتوح وكلامه مايع كده </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/yassergalal30/status/357089610905559042</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">24</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nawaranegm&quot;, &quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="177876" model="data.tweets">
+        <field type="CharField" name="user_id">samehsameh97</field>
+        <field type="CharField" name="username">smsm</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@ZeinabSamir تابعي سكاي نيوز </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/samehsameh97/status/358300176252809216</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2017</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@ZeinabSamir&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+</django-objects>

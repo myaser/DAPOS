@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="18006" model="data.tweets">
+        <field type="CharField" name="user_id">amira_elsawy</field>
+        <field type="CharField" name="username">Amira ElSawy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Geeee @yaseralzayat| الاستغاثة  الداخلية 24888888 _ 24884500  ارقام استغاثة القوات المسلحة 16138 _ 16137 </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amira_elsawy/status/354005720276013057</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">9</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Geeee&quot;, &quot;@yaseralzayat&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18007" model="data.tweets">
+        <field type="CharField" name="user_id">sarah_akl</field>
+        <field type="CharField" name="username">Sarah Akl</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">“@Geeee: ضرب جامد في #المنيل عايزين نمرة جيش بترد بسرعة #مصر #تمرد” </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarah_akl/status/354003660872757250</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u064a\u0644&quot;, &quot;#\u0645\u0635\u0631&quot;, &quot;#\u062a\u0645\u0631\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18008" model="data.tweets">
+        <field type="CharField" name="user_id">heshamelkashif</field>
+        <field type="CharField" name="username">Hesham Elkashif</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Geeee @heba_youssif الشرطة وصلت ده جنب البيت عندي ناس هجمت علي التوحيد والنور </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/heshamelkashif/status/354004622240784384</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Geeee&quot;, &quot;@heba_youssif&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18009" model="data.tweets">
+        <field type="CharField" name="user_id">idhooom</field>
+        <field type="CharField" name="username">עבד אל רחמן</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">i need good free wordpress theme #help @SadekHM @Geeee </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/idhooom/status/353915027205533696</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#help&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@SadekHM&quot;, &quot;@Geeee&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18010" model="data.tweets">
+        <field type="CharField" name="user_id">masryabt7lm</field>
+        <field type="CharField" name="username">الــــ رشا</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">عن الكراهية   By @Geeee </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/masryabt7lm/status/355043500624068609</field>
+        <field type="DateField" name="posting_date">2013-07-10</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Geeee&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18011" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@Saharttam ده راجل أهبل أصلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/357094367225327616</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Saharttam&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18012" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">--&gt; @LamiaMoussa HELP NO ONE IS ANSWERING. PLEASE SEND ME ARMY POLICE ANYONE NUMBERS. #المنيل </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/354002930313084929</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u064a\u0644&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@LamiaMoussa&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18013" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">الشرطة وصلت عند التوحيد والنور في #المنيل #مصر #تمرد شكرا للناس </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/354004868064739328</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u064a\u0644&quot;, &quot;#\u0645\u0635\u0631&quot;, &quot;#\u062a\u0645\u0631\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18014" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">في ناس معندهمش فولورز كتير أفكارهم حلوة وفي ناس عندها فولورز كتير بتطفح علينا #حقيقة #تويتر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/354015553863684097</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u062d\u0642\u064a\u0642\u0629&quot;, &quot;#\u062a\u0648\u064a\u062a\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18015" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">سكان مدينة نصر والإتحادية بيستغيثوا إن الإخوان جايبين ستات وقافلين أبواب العمارات بالجنازير عشان محدش منهم ينزل. حد هناك يأكد؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/353902664213463041</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18016" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">سكان مدينة نصر والإتحادية بيستغيثوا إن الإخوان جايبين ستات وقافلين أبواب العمارات بالجنازير عشان محدش منهم ينزل. حد هناك يأكد؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/353902664213463041</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18017" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">كأنك بتزق في حيطة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/357586195896733696</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18018" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">#المنيل #تمرد #مصرRT @MohgaMaged: الحقوناااااااااا يا ناس عمد التوحيد والنور بتاع المنيل .الناس بتمووووووت </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/354003055504658432</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u064a\u0644&quot;, &quot;#\u062a\u0645\u0631\u062f&quot;, &quot;#\u0645\u0635\u0631RT&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MohgaMaged&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18019" model="data.tweets">
+        <field type="CharField" name="user_id">elalfy79</field>
+        <field type="CharField" name="username">Ahmed Elalfy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">&amp;quot;@Geeee: ‏ضرب جامد في #المنيل عايزين نمرة جيش بترد بسرعة #مصر #تمرد&amp;quot; @EgyArmySpox </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/elalfy79/status/354004661918908418</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u064a\u0644&quot;, &quot;#\u0645\u0635\u0631&quot;, &quot;#\u062a\u0645\u0631\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@EgyArmySpox&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18020" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">المجد لعمال النظافة اللي بيجيوا ينضفوا الشوارع بعد كل مظاهرة أو إشتباكات .. ربنا يديكوا الصحة ويجازيكم خير #مصر </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/356916577620328448</field>
+        <field type="DateField" name="posting_date">2013-07-15</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0635\u0631&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18021" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ضرب جامد في المنيل# ياشباب أرقام طوارئ جديدة؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/354002065304993792</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18022" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">ضرب جامد وناس بتموت عند التوحيد والنور #المنيل #مصر #تمرد حد يبلغ بسرعة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/354003375773327360</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0645\u0646\u064a\u0644&quot;, &quot;#\u0645\u0635\u0631&quot;, &quot;#\u062a\u0645\u0631\u062f&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18023" model="data.tweets">
+        <field type="CharField" name="user_id">geeee</field>
+        <field type="CharField" name="username">Ahmed RG. Metwally</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">#مصر #تمرد RT @Rana_Mahfouz: الضرب في #المنيل  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/geeee/status/354003748902797312</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">61</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0645\u0635\u0631&quot;, &quot;#\u062a\u0645\u0631\u062f&quot;, &quot;#\u0627\u0644\u0645\u0646\u064a\u0644&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Rana_Mahfouz&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/9YqB9gJwd9&quot;]</field>
+    </object>
+
+    <object pk="18024" model="data.tweets">
+        <field type="CharField" name="user_id">nihal_karim</field>
+        <field type="CharField" name="username">Nihal kamal</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Geeee  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nihal_karim/status/354005411935969280</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Geeee&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="18025" model="data.tweets">
+        <field type="CharField" name="user_id">hady_seoudy</field>
+        <field type="CharField" name="username">Hady Seoudy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Geeee @bothainakamel1 ارقام طوارئ القوات (cont)  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hady_seoudy/status/354004796933554176</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Geeee&quot;, &quot;@bothainakamel1&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/qlCTHxbQDD&quot;]</field>
+    </object>
+
+    <object pk="18026" model="data.tweets">
+        <field type="CharField" name="user_id">hady_seoudy</field>
+        <field type="CharField" name="username">Hady Seoudy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Geeee @bothainakamel1 ارقام طوارئ القوات (cont)  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hady_seoudy/status/354004796933554176</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Geeee&quot;, &quot;@bothainakamel1&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/qlCTHxbQDD&quot;]</field>
+    </object>
+
+    <object pk="18027" model="data.tweets">
+        <field type="CharField" name="user_id">noramikaeel</field>
+        <field type="CharField" name="username">Egypt For All</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Geeee @bothainakamel1 دول كل نمر الجبش  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/noramikaeel/status/354004185110437888</field>
+        <field type="DateField" name="posting_date">2013-07-07</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Geeee&quot;, &quot;@bothainakamel1&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/J8ced031nm&quot;]</field>
+    </object>
+
+</django-objects>

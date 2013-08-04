@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="255724" model="data.tweets">
+        <field type="CharField" name="user_id">moatazhossam</field>
+        <field type="CharField" name="username">Moataz Hossam</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nasry  محتاجين حد يكتب #اغنية عن #اطفال_الشوارع  .... ومحتاجين RT عشان ده يحصل :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/moatazhossam/status/357818112311177216</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u063a\u0646\u064a\u0629&quot;, &quot;#\u0627\u0637\u0641\u0627\u0644_\u0627\u0644\u0634\u0648\u0627\u0631\u0639&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nasry&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255725" model="data.tweets">
+        <field type="CharField" name="user_id">mmerghani</field>
+        <field type="CharField" name="username">moنa elmerghaنi</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">Year 2013 is a &#39;black&#39; year in the history of Egyptian and Arab media in all its forms and currents due to the extreme bias @nasry </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mmerghani/status/357271162914484224</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nasry&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255726" model="data.tweets">
+        <field type="CharField" name="user_id">tarek71546791</field>
+        <field type="CharField" name="username">TareK</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nasry @Rababoush مقال محترم وجاب من الاخر ....الاخلاق الموسميه فعلا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/tarek71546791/status/357457954586370049</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nasry&quot;, &quot;@Rababoush&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255727" model="data.tweets">
+        <field type="CharField" name="user_id">rababoush</field>
+        <field type="CharField" name="username">rababoush</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@abo_kamal_ @kazakhelo @nasry هو إنتقاد للتربية بالأساس...مش لازم نربي عيالنا على أن نص العما ولا العما كله...ليه يبقى في عما أصلا؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rababoush/status/357460580577181696</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@abo_kamal_&quot;, &quot;@kazakhelo&quot;, &quot;@nasry&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255728" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">اليأس خيانة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357738533580062721</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255729" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بتوع مرسي لسه بيعيطوا عليه؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357437194299908097</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255730" model="data.tweets">
+        <field type="CharField" name="user_id">maktoob_yahoo</field>
+        <field type="CharField" name="username">Yahoo! مكتوب</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">تهديد بمنع #السعودية من الهبوط فى المطارات الأمريكية بسبب #اسرائيل  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/maktoob_yahoo/status/357287156504477696</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629&quot;, &quot;#\u0627\u0633\u0631\u0627\u0626\u064a\u0644&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/46N3dDkUgK&quot;]</field>
+    </object>
+
+    <object pk="255731" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@RashaAbdulla رجله الشمال جامدة جدا .. شوفي كل اجوانه على يوتيوب هتلاقي فيه الميزة دي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357254580100284416</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@RashaAbdulla&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255732" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@AhmadSamySallam فكرة مش بطالة .. انا مش فاضي بصراحة اعمل حاجة لوحدي لازم متطوعين وناس تبقى معايا </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357285533166223360</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@AhmadSamySallam&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255733" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لازم الكافيهات المصرية زي ما بتفصل بين المدخنين وغير المدخنين تفصل بين الزباين العاديين والمراهقين #إزعاج </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357280904361689088</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0625\u0632\u0639\u0627\u062c&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255734" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">من أحدث مظاهر اغتصاب اللغة العربية : واحد عاوز يعمل فيها طلياني كاتب اسمه &amp;quot; محمد إيطاليانوا&amp;quot;   :) </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/358144020200955904</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255735" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">هو لما حد يشيد بدرية شرف الدين ويقول عليها &amp;quot;بنت الإعلام الرسمي&amp;quot; لازم يفهم ان دي شتيمة مش حاجة حلوة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357252712649342977</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255736" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">RT @a_moniem: ربنا يحرقك بجاز ***.. هاتخسرنا صيامنا وإحنا لسه بنبدأ اليوم  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357337761071628288</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@a_moniem&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/z1VBrdMUEj&quot;]</field>
+    </object>
+
+    <object pk="255737" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">بص يابا احنا سلميين طالما احنا في مواجهة خصم مسلح أو أكبر منا عددا لكن لو لقينا بني آدم ضدنا واقف لوحده هننفخه ضرب #السلمية_حلوة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357256505860427776</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0627\u0644\u0633\u0644\u0645\u064a\u0629_\u062d\u0644\u0648\u0629&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255738" model="data.tweets">
+        <field type="CharField" name="user_id">a_moniem</field>
+        <field type="CharField" name="username">علي عبد المنعم</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الرسالة دي وصلتني على الموبايل دلوقتي: النجمة بوسي (اه يا دنيا) اليوم في خيمة الهوساجية بالمهندسين </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/a_moniem/status/357789403873161216</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255739" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">تريزيجيه يفسر سبب تفضيله نوتنجام فورست على نيس   </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/358151788286840833</field>
+        <field type="DateField" name="posting_date">2013-07-19</field>
+        <field type="IntegerField" name="retweets">4</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/uPwlw2bjfx&quot;]</field>
+    </object>
+
+    <object pk="255740" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">تذكروا.. إسقاط الاخوان ضروري لمصلحة البلد، بس إسقاط نظام مبارك وممارساته الفاسدة ضروري كمان إن لم يكن أهم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357451081430745089</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255741" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">#سر_مش_مكسوف_منه بحب مرواح السينما لوحدي حفلات الصبح ومنتصف ليل واقعد اول صف عشان انعزل عن الناس خلال الفرجة ع الفيلم </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357817187257430016</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;#\u0633\u0631_\u0645\u0634_\u0645\u0643\u0633\u0648\u0641_\u0645\u0646\u0647&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255742" model="data.tweets">
+        <field type="CharField" name="user_id">hishamkheshen</field>
+        <field type="CharField" name="username">HishamKheshen</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MhmdAbdelRahman @nasry يبقي متفقين ان شماله صاروخية وده كفاية :) طاهر من النضاف القليلين في المجال </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hishamkheshen/status/357263115144011779</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MhmdAbdelRahman&quot;, &quot;@nasry&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255743" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">لكل الناس اللي بتسأل ايه مؤهلات طاهر أبو زيد عشان يبقى وزير رياضة أحب أقولهم أنه عليه رجل شمال جامدة فشخ .. وخطير جدا في الضربات الثابتة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357254899140014082</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">6</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255744" model="data.tweets">
+        <field type="CharField" name="user_id">ahmedzaky</field>
+        <field type="CharField" name="username">Zakovich | زاكوفيتش</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">أتمنى في ليلة أعمل عرض على شاشة كبيرة في رابعة العدوية وفي نفس اللحظة في ميدان التحرير لفيلم زياد دويري &amp;quot;بيروت الغربية&amp;quot;. يمكن حاجات تتغير..! </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmedzaky/status/357312617833955329</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">11</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255745" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">سنة 2013 سنة سودا في تاريخ الإعلام المصري والعربي بكل أشكاله وتياراته بسبب التحيز المتطرف </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357267307761897473</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255746" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">وساخة الاخوان السياسية مش مبرر لسوء أداء الإعلام الخاص في مصر .. إعلام محرض ممكن يبقى ضد الشعب في اي لحظة </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357445244435968000</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">10</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255747" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@RashaAbdulla  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357332570549125122</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">3430</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@RashaAbdulla&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255748" model="data.tweets">
+        <field type="CharField" name="user_id">gemyhood</field>
+        <field type="CharField" name="username">Mohamed G. Beshir</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">مسلسل عبارة عن زنا محارم ومسلسل اغتصاب بنات صغيرة ومسلسل فيه مثلية وقواده الخ. . فاضل الفوت فيتش والبي دي اس ام. . آحبيبي آرمضان </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/gemyhood/status/357812508762976256</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">52</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255749" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">Egyptian Premier Returns to Cage He Escaped Facing More Violence  What brought Ex-PM Sharaf down still looms large </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357371206002933761</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">40</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/Feylt6tiY9&quot;]</field>
+    </object>
+
+    <object pk="255750" model="data.tweets">
+        <field type="CharField" name="user_id">drbassemyoussef</field>
+        <field type="CharField" name="username">Dr Bassem Youssef</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">و زي ما الإخوان و السلفيين اعتبروني عدو للإسلام كتير من الإعلاميين اللي وقفوا معايا حيقلبوا عليا قريب جداً . الفاشية لا دين لها </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/drbassemyoussef/status/356835373927776256</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">664</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255751" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">ومش الراجل ده لوحده في شباب كتير جدا مواقفهم زي غنيم   من ذبح وائل غنيم؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357786902218293248</field>
+        <field type="DateField" name="posting_date">2013-07-17</field>
+        <field type="IntegerField" name="retweets">583</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/VPhvoxMzvs&quot;]</field>
+    </object>
+
+    <object pk="255752" model="data.tweets">
+        <field type="CharField" name="user_id">bushrarozza</field>
+        <field type="CharField" name="username">Bushra بشرى</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nasry رخص و إفلاس فكري و سياسي و فوق ده كله فلس إنساني و أخلاقي </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/bushrarozza/status/352585125617344512</field>
+        <field type="DateField" name="posting_date">2013-07-18</field>
+        <field type="IntegerField" name="retweets">5</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nasry&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255753" model="data.tweets">
+        <field type="CharField" name="user_id">rashaabdulla</field>
+        <field type="CharField" name="username">Rasha Abdulla</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nasry  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/rashaabdulla/status/357266157377581057</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">47</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nasry&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255754" model="data.tweets">
+        <field type="CharField" name="user_id">nasry</field>
+        <field type="CharField" name="username">Nasry Esmat</field>
+        <field type="CharField" name="influence">Highly Influential</field>
+        <field type="TextField" name="tweet_text">@Nermbed  دي قايمة بالوزراء الجدد </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/nasry/status/357254170899791874</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">126000</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Nermbed&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255755" model="data.tweets">
+        <field type="CharField" name="user_id">mohkhodi</field>
+        <field type="CharField" name="username">Mevlana</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">The Mendax Daily is out!  ▸ Top stories today via @MohKhodi @nasry @OmarKamel </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohkhodi/status/357402387595526144</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">479</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MohKhodi&quot;, &quot;@nasry&quot;, &quot;@OmarKamel&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="255756" model="data.tweets">
+        <field type="CharField" name="user_id">m7medyousef</field>
+        <field type="CharField" name="username">Elحalawaنy</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@nasry ذي كدهون  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/m7medyousef/status/357257191520075776</field>
+        <field type="DateField" name="posting_date">2013-07-16</field>
+        <field type="IntegerField" name="retweets">4373</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@nasry&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+</django-objects>

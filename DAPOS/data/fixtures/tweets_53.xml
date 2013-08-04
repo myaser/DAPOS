@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+
+    <object pk="234010" model="data.tweets">
+        <field type="CharField" name="user_id">mohamedmmali</field>
+        <field type="CharField" name="username">MOMO</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Tittoz @MAIESHALABY @iKiroz @General_Pikachu  حملة#انفولو_تحريراوي بتاع حازمون ساعدنا بريتويت </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/mohamedmmali/status/353333038626766849</field>
+        <field type="DateField" name="posting_date">2013-07-05</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Tittoz&quot;, &quot;@MAIESHALABY&quot;, &quot;@iKiroz&quot;, &quot;@General_Pikachu&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="234011" model="data.tweets">
+        <field type="CharField" name="user_id">ahmedkhair</field>
+        <field type="CharField" name="username">khair</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@MAIESHALABY @Etshhh @Shorouk_News  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmedkhair/status/352139935110791168</field>
+        <field type="DateField" name="posting_date">2013-07-01</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;, &quot;@Etshhh&quot;, &quot;@Shorouk_News&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/iGdrB2qUva&quot;]</field>
+    </object>
+
+    <object pk="234012" model="data.tweets">
+        <field type="CharField" name="user_id">haniii21</field>
+        <field type="CharField" name="username">Hani</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">آه واللهRT @MAIESHALABY: ما اللي رأيه مش عاجبك ما تعبروش يا أخي..بترد عليه و تعمل له سعر ليه؟؟؟ </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/haniii21/status/353154678026018818</field>
+        <field type="DateField" name="posting_date">2013-07-04</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="234013" model="data.tweets">
+        <field type="CharField" name="user_id">etshhh</field>
+        <field type="CharField" name="username">Hesham Esmail</field>
+        <field type="CharField" name="influence">Influential</field>
+        <field type="TextField" name="tweet_text">@MAIESHALABY @AhmadManshy  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/etshhh/status/355461414120476672</field>
+        <field type="DateField" name="posting_date">2013-07-11</field>
+        <field type="IntegerField" name="retweets">3</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;, &quot;@AhmadManshy&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="234014" model="data.tweets">
+        <field type="CharField" name="user_id">hba_g</field>
+        <field type="CharField" name="username">Heba Gebril</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@SherineElzobeir @MAIESHALABY أفاتارك ده ولا مش أفاتارك :D  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hba_g/status/349881252884647937</field>
+        <field type="DateField" name="posting_date">2013-06-25</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@SherineElzobeir&quot;, &quot;@MAIESHALABY&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/pwmJGQ1PVG&quot;]</field>
+    </object>
+
+    <object pk="234015" model="data.tweets">
+        <field type="CharField" name="user_id">hba_g</field>
+        <field type="CharField" name="username">Heba Gebril</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الممثلة دي شبهك فشخ بتفكرني بيكي كل ما اشوفها *رأي شخصي* :D @MAIESHALABY  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hba_g/status/349869319968153600</field>
+        <field type="DateField" name="posting_date">2013-06-25</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/fl52PEO4mQ&quot;]</field>
+    </object>
+
+    <object pk="234016" model="data.tweets">
+        <field type="CharField" name="user_id">micaazz</field>
+        <field type="CharField" name="username">Mica ميكا</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">لعب و فن وهندسة :p @HebaGhannam @MAIESHALABY @ahmed3wahab @Haniii21 cc @SherifNagib  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/micaazz/status/350332657554563073</field>
+        <field type="DateField" name="posting_date">2013-06-26</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@HebaGhannam&quot;, &quot;@MAIESHALABY&quot;, &quot;@ahmed3wahab&quot;, &quot;@Haniii21&quot;, &quot;@SherifNagib&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/E8BLSLCVU4&quot;]</field>
+    </object>
+
+    <object pk="234017" model="data.tweets">
+        <field type="CharField" name="user_id">anabojy</field>
+        <field type="CharField" name="username">♥Bosy Cute</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MAIESHALABY ههه ممكن برضو طب اسمعي دى  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/anabojy/status/352360263548272640</field>
+        <field type="DateField" name="posting_date">2013-07-02</field>
+        <field type="IntegerField" name="retweets">166</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/JtMWhzJ9&quot;]</field>
+    </object>
+
+    <object pk="234018" model="data.tweets">
+        <field type="CharField" name="user_id">pinkklashinkov</field>
+        <field type="CharField" name="username">Ahmed Ramadan</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MAIESHALABY @Truthcaller  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/pinkklashinkov/status/352202371071352832</field>
+        <field type="DateField" name="posting_date">2013-07-02</field>
+        <field type="IntegerField" name="retweets">1049</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;, &quot;@Truthcaller&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="234019" model="data.tweets">
+        <field type="CharField" name="user_id">haniii21</field>
+        <field type="CharField" name="username">Hani</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text"> @Sarcasmad @MAIESHALABY @iamS3D بنات إخوانيات جداً </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/haniii21/status/349299214142021632</field>
+        <field type="DateField" name="posting_date">2013-06-24</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sarcasmad&quot;, &quot;@MAIESHALABY&quot;, &quot;@iamS3D&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="234020" model="data.tweets">
+        <field type="CharField" name="user_id">ahmed3wahab</field>
+        <field type="CharField" name="username">ahmed abdel wahhab</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MAIESHALABY لا طبعًا من التحفة الخالدة الأندرريتيد مهرجان بنات جمال عبد الناصر  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmed3wahab/status/340086667031486466</field>
+        <field type="DateField" name="posting_date">2013-05-30</field>
+        <field type="IntegerField" name="retweets">71</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/FFACM6t7Lk&quot;]</field>
+    </object>
+
+    <object pk="234021" model="data.tweets">
+        <field type="CharField" name="user_id">anabojy</field>
+        <field type="CharField" name="username">♥Bosy Cute</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MAIESHALABY ههه ممكن برضو طب اسمعي دى  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/anabojy/status/352360263548272640</field>
+        <field type="DateField" name="posting_date">2013-07-02</field>
+        <field type="IntegerField" name="retweets">166</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/JtMWhzJ9&quot;]</field>
+    </object>
+
+    <object pk="234022" model="data.tweets">
+        <field type="CharField" name="user_id">sarcasmad</field>
+        <field type="CharField" name="username">Ahmed Saad</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MAIESHALABY @iamS3D صح برضه لما نشوفهم عالنت أحسن ما نقابلهم في الواقع مرة واحدة :(.. الحياة بقت قاسية أوي. </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/sarcasmad/status/349272436392472577</field>
+        <field type="DateField" name="posting_date">2013-06-24</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;, &quot;@iamS3D&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="234023" model="data.tweets">
+        <field type="CharField" name="user_id">ahmed3wahab</field>
+        <field type="CharField" name="username">ahmed abdel wahhab</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@Sheriefatello @maieshalaby والله تويتتها جابت طراوة والهوا طيَّر الستارة  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/ahmed3wahab/status/340808932886970369</field>
+        <field type="DateField" name="posting_date">2013-06-01</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sheriefatello&quot;, &quot;@maieshalaby&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/HTy54CD3wm&quot;]</field>
+    </object>
+
+    <object pk="234024" model="data.tweets">
+        <field type="CharField" name="user_id">haniii21</field>
+        <field type="CharField" name="username">Hani</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MAIESHALABY الفيديو اللي كنز بجد.. بتاع أنت مبتصليش ليه  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/haniii21/status/345920425961861120</field>
+        <field type="DateField" name="posting_date">2013-06-15</field>
+        <field type="IntegerField" name="retweets">146</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;]</field>
+        <field type="TextField" name="links">[&quot;https://t.co/omFTR7iST2&quot;]</field>
+    </object>
+
+    <object pk="234025" model="data.tweets">
+        <field type="CharField" name="user_id">amrkouta</field>
+        <field type="CharField" name="username">Amr Kouta</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MAIESHALABY  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/amrkouta/status/348190032139542528</field>
+        <field type="DateField" name="posting_date">2013-06-20</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="234026" model="data.tweets">
+        <field type="CharField" name="user_id">haniii21</field>
+        <field type="CharField" name="username">Hani</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@MAIESHALABY @iamS3D شايفكوا :D  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/haniii21/status/340203278136651779</field>
+        <field type="DateField" name="posting_date">2013-05-30</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;, &quot;@iamS3D&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/U5O5cXiKcU&quot;]</field>
+    </object>
+
+    <object pk="234027" model="data.tweets">
+        <field type="CharField" name="user_id">haniii21</field>
+        <field type="CharField" name="username">Hani</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text"> @Sarcasmad @MAIESHALABY @iamS3D بنات إخوانيات جداً </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/haniii21/status/349299214142021632</field>
+        <field type="DateField" name="posting_date">2013-06-24</field>
+        <field type="IntegerField" name="retweets">2</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@Sarcasmad&quot;, &quot;@MAIESHALABY&quot;, &quot;@iamS3D&quot;]</field>
+        <field type="TextField" name="links">[&quot;&quot;]</field>
+    </object>
+
+    <object pk="234028" model="data.tweets">
+        <field type="CharField" name="user_id">hba_g</field>
+        <field type="CharField" name="username">Heba Gebril</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">@SherineElzobeir @MAIESHALABY أفاتارك ده ولا مش أفاتارك :D  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hba_g/status/349881252884647937</field>
+        <field type="DateField" name="posting_date">2013-06-25</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@SherineElzobeir&quot;, &quot;@MAIESHALABY&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/pwmJGQ1PVG&quot;]</field>
+    </object>
+
+    <object pk="234029" model="data.tweets">
+        <field type="CharField" name="user_id">hba_g</field>
+        <field type="CharField" name="username">Heba Gebril</field>
+        <field type="CharField" name="influence"></field>
+        <field type="TextField" name="tweet_text">الممثلة دي شبهك فشخ بتفكرني بيكي كل ما اشوفها *رأي شخصي* :D @MAIESHALABY  </field>
+        <field type="CharField" name="tweet_id">http://twitter.com/hba_g/status/349869319968153600</field>
+        <field type="DateField" name="posting_date">2013-06-25</field>
+        <field type="IntegerField" name="retweets">0</field>
+        <field type="TextField" name="hash_tags">[&quot;&quot;]</field>
+        <field type="TextField" name="mentions">[&quot;@MAIESHALABY&quot;]</field>
+        <field type="TextField" name="links">[&quot;http://t.co/fl52PEO4mQ&quot;]</field>
+    </object>
+
+</django-objects>
