@@ -23,11 +23,11 @@ def split(txt, regex, tag):
     '''
     """
     >>> split('the first test 123', '(\d+)', 'CD')
-    'the first test <CD>123</CD> '
+    'the first test 123<CD> '
     >>> split('text not matching regex', '(\d+)', 'CD')
     'text not matching regex'
     """
-    tag_regex = '(<\w+>.+</\w+>)'
+    tag_regex = '(.+<\w+>)'
     untagged_text_processor = re.compile(tag_regex)
     if untagged_text_processor.match(txt.strip()) or not txt:
         return txt
@@ -38,7 +38,7 @@ def split(txt, regex, tag):
         ])
 
     processor = re.compile(regex)
-    return processor.sub(' <{0}>\g<1></{0}> '.format(tag), txt)
+    return processor.sub(" \g<1><{0}> ".format(tag), txt)
 
 
 def split_emoticons(txt):
@@ -73,3 +73,10 @@ def split_date(txt):
 
 def remove_diacritics(txt):
     pass
+
+
+def normalize(txt):
+    txt = remove_diacritics(txt)
+    txt = split_emoticons(txt)
+    txt = split_punctuation(txt)
+    return split_digits(txt)
