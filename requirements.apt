@@ -1,1 +1,1 @@
-sudo apt-get install memcached sqlite3
+sudo apt-get install memcached

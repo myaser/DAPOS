@@ -1,0 +1,14 @@
+language: python
+
+python:
+  - "2.7"
+
+before_install:
+  - ./requirements.apt
+
+install: "pip install -r requirements.pip"
+
+script: coverage run --rcfile="./.coveragerc" corpus_browser/manage.py test corpus_browser -v 3 --traceback
+
+after_success:
+    coveralls
