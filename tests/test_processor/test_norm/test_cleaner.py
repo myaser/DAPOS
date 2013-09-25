@@ -1,8 +1,8 @@
-from django.test import TestCase
+import unittest
 from DAPOS.processor.norm import split
 
 
-class DefaultTest(TestCase):
+class MainFunctionalityTest(unittest.TestCase):
     def test_split(self):
         self.assertEqual('the first test <CD>123</CD> ',
                          split('the first test 123', '(\d+)', 'CD'))
