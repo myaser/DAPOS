@@ -1,6 +1,7 @@
-Django==1.5.1
-django-cache-machine
-git+git://github.com/dlrust/python-memcached-stats.git
 simplejson
 
+datrie
+
 python-memcached
+git+git://github.com/dlrust/python-memcached-stats.git
+

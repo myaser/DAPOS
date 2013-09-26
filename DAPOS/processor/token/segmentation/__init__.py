@@ -1,6 +1,7 @@
-from DAPOS.segmentation.prefix import extract_prefix, iter_prefixes
-from DAPOS.segmentation.suffix import extract_suffix, iter_suffixes
+from prefix import extract_prefixes, iter_prefixes
+from suffix import extract_suffixes, iter_suffixes
 from itertools import product as _product
+
 
 def product(prefixes, suffixes, *args, **kwds):
     '''
@@ -22,8 +23,8 @@ class Word(object):
     """represent each word in the query"""
     def __init__(self, raw_string):
         self.string = raw_string
-        self.prefixes = extract_prefix(self.string)
-        self.suffixes = extract_suffix(self.string)
+        self.prefixes = extract_prefixes(self.string)
+        self.suffixes = extract_suffixes(self.string)
 
     def _circufix_for(self, prefix="", suffix=""):
         return self.string[len(prefix):-len(suffix)]

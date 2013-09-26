@@ -1,20 +1,7 @@
 #! /usr/bin/python
-# -*- coding: UTF-8 -*-
-
-
-import re
-
-
-emoticons_regex = "(?:\s|^)([bcopvxBCDILOPSX:っ@Q;°_>,Þ$#03578&%ಠ~\-\\/\*\]\[<\)\(\{\}'\.\^=\|]{2,9})(?=\s|$)\b"
-punctuation_regex = r'([^\w\s]+)'
-digit_regex = r'\b(\d+)\b'
-float_regex = r'\b(\d+[.]\d+)\b'
-clock_regex = r'\b(\d{1,2}[:]\d{1,2})\b'
-date_regex = r'\b(\d{1,2}[-/]\d{1,2}[-/]\d{2,4})\b'
-
-EMOTICONS_TAG = 'EMO'
-PUNCTUATION_TAG = 'PUNC'
-DIGIT_TAG = 'CD'
+from DAPOS.data.normalization import (untagged_text, emoticons_regex,
+    EMOTICONS_TAG, punctuation_regex, PUNCTUATION_TAG, float_regex, DIGIT_TAG,
+    digit_regex, clock_regex, date_regex, vowels_regex)
 
 
 def split(txt, regex, tag):
@@ -27,18 +14,15 @@ def split(txt, regex, tag):
     >>> split('text not matching regex', '(\d+)', 'CD')
     'text not matching regex'
     """
-    tag_regex = '(.+<\w+>)'
-    untagged_text_processor = re.compile(tag_regex)
-    if untagged_text_processor.match(txt.strip()) or not txt:
+    if untagged_text.match(txt.strip()) or not txt:
         return txt
-    if untagged_text_processor.search(txt.strip()):
+    if untagged_text.search(txt.strip()):
         return " ".join([
             split(piece_of_text)
-            for piece_of_text in untagged_text_processor.split(txt.strip())
+            for piece_of_text in untagged_text.split(txt.strip())
         ])
 
-    processor = re.compile(regex)
-    return processor.sub(" \g<1><{0}> ".format(tag), txt)
+    return regex.sub(" \g<1><{0}> ".format(tag), txt)
 
 
 def split_emoticons(txt):
@@ -72,7 +56,7 @@ def split_date(txt):
 
 
 def remove_diacritics(txt):
-    pass
+    return vowels_regex.sub("", txt)
 
 
 def normalize(txt):

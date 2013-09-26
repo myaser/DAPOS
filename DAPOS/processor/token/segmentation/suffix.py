@@ -1,9 +1,7 @@
 '''
 suffix related logic
 '''
-#-*- coding: UTF-8 -*-
-from DAPOS.segmentation.affixes.load import suffixes
-
+from DAPOS.data.affixes import suffixes
 
 
 def iter_suffixes(raw):
@@ -14,7 +12,8 @@ def iter_suffixes(raw):
     for suffix in suffixes.iter_prefix_items(raw[::-1]):
         yield suffix
 
-def extract_suffix(raw):
+
+def extract_suffixes(raw):
     '''
         extract all posible suffixes for the raw string
     '''

@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<prefixes>
+    <!-- null/zero prefix -->
+    <prefixe unvoweledform="" voweledform="" desc="" classe="C1"></prefixe>
+
+    <!-- Common Prefixes between Nominals (nouns, adjectives, adverbs) and Verbs -->
+
+    <!-- coordinating conjunctions = أدوات العطف -->
+    <prefixe unvoweledform="و" voweledform="وَ" desc="CC" classe="C1"></prefixe>
+    <prefixe unvoweledform="ف" voweledform="فَ" desc="CC" classe="C1"></prefixe>
+
+    <!-- interrogative particles = أدوات الاستفهام-->
+    <prefixe unvoweledform="أ" voweledform="أَ" desc="INT" classe="C2"></prefixe>
+    <prefixe unvoweledform="أو" voweledform="أَوَ" desc="INT+CC" classe="C2"></prefixe>
+    <prefixe unvoweledform="أف" voweledform="أَفَ" desc="INT+CC" classe="C2"></prefixe>
+
+    <!-- Emphatic OR a Preposition:  اللام في البداية ممكن تكون لام التوكيد زي لنسفعن بالناصية أو تكون حرف الجر زي لبيت فلان" -->
+    <prefixe unvoweledform="ل" voweledform="لَ" desc="RP|IN" classe="C3"></prefixe>
+    <prefixe unvoweledform="ول" voweledform="وَلَ" desc="CC+RP|IN" classe="C3"></prefixe>
+    <prefixe unvoweledform="فل" voweledform="فل" desc="CC+RP|IN" classe="C3"></prefixe>
+
+    <!-- Negative Particle (laa):  صحيح هي ليست من الوافق ولكن في الكثير من الاحبان يكتبها الناس بدون ترك مسافة مثلا لايعمل-->
+    <prefixe unvoweledform="لا" voweledform="لا" desc="NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="ولا" voweledform="ولاَ" desc="CC+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="فلا" voweledform="فلا" desc="CC+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="أولا" voweledform="أولا" desc="INT+CC+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="أفلا" voweledform="أفلا" desc="INT+CC+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="بلا" voweledform="بلا" desc="IN+CC" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="وبلا" voweledform="وبلا" desc="CC+IN+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="فبلا" voweledform="فبلا" desc="CC+IN+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="أوبلا" voweledform="أوبلا" desc="INT+CC+IN+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="أفبلا" voweledform="أفبلا" desc="INT+CC+IN+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="للا" voweledform="للا" desc="INT+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="وللا" voweledform="وللا" desc="CC+IN+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="فللا" voweledform="فللا" desc="CC+IN+NGا" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="أوللا" voweledform="أوللا" desc="INT+CC+IN+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+    <prefixe unvoweledform="أفللا" voweledform="أفللا" desc="INT+CC+IN+NG" classe="C4"></prefixe><!-- NEW: MSA/EA-->
+
+    <!-- قد تكون للفعل المضارع المستمر مثلا بيكتب في العامية المصرية أو حرف جر مثل بكتاب -->
+    <prefixe unvoweledform="ب" voweledform="ب" desc="PR|IN" classe="C5"></prefixe><!-- EA -->
+    <prefixe unvoweledform="وب" voweledform="وب" desc="PR|IN" classe="C1"></prefixe><!-- EA -->
+    <prefixe unvoweledform="فب" voweledform="فب" desc="PR|IN" classe="C1"></prefixe><!-- EA -->
+
+    <!-- Nominal Prefixes Only-->
+    <!-- Definite article = أداة التعريف-->
+    <prefixe unvoweledform="ال" voweledform="ال" desc="DT" classe="N1"></prefixe>
+
+    <!-- with coordinating conjunctions = أداة التعريف مع حروف العطف-->
+    <prefixe unvoweledform="وال" voweledform="وَال" desc="CC+DT" classe="N1"></prefixe>
+    <prefixe unvoweledform="فال" voweledform="فَال" desc="CC+DT" classe="N1"></prefixe>
+
+    <!-- with interrogative particle and coordinating conjunctions = أداة التعريف مع حروف الجر وأداة الاستفهام-->
+    <prefixe unvoweledform="أوال" voweledform="أَوَال" desc="INT+CC+DT" classe="N2"></prefixe>
+    <prefixe unvoweledform="أفال" voweledform="أَفَال" desc="INT+CC+DT" classe="N2"></prefixe>
+
+    <!-- with interrogative  particle = أداة التعريف مع أداة الاستفهام-->
+    <prefixe unvoweledform="أال" voweledform="أَال" desc="INT+DT" classe="N2"></prefixe>
+    <prefixe unvoweledform="أبال" voweledform="أبال" desc="INT+DT" classe="N2"></prefixe>
+    <prefixe unvoweledform="ألل" voweledform="ألل" desc="INT+DT" classe="N2"></prefixe>
+    <prefixe unvoweledform="أوبال" voweledform="أوبال" desc="INT+CC+IN+DR" classe="N2"></prefixe>
+    <prefixe unvoweledform="أفبال" voweledform="أفبال" desc="INT+CC+IN+DR" classe="N2"></prefixe>
+    <prefixe unvoweledform="أولل" voweledform="أولل" desc="INT+CC+IN+DR" classe="N2"></prefixe>
+    <prefixe unvoweledform="أفلل" voweledform="أفلل" desc="INT+CC+IN+DR" classe="N2"></prefixe>
+
+    <!-- with prepositions = أداة التعريف مع حروف الجر-->
+    <prefixe unvoweledform="لل" voweledform="لَل" desc="IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="ولل" voweledform="ولَل" desc="CC+IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="فلل" voweledform="فَلَل" desc="CC+IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="بال" voweledform="بال" desc="IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="وبال" voweledform="وبال" desc="CC+IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="فبال" voweledform="فبال" desc="CC+IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="عال" voweledform="عال" desc="IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="وعال" voweledform="وعال" desc="CC+IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="فعال" voweledform="فعال" desc="CC+IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="كال" voweledform="كال" desc="IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="وكال" voweledform="وكال" desc="IN+DT" classe="N3"></prefixe>
+    <prefixe unvoweledform="فكال" voweledform="فكال" desc="IN+DT" classe="N3"></prefixe>
+
+    <!-- Prepositions = حروف الجر -->
+    <prefixe unvoweledform="ب" voweledform="بِ" desc="IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="وب" voweledform="وَبِ" desc="CC+IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="فب" voweledform="فَبِ" desc="CC+IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="أب" voweledform="أَبِ" desc="INT+CC" classe="N4"></prefixe>
+    <prefixe unvoweledform="أوب" voweledform="أوب" desc="INT+CC+IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="أفب" voweledform="أفب" desc="INT+CC+IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="أل" voweledform="أَلِ" desc="INT+DT" classe="N4"></prefixe>
+    <prefixe unvoweledform="أول" voweledform="أول" desc="INT+CC+IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="أفل" voweledform="أفل" desc="INT+CC+IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="ك" voweledform="كَ" desc="INT" classe="N4"></prefixe>
+    <prefixe unvoweledform="وك" voweledform="وَكَ" desc="CC+IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="فك" voweledform="فَكَ" desc="CC+IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="أك" voweledform="أَكَ" desc="INT+IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="أوك" voweledform="أوك" desc="INT+CC+IN" classe="N4"></prefixe>
+    <prefixe unvoweledform="أفك" voweledform="أفك" desc="INT+CC+IN" classe="N4"></prefixe>
+
+    <!-- Vocative particle = أداة النداء-->
+    <prefixe unvoweledform="يا" voweledform="يا" desc="VC" classe="N6"></prefixe><!-- NEW: MSA/EA -->
+    <prefixe unvoweledform="ويا" voweledform="ويا" desc="CC+VC" classe="N6"></prefixe><!-- NEW: MSA/EA -->
+    <prefixe unvoweledform="فيا" voweledform="فيا" desc="CC+VC" classe="N6"></prefixe><!-- NEW: MSA/EA -->
+    <prefixe unvoweledform="أيا" voweledform="أيا" desc="INT+VC" classe="N6"></prefixe><!-- NEW: MSA/EA -->
+    <prefixe unvoweledform="أويا" voweledform="أويا" desc="INT+CC+VC" classe="N6"></prefixe><!-- NEW: MSA/EA -->
+    <prefixe unvoweledform="أفيا" voweledform="أفيا" desc="INT+CC+VC" classe="N6"></prefixe><!-- NEW: MSA/EA -->
+
+    <!-- Verb Prefixes -->
+    <!-- Future tense prefixes = حروف المستقبل -->
+    <prefixe unvoweledform="س" voweledform="سَ" desc="FT" classe="V1"></prefixe>
+    <prefixe unvoweledform="وس" voweledform="وَسَ" desc="CC+FT" classe="V1"></prefixe>
+    <prefixe unvoweledform="فس" voweledform="فَسَ" desc="CC+F" classe="V1"></prefixe>
+    <prefixe unvoweledform="أس" voweledform="أسَ" desc="INT+FT" classe="V1"></prefixe>
+    <prefixe unvoweledform="أوس" voweledform="أوَسَ" desc="INT+CC+FT" classe="V1"></prefixe>
+    <prefixe unvoweledform="أفس" voweledform="أفَسَ" desc="INT+CC+FT" classe="V1"></prefixe>
+    <prefixe unvoweledform="ح" voweledform="حَ" desc="FT" classe="V1"></prefixe><!-- EA -->
+    <prefixe unvoweledform="وح" voweledform="وَح" desc="CC+FT" classe="V1"></prefixe>
+    <prefixe unvoweledform="فح" voweledform="فَح" desc="CC+F" classe="V1"></prefixe>
+    <prefixe unvoweledform="ه" voweledform="هَ" desc="FT" classe="V1"></prefixe><!-- EA -->
+    <prefixe unvoweledform="وه" voweledform="وَه" desc="CC+FT" classe="V1"></prefixe>
+    <prefixe unvoweledform="فه" voweledform="فَه" desc="CC+F" classe="V1"></prefixe>
+    <prefixe unvoweledform="م" voweledform="م" desc="NG" classe="V4"></prefixe><!-- EA -->
+    <prefixe unvoweledform="وم" voweledform="وم" desc="CC+NG" classe="V4"></prefixe><!-- EA -->
+    <prefixe unvoweledform="فم" voweledform="فم" desc="CC+NG" classe="V4"></prefixe><!-- EA -->
+
+    <!-- Negative Particle = حرف النفي-->
+    <prefixe unvoweledform="ما" voweledform="ما" desc="NG" classe="V4"></prefixe><!-- EA -->
+    <prefixe unvoweledform="وما" voweledform="وما" desc="CC+NG" classe="V4"></prefixe><!-- EA -->
+    <prefixe unvoweledform="فما" voweledform="فما" desc="CC+NG" classe="V4"></prefixe> <!-- EA -->
+
+</prefixes>

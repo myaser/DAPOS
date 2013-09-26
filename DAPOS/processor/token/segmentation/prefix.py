@@ -1,9 +1,7 @@
 '''
 prefix related logic
 '''
-# -*- coding: UTF-8 -*-
-
-from DAPOS.segmentation.affixes.load import prefixes
+from DAPOS.data.affixes import prefixes
 
 
 def iter_prefixes(raw):
