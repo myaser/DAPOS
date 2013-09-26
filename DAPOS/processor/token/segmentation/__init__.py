@@ -1,22 +1,7 @@
 from prefix import extract_prefixes, iter_prefixes
 from suffix import extract_suffixes, iter_suffixes
-from itertools import product as _product
+from itertools import product
 
-
-def product(prefixes, suffixes, *args, **kwds):
-    '''
-        extend for product function in main liberaries to make it
-        return prefixes and suffixes without combination
-    '''
-    fillvalue = kwds.get('fillvalue', [])
-    prefixes_pools = map(tuple, prefixes) * kwds.get('repeat', 1)
-    suffixes_pools = map(tuple, suffixes) * kwds.get('repeat', 1)
-    for prefix in prefixes_pools:
-        yield prefix, fillvalue
-    for combination in _product(prefixes, suffixes, *args, **kwds):
-        yield combination
-    for suffix in suffixes_pools:
-        yield suffix, fillvalue
 
 
 class Word(object):
@@ -31,7 +16,7 @@ class Word(object):
 
     def segment(self):
         prefixes_and_suffixes = filter(
-            product(self.prefixes, self.suffixes, fillvalue=("", "")),
+            product(self.prefixes, self.suffixes),
             self.is_valid_segment
         )
 
@@ -47,11 +32,13 @@ class Word(object):
         prefix, prefix_type = prefix
         suffix, suffix_type = suffix
 
-        if prefix_type[0] != suffix_type[0]:
+        if prefix_type[0] == 'N' and suffix_type[0] == 'V':
+            return False
+        if prefix_type[0] == 'V' and suffix_type[0] == 'N':
+            return False
+        if prefix_type in ['N1', 'N2', 'N3', 'N5'] and bool(suffix_type):
             return False
         circufix = self._circufix_for(prefix, suffix)
         if len(circufix) > 9 or len(circufix) < 2:
-            return False
-        if prefix_type in ['N1', 'N2', 'N3', 'N5'] and bool(suffix_type):
             return False
         return True

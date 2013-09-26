@@ -1,9 +1,4 @@
 # -*- coding: UTF-8 -*-
-
-import sys
-import os.path
-sys.path.append(os.path.join(os.path.abspath(__file__), '..', '..'))
-
 import unittest
 from DAPOS.segmentation import extract_prefixes
 
@@ -22,6 +17,3 @@ class PrefixTest(unittest.TestCase):
 
         for word, expected in zip(test_words, expects):
             self.assertEqual(expected, extract_prefixes(word))
-
-if __name__ == '__main__':
-    unittest.main()
