@@ -8,7 +8,7 @@ before_install:
 
 install: "pip install -r requirements.pip"
 
-script: coverage run --rcfile="./.coveragerc" corpus_browser/manage.py test corpus_browser -v 3 --traceback
+script: coverage run --rcfile="./.coveragerc" unittest tests
 
 after_success:
     coveralls
