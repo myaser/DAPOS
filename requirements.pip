@@ -5,3 +5,4 @@ datrie
 python-memcached
 git+git://github.com/dlrust/python-memcached-stats.git
 
+coverage
