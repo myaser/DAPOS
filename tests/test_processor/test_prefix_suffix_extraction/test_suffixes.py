@@ -1,7 +1,7 @@
 # -*- coding: UTF:8 -*-
 
 import unittest
-from DAPOS.segmentation import extract_suffixes
+from DAPOS.processor.token.segmentation import extract_suffixes
 
 
 class TestSuffix(unittest.TestCase):
@@ -12,18 +12,21 @@ class TestSuffix(unittest.TestCase):
                       u"مضربش", u"مضربنيش", u"ضربهولنا", u"ضربهولهم",
                       u"ضربهالي", u"ضربهاله", u"ضربلنيش", u"ماضربهاليش",
                       u"مضربهلناش",]
-        expects = [((u"ك", "C2"), u"كتاب"), ((u"كي", "C2"), u"كتاب"),
-                   ((u"كما","C2"), u"كتاب"), ((u"كوا","C2"), u"عضم"),
-                   ((u"ني", "V1"), u"يضرب"), ((u"ش", "V2"), u"يضرب"),
-                   ((u"نيش", "V2"), u"يضرب"), ((u"هولنا", "V3"), u"ضرب"),
-                   ((u"هولهم", "V3"), u"ضرب"), ((u"هالي", "V3"), u"ضرب"),
-                   ((u"هاله", "V3"), u"ضرب"), ((u"هالها", "V3"), u"ضرب"), 
-                   ((u"لنيش", "V4"), u"ضرب"), ((u"ليش", "V4"), u"ضربه"),
-                   ((u"هالناش", "V5"), u"مضرب")]
+        expects = [[(u'', u'C1'), (u"ك", "C2")],
+                   [(u'', u'C1'), (u"كي", "C2"), (u"ي", "C2")],
+                   [(u'', u'C1'), (u"كما","C2")], 
+                   [(u'', u'C1'), (u"كوا","C2"),],
+                   [(u'', u'C1'), (u"ني", "V1"), (u"ي", "C2")],
+                   [(u'', u'C1'), (u"ش", "V2")],
+                   [(u'', u'C1'), (u"نيش", "V2"), (u"ش", "V2")],
+                   [(u'', u'C1'), (u"هولنا", "V3"), (u"نا", "C2"),],
+                   [(u'', u'C1'), (u"هولهم", "V3"), (u"هم", u"C3"),],
+                   [(u'', u'C1'), (u"هالي", "V3"), (u"ي", "C2"),],
+                   [(u'', u'C1'), (u"هاله", "V3"), (u"ه", u"C3"),],
+                   [(u'', u'C1'), (u"لنيش", "V4"),
+                    (u"ش", "V2"), (u"نيش", "V2")],
+                   [(u'', u'C1'), (u"هاليش", "V5"),
+                    (u"ليش", "V4"), (u"ش", "V2")]]
 
         for word, expected in zip(test_words, expects):
-            self.assertEqual(expected, extract_suffixes(word))
-
-
-
-
+            self.assertEqual(set(expected), set(extract_suffixes(word)))
