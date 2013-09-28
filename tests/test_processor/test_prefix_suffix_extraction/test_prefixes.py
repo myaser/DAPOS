@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 import unittest
-from DAPOS.segmentation import extract_prefixes
+from DAPOS.processor.token.segmentation import extract_prefixes
 
 
 class PrefixTest(unittest.TestCase):
@@ -9,11 +9,19 @@ class PrefixTest(unittest.TestCase):
            longest prefix in the expected form'''
         test_words = [u"أياضرب", u"أوياضرب", u"أفياضرب", u"سيضرب", u"وسيضرب",
                       u"فسيضرب", u"أسيضرب", u"أوسضرب", u"أفسيضرب",]
-        expects = [((u"أيا", "N6"), u"ضرب"), ((u"أويا", "N6"), u"ضرب"),
-                   ((u"أفيا", "N6"), u"ضرب"), ((u"س", "V1"), u"يضرب"),
-                   ((u"وس", "V1"), u"يضرب"), ((u"فس", "V1"), u"يضرب"),
-                   ((u"أس", "V1"), u"يضرب"), ((u"أوس", "V1"), u"ضرب"),
-                   ((u"أفس", "V1"), u"يضرب")]
+        expects = [[(u'', u'C1'), (u'أ', u'C2'), (u"أيا", u"N6")],
+                   [(u'', u'C1'), (u'أ', u'C2'),
+                    (u"أويا", u"N6"), (u"أو", u"C2"), ],
+                   [(u'', u'C1'), (u'أ', u'C2'),
+                    (u"أفيا", u"N6"), (u"أف", u"C2"), ],
+                   [(u'', u'C1'), (u"س", u"V1"), ],
+                   [(u'', u'C1'), (u"وس", u"V1"), (u"و", u"C1")],
+                   [(u'', u'C1'), (u"فس", u"V1"), (u"ف", u"C1")],
+                   [(u'', u'C1'), (u'أ', u'C2'), (u"أس", u"V1"), ],
+                   [(u'', u'C1'), (u'أ', u'C2'),
+                    (u"أوس", u"V1"), (u"أو", u"C2"), ],
+                   [(u'', u'C1'), (u'أ', u'C2'),
+                    (u"أفس", u"V1"), (u"أف", u"C2"),]]
 
         for word, expected in zip(test_words, expects):
-            self.assertEqual(expected, extract_prefixes(word))
+            self.assertEqual(set(expected), set(extract_prefixes(word)))

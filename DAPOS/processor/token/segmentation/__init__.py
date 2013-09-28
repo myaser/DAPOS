@@ -16,8 +16,8 @@ class Word(object):
 
     def segment(self):
         prefixes_and_suffixes = filter(
-            product(self.prefixes, self.suffixes),
-            self.is_valid_segment
+            self.is_valid_segment,
+            product(self.prefixes, self.suffixes)
         )
 
         segments = []
