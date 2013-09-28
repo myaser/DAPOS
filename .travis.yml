@@ -4,9 +4,10 @@ python:
   - "2.7"
 
 before_install:
-  - ./requirements.apt
+  - requirements/requirements.apt
+  - python requirements/pyicu.py
 
-install: "pip install -r requirements.pip"
+install: "pip install -r requirements/requirements.pip"
 
 script: coverage run --rcfile="./.coveragerc" unittest tests
 
