@@ -1,5 +1,5 @@
 #! /usr/bin/python
-from DAPOS.data.normalization import (untagged_text, emoticons_regex,
+from DAPOS.data.normalization import (tagged_text, emoticons_regex,
     EMOTICONS_TAG, punctuation_regex, PUNCTUATION_TAG, float_regex, DIGIT_TAG,
     digit_regex, clock_regex, date_regex, vowels_regex)
 
@@ -14,12 +14,12 @@ def split(txt, regex, tag):
     >>> split('text not matching regex', '(\d+)', 'CD')
     'text not matching regex'
     """
-    if untagged_text.match(txt.strip()) or not txt:
+    if tagged_text.match(txt.strip()) or not txt:
         return txt
-    if untagged_text.search(txt.strip()):
+    if tagged_text.search(txt.strip()):
         return " ".join([
-            split(piece_of_text)
-            for piece_of_text in untagged_text.split(txt.strip())
+            split(piece_of_text, regex, tag)
+            for piece_of_text in tagged_text.split(txt.strip())
         ])
 
     return regex.sub(" \g<1><{0}> ".format(tag), txt)

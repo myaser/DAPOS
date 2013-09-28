@@ -12,7 +12,12 @@ class Word(object):
         self.suffixes = extract_suffixes(self.string)
 
     def _circufix_for(self, prefix="", suffix=""):
-        return self.string[len(prefix):-len(suffix)]
+        result = self.string
+        if prefix:
+            result = result[len(prefix):]
+        if suffix:
+            result = result[:-len(suffix)]
+        return result
 
     def segment(self):
         prefixes_and_suffixes = filter(
@@ -23,7 +28,7 @@ class Word(object):
         segments = []
         for prefix, suffix in prefixes_and_suffixes:
             segments.append(
-                (prefix, self._circufix_for(prefix, suffix), suffix)
+                (prefix, self._circufix_for(prefix[0], suffix[0]), suffix)
             )
         return segments
 

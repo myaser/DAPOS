@@ -11,15 +11,13 @@ class TestSegmentation(unittest.TestCase):
         '''
         test segment words to all possible prefixes, circufixes, and suffixes
         '''
-        test_data = []
-        expected_results = []
 
         word = Word(u"")
-        # import pdb; pdb.set_trace()
         self.assertEqual(word.string, u"")
         self.assertEqual(word.segment(), [])
 
-        for word, expected in zip(test_data, expected_results):
-            result = segment(word)
-            self.assertTrue(isinstance(result, collections.Iterable))
-            self.assertEqual(expected, result)
+        word2 = Word(u"الله")
+        self.assertEqual(set(word2.segment()), set([
+                ((u'', u'C1'), u'الله', (u'', u'C1')),
+                ((u'', u'C1'), u'الل', (u'ه', u'C3')),
+            ]))
