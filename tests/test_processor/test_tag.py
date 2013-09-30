@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 '''test functionality'''
 import unittest
-from DAPOS.tag import tag
+from DAPOS.processor.tag import tag
 
 import os.path
 import csv
