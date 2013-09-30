@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<suffixes>
+	
+	<suffixe unvoweledform="" 		voweledform="" 		desc="" 			classe="sC1"> </suffixe>
+	<suffixe unvoweledform="ي" 		voweledform="ي" 	desc="PRP$|OBJP" 	classe="sC2"> </suffixe> <!--كتابي | قالي-->
+	<suffixe unvoweledform="نا"		voweledform="نا" 	desc="PRP$|OBJP" 	classe="sC3"> </suffixe>	<!--كتابنا | قالنا-->
+	
+	<suffixe unvoweledform="ك" 		voweledform="كَ" 	desc="PRP$|OBJP" 	classe="sC4"> </suffixe>	<!--كتابك | قالك-->
+	<suffixe unvoweledform="كما"	voweledform="كُمَا" 	desc="PRP$|OBJP" 	classe="sC5"> </suffixe>	<!--كتابكما | قال لكما-->	
+	<suffixe unvoweledform="كم" 	voweledform="كُمْ" 	desc="PRP$|OBJP" 	classe="sC6"> </suffixe>	<!--كتابكم | قالكم-->
+	<suffixe unvoweledform="كو" 	voweledform="كو" 	desc="PRP$|OBJP" 	classe="sC7"> </suffixe>	<!--كتابكو | قالكو--> <!--EA-->			
+	<suffixe unvoweledform="كوا" 	voweledform="كوا" 	desc="PRP$|OBJP" 	classe="sC8"> </suffixe>	<!--كتابكوا | قالكوا--> <!--EA-->
+	<suffixe unvoweledform="كن" 	voweledform="كُنَّ" 	desc="PRP$|OBJP" 	classe="sC9"> </suffixe>	<!--كتابكن | قال لكن-->
+
+	<suffixe unvoweledform="ه" 		voweledform="ه" 	desc="PRP$|OBJP" 	classe="sC10"> </suffixe>	<!--كتابه | قال له-->
+	<suffixe unvoweledform="ها" 	voweledform="هَا" 	desc="PRP$|OBJP" 	classe="sC11"> </suffixe>	<!--كتابها | قاللها-->
+	<suffixe unvoweledform="هما" 	voweledform="همَا"	desc="PRP$|OBJP" 	classe="sC12"> </suffixe>	<!--كتابهما | قال لهما-->
+	<suffixe unvoweledform="هم" 	voweledform="همْ" 	desc="PRP$|OBJP" 	classe="sC13"> </suffixe>	<!--كتابهم | قالهم-->
+	<suffixe unvoweledform="هن" 	voweledform="هنَّ" 	desc="PRP$|OBJP" 	classe="sC14"> </suffixe>	<!--كتابهن | قال لهن-->
+	
+	<suffixe unvoweledform="ش"		voweledform="ش" 	desc="NG" 			classe="sV1"> </suffixe> <!--مافيش | ماعنديش | ماقلش-->
+	
+	<suffixe unvoweledform="ني" 	voweledform="نِي" 	desc="OBJP" 		classe="sV2"> </suffixe>	<!--ضربني-->
+	<suffixe unvoweledform="كي" 	voweledform="كي" 	desc="PRP$|OBJP" 	classe="sV3"> </suffixe>	<!--أداكي--> <!--EA-->
+	
+	<suffixe unvoweledform="نيش" 	voweledform="نيش" 	desc="OBJP+NG" 		classe="sV4"> </suffixe>	<!--ماكلمنيش-->
+	<suffixe unvoweledform="ناش" 	voweledform="ناش" 	desc="OBJP+NG" 		classe="sV5"> </suffixe>	<!--ماكلمناش-->
+	<suffixe unvoweledform="كش" 	voweledform="كش" 	desc="OBJP+NG" 		classe="sV6"> </suffixe>	<!--ماكلمكش-->
+	<suffixe unvoweledform="كيش" 	voweledform="كيش" 	desc="OBJP+NG" 		classe="sV7"> </suffixe>	<!--ماكلمكيش-->
+	<suffixe unvoweledform="كوش" 	voweledform="كوش" 	desc="OBJP+NG" 		classe="sV8"> </suffixe>	<!--ماكلمكوش-->
+	<suffixe unvoweledform="كمش" 	voweledform="كمش" 	desc="OBJP+NG" 		classe="sV9"> </suffixe>	<!--ماكلمكمش-->
+	<suffixe unvoweledform="هوش" 	voweledform="هوش" 	desc="OBJP+NG" 		classe="sV10"> </suffixe>	<!--ماكلمهوش-->
+	<suffixe unvoweledform="هاش" 	voweledform="هاش" 	desc="OBJP+NG" 		classe="sV11"> </suffixe>	<!--ماكلمهاش-->
+	<suffixe unvoweledform="همش" 	voweledform="همش" 	desc="OBJP+NG" 		classe="sV12"> </suffixe>	<!--ماكلمهمش-->
+	
+	<suffixe unvoweledform="هولي"	voweledform="هولي" 	 desc="OBJP+IN+OBJP" classe="sV13"> </suffixe>	<!--ادهولي-->	
+	<suffixe unvoweledform="هوني" 	voweledform="هوني" 	 desc="OBJP+IN+OBJP" classe="sV14"> </suffixe>	<!--ادهوني-->
+	<suffixe unvoweledform="هولنا" 	voweledform="هولنا"  desc="OBJP+IN+OBJP" classe="sV15"> </suffixe>	<!--ادهولنا-->
+	<suffixe unvoweledform="هولك" 	voweledform="هولك" 	 desc="OBJP+IN+OBJP" classe="sV16"> </suffixe>	<!--ادهولك-->
+	<suffixe unvoweledform="هولكم" 	voweledform="هولكم"  desc="OBJP+IN+OBJP" classe="sV17"> </suffixe>	<!--ادهولكم-->
+	<suffixe unvoweledform="هولكو" 	voweledform="هولكو"  desc="OBJP+IN+OBJP" classe="sV18"> </suffixe>	<!--ادهولكو-->
+	<suffixe unvoweledform="هولكوا" voweledform="هولكوا" desc="OBJP+IN+OBJP" classe="sV19"> </suffixe><!--ادهولكوا-->
+	<suffixe unvoweledform="هوله" 	voweledform="هوله" 	 desc="OBJP+IN+OBJP" classe="sV20"> </suffixe>	<!--ادهوله-->
+	<suffixe unvoweledform="هولها" 	voweledform="هولها"  desc="OBJP+IN+OBJP" classe="sV21"> </suffixe>	<!--ادهولها-->
+	<suffixe unvoweledform="هولهم" 	voweledform="هولهم"  desc="OBJP+IN+OBJP" classe="sV22"> </suffixe>	<!--ادهولهم-->
+	
+	<suffixe unvoweledform="هالي" 	voweledform="هالي" 	 desc="OBJP+IN+OBJP" classe="sV23"> </suffixe>	<!--ادهالي-->
+	<suffixe unvoweledform="هاني" 	voweledform="هاني" 	 desc="OBJP+IN+OBJP" classe="sV24"> </suffixe>	<!--ادهاني-->
+	<suffixe unvoweledform="هالنا" 	voweledform="هالنا"  desc="OBJP+IN+OBJP" classe="sV25"> </suffixe>	<!--ادهالنا-->
+	<suffixe unvoweledform="هالك" 	voweledform="هالك" 	 desc="OBJP+IN+OBJP" classe="sV26"> </suffixe>	<!--ادهالك-->
+	<suffixe unvoweledform="هالكم" 	voweledform="هالكم"  desc="OBJP+IN+OBJP" classe="sV27"> </suffixe>	<!--ادهالكم-->
+	<suffixe unvoweledform="هالكو" 	voweledform="هالكو"  desc="OBJP+IN+OBJP" classe="sV28"> </suffixe>	<!--ادهالكو-->
+	<suffixe unvoweledform="هالكوا" voweledform="هالكوا" desc="OBJP+IN+OBJP" classe="sV29"> </suffixe>	<!--ادهالكوا-->
+	<suffixe unvoweledform="هاله" 	voweledform="هاله" 	 desc="OBJP+IN+OBJP" classe="sV30"> </suffixe>	<!--ادهاله-->
+	<suffixe unvoweledform="هالها" 	voweledform="هالها"  desc="OBJP+IN+OBJP" classe="sV31"> </suffixe>	<!--ادهالها-->
+	<suffixe unvoweledform="هالهم" 	voweledform="هالهم"  desc="OBJP+IN+OBJP" classe="sV32"> </suffixe>	<!--ادهالهم-->		
+	
+	<suffixe unvoweledform="هملي" 	voweledform="هملي" 	 desc="OBJP+IN+OBJP" classe="sV33"> </suffixe>	<!--ادهملي-->
+	<suffixe unvoweledform="همني" 	voweledform="همني" 	 desc="OBJP+IN+OBJP" classe="sV34"> </suffixe>	<!--ادهمني-->
+	<suffixe unvoweledform="هملنا" 	voweledform="هملنا"  desc="OBJP+IN+OBJP" classe="sV35"> </suffixe>	<!--ادهملنا-->
+	<suffixe unvoweledform="هملك" 	voweledform="هملك" 	 desc="OBJP+IN+OBJP" classe="sV36"> </suffixe>	<!--ادهملك-->
+	<suffixe unvoweledform="هملكم" 	voweledform="هملكم"  desc="OBJP+IN+OBJP" classe="sV37"> </suffixe>	<!--ادهملكم-->
+	<suffixe unvoweledform="هملكو" 	voweledform="هملكو"  desc="OBJP+IN+OBJP" classe="sV38"> </suffixe>	<!--ادهملكو-->
+	<suffixe unvoweledform="هملكوا" voweledform="هملكوا" desc="OBJP+IN+OBJP" classe="sV39"> </suffixe>	<!--ادهملكوا-->
+	<suffixe unvoweledform="همله" 	voweledform="همله" 	 desc="OBJP+IN+OBJP" classe="sV40"> </suffixe>	<!--ادهمله-->
+	<suffixe unvoweledform="هملها" 	voweledform="هملها"  desc="OBJP+IN+OBJP" classe="sV41"> </suffixe>	<!--ادهملها-->
+	<suffixe unvoweledform="هملهم" 	voweledform="هملهم"  desc="OBJP+IN+OBJP" classe="sV42"> </suffixe>	<!--ادهملهم-->		
+
+	<suffixe unvoweledform="لنيش"	voweledform="لنيش" 	desc="IN+OBJP+NG" classe="sV43"> </suffixe>	
+	<suffixe unvoweledform="ليش" 	voweledform="ليش" 	desc="IN+OBJP+NG" classe="sV44"> </suffixe>	<!--ماحكاليش-->
+	<suffixe unvoweledform="لناش" 	voweledform="لناش" 	desc="IN+OBJP+NG" classe="sV45"> </suffixe>	<!--ماحكلناش-->
+	<suffixe unvoweledform="لكش"	voweledform="لكش" 	desc="IN+OBJP+NG" classe="sV46"> </suffixe>	<!--ماحكلكش-->
+	<suffixe unvoweledform="لكيش" 	voweledform="لكيش" 	desc="IN+OBJP+NG" classe="sV47"> </suffixe>	<!--ماحكلكيش-->
+	<suffixe unvoweledform="لكوش" 	voweledform="لكوش" 	desc="IN+OBJP+NG" classe="sV48"> </suffixe>	<!--ماحكلكوش-->
+	<suffixe unvoweledform="لكمش" 	voweledform="لكمش" 	desc="IN+OBJP+NG" classe="sV49"> </suffixe>	<!--ماحكلكمش-->
+	<suffixe unvoweledform="لهوش" 	voweledform="لهوش" 	desc="IN+OBJP+NG" classe="sV50"> </suffixe>	<!--ماحكالهوش-->
+	<suffixe unvoweledform="لهاش" 	voweledform="لهاش" 	desc="IN+OBJP+NG" classe="sV51"> </suffixe>	<!--ماحكالهاش-->
+	<suffixe unvoweledform="لهمش" 	voweledform="لهمش" 	desc="IN+OBJP+NG" classe="sV52"> </suffixe>	<!--ماحكلهمش-->
+	
+	<suffixe unvoweledform="هوليش"	voweledform="هوليش"  desc="OBJP+IN+OBJP+NG" classe="sV53"> </suffixe>	<!--ماقلهوليش-->
+	<suffixe unvoweledform="هولناش" voweledform="هولناش" desc="OBJP+IN+OBJP+NG" classe="sV54"> </suffixe>	<!--ماقلهولناش-->
+	<suffixe unvoweledform="هولكش"  voweledform="هولكش"  desc="OBJP+IN+OBJP+NG" classe="sV55"> </suffixe>	<!--ماقلهولكش-->
+	<suffixe unvoweledform="هولكمش" voweledform="هولكمش" desc="OBJP+IN+OBJP+NG" classe="sV56"> </suffixe>	<!--ماقلهولكمش-->
+	<suffixe unvoweledform="هولكوش" voweledform="هولكوش" desc="OBJP+IN+OBJP+NG" classe="sV57"> </suffixe>	<!--مافلهولكوش-->
+	<suffixe unvoweledform="هولهش" 	voweledform="هولهش"  desc="OBJP+IN+OBJP+NG" classe="sV58"> </suffixe>	<!--ماقلهولهش-->
+	<suffixe unvoweledform="هولهاش" voweledform="هولهاش" desc="OBJP+IN+OBJP+NG" classe="sV59"> </suffixe>	<!--ماقلهولهاش-->
+	<suffixe unvoweledform="هولهمش" voweledform="هولهمش" desc="OBJP+IN+OBJP+NG" classe="sV60"> </suffixe>	<!--ماقلهولهمش-->
+	
+	<suffixe unvoweledform="هاليش"  voweledform="هاليش"  desc="OBJP+IN+OBJP+NG" classe="sV61"> </suffixe>	<!--ماقلهاليش-->
+	<suffixe unvoweledform="هالناش" voweledform="هالناش" desc="OBJP+IN+OBJP+NG" classe="sV62"> </suffixe>	<!--ماقلهالناش-->
+	<suffixe unvoweledform="هالكش"  voweledform="هالكش"  desc="OBJP+IN+OBJP+NG" classe="sV63"> </suffixe>	<!--ماقلهالكش-->
+	<suffixe unvoweledform="هالكمش" voweledform="هالكمش" desc="OBJP+IN+OBJP+NG" classe="sV64"> </suffixe>	<!--ماقلهالكمش-->
+	<suffixe unvoweledform="هالكوش" voweledform="هالكوش" desc="OBJP+IN+OBJP+NG" classe="sV65"> </suffixe>	<!--ماقلهالكوش-->
+	<suffixe unvoweledform="هالهش"  voweledform="هالهش"  desc="OBJP+IN+OBJP+NG" classe="sV66"> </suffixe>	<!--ماقالهالهش-->
+	<suffixe unvoweledform="هالهاش" voweledform="هالهاش" desc="OBJP+IN+OBJP+NG" classe="sV67"> </suffixe>	<!--ماقلهالهاش-->
+	<suffixe unvoweledform="هالهمش" voweledform="هالهمش" desc="OBJP+IN+OBJP+NG" classe="sV68"> </suffixe>	<!--ماقلهالهمش-->		
+
+	<suffixe unvoweledform="همليش"  voweledform="همليش"  desc="OBJP+IN+OBJP+NG" classe="sV69"> </suffixe>	<!--ماقلهمليش-->
+	<suffixe unvoweledform="هملناش" voweledform="هملناش" desc="OBJP+IN+OBJP+NG" classe="sV70"> </suffixe>	<!--ماقلهملناش-->
+	<suffixe unvoweledform="هملكش"  voweledform="هملكش"  desc="OBJP+IN+OBJP+NG" classe="sV71"> </suffixe>	<!--ماقلهملكش-->
+	<suffixe unvoweledform="هملكمش" voweledform="هملكمش" desc="OBJP+IN+OBJP+NG" classe="sV72"> </suffixe>	<!--ماقلهملكمش-->
+	<suffixe unvoweledform="هملكوش" voweledform="هملكوش" desc="OBJP+IN+OBJP+NG" classe="sV73"> </suffixe>	<!--ماقلهملكوش-->
+	<suffixe unvoweledform="هملهش"  voweledform="هملهش"  desc="OBJP+IN+OBJP+NG" classe="sV74"> </suffixe>	<!--ماقالهملهش-->
+	<suffixe unvoweledform="هملهمش" voweledform="هملهمش" desc="OBJP+IN+OBJP+NG" classe="sV75"> </suffixe>	<!--ماقلهملهمش-->
+	<suffixe unvoweledform="هملهمش" voweledform="هملهمش" desc="OBJP+IN+OBJP+NG" classe="sV76"> </suffixe>	<!--ماقلهملهمش-->		
+		
+	</suffixes>

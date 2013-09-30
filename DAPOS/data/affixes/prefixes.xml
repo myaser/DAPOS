@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<prefixes>
+		<prefixe unvoweledform=""		voweledform="" 		desc="" 			classe="pC1"> </prefixe>
+		<prefixe unvoweledform="و"		voweledform="وَ" 	desc="CC" 			classe="pC2"> </prefixe> 
+		<prefixe unvoweledform="ف"		voweledform="فَ"		desc="CC" 			classe="pC3"> </prefixe> 
+		<prefixe unvoweledform="أ"		voweledform="أَ"		desc="INT" 			classe="pC4"> </prefixe> 
+		<prefixe unvoweledform="أو"		voweledform="أَوَ"	desc="INT+CC" 		classe="pC5"> </prefixe>
+		<prefixe unvoweledform="أف"		voweledform="أَفَ"	desc="INT+CC" 		classe="pC6"> </prefixe>
+		<prefixe unvoweledform="ل"		voweledform="لَ"		desc="RP|IN" 		classe="pC7"> </prefixe> 
+		<prefixe unvoweledform="ول"		voweledform="وَلَ"	desc="CC+RP|IN" 	classe="pC8"> </prefixe> 
+		<prefixe unvoweledform="فل"		voweledform="فل" 	desc="CC+RP|IN" 	classe="pC9"> </prefixe>
+		<prefixe unvoweledform="لا"		voweledform="لا"		desc="NG" 			classe="pC10"> </prefixe> <!-- NEW: MSA/EA-->
+		<prefixe unvoweledform="ولا"		voweledform="ولاَ" 	desc="CC+NG" 		classe="pC11"> </prefixe> <!-- NEW: MSA/EA-->
+		<prefixe unvoweledform="فلا"		voweledform="فلا" 	desc="CC+NG" 		classe="pC12"> </prefixe> <!-- NEW: MSA/EA-->
+		<prefixe unvoweledform="بلا" 	voweledform="بلا"	desc="IN+NG" 		classe="pC13"> </prefixe> <!-- NEW: MSA/EA-->
+		<prefixe unvoweledform="وبلا"	voweledform="وبلا"	desc="CC+IN+NG" 	classe="pC14"> </prefixe> <!-- NEW: MSA/EA-->
+		<prefixe unvoweledform="فبلا"	voweledform="فبلا"	desc="CC+IN+NG" 	classe="pC15"> </prefixe> <!-- NEW: MSA/EA-->
+		<prefixe unvoweledform="للا"		voweledform="للا"	desc="INT+NG" 		classe="pC16"> </prefixe> <!-- NEW: MSA/EA-->
+		<prefixe unvoweledform="وللا"	voweledform="وللا"	desc="CC+IN+NG" 	classe="pC17"> </prefixe> <!-- NEW: MSA/EA-->
+		<prefixe unvoweledform="فللا"	voweledform="فللا"	desc="CC+IN+NG" 	classe="pC18"> </prefixe> <!-- NEW: MSA/EA-->
+		
+		<prefixe unvoweledform="ال" 	voweledform="ال" 	desc="DT" 			classe="pN1"> </prefixe>
+		<prefixe unvoweledform="وال" 	voweledform="وَال" 	desc="CC+DT" 		classe="pN2"> </prefixe>
+		<prefixe unvoweledform="فال" 	voweledform="فَال" 	desc="CC+DT" 		classe="pN3"> </prefixe>
+		<prefixe unvoweledform="أوال" 	voweledform="أَوَال" 	desc="INT+CC+DT" 	classe="pN4"> </prefixe>
+		<prefixe unvoweledform="أفال" 	voweledform="أَفَال" 	desc="INT+CC+DT" 	classe="pN5"> </prefixe>				
+				
+		<prefixe unvoweledform="أال" 	voweledform="أَال" 	desc="INT+DT" 		classe="pN6"> </prefixe>
+		<prefixe unvoweledform="أبال" 	voweledform="أبال" 	desc="INT+IN+DT" 	classe="pN7"> </prefixe>
+		<prefixe unvoweledform="ألل" 	voweledform="ألل" 	desc="INT+IN+DT" 	classe="pN8"> </prefixe>
+				
+		<prefixe unvoweledform="أوبال"	voweledform="أوبال" desc="INT+CC+IN+DR" classe="pN9"> </prefixe>
+		<prefixe unvoweledform="أفبال"	voweledform="أفبال" desc="INT+CC+IN+DR" classe="pN10"> </prefixe>
+				
+		<prefixe unvoweledform="أولل"	voweledform="أولل"	desc="INT+CC+IN+DR" classe="pN11"> </prefixe>
+		<prefixe unvoweledform="أفلل"	voweledform="أفلل"	desc="INT+CC+IN+DR" classe="pN12"> </prefixe>
+				
+		<prefixe unvoweledform="لل"		voweledform="لَل" 	desc="IN+DT" 		classe="pN13"> </prefixe> 
+		<prefixe unvoweledform="ولل"	voweledform="ولَل" 	desc="CC+IN+DT" 	classe="pN14"> </prefixe>
+		<prefixe unvoweledform="فلل"	voweledform="فَلَل" 	desc="CC+IN+DT"		classe="pN15"> </prefixe>
+
+		<prefixe unvoweledform="بال" 	voweledform="بال"	desc="IN+DT"		classe="pN16"> </prefixe> 
+		<prefixe unvoweledform="وبال" 	voweledform="وبال"	desc="CC+IN+DT"		classe="pN17"> </prefixe>
+		<prefixe unvoweledform="فبال" 	voweledform="فبال"	desc="CC+IN+DT"		classe="pN18"> </prefixe>
+
+		<prefixe unvoweledform="عال"	voweledform="عال"	desc="IN+DT"		classe="pN19"> </prefixe> 
+		<prefixe unvoweledform="وعال"	voweledform="وعال"	desc="CC+IN+DT"		classe="pN20"> </prefixe>
+		<prefixe unvoweledform="فعال"	voweledform="فعال"	desc="CC+IN+DT"		classe="pN21"> </prefixe>
+			
+		<prefixe unvoweledform="كال" 	voweledform="كال" 	desc="IN+DT" 		classe="pN22"> </prefixe> 
+		<prefixe unvoweledform="وكال" 	voweledform="وكال" 	desc="CC+IN+DT" 	classe="pN23"> </prefixe> 
+		<prefixe unvoweledform="فكال" 	voweledform="فكال" 	desc="CC+IN+DT" 	classe="pN24"> </prefixe> 
+		
+		<prefixe unvoweledform="ب" 		voweledform="بِ" 	desc="IN" 			classe="pN25"></prefixe>
+		<prefixe unvoweledform="وب" 	voweledform="وَبِ" 	desc="CC+IN" 		classe="pN26"> </prefixe>
+		<prefixe unvoweledform="فب" 	voweledform="فَبِ" 	desc="CC+IN" 		classe="pN27"></prefixe>
+										
+		<prefixe unvoweledform="أب" 	voweledform="أَبِ" 	desc="INT+IN" 		classe="pN28"></prefixe>
+		<prefixe unvoweledform="أوب" 	voweledform="أوب" 	desc="INT+CC+IN" 	classe="pN29"> </prefixe>
+		<prefixe unvoweledform="أفب" 	voweledform="أفب" 	desc="INT+CC+IN" 	classe="pN30"></prefixe>
+					
+		<prefixe unvoweledform="أل" 	voweledform="أَلِ" 	desc="INT+IN" 		classe="pN31"> </prefixe>
+		<prefixe unvoweledform="أول" 	voweledform="أول" 	desc="INT+CC+IN" 	classe="pN32"> </prefixe>
+		<prefixe unvoweledform="أفل" 	voweledform="أفل" 	desc="INT+CC+IN" 	classe="pN33"> </prefixe>
+		
+		<prefixe unvoweledform="ك" 		voweledform="كَ" 	desc="IN" 			classe="pN34"></prefixe>
+		<prefixe unvoweledform="وك" 	voweledform="وَكَ" 	desc="CC+IN" 		classe="pN35"> </prefixe>
+		<prefixe unvoweledform="فك" 	voweledform="فَكَ" 	desc="CC+IN" 		classe="pN36"> </prefixe>
+			
+		<prefixe unvoweledform="أك"		voweledform="أَكَ" 	desc="INT+IN" 		classe="pN37"> </prefixe>	
+		<prefixe unvoweledform="أوك"	voweledform="أوك"	desc="INT+CC+IN" 	classe="pN38"> </prefixe>	
+		<prefixe unvoweledform="أفك"	voweledform="أفك" 	desc="INT+CC+IN" 	classe="pN39"> </prefixe>	
+	
+		<prefixe unvoweledform="يا" 	voweledform="يا" 	desc="VC" 			classe="pN40"> </prefixe>	<!-- NEW: MSA/EA -->
+		<prefixe unvoweledform="ويا" 	voweledform="ويا" 	desc="CC+VC" 		classe="pN41"> </prefixe>	<!-- NEW: MSA/EA -->	
+		<prefixe unvoweledform="فيا" 	voweledform="فيا" 	desc="CC+VC" 		classe="pN42"> </prefixe>	<!-- NEW: MSA/EA -->
+		
+		<prefixe unvoweledform="أيا" 	voweledform="أيا"	desc="INT+VC" 		classe="pN43"> </prefixe>	<!-- NEW: MSA/EA -->
+		<prefixe unvoweledform="أويا" 	voweledform="أويا"	desc="INT+CC+VC"	classe="pN44"> </prefixe>	<!-- NEW: MSA/EA -->
+		<prefixe unvoweledform="أفيا" 	voweledform="أفيا"	desc="INT+CC+VC"	classe="pN45"> </prefixe>	<!-- NEW: MSA/EA -->
+		
+		<prefixe unvoweledform="م"		voweledform="م"		desc="NG" 			classe="pV1"></prefixe>	<!-- EA -->
+		<prefixe unvoweledform="وم"		voweledform="وم"	desc="CC+NG" 		classe="pV2"> </prefixe> <!-- EA -->
+		<prefixe unvoweledform="فم" 	voweledform="فم"	desc="CC+NG" 		classe="pV3"> </prefixe> <!-- EA -->
+		
+		<prefixe unvoweledform="ما"		voweledform="ما" 	desc="NG" 			classe="pV4"> </prefixe> <!-- EA -->
+		<prefixe unvoweledform="وما"	voweledform="وما" 	desc="CC+NG" 		classe="pV5"> </prefixe> <!-- EA -->
+		<prefixe unvoweledform="فما"	voweledform="فما" 	desc="CC+NG" 		classe="pV6"> </prefixe> <!-- EA -->
+		
+	</prefixes>
