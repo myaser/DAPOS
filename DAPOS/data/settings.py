@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from DAPOS import settings
 import os.path
 
@@ -59,6 +60,11 @@ ARABIC_VOWELS = [u"\u064B",    # ARABIC FATHATAN
                  u"\u0652",    # ARABIC SUKUN
             ]
 
+emoticons = r"(?:\s|^)([bcopvxBCDILOPSX:っ@Q;°_>,Þ$#03578&%ಠ~\-\\/\*\]\[<\)\(\{\}'\.\^=\|]{2,9})(?=\s|$)"
+punctuation = ur"([^\u0621-\u063A^\u0641-\u064A^\w\s]+)"
+digit = r'\b(\d+)\b'
+float_match = r'\b(\d+[.]\d+)\b'
+vowels = '[' + "".join(ARABIC_VOWELS) + ']'
 
 prefix_files = [
     os.path.join(settings.PROJECT_ROOT, 'data', 'affixes', 'prefixes.xml'),
