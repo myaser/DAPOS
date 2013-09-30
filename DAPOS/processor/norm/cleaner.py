@@ -14,36 +14,60 @@ def split(txt, regex, tag, tag_dict):
     for match in regex.finditer(txt):
         if not overlap_with(match.span(), tag_dict):
             tag_dict.update({match.span(): tag})
-
     return txt, tag_dict
 
 
-def split_emoticons(txt, tag_dict):
+def split_emoticons(statment):
     '''
         tag positions of emoticons
     '''
-    return split(txt, emoticons_regex, EMOTICONS_TAG, tag_dict)
+    statment.text, statment.tag_dict = split(
+        statment.text,
+        emoticons_regex,
+        EMOTICONS_TAG,
+        statment.tag_dict
+    )
+    return statment
 
 
-def split_punctuation(txt, tag_dict):
+def split_punctuation(statment):
     '''
         tag positions of punctuation
     '''
-    return split(txt, punctuation_regex, PUNCTUATION_TAG, tag_dict)
+    statment.text, statment.tag_dict = split(
+        statment.text,
+        punctuation_regex,
+        PUNCTUATION_TAG,
+        statment.tag_dict
+    )
+    return statment
 
 
-def split_digits(txt, tag_dict):
+def split_digits(statment):
     '''
         tag positions of digits
     '''
-    tagged_floats, tag_dict = split(txt, float_regex, DIGIT_TAG, tag_dict)
-    return split(tagged_floats, digit_regex, DIGIT_TAG, tag_dict)
+    statment.text, statment.tag_dict = split(
+        statment.text,
+        float_regex,
+        DIGIT_TAG,
+        statment.tag_dict
+    )
+    statment.text, statment.tag_dict = split(
+        statment.text,
+        digit_regex,
+        DIGIT_TAG,
+        statment.tag_dict
+    )
+    
+    return statment
 
 
 
-def remove_diacritics(txt, tag_dict):
+def remove_diacritics(statment):
     '''
         remove diacritic from the whole text
         path tag_dict throw it!
     '''
-    return vowels_regex.sub("", txt), tag_dict
+    statment.text = vowels_regex.sub("", statment.text)
+    return statment
