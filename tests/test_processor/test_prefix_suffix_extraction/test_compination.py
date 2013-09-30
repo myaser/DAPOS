@@ -2,8 +2,9 @@
 # -*- coding: UTF-8 -*-
 import unittest
 from DAPOS.processor.token.segmentation import Word
-import collections
-
+from DAPOS.data.affixes import prefixes, suffixes
+from DAPOS.processor.token.segmentation.prefix import extract_prefixes
+from DAPOS.processor.token.segmentation.suffix import extract_suffixes
 
 
 class TestSegmentation(unittest.TestCase):
@@ -12,11 +13,21 @@ class TestSegmentation(unittest.TestCase):
         test segment words to all possible prefixes, circufixes, and suffixes
         '''
 
-        word = Word(u"")
+        word = Word(u"",
+            extract_prefixes,
+            extract_suffixes,
+            prefixes,
+            suffixes
+        )
         self.assertEqual(word.string, u"")
         self.assertEqual(word.segment(), [])
 
-        word2 = Word(u"الله")
+        word2 = Word(u"الله",
+            extract_prefixes,
+            extract_suffixes,
+            prefixes,
+            suffixes
+        )
         self.assertEqual(set(word2.segment()), set([
                 ((u'', u'C1'), u'الله', (u'', u'C1')),
                 ((u'', u'C1'), u'الل', (u'ه', u'C3')),

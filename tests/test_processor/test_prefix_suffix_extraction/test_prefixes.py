@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 import unittest
-from DAPOS.processor.token.segmentation import extract_prefixes
+from DAPOS.processor.token.segmentation.prefix import extract_prefixes
+from DAPOS.data.affixes import prefixes
 
 
 class PrefixTest(unittest.TestCase):
@@ -24,4 +25,5 @@ class PrefixTest(unittest.TestCase):
                     (u"أفس", u"V1"), (u"أف", u"C2"),]]
 
         for word, expected in zip(test_words, expects):
-            self.assertEqual(set(expected), set(extract_prefixes(word)))
+            self.assertEqual(set(expected),
+                             set(extract_prefixes(word, prefixes)))

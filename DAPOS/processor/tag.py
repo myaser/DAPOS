@@ -2,6 +2,9 @@ from pipeline import Pipeline
 from pipeline.utils import StopPipeline
 
 from DAPOS.processor.token.segmentation import Word
+from DAPOS.data.affixes import prefixes, suffixes
+from DAPOS.processor.token.segmentation.prefix import extract_prefixes
+from DAPOS.processor.token.segmentation.suffix import extract_suffixes
 from DAPOS.processor.norm.cleaner import remove_diacritics, split_emoticons, \
     split_punctuation, split_digits
 from DAPOS.data.normalization import split_tag_regex, tagged_text
@@ -31,7 +34,13 @@ def split_tag_or_iffex(element):
     if tagged_text.match(element.strip()):
         return split_tag_regex.split(element.strip())[1:-1]
     else:
-        return Word(element).segment()
+        return Word(
+            element,
+            extract_prefixes,
+            extract_suffixes,
+            prefixes,
+            suffixes
+        ).segment()
 
 def tag(text):
     '''get the data in the form the user intered and return tagged words'''

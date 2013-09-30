@@ -1,7 +1,8 @@
 # -*- coding: UTF:8 -*-
 
 import unittest
-from DAPOS.processor.token.segmentation import extract_suffixes
+from DAPOS.processor.token.segmentation.suffix import extract_suffixes
+from DAPOS.data.affixes import suffixes
 
 
 class TestSuffix(unittest.TestCase):
@@ -29,4 +30,5 @@ class TestSuffix(unittest.TestCase):
                     (u"ليش", "V4"), (u"ش", "V2")]]
 
         for word, expected in zip(test_words, expects):
-            self.assertEqual(set(expected), set(extract_suffixes(word)))
+            self.assertEqual(set(expected),
+                             set(extract_suffixes(word, suffixes)))

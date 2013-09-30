@@ -1,15 +1,15 @@
-from prefix import extract_prefixes, iter_prefixes
-from suffix import extract_suffixes, iter_suffixes
 from itertools import product
-
 
 
 class Word(object):
     """represent each word in the query"""
-    def __init__(self, raw_string):
+    def __init__(self, raw_string, prefix_extractor,
+                 suffix_extractor, prefix_trie, suffix_trie):
         self.string = raw_string
-        self.prefixes = extract_prefixes(self.string)
-        self.suffixes = extract_suffixes(self.string)
+        self.prefix_extractor = prefix_extractor
+        self.suffix_extractor = suffix_extractor
+        self.prefixes = self.prefix_extractor(self.string, prefix_trie)
+        self.suffixes = self.suffix_extractor(self.string, suffix_trie)
 
     def _circufix_for(self, prefix="", suffix=""):
         result = self.string
