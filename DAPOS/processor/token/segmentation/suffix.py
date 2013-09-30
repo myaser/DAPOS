@@ -9,7 +9,7 @@ def iter_suffixes(raw, suffix_trie=suffixes):
         extract all posible suffixes for the raw string
         iter results, it give better performance with loops
     '''
-    yield u"", u"C1"
+    yield u"", suffix_trie[u'']
     for suffix, suffix_type in suffix_trie.iter_prefix_items(
                                 unicode(raw[::-1])):
         yield suffix[::-1], suffix_type

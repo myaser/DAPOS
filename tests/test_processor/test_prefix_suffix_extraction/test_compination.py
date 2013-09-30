@@ -29,6 +29,7 @@ class TestSegmentation(unittest.TestCase):
             suffixes
         )
         self.assertEqual(set(word2.segment()), set([
-                ((u'', u'C1'), u'الله', (u'', u'C1')),
-                ((u'', u'C1'), u'الل', (u'ه', u'C3')),
+                ((u'', u'pC1'), u'الله', (u'', u'sC1')),
+                ((u'', u'pC1'), u'الل', (u'ه', u'sC10')),
+                ((u'ال', u'pN1'), u'له', (u'', u'sC1')),
             ]))
