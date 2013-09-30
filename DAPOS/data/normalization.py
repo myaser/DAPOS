@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 print "    loading normalization patterns and constants"
 import re
-from chars import ARABIC_VOWELS
+from settings import ARABIC_VOWELS
 
 emoticons_regex = re.compile(r"(?:\s|^)([bcopvxBCDILOPSX:っ@Q;°_>,Þ$#03578&%ಠ~\-\\/\*\]\[<\)\(\{\}'\.\^=\|]{2,9})(?=\s|$)")
 punctuation_regex = re.compile(ur"([^\u0621-\u063A^\u0641-\u064A^\w\s]+)")

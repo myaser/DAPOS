@@ -2,6 +2,6 @@
 
 print "loading data for DAPOS ..."
 
-from chars import *
+from settings import *
 from normalization import *
 from affixes import *

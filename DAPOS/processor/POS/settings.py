@@ -1,0 +1,1 @@
+from DAPOS import settings
