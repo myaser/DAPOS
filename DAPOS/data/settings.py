@@ -1,4 +1,9 @@
+# -*- coding: UTF-8 -*-
+from DAPOS import settings
+import os.path
+
 print "    loading arabic litters constants"
+
 ARABIC_CHARS = [u"\u0621",    # ARABIC LETTER HAMZA
                 u"\u0622",    # ARABIC LETTER ALEF WITH MADDA ABOVE
                 u"\u0623",    # ARABIC LETTER ALEF WITH HAMZA ABOVE
@@ -44,6 +49,7 @@ ARABIC_CHARS = [u"\u0621",    # ARABIC LETTER HAMZA
                 u"\u0651",    # ARABIC SHADDA
                 u"\u0652",    # ARABIC SUKUN
             ]
+
 ARABIC_VOWELS = [u"\u064B",    # ARABIC FATHATAN
                  u"\u064C",    # ARABIC DAMMATAN
                  u"\u064D",    # ARABIC KASRATAN
@@ -53,3 +59,16 @@ ARABIC_VOWELS = [u"\u064B",    # ARABIC FATHATAN
                  u"\u0651",    # ARABIC SHADDA
                  u"\u0652",    # ARABIC SUKUN
             ]
+
+emoticons = r"(?:\s|^)([bcopvxBCDILOPSX:っ@Q;°_>,Þ$#03578&%ಠ~\-\\/\*\]\[<\)\(\{\}'\.\^=\|]{2,9})(?=\s|$)"
+punctuation = ur"([^\u0621-\u063A^\u0641-\u064A^\w\s]+)"
+digit = r'\b(\d+)\b'
+float_match = r'\b(\d+[.]\d+)\b'
+vowels = '[' + "".join(ARABIC_VOWELS) + ']'
+
+prefix_files = [
+    os.path.join(settings.PROJECT_ROOT, 'data', 'affixes', 'prefixes.xml'),
+]
+suffix_files = [
+    os.path.join(settings.PROJECT_ROOT, 'data', 'affixes', 'suffixes.xml'),
+]

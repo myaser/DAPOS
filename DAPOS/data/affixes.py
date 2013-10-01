@@ -4,33 +4,35 @@
 '''
 print "    loading affix data"
 
-import os
 import xml.etree.ElementTree as ET
 from itertools import chain
 
 import datrie
+from functools import partial
 
-from chars import ARABIC_CHARS
+from settings import ARABIC_CHARS, prefix_files, suffix_files
 
 
 prefixes = datrie.Trie(ARABIC_CHARS)
 suffixes = datrie.Trie(ARABIC_CHARS)
 
-_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'affixes')
 
-_xml_khalil_prefixes = ET.parse(os.path.join(_path, 'KHALIL_prefixes.xml')).getroot()
-_xml_dapos_prefixes = ET.parse(os.path.join(_path, 'DAPOS_prefixes.xml')).getroot()
+def extract_tree(files):
+    for xml_file in files:
+        yield ET.parse(xml_file).getroot()
 
-_xml_khalil_suffixes = ET.parse(os.path.join(_path, 'KHALIL_suffixes.xml')).getroot()
-_xml_dapos_suffixes = ET.parse(os.path.join(_path, 'DAPOS_suffixes.xml')).getroot()
+def iter_tag(xml, tag):
+    return xml.iter(tag)
 
+iter_prefixe = partial(iter_tag, tag='prefixe')
+iter_suffixe = partial(iter_tag, tag='suffixe')
 
-for prefix in chain(_xml_khalil_prefixes.iter('prefixe'),
-                    _xml_dapos_prefixes.iter('prefixe')):
-    prefixes[unicode(prefix.attrib['unvoweledform'])] = unicode(prefix.attrib['classe'])
+for prefix in chain(*map(iter_prefixe, extract_tree(prefix_files))):
+    unvoweled_prefix = unicode(prefix.attrib['unvoweledform'])
+    prefixes[unvoweled_prefix] = unicode(prefix.attrib['classe'])
 
-for suffix in chain(_xml_khalil_suffixes.iter('suffixe'),
-                    _xml_dapos_suffixes.iter('suffixe')):
-    suffixes[unicode(suffix.attrib['unvoweledform'][::-1])] = unicode(suffix.attrib['classe'])
+for suffix in chain(*map(iter_suffixe, extract_tree(suffix_files))):
+    unvoweled_suffix = unicode(suffix.attrib['unvoweledform'][::-1])
+    suffixes[unvoweled_suffix] = unicode(suffix.attrib['classe'])
 
 __all__ = ['prefixes', 'suffixes']

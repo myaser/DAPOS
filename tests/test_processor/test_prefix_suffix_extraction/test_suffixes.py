@@ -1,7 +1,8 @@
 # -*- coding: UTF:8 -*-
 
 import unittest
-from DAPOS.processor.token.segmentation import extract_suffixes
+from DAPOS.processor.token.segmentation.suffix import extract_suffixes
+from DAPOS.data.affixes import suffixes
 
 
 class TestSuffix(unittest.TestCase):
@@ -12,21 +13,22 @@ class TestSuffix(unittest.TestCase):
                       u"مضربش", u"مضربنيش", u"ضربهولنا", u"ضربهولهم",
                       u"ضربهالي", u"ضربهاله", u"ضربلنيش", u"ماضربهاليش",
                       u"مضربهلناش",]
-        expects = [[(u'', u'C1'), (u"ك", "C2")],
-                   [(u'', u'C1'), (u"كي", "C2"), (u"ي", "C2")],
-                   [(u'', u'C1'), (u"كما","C2")], 
-                   [(u'', u'C1'), (u"كوا","C2"),],
-                   [(u'', u'C1'), (u"ني", "V1"), (u"ي", "C2")],
-                   [(u'', u'C1'), (u"ش", "V2")],
-                   [(u'', u'C1'), (u"نيش", "V2"), (u"ش", "V2")],
-                   [(u'', u'C1'), (u"هولنا", "V3"), (u"نا", "C2"),],
-                   [(u'', u'C1'), (u"هولهم", "V3"), (u"هم", u"C3"),],
-                   [(u'', u'C1'), (u"هالي", "V3"), (u"ي", "C2"),],
-                   [(u'', u'C1'), (u"هاله", "V3"), (u"ه", u"C3"),],
-                   [(u'', u'C1'), (u"لنيش", "V4"),
-                    (u"ش", "V2"), (u"نيش", "V2")],
-                   [(u'', u'C1'), (u"هاليش", "V5"),
-                    (u"ليش", "V4"), (u"ش", "V2")]]
+        expects = [[(u'', u'sC1'), (u"ك", "sC4")],
+                   [(u'', u'sC1'), (u"كي", "sV3"), (u"ي", "sC2")],
+                   [(u'', u'sC1'), (u"كما","sC5")], 
+                   [(u'', u'sC1'), (u"كوا","sC8"),],
+                   [(u'', u'sC1'), (u"ني", "sV2"), (u"ي", "sC2")],
+                   [(u'', u'sC1'), (u"ش", "sV1")],
+                   [(u'', u'sC1'), (u"نيش", "sV4"), (u"ش", "sV1")],
+                   [(u'', u'sC1'), (u"هولنا", "sV15"), (u"نا", "sC3"),],
+                   [(u'', u'sC1'), (u"هولهم", "sV22"), (u"هم", u"sC13"),],
+                   [(u'', u'sC1'), (u"هالي", "sV23"), (u"ي", "sC2"),],
+                   [(u'', u'sC1'), (u"هاله", "sV30"), (u"ه", u"sC10"),],
+                   [(u'', u'sC1'), (u"لنيش", "sV43"),
+                    (u"ش", "sV1"), (u"نيش", "sV4")],
+                   [(u'', u'sC1'), (u"هاليش", "sV61"),
+                    (u"ليش", "sV44"), (u"ش", "sV1")]]
 
         for word, expected in zip(test_words, expects):
-            self.assertEqual(set(expected), set(extract_suffixes(word)))
+            self.assertEqual(set(expected),
+                             set(extract_suffixes(word, suffixes)))

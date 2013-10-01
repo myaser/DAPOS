@@ -1,18 +1,23 @@
-from prefix import extract_prefixes, iter_prefixes
-from suffix import extract_suffixes, iter_suffixes
 from itertools import product
-
 
 
 class Word(object):
     """represent each word in the query"""
-    def __init__(self, raw_string):
+    def __init__(self, raw_string, prefix_extractor,
+                 suffix_extractor, prefix_trie, suffix_trie):
         self.string = raw_string
-        self.prefixes = extract_prefixes(self.string)
-        self.suffixes = extract_suffixes(self.string)
+        self.prefix_extractor = prefix_extractor
+        self.suffix_extractor = suffix_extractor
+        self.prefixes = self.prefix_extractor(self.string, prefix_trie)
+        self.suffixes = self.suffix_extractor(self.string, suffix_trie)
 
     def _circufix_for(self, prefix="", suffix=""):
-        return self.string[len(prefix):-len(suffix)]
+        result = self.string
+        if prefix:
+            result = result[len(prefix):]
+        if suffix:
+            result = result[:-len(suffix)]
+        return result
 
     def segment(self):
         prefixes_and_suffixes = filter(
@@ -23,7 +28,7 @@ class Word(object):
         segments = []
         for prefix, suffix in prefixes_and_suffixes:
             segments.append(
-                (prefix, self._circufix_for(prefix, suffix), suffix)
+                (prefix, self._circufix_for(prefix[0], suffix[0]), suffix)
             )
         return segments
 

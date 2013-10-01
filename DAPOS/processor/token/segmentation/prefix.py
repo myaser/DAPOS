@@ -4,18 +4,18 @@ prefix related logic
 from DAPOS.data.affixes import prefixes
 
 
-def iter_prefixes(raw):
+def iter_prefixes(raw, prefixes_trie=prefixes):
     '''
         extract all posible prefixes for the raw string
         iter results, it give better performance with loops
     '''
-    yield u"", u"C1"
-    for prefix in prefixes.iter_prefix_items(unicode(raw)):
+    yield u'', prefixes_trie[u'']
+    for prefix in prefixes_trie.iter_prefix_items(unicode(raw)):
         yield prefix
 
 
-def extract_prefixes(raw):
+def extract_prefixes(raw, prefixes_trie=prefixes):
     '''
         extract all posible prefixes for the raw string
     '''
-    return list(iter_prefixes(raw))
+    return list(iter_prefixes(raw, prefixes_trie))
