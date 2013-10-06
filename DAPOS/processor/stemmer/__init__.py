@@ -1,16 +1,22 @@
 from itertools import product
 
 from DAPOS.data.affixes import prefixes, suffixes
-from DAPOS.processor.token.segmentation.prefix import extract_prefixes
-from DAPOS.processor.token.segmentation.suffix import extract_suffixes
+from DAPOS.processor.stemmer.prefix import extract_prefixes
+from DAPOS.processor.stemmer.suffix import extract_suffixes
 
+from fixer import fix_stem
 
 class Word(object):
     """represent each word in the query"""
     def __init__(self, raw_string):
         self.string = raw_string
-        self.prefixes = extract_prefixes(self.string)
-        self.suffixes = extract_suffixes(self.string)
+        self._prefixes = extract_prefixes(self.string)
+        self._suffixes = extract_suffixes(self.string)
+        self._prefixes_and_suffixes = [prefix_suffix
+            for prefix_suffix in product(self._prefixes, self._suffixes)
+            if self.is_valid_segment(prefix_suffix)
+        ]
+        self.update_stems()
 
     def _circufix_for(self, prefix="", suffix=""):
         result = self.string
@@ -20,18 +26,17 @@ class Word(object):
             result = result[:-len(suffix)]
         return result
 
-    def segment(self):
-        prefixes_and_suffixes = filter(
-            self.is_valid_segment,
-            product(self.prefixes, self.suffixes)
-        )
-
-        segments = []
-        for prefix, suffix in prefixes_and_suffixes:
-            segments.append(
-                (prefix, self._circufix_for(prefix[0], suffix[0]), suffix)
+    def update_stems(self):
+        self.stems = []
+        for prefix, suffix in self._prefixes_and_suffixes:
+            self.stems.append(
+                fix_stem(
+                    (prefix, self._circufix_for(prefix[0], suffix[0]), suffix)
+                )
             )
-        return segments
+
+    def __iter__(self):
+        return iter(self.stems)
 
     def is_valid_segment(self, comination):
         prefix, suffix = comination

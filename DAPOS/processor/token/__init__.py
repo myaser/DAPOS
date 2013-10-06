@@ -23,6 +23,7 @@ def detect_special_tokens(text, tokens):
 
 def tokenize(text):
     '''convert raw text into list of tokens'''
+    # TODO: get pre-tokenization in settings file
     text = remove_diacritics(text)
     pre_intervals = detect_special_tokens(text, special_tokens)
 

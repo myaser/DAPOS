@@ -1,7 +1,7 @@
 # -*- coding: UTF:8 -*-
 
 import unittest
-from DAPOS.processor.token.segmentation.suffix import extract_suffixes
+from DAPOS.processor.stemmer.suffix import extract_suffixes
 from DAPOS.data.affixes import suffixes
 
 
