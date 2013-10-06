@@ -1,4 +1,5 @@
 from functools import partial, wraps
+from itertools import chain
 
 import memcache
 cache = memcache.Client(['127.0.0.1:11211'], debug=0)
@@ -27,3 +28,8 @@ def _get_or_cache(key, fn, *args, **kwargs):
     return wrapper
 
 get_or_cache = lambda key: partial(_get_or_cache, key)
+
+
+def flatten(listOfLists):
+    "Flatten one level of nesting"
+    return chain.from_iterable(listOfLists)

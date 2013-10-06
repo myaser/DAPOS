@@ -1,19 +1,37 @@
 from banyan import SortedSet, OverlappingIntervalsUpdator
+from DAPOS.utils import flatten
 
+class BoundariesOverlap(object):
+    EndOfBoundaries = 'EndOfText'
+    def __init__(self, boundaries, edges):
+        self.boundaries = boundaries
+        self._edges = sorted(flatten(edges))
+        self.edges = None
+        self.edge = None
+        self.switch = True
 
-def overlap(intervals1, intervals2):
-    intervals = SortedSet(intervals1,
-                          key_type = (int, int),
-                          updator=OverlappingIntervalsUpdator)
+    def update_edge(self):
+        try:
+            self.edge = self.edges.pop(0)
+        except IndexError:
+            self.edge = self.EndOfBoundaries
 
-    results = []
-    for other_interval in intervals2:
-        # TODO: PROBLEM: if intervals overlap in one point, it's counted here!
-        results += intervals.overlap(other_interval)
-    return results
+    def is_edge(self, point):
+        return point == self.edge
 
-def overlap_with(interval, dic):
-    for key in dic.keys():
-        if max(0, min(interval[1], key[1]) - max(interval[0], key[0])):
-            return True
-    return False
+    def _init_iter(self):
+        self.edges = self._edges[:]
+        self.update_edge()
+        self.switch = True
+
+    def flip_switch(self):
+        self.switch = not self.switch
+
+    def __iter__(self):
+        self._init_iter()
+        for boundary in self.boundaries:
+            if self.switch or self.is_edge(boundary):
+                yield boundary
+            if self.is_edge(boundary):
+                self.flip_switch()
+                self.update_edge()
