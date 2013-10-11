@@ -5,6 +5,7 @@ from DAPOS.processor.tag import tag
 
 import os.path
 import csv
+import codecs
 
 
 class FunctionTest(unittest.TestCase):
@@ -16,13 +17,14 @@ class FunctionTest(unittest.TestCase):
     def setUp(self):
         '''read examples in csv file
         '''
-        self.csv_file = open(self.CSVFile, 'rb')
-        self.test_cases = csv.reader(self.csv_file)
+        self.csv_file = codecs.open(self.CSVFile, 'rb', encoding='utf-8')
+        self.test_cases = csv.reader(self.csv_file, encoding='utf-8')
+        import pdb; pdb.set_trace()
 
     def tearDown(self):
         self.csv_file.close()
 
-    def test_damn(self):
+    def test_cvs_file(self):
         for raw, expected in self.test_cases:
             sol = tag(raw)
             synt = iter(expected)
@@ -53,7 +55,7 @@ class FunctionTest(unittest.TestCase):
                                     break
                     self.assertTrue(matched)
                 else:
-                    self.assertEqual(unicode(synt.next()), synt.next())
+                    self.assertEqual(synt.next(), synt.next())
 
 
 class TestTag(unittest.TestCase):
@@ -63,14 +65,15 @@ class TestTag(unittest.TestCase):
             [u'1', u'CD'],
             [u'-', u'PUNC'],
             [
-                ((u'', u'C1'), u'بسمك', (u'', u'C1')),
-                ((u'', u'C1'), u'بسم', (u'ك', u'C2')),
-                ((u'ب', u'N4'), u'سمك', (u'', u'C1')),
-                ((u'ب', u'N4'), u'سم', (u'ك', u'C2')),
+                ((u'', u'pC1'), u'بسمك', (u'', u'sC1')),
+                ((u'', u'pC1'), u'بسم', (u'ك', u'sC4')),
+                ((u'ب', u'pN25'), u'سمك', (u'', u'sC1')),
+                ((u'ب', u'pN25'), u'سم', (u'ك', u'sC4')),
              ],
             [
-                ((u'', u'C1'), u'اللهم', (u'', u'C1')),
-                ((u'', u'C1'), u'الل', (u'هم', u'C3')),
+                ((u'', u'pC1'), u'اللهم', (u'', u'sC1')),
+                ((u'', u'pC1'), u'الل', (u'هم', u'sC13')),
+                ((u'ال', u'pN1'), u'لهم', (u'', u'sC1')),
             ],
             [u'،', u'PUNC'],
             [u':)', u'EMO'],

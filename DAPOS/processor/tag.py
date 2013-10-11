@@ -1,52 +1,23 @@
-from pipeline import Pipeline
-from pipeline.utils import StopPipeline
+from DAPOS.processor.token import tokenize
+from DAPOS.utils.norm.validation import is_word, is_digit, is_emoticon, is_punc
+from DAPOS.processor.stemmer import Word
+from settings import EMOTICONS_TAG, PUNCTUATION_TAG, DIGIT_TAG, NOTDEFINED_TAG
 
-from DAPOS.processor.token.segmentation import Word
-from DAPOS.data.affixes import prefixes, suffixes
-from DAPOS.processor.token.segmentation.prefix import extract_prefixes
-from DAPOS.processor.token.segmentation.suffix import extract_suffixes
-from DAPOS.processor.norm.cleaner import remove_diacritics, split_emoticons, \
-    split_punctuation, split_digits
-
-
-class Statment(object):
-    """docstring for Statment"""
-    def __init__(self, text):
-        self.text = text
-        self.tag_dict = {}
-
-    def __iter__(self):
-        # TODO: write it to return iterator for words of system
-        pass
-
-def provide_text(statment):
-    '''
-    pipline producer
-    '''
-    if statment is None:
-        raise StopPipeline("limit reached")
-    return statment, None
-
-
-def consume_text(statment):
-    '''consumer function
-    it don't do any thing!
-    '''
-    return statment
-
+def stem_tokens(tokens):
+    for token in tokens:
+        if is_word(token):
+            yield Word(token).stems
+        elif is_digit(token):
+            yield [token, DIGIT_TAG]
+        elif is_emoticon(token):
+            yield [token, EMOTICONS_TAG]
+        elif is_punc(token):
+            yield [token, PUNCTUATION_TAG]
+        else:
+            yield [token, NOTDEFINED_TAG]
 
 def tag(text):
     '''get the data in the form the user intered and return tagged words'''
-    statment = Statment(text)
-    pipeline = Pipeline(provide_text,
-        [remove_diacritics, split_emoticons, split_punctuation, split_digits],
-        consume_text)
-    cleaned_statment = pipeline.follow(statment).pop()
+    tokens = tokenize(text)
 
-    words = [word
-        for word in cleaned_statment
-    ]
-
-    return words
-
-
+    return [stemmed_token for stemmed_token in stem_tokens(tokens)]

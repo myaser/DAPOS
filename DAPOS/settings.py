@@ -3,7 +3,7 @@ import os.path
 
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
-emoticons = {
+EMOTICONS = {
     "O:)": "angel",
     "o:)": "angel",
     "O:-)": "angel",
@@ -160,4 +160,10 @@ emoticons = {
     u"^Ü^": "happy",
 }
 
-special_tokens = emoticons
+special_tokens = EMOTICONS
+
+
+EMOTICONS_TAG = 'EMO'
+PUNCTUATION_TAG = 'PUNC'
+DIGIT_TAG = 'CD'
+NOTDEFINED_TAG = 'NN'
