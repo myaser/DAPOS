@@ -7,3 +7,4 @@ git+git://github.com/dlrust/python-memcached-stats.git
 
 coverage
 python_pipeliner
+banyan
