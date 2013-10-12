@@ -50,6 +50,6 @@ class Word(object):
         if prefix_type in ['N1', 'N2', 'N3', 'N5'] and bool(suffix_type):
             return False
         circufix = self._circufix_for(prefix, suffix)
-        if len(circufix) > 9 or len(circufix) < 2:
+        if len(circufix) > 1:
             return False
         return True

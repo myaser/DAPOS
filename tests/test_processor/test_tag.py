@@ -8,6 +8,25 @@ import csv
 import codecs
 
 
+class UTF8Recoder(object):
+    def __init__(self, f, encoding):
+        self.reader = codecs.getreader(encoding)(f)
+    def __iter__(self):
+        return self
+    def next(self):
+        return self.reader.next().encode("utf-8")
+
+class UnicodeReader(object):
+    def __init__(self, f, dialect=csv.excel, encoding="utf-8-sig", **kwds):
+        f = UTF8Recoder(f, encoding)
+        self.reader = csv.reader(f, dialect=dialect, **kwds)
+    def next(self):
+        row = self.reader.next()
+        return [unicode(s, "utf-8") for s in row]
+    def __iter__(self):
+        return self
+
+
 class FunctionTest(unittest.TestCase):
     '''
         the whole operation against example CSV file
@@ -17,9 +36,8 @@ class FunctionTest(unittest.TestCase):
     def setUp(self):
         '''read examples in csv file
         '''
-        self.csv_file = codecs.open(self.CSVFile, 'rb', encoding='utf-8')
-        self.test_cases = csv.reader(self.csv_file, encoding='utf-8')
-        import pdb; pdb.set_trace()
+        self.csv_file = open(self.CSVFile, 'rb')
+        self.test_cases = UnicodeReader(self.csv_file)
 
     def tearDown(self):
         self.csv_file.close()
