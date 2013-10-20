@@ -38,18 +38,8 @@ class Word(object):
     def __iter__(self):
         return iter(self.stems)
 
-    def is_valid_segment(self, comination):
-        prefix, suffix = comination
-        prefix, prefix_type = prefix
-        suffix, suffix_type = suffix
-
-        if prefix_type[0] == 'N' and suffix_type[0] == 'V':
-            return False
-        if prefix_type[0] == 'V' and suffix_type[0] == 'N':
-            return False
-        if prefix_type in ['N1', 'N2', 'N3', 'N5'] and bool(suffix_type):
-            return False
+    def is_valid_segment(self, ((prefix, prefix_type), (suffix, suffix_type))):
         circufix = self._circufix_for(prefix, suffix)
-        if len(circufix) > 1:
+        if len(circufix) < 2:
             return False
         return True
