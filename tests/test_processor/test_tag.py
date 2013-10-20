@@ -117,3 +117,6 @@ class TestTag(unittest.TestCase):
             [u'،', u'PUNC'],
             [u':)', u'EMO'],
         ], processed)
+
+        processed = tag(u'install')
+        self.assertEqual([[u'install', u'NN']], processed)

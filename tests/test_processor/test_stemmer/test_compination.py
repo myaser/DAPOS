@@ -18,7 +18,7 @@ class TestSegmentation(unittest.TestCase):
         self.assertEqual(word.stems, [])
 
         word2 = Word(u"الله")
-        self.assertEqual(set(word2.stems), set([
+        self.assertEqual(set([case for case in word2]), set([
                 ((u'', u'pC1'), u'الله', (u'', u'sC1')),
                 ((u'', u'pC1'), u'الل', (u'ه', u'sC10')),
                 ((u'ال', u'pN1'), u'له', (u'', u'sC1')),
