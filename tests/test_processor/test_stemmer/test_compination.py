@@ -20,3 +20,11 @@ class TestSegmentation(unittest.TestCase):
                 (Prefix(u'', classe=u'pC1'), u'الل', Suffix(u'ه', classe=u'sC10')),
                 (Prefix(u'ال',classe= u'pN1'), u'له', Suffix(u'', classe=u'sC1')),
             ])
+
+        word3 = Word(u"لي")
+        self.assertEqual(word3.stems, [(Prefix(u"ل"), u"ي",   Suffix(u""))])
+
+        word4 = Word(u"لكم")
+        self.assertEqual(word4.stems, [(Prefix(u"ل"), u"كم",  Suffix(u""))])
+        word5 = Word(u"لكما")
+        self.assertEqual(word5.stems, [(Prefix(u"ل"), u"كما", Suffix(u""))])
