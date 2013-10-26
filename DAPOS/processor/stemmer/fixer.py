@@ -36,5 +36,5 @@ def fix_stem((prefix, stem, suffix)):
 
 def find_alternate_compination((prefix, stem, suffix)):
     if stem.endswith(u'ت'):
-        stem = stem[:-1] + 'ة'
+        stem = stem[:-1] + u'ة'
         return (prefix, stem, suffix)
