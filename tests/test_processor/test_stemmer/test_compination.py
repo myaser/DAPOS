@@ -1,11 +1,8 @@
 '''segmentation function test'''
 # -*- coding: UTF-8 -*-
 import unittest
-from DAPOS.data.affixes import prefixes, suffixes
 from DAPOS.processor.stemmer import Word
-from DAPOS.processor.stemmer.prefix import extract_prefixes
-from DAPOS.processor.stemmer.suffix import extract_suffixes
-
+from DAPOS.data.variation import Prefix, Suffix
 
 class TestSegmentation(unittest.TestCase):
     def test_segment_words(self):
@@ -18,8 +15,8 @@ class TestSegmentation(unittest.TestCase):
         self.assertEqual(word.stems, [])
 
         word2 = Word(u"الله")
-        self.assertEqual(set([case for case in word2]), set([
-                ((u'', u'pC1'), u'الله', (u'', u'sC1')),
-                ((u'', u'pC1'), u'الل', (u'ه', u'sC10')),
-                ((u'ال', u'pN1'), u'له', (u'', u'sC1')),
-            ]))
+        self.assertEqual([case for case in word2], [
+                (Prefix(u'', classe=u'pC1'), u'الله', Suffix(u'', classe=u'sC1')),
+                (Prefix(u'', classe=u'pC1'), u'الل', Suffix(u'ه', classe=u'sC10')),
+                (Prefix(u'ال',classe= u'pN1'), u'له', Suffix(u'', classe=u'sC1')),
+            ])

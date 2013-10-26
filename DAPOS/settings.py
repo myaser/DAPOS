@@ -162,6 +162,32 @@ EMOTICONS = {
 
 special_tokens = EMOTICONS
 
+from DAPOS.data.variation import Prefix, Suffix
+
+EASY_WORDS = {
+    u"ليا":  [(Prefix(u"ل"), u"يا",  Suffix(u""))],
+    u"لي":   [(Prefix(u"ل"), u"ي",   Suffix(u""))],
+    u"لكم":  [(Prefix(u"ل"), u"كم",  Suffix(u""))],
+    u"لكما": [(Prefix(u"ل"), u"كما", Suffix(u""))],
+    u"له":   [(Prefix(u"ل"), u"ه",   Suffix(u""))],
+    u"لها":  [(Prefix(u"ل"), u"ها",  Suffix(u""))],
+    u"لهم":  [(Prefix(u"ل"), u"هم",  Suffix(u""))],
+    u"لهما": [(Prefix(u"ل"), u"هما", Suffix(u""))],
+    u"لهن":  [(Prefix(u"ل"), u"هم",  Suffix(u""))],
+    u"بيا":  [(Prefix(u"ب"), u"يا",  Suffix(u""))],
+    u"بي":   [(Prefix(u"ب"), u"ي",   Suffix(u""))],
+    u"بك":   [(Prefix(u"ب"), u"ك",   Suffix(u""))],
+    u"بكم":  [(Prefix(u"ب"), u"كم",  Suffix(u""))],
+    u"بكما": [(Prefix(u"ب"), u"كما", Suffix(u""))],
+    u"به":   [(Prefix(u"ب"), u"ه",   Suffix(u""))],
+    u"بها":  [(Prefix(u"ب"), u"ها",  Suffix(u""))],
+    u"بهما": [(Prefix(u"ب"), u"هما", Suffix(u""))],
+    u"بهم":  [(Prefix(u"ب"), u"هم",  Suffix(u""))],
+    u"بهن":  [(Prefix(u"ب"), u"هن",  Suffix(u""))],
+    u"عليا": [(Prefix(u""),  u"على", Suffix(u"يا"))],
+    u"فيا":  [(Prefix(u"ف"), u"يا",  Suffix(u""))],
+}
+
 
 EMOTICONS_TAG = 'EMO'
 PUNCTUATION_TAG = 'PUNC'

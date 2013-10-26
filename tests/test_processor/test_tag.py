@@ -3,6 +3,7 @@
 import unittest
 from DAPOS.processor.tag import tag
 from DAPOS.processor.token import tokenize
+from DAPOS.data.variation import Prefix, Suffix
 
 import os.path
 import csv
@@ -99,24 +100,23 @@ class FunctionTest(unittest.TestCase):
 
 class TestTag(unittest.TestCase):
     def test_tag(self):
-        processed = tag(u'1- بسمك اللهم، :)')
-        self.assertEqual([
-            [u'1', u'CD'],
-            [u'-', u'PUNC'],
-            [
-                ((u'', u'pC1'), u'بسمك', (u'', u'sC1')),
-                ((u'', u'pC1'), u'بسم', (u'ك', u'sC4')),
-                ((u'ب', u'pN25'), u'سمك', (u'', u'sC1')),
-                ((u'ب', u'pN25'), u'سم', (u'ك', u'sC4')),
-             ],
-            [
-                ((u'', u'pC1'), u'اللهم', (u'', u'sC1')),
-                ((u'', u'pC1'), u'الل', (u'هم', u'sC13')),
-                ((u'ال', u'pN1'), u'لهم', (u'', u'sC1')),
-            ],
-            [u'،', u'PUNC'],
-            [u':)', u'EMO'],
-        ], processed)
-
         processed = tag(u'install')
         self.assertEqual([[u'install', u'NN']], processed)
+
+        processed = tag(u'1- بسمك اللهم، :)')
+
+        self.assertEqual(processed[0], [u'1', u'CD'])
+        self.assertEqual(processed[1], [u'-', u'PUNC'])
+        self.assertEqual(processed[2], [
+            (Prefix(u'', classe=u'pC1'), u'بسمك', Suffix(u'', classe=u'sC1')),
+            (Prefix(u'', classe=u'pC1'), u'بسم', Suffix(u'ك',classe=u'sC4', desc="PRP|OBJP")),
+            (Prefix(u'ب',classe=u'pN25', desc="IN"), u'سمك', Suffix(u'', classe=u'sC1')),
+            (Prefix(u'ب',classe=u'pN25', desc="IN"), u'سم', Suffix(u'ك',classe=u'sC4', desc="PRP|OBJP")),
+         ])
+        self.assertEqual(processed[3], [
+            (Prefix(u'', classe=u'pC1', desc=u''), u'اللهم', Suffix(u'', classe=u'sC1', desc=u'')),
+            (Prefix(u'', classe=u'pC1', desc=u''), u'الل', Suffix(u'هم',classe= u'sC13', desc=u"PRP|OBJP")),
+            (Prefix(u'ال', classe=u'pN1', desc=u"DT"), u'لهم', Suffix(u'', classe=u'sC1', desc=u'')),
+        ])
+        self.assertEqual(processed[4], [u'،', u'PUNC'])
+        self.assertEqual(processed[5], [u':)', u'EMO'])

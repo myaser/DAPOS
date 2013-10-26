@@ -2,26 +2,26 @@
 	<suffixes>
 	
 	<suffixe unvoweledform="" 		voweledform="" 		desc="" 			classe="sC1"> </suffixe>
-	<suffixe unvoweledform="ي" 		voweledform="ي" 	desc="PRP$|OBJP" 	classe="sC2"> </suffixe> <!--كتابي | قالي-->
-	<suffixe unvoweledform="نا"		voweledform="نا" 	desc="PRP$|OBJP" 	classe="sC3"> </suffixe>	<!--كتابنا | قالنا-->
+	<suffixe unvoweledform="ي" 		voweledform="ي" 	desc="PRP|OBJP" 	classe="sC2"> </suffixe> <!--كتابي | قالي-->
+	<suffixe unvoweledform="نا"		voweledform="نا" 	desc="PRP|OBJP" 	classe="sC3"> </suffixe>	<!--كتابنا | قالنا-->
 	
-	<suffixe unvoweledform="ك" 		voweledform="كَ" 	desc="PRP$|OBJP" 	classe="sC4"> </suffixe>	<!--كتابك | قالك-->
-	<suffixe unvoweledform="كما"	voweledform="كُمَا" 	desc="PRP$|OBJP" 	classe="sC5"> </suffixe>	<!--كتابكما | قال لكما-->	
-	<suffixe unvoweledform="كم" 	voweledform="كُمْ" 	desc="PRP$|OBJP" 	classe="sC6"> </suffixe>	<!--كتابكم | قالكم-->
-	<suffixe unvoweledform="كو" 	voweledform="كو" 	desc="PRP$|OBJP" 	classe="sC7"> </suffixe>	<!--كتابكو | قالكو--> <!--EA-->			
-	<suffixe unvoweledform="كوا" 	voweledform="كوا" 	desc="PRP$|OBJP" 	classe="sC8"> </suffixe>	<!--كتابكوا | قالكوا--> <!--EA-->
-	<suffixe unvoweledform="كن" 	voweledform="كُنَّ" 	desc="PRP$|OBJP" 	classe="sC9"> </suffixe>	<!--كتابكن | قال لكن-->
+	<suffixe unvoweledform="ك" 		voweledform="كَ" 	desc="PRP|OBJP" 	classe="sC4"> </suffixe>	<!--كتابك | قالك-->
+	<suffixe unvoweledform="كما"	voweledform="كُمَا" 	desc="PRP|OBJP" 	classe="sC5"> </suffixe>	<!--كتابكما | قال لكما-->	
+	<suffixe unvoweledform="كم" 	voweledform="كُمْ" 	desc="PRP|OBJP" 	classe="sC6"> </suffixe>	<!--كتابكم | قالكم-->
+	<suffixe unvoweledform="كو" 	voweledform="كو" 	desc="PRP|OBJP" 	classe="sC7"> </suffixe>	<!--كتابكو | قالكو--> <!--EA-->			
+	<suffixe unvoweledform="كوا" 	voweledform="كوا" 	desc="PRP|OBJP" 	classe="sC8"> </suffixe>	<!--كتابكوا | قالكوا--> <!--EA-->
+	<suffixe unvoweledform="كن" 	voweledform="كُنَّ" 	desc="PRP|OBJP" 	classe="sC9"> </suffixe>	<!--كتابكن | قال لكن-->
 
-	<suffixe unvoweledform="ه" 		voweledform="ه" 	desc="PRP$|OBJP" 	classe="sC10"> </suffixe>	<!--كتابه | قال له-->
-	<suffixe unvoweledform="ها" 	voweledform="هَا" 	desc="PRP$|OBJP" 	classe="sC11"> </suffixe>	<!--كتابها | قاللها-->
-	<suffixe unvoweledform="هما" 	voweledform="همَا"	desc="PRP$|OBJP" 	classe="sC12"> </suffixe>	<!--كتابهما | قال لهما-->
-	<suffixe unvoweledform="هم" 	voweledform="همْ" 	desc="PRP$|OBJP" 	classe="sC13"> </suffixe>	<!--كتابهم | قالهم-->
-	<suffixe unvoweledform="هن" 	voweledform="هنَّ" 	desc="PRP$|OBJP" 	classe="sC14"> </suffixe>	<!--كتابهن | قال لهن-->
+	<suffixe unvoweledform="ه" 		voweledform="ه" 	desc="PRP|OBJP" 	classe="sC10"> </suffixe>	<!--كتابه | قال له-->
+	<suffixe unvoweledform="ها" 	voweledform="هَا" 	desc="PRP|OBJP" 	classe="sC11"> </suffixe>	<!--كتابها | قاللها-->
+	<suffixe unvoweledform="هما" 	voweledform="همَا"	desc="PRP|OBJP" 	classe="sC12"> </suffixe>	<!--كتابهما | قال لهما-->
+	<suffixe unvoweledform="هم" 	voweledform="همْ" 	desc="PRP|OBJP" 	classe="sC13"> </suffixe>	<!--كتابهم | قالهم-->
+	<suffixe unvoweledform="هن" 	voweledform="هنَّ" 	desc="PRP|OBJP" 	classe="sC14"> </suffixe>	<!--كتابهن | قال لهن-->
 	
 	<suffixe unvoweledform="ش"		voweledform="ش" 	desc="NG" 			classe="sV1"> </suffixe> <!--مافيش | ماعنديش | ماقلش-->
 	
 	<suffixe unvoweledform="ني" 	voweledform="نِي" 	desc="OBJP" 		classe="sV2"> </suffixe>	<!--ضربني-->
-	<suffixe unvoweledform="كي" 	voweledform="كي" 	desc="PRP$|OBJP" 	classe="sV3"> </suffixe>	<!--أداكي--> <!--EA-->
+	<suffixe unvoweledform="كي" 	voweledform="كي" 	desc="PRP|OBJP" 	classe="sV3"> </suffixe>	<!--أداكي--> <!--EA-->
 	
 	<suffixe unvoweledform="نيش" 	voweledform="نيش" 	desc="OBJP+NG" 		classe="sV4"> </suffixe>	<!--ماكلمنيش-->
 	<suffixe unvoweledform="ناش" 	voweledform="ناش" 	desc="OBJP+NG" 		classe="sV5"> </suffixe>	<!--ماكلمناش-->
